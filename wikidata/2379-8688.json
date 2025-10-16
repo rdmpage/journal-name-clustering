@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766639",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://digitalcommons.unl.edu/tnas/index.5.html"
+  }, {
+    "@id" : "http://books.google.com/books?id=Rq7aAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=UXAoAAAAMAAJ"
+  }, {
+    "@id" : "http://infotrac.galegroup.com/itw/infomark/1/1/1/purl=rc18%5fEAIM%5F0%5F%5Fjn+%22Transactions+of+the+Nebraska+Academy+of+Sciences%22?sw_aep=stand"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0163-9013"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210198169"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0163-9013"
+  }, {
+    "@value" : "2379-8688"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Nebraska Academy of Sciences and Affiliated Societies"
+  } ]
+} ]

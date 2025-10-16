@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385819",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zoologische Abhandlungen [Staatliches Museum fur Tierkunde Dresden]"
+  }, {
+    "@language" : "en",
+    "@value" : "Zoologische Abhandlungen. Staatliches Museum fur Tierkunde Dresden"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1961"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-5231"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0375-5231"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Zoologische Abhandlungen"
+  }, {
+    "@language" : "mul",
+    "@value" : "Zoologische Abhandlungen"
+  } ]
+} ]

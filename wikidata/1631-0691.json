@@ -1,0 +1,73 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2092827",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "CR Biologies"
+  }, {
+    "@language" : "fr",
+    "@value" : "C. R. Biol."
+  }, {
+    "@language" : "fr",
+    "@value" : "CRAS Biologies"
+  }, {
+    "@language" : "es",
+    "@value" : "CRAS Biologies"
+  }, {
+    "@language" : "en",
+    "@value" : "C. R. Biol."
+  }, {
+    "@language" : "en",
+    "@value" : "CRAS Biologies"
+  }, {
+    "@language" : "fr",
+    "@value" : "CR Biol"
+  }, {
+    "@language" : "es",
+    "@value" : "Comptes Rendus Biologies"
+  }, {
+    "@language" : "es",
+    "@value" : "CR Biol"
+  }, {
+    "@language" : "en",
+    "@value" : "Comptes Rendus Biologies"
+  }, {
+    "@language" : "en",
+    "@value" : "CR Biol"
+  }, {
+    "@language" : "fr",
+    "@value" : "CR Biologies"
+  }, {
+    "@language" : "es",
+    "@value" : "C. R. Biol."
+  }, {
+    "@language" : "es",
+    "@value" : "CR Biologies"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes Rendus Biologies"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2308"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1768-3238"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://comptes-rendus.academie-sciences.fr/biologies"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1631-0691"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "s119003425"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1768-3238"
+  }, {
+    "@value" : "1631-0691"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Comptes rendus. Biologies"
+  } ]
+} ]

@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96698290",
+  "http://example.com/crossref" : [ {
+    "@value" : "198409"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.gsj.jp/publications/bulletin/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1346-4272"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "bullgsj"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210175718"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2186-490X"
+  }, {
+    "@value" : "1346-4272"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Chishitsu chousa kenkyuu houkoku"
+  } ]
+} ]

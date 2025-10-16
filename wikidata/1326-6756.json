@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4034598",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Aust. J. Entomol."
+  }, {
+    "@language" : "ru",
+    "@value" : "Journal of the Australian Entomological Society"
+  }, {
+    "@language" : "ru",
+    "@value" : "Journal of the Entomological Society of Queensland"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3731"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1962"
+  }, {
+    "@value" : "1996"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=1326-6756;screen=info;ECOIP"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%292052-1758"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/issuelist.asp?journal=aen"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=aen"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1326-6756"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S28168869"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2013"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "019655C5-79CA-4B93-84DA-C7B08D750180"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1326-6756"
+  }, {
+    "@value" : "1440-6055"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australian journal of entomology"
+  } ]
+} ]

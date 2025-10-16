@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721247",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Haiyang kexue"
+  }, {
+    "@language" : "en",
+    "@value" : "Haiyang Kexue"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "HYKX"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://qdhys.ijournal.cn/hykx/ch/index.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-3096"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764588294"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-3096"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh-hans",
+    "@value" : "海洋科学"
+  } ]
+} ]

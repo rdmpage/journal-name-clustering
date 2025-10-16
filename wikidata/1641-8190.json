@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q9061461",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Polish Bot. J."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "221286"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "1588"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2084-4352"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.botany.pl/ibwyd/pol-b-j/pol-b-j.htm"
+  }, {
+    "@id" : "https://content.sciendo.com/view/journals/pbj-overview.xml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1641-8190"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2736411279"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2017"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1641-8190"
+  }, {
+    "@value" : "2084-4352"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Polish Botanical Journal"
+  } ]
+} ]

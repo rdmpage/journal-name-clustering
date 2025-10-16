@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5982139",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Anz. Akad. Wiss. Wien. Math.-Nat. Kl."
+  }, {
+    "@language" : "es",
+    "@value" : "Anzeiger der Akademie der Wissenschaften in Wien. Mathematisch-naturwissenschaftliche Klasse"
+  }, {
+    "@language" : "en",
+    "@value" : "Anz. Akad. Wiss. Wien. Math.-Nat. Kl."
+  }, {
+    "@language" : "en",
+    "@value" : "Anzeiger der Akademie der Wissenschaften in Wien. Mathematisch-naturwissenschaftliche Klasse"
+  }, {
+    "@language" : "fr",
+    "@value" : "Anz. Akad. Wiss. Wien. Math.-Nat. Kl."
+  }, {
+    "@language" : "de",
+    "@value" : "Anz. Akad. Wiss. Wien. Math.-Nat. Kl."
+  }, {
+    "@language" : "de",
+    "@value" : "Anzeiger der Akademie der Wissenschaften in Wien, Mathematisch-Naturwissenschaftliche Klasse"
+  }, {
+    "@language" : "pt",
+    "@value" : "Anz. Akad. Wiss. Wien. Math.-Nat. Kl."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1918"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0376-1606"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1946"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0376-1606"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Anzeiger der Akademie der Wissenschaften in Wien, Mathematisch-Naturwissenschaftliche Klasse"
+  }, {
+    "@language" : "de",
+    "@value" : "Anzeiger der Akademie der Wissenschaften in Wien. Mathematisch-naturwissenschaftliche Klasse"
+  } ]
+} ]

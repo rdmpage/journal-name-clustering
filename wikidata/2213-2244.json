@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724611",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "International journal for parasitology. Parasites and wildlife"
+  }, {
+    "@language" : "en",
+    "@value" : "Int J Parasitol Parasites Wildl"
+  }, {
+    "@language" : "en",
+    "@value" : "IJP-PAW"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "193026"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2213-2244"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/22132244"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2213-2244"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764620067"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2213-2244"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International journal for parasitology. Parasites and wildlife"
+  } ]
+} ]

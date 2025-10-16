@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26839866",
+  "http://example.com/crossref" : [ {
+    "@value" : "47958"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.e2med.com/index.cfm?fuseaction=Revue&idxRevue=93"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1156-5233"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S144424300"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1156-5233"
+  }, {
+    "@value" : "1773-0449"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Journal de mycologie médicale"
+  } ]
+} ]

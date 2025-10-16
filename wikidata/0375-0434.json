@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385767",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Proc. R. entom. Soc. London, Ser. B"
+  }, {
+    "@language" : "de",
+    "@value" : "Proc. R. entom. Soc. London, Ser. B"
+  }, {
+    "@language" : "en",
+    "@value" : "Proc. R. entom. Soc. London, Ser. B"
+  }, {
+    "@language" : "pt",
+    "@value" : "Proc. R. entom. Soc. London, Ser. B"
+  }, {
+    "@language" : "es",
+    "@value" : "Proc. R. entom. Soc. London, Ser. B"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0375-0434"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "105786"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1936"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3113/issues"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-0434"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A2343D4F-34E3-493B-96CF-972E32D55EB8"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0375-0434"
+  }, {
+    "@value" : "2056-5291"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Entomological Society of London. Series B, Taxonomy"
+  } ]
+} ]

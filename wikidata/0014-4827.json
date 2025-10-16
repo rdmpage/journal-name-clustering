@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1524289",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Exp. Cell. Res."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Exp Cell Res"
+  }, {
+    "@language" : "en",
+    "@value" : "Exp Cell Res"
+  }, {
+    "@language" : "en",
+    "@value" : "Exp. Cell Res."
+  }, {
+    "@language" : "fr",
+    "@value" : "Exp. Cell Res."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "499"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1950"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0014-4827;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.apnet.com/www/journal/ex.htm"
+  }, {
+    "@id" : "http://www.elsevier.com/wps/find/journaldescription.cws_home/622826/description"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00144827"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0014-4827"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S132505712"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0014-4827"
+  }, {
+    "@value" : "1090-2422"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Experimental Cell Research"
+  } ]
+} ]

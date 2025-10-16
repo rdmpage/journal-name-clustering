@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328613",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://shizuoka.repo.nii.ac.jp/search?search_type=2&q=87"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/shizuoka/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0388-6298"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "shizuoka"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2436-7184"
+  }, {
+    "@value" : "0388-6298"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Shizuoka Daigaku chikyū kagaku kenkyū hōkoku"
+  }, {
+    "@language" : "ja",
+    "@value" : "静岡大学地球科学研究報告"
+  } ]
+} ]

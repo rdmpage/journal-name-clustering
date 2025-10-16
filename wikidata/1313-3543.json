@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751341",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "BJVM"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "285686"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1313-3543"
+  }, {
+    "@value" : "1311-1477"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://tru.uni-sz.bg/bjvm/bjvm.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1313-3543"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764439483"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1311-1477"
+  }, {
+    "@value" : "1313-3543"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulgarian Journal of Veterinary Medicine"
+  } ]
+} ]

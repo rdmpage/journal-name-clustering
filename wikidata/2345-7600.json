@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7759249",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Raffles Bulletin of Zoology"
+  }, {
+    "@language" : "es",
+    "@value" : "Raffles Bulletin of Zoology"
+  }, {
+    "@language" : "de",
+    "@value" : "Raffles Bulletin of Zoology"
+  }, {
+    "@language" : "fr",
+    "@value" : "Raffles Bulletin of Zoology"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1988"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rmbr.nus.edu.sg/rbz/"
+  }, {
+    "@id" : "https://lkcnhm.nus.edu.sg/publications/raffles-bulletin-of-zoology/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0217-2445"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S144728844"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "0089FB37-AA19-41B8-8622-011CCA4EF778"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2345-7600"
+  }, {
+    "@value" : "0217-2445"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Raffles Bulletin of Zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "The Raffles Bulletin of Zoology"
+  } ]
+} ]

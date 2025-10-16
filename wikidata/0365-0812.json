@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13548526",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Annali di Botanica  - Coenology and Plant Ecology: Coenology and Plant Ecology"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "3626"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2239-3129"
+  }, {
+    "@value" : "0365-0812"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1903"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://annalidibotanica.uniroma1.it"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0365-0812"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0365-0812"
+  }, {
+    "@value" : "2239-3129"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Annali di botanica"
+  }, {
+    "@language" : "it",
+    "@value" : "Annali di Botanica"
+  } ]
+} ]

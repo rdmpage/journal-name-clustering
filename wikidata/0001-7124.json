@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21384959",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Acta Univ. Carol., Biol."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1958"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-7124"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "89ABA87F-E48C-4B04-A8C2-D7002738609E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-7124"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Universitatis Carolinae. Biologica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Acta Universitatis Carolinae. Biologica"
+  } ]
+} ]

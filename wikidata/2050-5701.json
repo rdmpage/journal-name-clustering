@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724680",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Microscopy (Oxf)"
+  }, {
+    "@language" : "en",
+    "@value" : "Microscopy (Oxford, England)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "197065"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jmicro.oxfordjournals.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2050-5698"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210174966"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2050-5701"
+  }, {
+    "@value" : "2050-5698"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Microscopy"
+  } ]
+} ]

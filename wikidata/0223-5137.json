@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386031",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0223-5137"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1980"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0223-5137"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0223-5137"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Neuroptera International"
+  } ]
+} ]

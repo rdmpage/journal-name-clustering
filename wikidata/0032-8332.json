@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7243201",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Primates"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "Приматы (журнал)"
+  }, {
+    "@language" : "ru",
+    "@value" : "Primates"
+  }, {
+    "@language" : "zh",
+    "@value" : "靈長動物"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "21798"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1957"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/10329"
+  }, {
+    "@id" : "http://www.springer.com/life+sciences/animal+sciences/journal/10329"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0032-8332"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S91612243"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1610-7365"
+  }, {
+    "@value" : "0032-8332"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Primates"
+  } ]
+} ]

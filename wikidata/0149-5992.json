@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5270111",
+  "http://example.com/crossref" : [ {
+    "@value" : "55155"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/39802"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/39803"
+  }, {
+    "@id" : "http://care.diabetesjournals.org/"
+  }, {
+    "@id" : "http://www.ncbi.nlm.nih.gov/pmc/journals/583/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0149-5992"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S49878492"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0149-5992"
+  }, {
+    "@value" : "1935-5548"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Diabetes Care"
+  } ]
+} ]

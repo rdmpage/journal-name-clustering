@@ -1,0 +1,132 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1709835",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Comp. Physiol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Journal of comparative physiology"
+  }, {
+    "@language" : "de",
+    "@value" : "Zeitschrift für Vergleichende Physiologie"
+  }, {
+    "@language" : "en",
+    "@value" : "J Comp Physiol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "729"
+  }, {
+    "@value" : "34778"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springer.com/life+sciences/animal+sciences/journal/359?detailspage=editorialboard"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0302-9824"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210204444"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0340-7594"
+  }, {
+    "@value" : "0174-1578"
+  }, {
+    "@value" : "0302-9824"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of comparative physiology"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q27711727",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Comp. Physiol., A Sens. Neural Behav. Physiol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Comp Physiol A"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Comp. Physiol. A"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of comparative physiology. A, Sensory, neural, and behavioral physiology"
+  }, {
+    "@language" : "en",
+    "@value" : "Sensory, neural, and behavioral physiology"
+  }, {
+    "@language" : "es",
+    "@value" : "Journal of comparative physiology. A, Sensory, neural, and behavioral physiology"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1984"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0340-7594"
+  }, {
+    "@value" : "0174-1578"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of comparative physiology. A"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q48800923",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Comp. Physiol., A Neuroethol. Sens. Neural Behav. Physiol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Comparative Physiology A-Neuroethology Sensory Neural and Behavioral Physiology"
+  }, {
+    "@language" : "es",
+    "@value" : "Journal of Comparative Physiology A"
+  }, {
+    "@language" : "fr",
+    "@value" : "Journal of Comparative Physiology A"
+  }, {
+    "@language" : "en",
+    "@value" : "J Comp Physiol A"
+  }, {
+    "@language" : "de",
+    "@value" : "Journal of Comparative Physiology A"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Comp. Physiol. A"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Comparative Physiology A"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1924"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springerlink.com/content/100424"
+  }, {
+    "@id" : "https://www.springer.com/journal/359"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0340-7594"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S69822372"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1432-1351"
+  }, {
+    "@value" : "0174-1578"
+  }, {
+    "@value" : "0340-7594"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of comparative physiology. A"
+  }, {
+    "@language" : "mul",
+    "@value" : "Journal of comparative physiology. A, Sensory, neural, and behavioral physiology"
+  } ]
+} ]

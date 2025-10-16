@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386207",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0555-7631"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0555-7631"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Research Bulletin of the Panjab University. Science"
+  } ]
+} ]

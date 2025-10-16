@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760920",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Parasitology:  Parazitologiya"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0031-1847"
+  }, {
+    "@language" : "en",
+    "@value" : "Parazitologiia"
+  }, {
+    "@language" : "en",
+    "@value" : "Parazitologiâ"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "326748"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://parasitologyras.ru/"
+  }, {
+    "@id" : "https://www.zin.ru/journals/parazitologiya/"
+  }, {
+    "@id" : "https://www.zin.ru/journals/parazitologiya/default_eng.asp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0031-1847"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2754970013"
+  }, {
+    "@value" : "S4306522047"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0031-1847"
+  }, {
+    "@value" : "3034-5863"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Parasitology:  Parazitologiya"
+  }, {
+    "@language" : "ru",
+    "@value" : "Паразитология"
+  } ]
+} ]

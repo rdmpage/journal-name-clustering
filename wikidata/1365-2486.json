@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1531580",
+  "http://example.com/crossref" : [ {
+    "@value" : "3676"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1995"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2486"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=gcb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1354-1013"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S74970393"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1365-2486"
+  }, {
+    "@value" : "1354-1013"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Global Change Biology"
+  }, {
+    "@language" : "en",
+    "@value" : "Global change biology"
+  } ]
+} ]

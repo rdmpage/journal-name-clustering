@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385684",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Not. entomol."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "146208"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1921"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://helda.helsinki.fi/"
+  }, {
+    "@id" : "https://digi.kansalliskirjasto.fi/aikakausi/titles/0029-4594"
+  }, {
+    "@id" : "https://helda.helsinki.fi/search?rpp=20&sort_by=0&order=DESC&query=notulae+entomologicae&scope="
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0029-4594"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764774915"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1989"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "50EC6E6D-0A94-4065-A0A8-56B5AEC198E6"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2814-905X"
+  }, {
+    "@value" : "0029-4594"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Notulae entomologicae"
+  }, {
+    "@language" : "sv",
+    "@value" : "Notulae entomologicae"
+  } ]
+} ]

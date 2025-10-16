@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27708974",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "An Inst Hig Med Trop (Lisb)"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://anaisihmt.com/"
+  }, {
+    "@id" : "http://rnod.bn.pt/ImagesBN/winlibimg.aspx?skey=&doc=207633&img=66950&save=true"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0303-7762"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306501785"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0303-7762"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Anais do Instituto de Higiene e Medicina Tropical"
+  }, {
+    "@language" : "pt",
+    "@value" : "Anais do Instituto de Higiene e Medicina Tropical"
+  } ]
+} ]

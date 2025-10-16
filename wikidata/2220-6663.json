@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725402",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Biodivers Environ Sci"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.innspub.net/Journal-of-Biodiversity-and-Environmental-Sciences-%28JBES%29.php"
+  }, {
+    "@id" : "https://innspub.net/journal-of-biodiversity-and-environmental-sciences-jbes/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2220-6663"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2220-6663"
+  }, {
+    "@value" : "2222-3045"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of biodiversity and environmental sciences"
+  } ]
+} ]

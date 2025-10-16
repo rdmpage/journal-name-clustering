@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750085",
+  "http://example.com/crossref" : [ {
+    "@value" : "2064"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/02784343/"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/continental-shelf-research"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0278-4343"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S181119423"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0278-4343"
+  }, {
+    "@value" : "1873-6955"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Continental Shelf Research"
+  } ]
+} ]

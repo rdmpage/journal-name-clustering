@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385227",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin - Texas Memorial Museum"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0082-3074"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0082-3074"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin - Texas Memorial Museum"
+  } ]
+} ]

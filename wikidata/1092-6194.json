@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765163",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1092-6194"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57541"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=1092-6194"
+  }, {
+    "@id" : "http://www.eaglehill.us/jntbcont.html"
+  }, {
+    "@id" : "http://www.jstor.org/journals/10926194.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1092-6194"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "nortnatu2"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S144804090"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1938-5307"
+  }, {
+    "@value" : "1092-6194"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Northeastern Naturalist"
+  } ]
+} ]

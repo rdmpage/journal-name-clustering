@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714162",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Crystallogr B"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5232"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.munksgaard.dk"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0567-7408"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1600-8650"
+  }, {
+    "@value" : "0567-7408"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta crystallographica. Section B, Structural crystallography and crystal chemistry"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta crystallographica. Section B"
+  } ]
+} ]

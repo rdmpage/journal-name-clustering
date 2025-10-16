@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755603",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0391-9749"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306520717"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0391-9749"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Nematologia mediterranea"
+  }, {
+    "@language" : "und",
+    "@value" : "Nematologia Mediterranea"
+  } ]
+} ]

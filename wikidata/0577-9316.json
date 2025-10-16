@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q133871130",
+  "http://example.com/from_year" : [ {
+    "@value" : "1960"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0577-9316"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Chiribotan. Newsletter of the Malacological Society of Japan"
+  }, {
+    "@language" : "ja-hira",
+    "@value" : "ちりぼたん"
+  } ]
+} ]

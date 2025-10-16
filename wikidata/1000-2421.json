@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719493",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Hua Zhong Nong Ye Da Xue Xue Bao"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal Huazhong (Central China) Agricultural University"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://hnxbl.cnjournals.net/hznydxzren/home"
+  }, {
+    "@id" : "http://hnxbl.cnjournals.net/hznydxzr/home"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-2421"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764451886"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-2421"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Huazhong Agricultural University"
+  }, {
+    "@language" : "zh",
+    "@value" : "华中农业大学学报"
+  } ]
+} ]

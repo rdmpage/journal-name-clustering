@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15745361",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "北京大学学报(自然科学版)"
+  }, {
+    "@language" : "zh",
+    "@value" : "Beijing Daxue xuebao. Ziran kexue ban"
+  }, {
+    "@language" : "en",
+    "@value" : "Beijing Daxue Xuebao Ziran Kexue Ban"
+  }, {
+    "@language" : "zh",
+    "@value" : "北京大学学报自然科学版"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "BJDZ"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1955"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://xbna.pku.edu.cn/CN/0479-8023/home.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0479-8023"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500506"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0479-8023"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Scientiarum Naturalium Universitatis Pekinensis"
+  }, {
+    "@language" : "zh-hans",
+    "@value" : "北京大学学报（自然科学版）"
+  }, {
+    "@language" : "zh",
+    "@value" : "Beijing Daxue xuebao. Ziran kexue ban"
+  } ]
+} ]

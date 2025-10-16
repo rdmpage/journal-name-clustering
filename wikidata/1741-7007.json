@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2545642",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "BMC Biol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "БМС Биолоджи"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "21656"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1741-7007"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2003"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=215"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1741-7007"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S25903957"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1741-7007"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "BMC Biology"
+  } ]
+} ]

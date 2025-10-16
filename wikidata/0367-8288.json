@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385219",
+  "http://example.com/crossref" : [ {
+    "@value" : "283919"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1939"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.indianentomology.org/index.php/ije"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0367-8288"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764438082"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "EF7A4939-EAAB-422D-9722-12F343AB6768"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0367-8288"
+  }, {
+    "@value" : "0974-8172"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Indian Journal of Entomology"
+  } ]
+} ]

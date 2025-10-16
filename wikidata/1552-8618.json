@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3726418",
+  "http://example.com/crossref" : [ {
+    "@value" : "33899"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-8618"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291552-8618"
+  }, {
+    "@id" : "http://setac.allenpress.com"
+  }, {
+    "@id" : "http://www.setacjournals.org/perlserv/?request=get-archive&issn=1552-8618"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0730-7268"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S136710263"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0730-7268"
+  }, {
+    "@value" : "1552-8618"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environmental Toxicology and Chemistry"
+  } ]
+} ]

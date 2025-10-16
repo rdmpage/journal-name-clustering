@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15746380",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "American Veterinary Medical Association. Journal"
+  }, {
+    "@language" : "en",
+    "@value" : "American Veterinary Medical Association. Journal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "52660"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://avmajournals.avma.org/loi/javma"
+  }, {
+    "@id" : "http://www.avma.org/publications/default.asp"
+  }, {
+    "@id" : "https://avmajournals.avma.org/view/journals/javma/javma-overview.xml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-1488"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S161638509"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1943-569X"
+  }, {
+    "@value" : "0003-1488"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the American Veterinary Medical Association"
+  } ]
+} ]

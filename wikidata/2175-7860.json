@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6110884",
+  "http://example.com/bhl" : [ {
+    "@value" : "117069"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "201365"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2175-7860"
+  }, {
+    "@value" : "0370-6583"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1935"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rodriguesia.jbrj.gov.br/"
+  }, {
+    "@id" : "https://www.scielo.br/j/rod/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-6583"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "rodriguesia"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210200010"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2175-7860"
+  }, {
+    "@value" : "0370-6583"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Rodriguésia"
+  }, {
+    "@language" : "pt",
+    "@value" : "Rodriguésia"
+  } ]
+} ]

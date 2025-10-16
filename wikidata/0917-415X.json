@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22110427",
+  "http://example.com/crossref" : [ {
+    "@value" : "76742"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1991"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/tropics/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0917-415X"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "tropics"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S54616614"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1882-5729"
+  }, {
+    "@value" : "0917-415X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Tropics"
+  }, {
+    "@language" : "en",
+    "@value" : "Tropics"
+  } ]
+} ]

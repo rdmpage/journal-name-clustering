@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q126172445",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Zool. Soc. India"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0049-8769"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0049-8769"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Zoological Society of India"
+  } ]
+} ]

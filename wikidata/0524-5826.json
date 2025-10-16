@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51450331",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The British fern gazette"
+  }, {
+    "@language" : "en",
+    "@value" : "British fern gazette"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "5824"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1909"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0524-5826"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1973"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0524-5826"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "British fern gazette"
+  }, {
+    "@language" : "en",
+    "@value" : "The British fern gazette"
+  } ]
+} ]

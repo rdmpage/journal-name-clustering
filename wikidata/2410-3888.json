@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50817455",
+  "http://example.com/crossref" : [ {
+    "@value" : "295639"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2410-3888"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:ch:bel-988781"
+  }, {
+    "@id" : "http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-988781"
+  }, {
+    "@id" : "http://www.mdpi.com/journal/fishes"
+  }, {
+    "@id" : "https://www.mdpi.com/journal/fishes"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2410-3888"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210229736"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2410-3888"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fishes"
+  } ]
+} ]

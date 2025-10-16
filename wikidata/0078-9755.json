@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6035806",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Mémoires du Museum national d'histoire naturelle. Série B, Botanique"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-9755"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0078-9755"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Mémoires du Muséum National d'Histoire Naturelle. Nouvelle Série. Série B, Botanique"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mémoires du Museum national d'histoire naturelle. Série B, Botanique"
+  } ]
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385776",
+  "http://example.com/from_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0035-1822"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306528153"
+  }, {
+    "@value" : "S4306528154"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1991"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "02FC7DC0-2328-4A43-924B-9CF2EFF7E16C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0035-1822"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revue d'écologie et de biologie du sol"
+  }, {
+    "@language" : "fr",
+    "@value" : "Revue d'écologie et de biologie du sol"
+  } ]
+} ]

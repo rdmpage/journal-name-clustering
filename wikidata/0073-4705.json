@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759406",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Iheringia Série Botânica"
+  }, {
+    "@language" : "en",
+    "@value" : "Iheringia, Série Botânica"
+  }, {
+    "@language" : "en",
+    "@value" : "Iheringia: Série Botânica"
+  }, {
+    "@language" : "en",
+    "@value" : "Iheringia. Serie Botanica"
+  }, {
+    "@language" : "en",
+    "@value" : "Iheringia. Série Botânica"
+  }, {
+    "@language" : "fr",
+    "@value" : "Iheringia. Série Botânica"
+  }, {
+    "@language" : "es",
+    "@value" : "Iheringia. Série Botânica"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0073-4705"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://isb.emnuvens.com.br/iheringia/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0073-4705"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S970765318"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0073-4705"
+  }, {
+    "@value" : "2446-8231"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Iheringia. Serie Botanica"
+  }, {
+    "@language" : "pt",
+    "@value" : "Iheringia. Série Botânica"
+  } ]
+} ]

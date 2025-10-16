@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50810651",
+  "http://example.com/crossref" : [ {
+    "@value" : "239291"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2095-6355"
+  }, {
+    "@value" : "2197-5620"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.forestecosyst.com/"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/forest-ecosystems"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2197-5620"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2736342340"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2095-6355"
+  }, {
+    "@value" : "2197-5620"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Forest ecosystems"
+  } ]
+} ]

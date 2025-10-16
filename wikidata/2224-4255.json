@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50816277",
+  "http://example.com/doaj" : [ {
+    "@value" : "2224-4255"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.iaees.org/publications/journals/arthropods/online-version.asp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2224-4255"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2224-4255"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Arthropods"
+  } ]
+} ]

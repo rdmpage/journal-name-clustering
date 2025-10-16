@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50515489",
+  "http://example.com/crossref" : [ {
+    "@value" : "265301"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "27169"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2395-8723"
+  }, {
+    "@value" : "1405-888X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1998"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://tip.zaragoza.unam.mx/index.php/tip"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1405-888X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210213619"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1405-888X"
+  }, {
+    "@value" : "2395-8723"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "TIP"
+  }, {
+    "@language" : "es",
+    "@value" : "TIP Revista Especializada en Ciencias Químico-Biológicas"
+  } ]
+} ]

@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5946667",
+  "http://example.com/from_year" : [ {
+    "@value" : "1916"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scimagojr.com/journalsearch.php?q=23516&tip=sid"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0368-3907"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1924"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0368-3907"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal and Proceedings of the Royal Society of Western Australia"
+  } ]
+} ]

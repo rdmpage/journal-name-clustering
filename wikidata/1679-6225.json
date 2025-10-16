@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6994261",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Neotrop. Ichthyol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "68942"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1982-0224"
+  }, {
+    "@value" : "1679-6225"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2003"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.br/ni"
+  }, {
+    "@id" : "http://www.scielo.br/scielo.php?pid=1679-6225&script=sci_serial"
+  }, {
+    "@id" : "https://www.ni.bio.br/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1679-6225"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S101991353"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1679-6225"
+  }, {
+    "@value" : "1982-0224"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Neotropical Ichthyology"
+  } ]
+} ]

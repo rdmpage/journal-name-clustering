@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755597",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Nematol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "308791"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2640-396X"
+  }, {
+    "@value" : "0022-300X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.fcla.edu/jon"
+  }, {
+    "@id" : "http://www.ncbi.nlm.nih.gov/pmc/journals/506/"
+  }, {
+    "@id" : "https://sciendo.com/journal/JOFNEM"
+  }, {
+    "@id" : "https://sciendo.com/pl/journal/JOFNEM"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-300X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S148806700"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2640-396X"
+  }, {
+    "@value" : "0022-300X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Nematology"
+  } ]
+} ]

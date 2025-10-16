@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50810697",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "LimnoFish: Journal of Limnology and Freshwater Fisheries Research"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "279886"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2149-4428"
+  }, {
+    "@value" : "2148-9300"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.limnofish.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2148-9300"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210210089"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2148-9300"
+  }, {
+    "@value" : "2149-4428"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Journal of limnology and freshwater fisheries research"
+  } ]
+} ]

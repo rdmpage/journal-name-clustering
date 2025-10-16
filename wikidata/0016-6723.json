@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758859",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Genet Res"
+  }, {
+    "@language" : "en",
+    "@value" : "Genetical research"
+  }, {
+    "@language" : "en",
+    "@value" : "Genet. Res."
+  }, {
+    "@language" : "es",
+    "@value" : "Genetical research"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "6093"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1469-5073"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayBackIssues?jid=GRH"
+  }, {
+    "@id" : "http://journals.cambridge.org/GRH"
+  }, {
+    "@id" : "https://www.hindawi.com/journals/gr/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0016-6723"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S31188771"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1469-5073"
+  }, {
+    "@value" : "0016-6723"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Genetical research"
+  }, {
+    "@language" : "und",
+    "@value" : "Genetical Research"
+  } ]
+} ]

@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q47059445",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of the Museum of Comparative Zool̈ogy at Harvard College"
+  }, {
+    "@language" : "en",
+    "@value" : "Memoirs of the Museum of Comparative Zoology at Harvard College"
+  }, {
+    "@language" : "en",
+    "@value" : "Memoirs of the Museum of Comparative  Zoölogy at Harvard College"
+  }, {
+    "@language" : "en",
+    "@value" : "Mem. Mus. Comp. Zool̈ogy Harv. Coll."
+  }, {
+    "@language" : "en",
+    "@value" : "Memoirs of the Museum of Comparative Zoölogy, at Harvard College, Cambridge, Mass."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "98244"
+  }, {
+    "@value" : "7537"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297415"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1864"
+  }, {
+    "@value" : "1876"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1067-8611"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210175033"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1938"
+  }, {
+    "@value" : "1940"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1067-8611"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of the Museum of Comparative Zoölogy, at Harvard College, Cambridge, Mass."
+  }, {
+    "@language" : "en",
+    "@value" : "Memoirs of the Museum of Comparative Zool̈ogy at Harvard College"
+  } ]
+} ]

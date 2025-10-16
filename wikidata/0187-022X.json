@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q54365968",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0187-022X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0187-022X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista de la Sociedad Mexicana de Lepidopterología"
+  } ]
+} ]

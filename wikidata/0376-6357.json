@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753364",
+  "http://example.com/crossref" : [ {
+    "@value" : "1206"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.journals.elsevier.com/behavioural-processes"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/behavioural-processes"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0376-6357"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S128158437"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1872-8308"
+  }, {
+    "@value" : "0376-6357"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Behavioural Processes"
+  } ]
+} ]

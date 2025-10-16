@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5186671",
+  "http://example.com/crossref" : [ {
+    "@value" : "30397"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://informahealthcare.com/loi/mby"
+  }, {
+    "@id" : "http://www.informaworld.com/openurl?genre=journal&issn=1549-7828"
+  }, {
+    "@id" : "http://www.metapress.com/openurl.asp?genre=journal&issn=1040-841X"
+  }, {
+    "@id" : "http://www.tandfonline.com/imby"
+  }, {
+    "@id" : "https://www.tandfonline.com/toc/imby20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1040-841X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S6081579"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1040-841X"
+  }, {
+    "@value" : "1549-7828"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Critical Reviews in Microbiology"
+  } ]
+} ]

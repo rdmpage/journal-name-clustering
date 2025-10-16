@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q32246",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Archaeol. Sci."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "ジャーナル・オヴ・アーキオロジカル・サイエンス"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "588"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://www.idealibrary.com"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0305-4403"
+  }, {
+    "@id" : "http://www.journals.elsevier.com/journal-of-archaeological-science/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/03054403/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0305-4403"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S190270160"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1095-9238"
+  }, {
+    "@value" : "0305-4403"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Archaeological Science"
+  } ]
+} ]

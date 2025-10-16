@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50668260",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "SaBios : Revista de Saúde e Biologia"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1980-0002"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://revista2.grupointegrado.br/revista/index.php/sabios"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1980-0002"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2739438287"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1980-0002"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "SaBios"
+  } ]
+} ]

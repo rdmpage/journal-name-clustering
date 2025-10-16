@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5535018",
+  "http://example.com/crossref" : [ {
+    "@value" : "1729"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.elsevier.com/wps/find/journaldescription.cws_home/344/description#description"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/geoforum/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0016-7185"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S169586356"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0016-7185"
+  }, {
+    "@value" : "1872-9398"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Geoforum"
+  }, {
+    "@language" : "mul",
+    "@value" : "Geoforum"
+  } ]
+} ]

@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386035",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0428-0709"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "6ABBEE3D-D759-4DE3-9091-C98228C8E65F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0428-0709"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Faune de Madagascar"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722849",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Negat Results"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of negative results - ecology & evolutionary biology"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jnr-eeb.org/index.php/jnr"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1459-4625"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1459-4625"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of negative results - ecology & evolutionary biology"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of negative results : ecology & evolutionary biology"
+  } ]
+} ]

@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q12650195",
+  "http://example.com/crossref" : [ {
+    "@value" : "391428"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://balticforestry.lammc.lt/bf/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1392-1355"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S5495450"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2029-9230"
+  }, {
+    "@value" : "1392-1355"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Baltic Forestry"
+  }, {
+    "@language" : "mul",
+    "@value" : "Baltic forestry"
+  } ]
+} ]

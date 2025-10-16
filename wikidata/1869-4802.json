@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385862",
+  "http://example.com/crossref" : [ {
+    "@value" : "300220"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1867-6294"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210187247"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1869-4802"
+  }, {
+    "@value" : "1867-6294"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Palaeodiversity"
+  }, {
+    "@language" : "mul",
+    "@value" : "Palaeodiversity"
+  } ]
+} ]

@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726871",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Interdiscip Inf Sci"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "79099"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/iis/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1340-9050"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "iis"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S85999832"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1340-9050"
+  }, {
+    "@value" : "1347-6157"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Interdisciplinary information sciences"
+  } ]
+} ]

@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5799467",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0011-6793"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "236950"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1850-1702"
+  }, {
+    "@value" : "0011-6793"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1922"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ojs.darwin.edu.ar/index.php/darwiniana"
+  }, {
+    "@id" : "http://www.redalyc.org/revista.oa?id=669"
+  }, {
+    "@id" : "http://www.scielo.org.ar/scielo.php?script=sci_serial&pid=0011-6793&lng=es&nrm=iso"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0011-6793"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "darwiniana"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737984046"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0011-6793"
+  }, {
+    "@value" : "1850-1699"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Darwiniana"
+  }, {
+    "@language" : "mul",
+    "@value" : "Darwiniana"
+  } ]
+} ]

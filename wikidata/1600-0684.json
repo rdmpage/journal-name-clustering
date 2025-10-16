@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755599",
+  "http://example.com/crossref" : [ {
+    "@value" : "3388"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0047-2565;screen=info;ECOIP"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0684"
+  }, {
+    "@id" : "https://www.karger.com/Journal/Home/223869"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0047-2565"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S39848674"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1600-0684"
+  }, {
+    "@value" : "0047-2565"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Medical Primatology"
+  } ]
+} ]

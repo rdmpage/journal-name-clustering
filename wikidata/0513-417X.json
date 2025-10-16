@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q73542270",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "Yadoriga"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/yadoriga/list/-char/ja"
+  }, {
+    "@id" : "http://lepi-jp.org/lsj-published/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0513-417X"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "yadoriga"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306493869"
+  }, {
+    "@value" : "S4306535345"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0513-417X"
+  }, {
+    "@value" : "2189-9061"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "やどりが"
+  } ]
+} ]

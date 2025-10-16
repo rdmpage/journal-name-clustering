@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q9189414",
+  "http://example.com/crossref" : [ {
+    "@value" : "5059"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://chemse.oupjournals.org"
+  }, {
+    "@id" : "http://chemse.oxfordjournals.org"
+  }, {
+    "@id" : "http://www.oxfordjournals.org/our_journals/chemse/about.html"
+  }, {
+    "@id" : "https://academic.oup.com/chemse/pages/About"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0379-864X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S8722945"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0379-864X"
+  }, {
+    "@value" : "1464-3553"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Chemical Senses"
+  } ]
+} ]

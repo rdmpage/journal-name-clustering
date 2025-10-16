@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760840",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Mitt. zool. Mus. Hamburg"
+  }, {
+    "@language" : "en",
+    "@value" : "Hamburgisches Zoologisches Museum und Institut. Mitteilungen"
+  }, {
+    "@language" : "en",
+    "@value" : "Mitt. hamb. zool. Mus. Inst."
+  }, {
+    "@language" : "en",
+    "@value" : "Mitt. zool. Mus. Hamburg"
+  }, {
+    "@language" : "en",
+    "@value" : "Mitteilungen aus dem Hamburgischen Zool. Museum und Institut"
+  }, {
+    "@language" : "en",
+    "@value" : "Mitteilungen aus dem Hamburgischen Zoologischen Museum und Institut"
+  }, {
+    "@language" : "es",
+    "@value" : "Hamburgisches Zoologisches Museum und Institut. Mitteilungen"
+  }, {
+    "@language" : "es",
+    "@value" : "Mitt. zool. Mus. Hamburg"
+  }, {
+    "@language" : "fr",
+    "@value" : "Hamburgisches Zoologisches Museum und Institut. Mitteilungen"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mitt. zool. Mus. Hamburg"
+  }, {
+    "@language" : "pt",
+    "@value" : "Mitt. zool. Mus. Hamburg"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0072-9612"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0072-9612"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Mitteilungen aus dem Hamburgischen Zoologischen Museum und Institut"
+  } ]
+} ]

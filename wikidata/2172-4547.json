@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27720972",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Munibe"
+  }, {
+    "@language" : "en",
+    "@value" : "Munibe Ciencias Naturales"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "300370"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2172-4547"
+  }, {
+    "@value" : "0214-7688"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.aranzadi-zientziak.org/fileadmin/webs/Munibe/Html/MunibeCN/volumen361984-esp.html"
+  }, {
+    "@id" : "http://www.aranzadi.eus/munibe-natur-zientziak"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0214-7688"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737136005"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0214-7688"
+  }, {
+    "@value" : "2172-4547"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Munibe. Ciencias naturales"
+  }, {
+    "@language" : "mul",
+    "@value" : "Munibe. Ciencias naturales"
+  } ]
+} ]

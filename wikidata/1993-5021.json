@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q45114141",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Ocean University of China"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://springerlink.com/content/120479/?p=82776a2ca3494c1dac1d62d75bd300b9&pi=0"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1672-5182"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S102063886"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1672-5182"
+  }, {
+    "@value" : "1993-5021"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Ocean University of China"
+  } ]
+} ]

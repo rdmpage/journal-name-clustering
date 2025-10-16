@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385142",
+  "http://example.com/crossref" : [ {
+    "@value" : "134485"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/sosj/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1342-4181"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "sosj"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765067646"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1342-4181"
+  }, {
+    "@value" : "1883-4701"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Sessile organisms"
+  } ]
+} ]

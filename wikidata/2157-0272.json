@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766383",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Invertebrate reproduction & development"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "122248"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=cjY-AQAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=ijU-AQAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=PfMgAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=vDU-AQAAIAAJ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0792-4259"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S27192023"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0792-4259"
+  }, {
+    "@value" : "2157-0272"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Invertebrate reproduction & development"
+  }, {
+    "@language" : "en",
+    "@value" : "Invertebrate Reproduction and Development"
+  } ]
+} ]

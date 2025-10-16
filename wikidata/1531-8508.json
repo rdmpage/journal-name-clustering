@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756652",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Rossiiskaya Akademiya Nauk. Okeanologiya"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "54728"
+  }, {
+    "@value" : "205813"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S51671208"
+  }, {
+    "@value" : "S59498126"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-4370"
+  }, {
+    "@value" : "0030-1574"
+  }, {
+    "@value" : "0584-5556"
+  }, {
+    "@value" : "1531-8508"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Russian Academy of Sciences. Oceanology"
+  } ]
+} ]

@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2500948",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Biological reviews of the Cambridge Philosophical Society"
+  }, {
+    "@language" : "fr",
+    "@value" : "Biological reviews of the Cambridge Philosophical Society"
+  }, {
+    "@language" : "es",
+    "@value" : "Biological reviews of the Cambridge Philosophical Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Biological reviews of the Cambridge Philosophical Society"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "16896"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1935"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/%28issn%291469-185x/issues"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1469-185X"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-3231"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S18924767"
+  }, {
+    "@value" : "S86137544"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1464-7931"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biological Reviews"
+  }, {
+    "@language" : "en",
+    "@value" : "Biological reviews of the Cambridge Philosophical Society"
+  } ]
+} ]

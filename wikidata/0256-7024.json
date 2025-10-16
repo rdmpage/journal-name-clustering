@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28146575",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "RGAC"
+  }, {
+    "@language" : "en",
+    "@value" : "RGAC"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista Geologica de America Central"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "259406"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "19921"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2215-261X"
+  }, {
+    "@value" : "0256-7024"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://revistas.ucr.ac.cr/index.php/geologica"
+  }, {
+    "@id" : "https://revistas.ucr.ac.cr/index.php/geologica/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0256-7024"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210175528"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2215-261X"
+  }, {
+    "@value" : "0256-7024"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista Geológica de América Central"
+  } ]
+} ]

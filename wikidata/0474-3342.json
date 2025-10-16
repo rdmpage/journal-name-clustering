@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6051987",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0474-3342"
+  }, {
+    "@language" : "es",
+    "@value" : "Orchadian"
+  }, {
+    "@language" : "en",
+    "@value" : "Orchadian"
+  }, {
+    "@language" : "de",
+    "@value" : "Orchadian"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "176215"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://anos.org.au/journal/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0474-3342"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0474-3342"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Orchadian"
+  } ]
+} ]

@@ -1,0 +1,54 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q55758940",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of Botanical Research, Harbin"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhi wu yan jiu"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhiwu yanjiu"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhi wu yan jiu (2001)"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhiwu yanjiu (2001)"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Bot. Res., Harbin"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "MBZW"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://bbr.nefu.edu.cn/CN/1673-5102/home.shtml"
+  }, {
+    "@id" : "https://bbr.nefu.edu.cn/EN/1673-5102/home.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1673-5102"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764456436"
+  }, {
+    "@value" : "S4306535908"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1673-5102"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of botanical research"
+  }, {
+    "@language" : "zh-cn",
+    "@value" : "植物研究"
+  }, {
+    "@language" : "mul",
+    "@value" : "Zhiwu yanjiu"
+  } ]
+} ]

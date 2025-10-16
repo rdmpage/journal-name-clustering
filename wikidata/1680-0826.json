@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719431",
+  "http://example.com/crossref" : [ {
+    "@value" : "303822"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1680-0826"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210172149"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1680-0826"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Protistology"
+  } ]
+} ]

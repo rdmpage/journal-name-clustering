@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96331190",
+  "http://example.com/crossref" : [ {
+    "@value" : "266312"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ijst.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0974-5645"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764746358"
+  }, {
+    "@value" : "S2764927774"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0974-6846"
+  }, {
+    "@value" : "0974-5645"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Indian journal of science and technology"
+  } ]
+} ]

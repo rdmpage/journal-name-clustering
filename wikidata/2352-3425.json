@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724427",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "JIA"
+  }, {
+    "@language" : "zh",
+    "@value" : "中国农业科学（英文版）"
+  }, {
+    "@language" : "en",
+    "@value" : "J Integr Agric"
+  }, {
+    "@language" : "en",
+    "@value" : "Agricultural Sciences in China"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "169405"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2352-3425"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/20953119"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/journal-of-integrative-agriculture"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2095-3119"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2491286908"
+  }, {
+    "@value" : "S4306541472"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2095-3119"
+  }, {
+    "@value" : "2352-3425"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "农业科学学报（英文版）"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Integrative Agriculture"
+  } ]
+} ]

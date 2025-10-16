@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385469",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Huadong kunchong xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "Huadong kunchong xuebao"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1005-1694"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764548261"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2010"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1005-1694"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Huadong kunchong xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "华东昆虫学报"
+  }, {
+    "@language" : "en",
+    "@value" : "Entomological Journal of East China"
+  } ]
+} ]

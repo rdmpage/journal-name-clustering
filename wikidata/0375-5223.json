@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385810",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-5223"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A344D045-185D-4EC4-A145-607147DD3887"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0375-5223"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Zeitschrift der Arbeitsgemeinschaft Österreichischer Entomologen"
+  } ]
+} ]

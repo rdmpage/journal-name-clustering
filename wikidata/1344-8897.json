@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113475686",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://hirosaki.repo.nii.ac.jp/search?search_type=2&q=928"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1344-8897"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1344-8897"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Hirosaki Daigaku Nōgaku Seimei Kagakubu gakujutsu hōkoku"
+  } ]
+} ]

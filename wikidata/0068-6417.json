@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386267",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0068-6417"
+  }, {
+    "@language" : "en",
+    "@value" : "Univ. Calif. publ. entomol."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "10104"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297416"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1906"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://repositories.cdlib.org/ucpress/ucpe/"
+  }, {
+    "@id" : "http://rzblx1.uni-regensburg.de/ezeit/warpto.phtml?colors=7&jour_id=114953"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0068-6417"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210168308"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1559-324X"
+  }, {
+    "@value" : "0068-6417"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "University of California publications in entomology"
+  } ]
+} ]

@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27709868",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. biol. Fr. Bel."
+  }, {
+    "@language" : "en",
+    "@value" : "Bull Biol Fr Belg"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin biologique... de la France et de la Belgique"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "10057"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297334"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1869"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.biodiversitylibrary.org/bibliography/169524#/summary"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0007-4187"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210221162"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2705-8786"
+  }, {
+    "@value" : "0007-4187"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin biologique de la France et de la Belgique"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin biologique de la France et de la Belgique"
+  } ]
+} ]

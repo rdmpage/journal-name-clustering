@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27720706",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Herpetol. Med. Surg."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "151265"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=_VFWAAAAYAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=ak1WAAAAYAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=rkxWAAAAYAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=Yk1WAAAAYAAJ"
+  }, {
+    "@id" : "https://meridian.allenpress.com/jhms"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1529-9651"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764828120"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1529-9651"
+  }, {
+    "@value" : "2374-9504"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of herpetological medicine and surgery"
+  } ]
+} ]

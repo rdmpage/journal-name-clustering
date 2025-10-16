@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2233402",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ichnos: An International Journal for Plant and Animal Traces"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1042-0940"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "20910"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandfonline.com/openurl?genre=journal&issn=1042-0940"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1026-7999"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1042-0940"
+  }, {
+    "@value" : "1563-5236"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ichnos"
+  } ]
+} ]

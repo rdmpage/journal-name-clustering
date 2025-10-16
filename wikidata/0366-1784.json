@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50515498",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bol. Soc. Geol. Mex."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "44233"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "311193"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "2116"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1405-3322"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1904"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "bolesocideolmexi"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210173444"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0366-1784"
+  }, {
+    "@value" : "1405-3322"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletín de la Sociedad Geológica Mexicana"
+  } ]
+} ]

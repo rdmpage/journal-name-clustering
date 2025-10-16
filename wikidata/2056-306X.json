@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726794",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zoological Lett"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "266026"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2056-306X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.zoologicalletters.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2056-306X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210227033"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2056-306X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zoological letters"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725972",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mov Ecol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "220588"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2051-3933"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.movementecologyjournal.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2051-3933"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764481339"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2051-3933"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Movement ecology"
+  } ]
+} ]

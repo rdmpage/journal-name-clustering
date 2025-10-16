@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15731314",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Bot. Res. Inst. Texas"
+  }, {
+    "@language" : "en",
+    "@value" : "J. BRIT"
+  }, {
+    "@language" : "de",
+    "@value" : "J. Bot. Res. Inst. Texas"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "63883"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2007"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journals.brit.org/jbrit"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1934-5259"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jbotareseinsttex"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764880295"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1934-5259"
+  }, {
+    "@value" : "2644-1608"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Botanical Research Institute of Texas"
+  } ]
+} ]

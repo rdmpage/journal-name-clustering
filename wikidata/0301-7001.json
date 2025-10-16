@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q55431629",
+  "http://example.com/crossref" : [ {
+    "@value" : "265927"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1973"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://publication.nhmus.hu/studbot/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0301-7001"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210175909"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0301-7001"
+  }, {
+    "@value" : "2559-8597"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Studia Botanica Hungarica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Studia botanica Hungarica"
+  } ]
+} ]

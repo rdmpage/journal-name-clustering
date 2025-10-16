@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6090665",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Publ. Field Mus. Nat. Hist., Bot. ser."
+  }, {
+    "@language" : "en",
+    "@value" : "Publication. Botanical series"
+  }, {
+    "@language" : "en",
+    "@value" : "Publication. Field Museum of Natural History. Botanical series"
+  }, {
+    "@language" : "en",
+    "@value" : "Publication - Field Museum of Natural History. Botanical series"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "42246"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1912"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioone.org/loi/fbot"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0096-2759"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1947"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0096-2759"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Publication. Field Museum of Natural History. Botanical series"
+  } ]
+} ]

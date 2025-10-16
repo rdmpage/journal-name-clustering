@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107366354",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Entomological Society of Australia N.S.W"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0071-0725"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1976"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0071-0725"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Entomological Society of Australia (N.S.W.)"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Entomological Society of Australia N.S.W"
+  } ]
+} ]

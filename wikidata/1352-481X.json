@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51396852",
+  "http://example.com/bhl" : [ {
+    "@value" : "120496"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1352-481X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210168563"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1352-481X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the African Bird Club"
+  } ]
+} ]

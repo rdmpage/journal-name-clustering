@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761625",
+  "http://example.com/crossref" : [ {
+    "@value" : "57449"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0277-5212;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=0277-5212"
+  }, {
+    "@id" : "http://www.springerlink.com/openurl.asp?genre=journal&issn=0277-5212"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0277-5212"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S127668553"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0277-5212"
+  }, {
+    "@value" : "1943-6246"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Wetlands"
+  }, {
+    "@language" : "en",
+    "@value" : "Wetlands: the journal of the Society of Wetland Scientists"
+  } ]
+} ]

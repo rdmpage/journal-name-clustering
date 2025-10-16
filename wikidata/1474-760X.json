@@ -1,0 +1,55 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5533480",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Genome Biol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Genome Biol"
+  }, {
+    "@language" : "fr",
+    "@value" : "Genome Biol"
+  }, {
+    "@language" : "de",
+    "@value" : "Genome Biol"
+  }, {
+    "@language" : "en",
+    "@value" : "Genome Biol."
+  }, {
+    "@language" : "fr",
+    "@value" : "Genome Biol."
+  }, {
+    "@language" : "de",
+    "@value" : "Genome Biol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "9559"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1474-760X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://genomebiology.com"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S81160022"
+  }, {
+    "@value" : "C64015301"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1465-6906"
+  }, {
+    "@value" : "1474-7596"
+  }, {
+    "@value" : "1465-6914"
+  }, {
+    "@value" : "1474-760X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Genome Biology"
+  } ]
+} ]

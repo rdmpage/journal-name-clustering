@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759151",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Scopolia (Tiskana izd.)"
+  }, {
+    "@language" : "en",
+    "@value" : "Scopolia, Journal of the Slovenian Museum of Natural History, Ljubljana"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.pms-lj.si/en/about-us/archive-of-publications/scopolia"
+  }, {
+    "@id" : "https://www.pms-lj.si/si/o-nas/arhiv-publikacij/scopolia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0351-0077"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0351-0077"
+  }, {
+    "@value" : "0354-0138"
+  }, {
+    "@value" : "2630-4066"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Scopolia"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5908101",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Icon. Orchid."
+  }, {
+    "@language" : "en",
+    "@value" : "Icon. Orchid."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://herbarioamo.org/index_archivos/Page284.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0188-4018"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0188-4018"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Icones Orchidacearum"
+  } ]
+} ]

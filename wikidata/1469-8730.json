@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2363308",
+  "http://example.com/crossref" : [ {
+    "@value" : "6056"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayjournal?jid=zyg"
+  }, {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=ZYG"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0967-1994"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S99576920"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0967-1994"
+  }, {
+    "@value" : "1469-8730"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zygote"
+  } ]
+} ]

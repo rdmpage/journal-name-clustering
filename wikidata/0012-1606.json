@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3025402",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Dev. Biol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Dev. Biol."
+  }, {
+    "@language" : "fr",
+    "@value" : "Dev Biol"
+  }, {
+    "@language" : "fr",
+    "@value" : "Developmental biology"
+  }, {
+    "@language" : "ja",
+    "@value" : "ディヴェロップメンタル・バイオロジー"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "509"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1959"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0012-1606;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.apnet.com/www/journal/db.htm"
+  }, {
+    "@id" : "http://www.elsevier.com/wps/find/journaldescription.cws_home/622816/description#description"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00121606"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0012-1606"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S136634221"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0012-1606"
+  }, {
+    "@value" : "1095-564X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Developmental Biology"
+  } ]
+} ]

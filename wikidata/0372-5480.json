@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724730",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Vet Arh"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "307152"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://haw.nsk.hr/arhiva/vol1/693/3022/image-thumb.jpg"
+  }, {
+    "@id" : "http://haw.nsk.hr/publikacija/693/veterinarski-arhiv"
+  }, {
+    "@id" : "http://hrcak.srce.hr/veterinarski-arhiv"
+  }, {
+    "@id" : "http://new.vetarhiv.vef.hr/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0372-5480"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S188247268"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0372-5480"
+  }, {
+    "@value" : "1331-8055"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Veterinarski arhiv"
+  } ]
+} ]

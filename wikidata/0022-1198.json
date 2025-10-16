@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760026",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "法證科學期刊"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "27460"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "4614"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1956"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/1754597.html"
+  }, {
+    "@id" : "http://journals.astm.org/jofs/"
+  }, {
+    "@id" : "http://journalsip.astm.org/JOURNALS/FORENSIC/jofs_home.html"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1556-4029"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/loi/jfo"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-1198"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S62072220"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1556-4029"
+  }, {
+    "@value" : "0022-1198"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Forensic Sciences"
+  } ]
+} ]

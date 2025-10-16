@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765686",
+  "http://example.com/crossref" : [ {
+    "@value" : "302061"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://researcherslinks.com/journal-details/Pakistan-journal-of-zoology/20/archive"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0030-9923"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S204491027"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0030-9923"
+  }, {
+    "@value" : "3049-5709"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Pakistan Journal of Zoology"
+  } ]
+} ]

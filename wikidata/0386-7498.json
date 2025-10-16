@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q116783247",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "動水誌"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1959"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jaza.jp/publication/magazine"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0386-7498"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306544441"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0386-7498"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "動物園水族館雑誌"
+  } ]
+} ]

@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113478382",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ir.kagoshima-u.ac.jp/search?search_type=2&q=257"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1345-0441"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1345-0441"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Occasional papers - Kagoshima University. Research Center for the Pacific Islands"
+  } ]
+} ]

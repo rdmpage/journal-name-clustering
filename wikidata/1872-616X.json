@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7126415",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "古地理学，古气候学，古生态学"
+  }, {
+    "@language" : "zh",
+    "@value" : "古地理學，古氣候學，古生態學"
+  }, {
+    "@language" : "en",
+    "@value" : "Palaeo3"
+  }, {
+    "@language" : "zh",
+    "@value" : "古地理學、古氣候學、古生態學"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1438"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "5236"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1965"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0031-0182"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S159210951"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1872-616X"
+  }, {
+    "@value" : "0031-0182"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Palaeogeography, Palaeoclimatology, Palaeoecology"
+  } ]
+} ]

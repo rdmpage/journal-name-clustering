@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5683696",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Yunnan zhiwu yanjiu"
+  }, {
+    "@language" : "en",
+    "@value" : "Yunnan zhiwu yanjiu"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Bot. Yunnan."
+  }, {
+    "@language" : "de",
+    "@value" : "Acta Bot. Yunnan."
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "YOKE"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "76238"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://english.cas.cn/pu/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0253-2700"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S123216674"
+  }, {
+    "@value" : "S4306535454"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2011"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0253-2700"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "云南植物研究"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Botanica Yunnanica"
+  } ]
+} ]

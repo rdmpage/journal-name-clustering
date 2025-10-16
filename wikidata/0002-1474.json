@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q31845337",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Agric. Gaz. New South Wales"
+  }, {
+    "@language" : "de",
+    "@value" : "The agricultural gazette of New South Wales"
+  }, {
+    "@language" : "en",
+    "@value" : "Agric. gaz. N.S. W."
+  }, {
+    "@language" : "de",
+    "@value" : "Agricultural Gazette of New South Wales"
+  }, {
+    "@language" : "en",
+    "@value" : "Agricultural Gazette of New South Wales"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "4918"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297414"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1890"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0002-1474"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764635152"
+  }, {
+    "@value" : "S4210172420"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0002-1474"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Agricultural Gazette of New South Wales"
+  } ]
+} ]

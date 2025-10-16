@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749219",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Syst Appl Microbiol"
+  }, {
+    "@language" : "en",
+    "@value" : "Syst. Appl. Microbiol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "305648"
+  }, {
+    "@value" : "12856"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/systematic-and-applied-microbiology"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S111458355"
+  }, {
+    "@value" : "S2898235969"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0172-5564"
+  }, {
+    "@value" : "0723-2020"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Systematic and Applied Microbiology"
+  } ]
+} ]

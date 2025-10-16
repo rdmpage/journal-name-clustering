@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726983",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Fungi"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of fungi (Basel, Switzerland)"
+  }, {
+    "@language" : "en",
+    "@value" : "J Fungi (Basel)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "250946"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2309-608X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.mdpi.com/journal/jof"
+  }, {
+    "@id" : "http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-514398"
+  }, {
+    "@id" : "https://nbn-resolving.org/urn/resolver.pl?urn=urn:nbn:ch:bel-514398"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2309-608X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737643958"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://www.mdpi.com/rss/journal/jof"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2309-608X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Fungi"
+  } ]
+} ]

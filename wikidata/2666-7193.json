@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96738443",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Trees, forests and people"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "390497"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2666-7193"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.sciencedirect.com/journal/trees-forests-and-people"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2666-7193"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210201025"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2666-7193"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Trees, forests and people"
+  } ]
+} ]

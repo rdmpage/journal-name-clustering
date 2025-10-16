@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15724487",
+  "http://example.com/crossref" : [ {
+    "@value" : "69"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/%28issn%291522-7278"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/10005202"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/15227278"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1520-4081"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S172436580"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1520-4081"
+  }, {
+    "@value" : "1522-7278"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environmental Toxicology"
+  } ]
+} ]

@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3639147",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "N. West. J. Zool."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://biozoojournals.ro/nwjz/"
+  }, {
+    "@id" : "http://herp-or.uv.ro/nwjz/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1584-9074"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S49183751"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1584-9074"
+  }, {
+    "@value" : "1842-6441"
+  }, {
+    "@value" : "1843-5629"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "North-Western Journal of Zoology"
+  } ]
+} ]

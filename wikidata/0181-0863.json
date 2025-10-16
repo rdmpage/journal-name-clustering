@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385910",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Revue française d'entomologie (1979)"
+  }, {
+    "@language" : "fr",
+    "@value" : "Revue française d'entomologie Nouvelle série"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0181-0863"
+  }, {
+    "@language" : "en",
+    "@value" : "Revue française d'entomologie (1979)"
+  }, {
+    "@language" : "en",
+    "@value" : "Revue Française d'Entomologie (1979)"
+  }, {
+    "@language" : "en",
+    "@value" : "Revue Française d'Entomologie (n.s.)"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0181-0863"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "DE711B40-100F-485E-A99A-257CFB5BA3EA"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0181-0863"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Revue française d'entomologie"
+  } ]
+} ]

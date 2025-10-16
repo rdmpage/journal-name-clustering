@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15716521",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Turkish J. Biol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "216316"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1977"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.tubitak.gov.tr/biology"
+  }, {
+    "@id" : "http://www.tubitak.gov.tr/journals/biology/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1300-0152"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S116550310"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1303-6092"
+  }, {
+    "@value" : "1300-0152"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Turkish Journal of Biology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Turkish journal of biology"
+  } ]
+} ]

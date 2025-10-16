@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6839270",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Microbiol. Mol. Biol. Rev."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bacteriological Reviews"
+  }, {
+    "@language" : "en",
+    "@value" : "MMBR"
+  }, {
+    "@language" : "en",
+    "@value" : "Microbiological Reviews"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "11338"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "4896"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1937"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/8013"
+  }, {
+    "@id" : "http://mmbr.asm.org/"
+  }, {
+    "@id" : "http://pubmedcentral.com/tocrender.fcgi?action=archive&journal=90"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1092-2172"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S187187948"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1098-5557"
+  }, {
+    "@value" : "1092-2172"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Microbiological Reviews"
+  }, {
+    "@language" : "en",
+    "@value" : "Microbiology and Molecular Biology Reviews"
+  }, {
+    "@language" : "en",
+    "@value" : "Bacteriological Reviews"
+  } ]
+} ]

@@ -1,0 +1,56 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q564954",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "PLOS ONE"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "プロスワン"
+  }, {
+    "@language" : "zh",
+    "@value" : "公共科學圖書館：綜合"
+  }, {
+    "@language" : "zh",
+    "@value" : "公共科学图书馆：综合"
+  }, {
+    "@language" : "en",
+    "@value" : "P L o S One"
+  }, {
+    "@language" : "es",
+    "@value" : "PLoSONE"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60407"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1932-6203"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/24203"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/24215"
+  }, {
+    "@id" : "http://journals.plos.org/plosone/"
+  }, {
+    "@id" : "http://www.plosone.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1932-6203"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S202381698"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "8D47F6C5-DF9C-4886-8091-4435EBD88CF2"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1932-6203"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "PLOS ONE"
+  } ]
+} ]

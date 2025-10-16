@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q45180321",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/scr/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1344-1051"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "scr"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764941672"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2185-0852"
+  }, {
+    "@value" : "1344-1051"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Chromosome science"
+  } ]
+} ]

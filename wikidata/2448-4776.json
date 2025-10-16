@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386050",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Folia Entomologica Mexicana"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.folia.socmexent.org/folia.php"
+  }, {
+    "@id" : "http://www.redalyc.org/revista.oa?id=424"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0430-8603"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210177740"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0430-8603"
+  }, {
+    "@value" : "2448-4776"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Folia entomológica mexicana"
+  } ]
+} ]

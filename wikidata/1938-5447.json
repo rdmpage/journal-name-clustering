@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q768598",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Wilson bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Wilson Journal of Ornithology"
+  }, {
+    "@language" : "en",
+    "@value" : "Wilson j. ornithol."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "122989"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57447"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1894"
+  }, {
+    "@value" : "2006"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://wjoonline.org/"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=1559-4491"
+  }, {
+    "@id" : "http://www.jstor.org/journals/15594491.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1559-4491"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "wilsjornit"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S65924626"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1559-4491"
+  }, {
+    "@value" : "1938-5447"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Wilson Journal of Ornithology"
+  } ]
+} ]

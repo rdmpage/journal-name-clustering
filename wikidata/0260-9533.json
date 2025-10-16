@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16766057",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0260-9533"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0260-9533"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Asklepios"
+  } ]
+} ]

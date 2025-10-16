@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749943",
+  "http://example.com/crossref" : [ {
+    "@value" : "2755"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dx.doi.org/10.1007/10651.1573-3009"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1352-8505"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S43170165"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1352-8505"
+  }, {
+    "@value" : "1573-3009"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environmental and Ecological Statistics"
+  } ]
+} ]

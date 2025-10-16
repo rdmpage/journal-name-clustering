@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754241",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Pan-Pacific Entomologist"
+  }, {
+    "@language" : "en",
+    "@value" : "Pan-Pac. entomol. (Online)"
+  }, {
+    "@language" : "en",
+    "@value" : "Pan-Pacific entomologist"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "130490"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "81086"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1924"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioone.org/loi/panp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0031-0603"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S207223816"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0031-0603"
+  }, {
+    "@value" : "2162-0237"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Pan-Pacific entomologist"
+  } ]
+} ]

@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50555715",
+  "http://example.com/from_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0920-2250"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1989"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A9D5F9FC-F0DF-436B-AF27-E411F84235A0"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0920-2250"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen. Series B, Palaeontology, geology, physics, chemistry, anthropology"
+  } ]
+} ]

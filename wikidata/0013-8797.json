@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763560",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Entomological Society of Washington. Proceedings"
+  }, {
+    "@language" : "en",
+    "@value" : "Entomological Society of Washington. Proceedings"
+  }, {
+    "@language" : "en",
+    "@value" : "Proc. Entomol. Soc. Wash."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "2510"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "101585"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1884"
+  }, {
+    "@value" : "1890"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/2510"
+  }, {
+    "@id" : "http://books.google.com/books?id=9MsyAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=cswyAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=G88yAQAAMAAJ"
+  }, {
+    "@id" : "http://entsocwash.org/default.asp?Action=Show_Proceedings"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-8797"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210224067"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "2B273330-A0BE-4BA7-8D41-5F49A5099DFC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2378-6477"
+  }, {
+    "@value" : "0013-8797"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Entomological Society of Washington"
+  } ]
+} ]

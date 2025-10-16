@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96726344",
+  "http://example.com/crossref" : [ {
+    "@value" : "379804"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jvertbiol.cz/about.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2694-7684"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210213692"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2694-7684"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Vertebrate Biology"
+  } ]
+} ]

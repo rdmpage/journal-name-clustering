@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26478934",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "[Biologia gabonica]"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-3118"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0006-3118"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Biologia gabonica"
+  } ]
+} ]

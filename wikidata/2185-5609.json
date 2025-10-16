@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766885",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Eisei Dobutsu"
+  }, {
+    "@language" : "en",
+    "@value" : "Japanese Journal of Sanitary Zoology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "195665"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1950"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ci.nii.ac.jp/vol_issue/nels/AN00021948_en.html"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/mez/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0424-7086"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "mez"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210197683"
+  }, {
+    "@value" : "S4306519492"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2185-5609"
+  }, {
+    "@value" : "0424-7086"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "衛生動物"
+  }, {
+    "@language" : "en",
+    "@value" : "Medical Entomology and Zoology"
+  } ]
+} ]

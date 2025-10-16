@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385324",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of entomology and zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "The  Journal of Entomology and Zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Ent. Zool."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8150"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297323"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1913"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0095-8530"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210188138"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1951"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "2CD8B1EE-7C9F-4F05-A626-BBF12547FBC5"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0095-8530"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Entomology and Zoology"
+  } ]
+} ]

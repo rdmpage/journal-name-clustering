@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385075",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Bot. Bull. Acad. Sin."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ejournal.sinica.edu.tw/bbas"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-8063"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S152325859"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0006-8063"
+  }, {
+    "@value" : "2070-4860"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Botanical Bulletin of Academia Sinica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Zhōngyāng yánjiūyuàn zhíwùxué huikān"
+  } ]
+} ]

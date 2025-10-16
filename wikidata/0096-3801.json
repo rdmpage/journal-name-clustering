@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q18515885",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Proceedings United States National Museum"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7519"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "135845"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1878"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=HYRFAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=sV5FAQAAMAAJ"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/1259735.html"
+  }, {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/7519#/summary"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0096-3801"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210239000"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1968"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0096-3801"
+  }, {
+    "@value" : "2377-6560"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the United States National Museum"
+  } ]
+} ]

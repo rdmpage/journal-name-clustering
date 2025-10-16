@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4915061",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Biol. Reprod."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "32419"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "3638"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1969"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://www.biolreprod.org/"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=0006-3363"
+  }, {
+    "@id" : "https://academic.oup.com/biolreprod/issue"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-3363"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S130598054"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1529-7268"
+  }, {
+    "@value" : "0006-3363"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biology of Reproduction"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385879",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0177-7424"
+  }, {
+    "@language" : "en",
+    "@value" : "Spixiana: Supplement"
+  }, {
+    "@language" : "es",
+    "@value" : "ISSN 0177-7424"
+  }, {
+    "@language" : "es",
+    "@value" : "ISSN 0343-5512"
+  }, {
+    "@language" : "es",
+    "@value" : "Spixiana: Supplement"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "42670"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0177-7424"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0177-7424"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Spixiana. Supplement"
+  } ]
+} ]

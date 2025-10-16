@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q114129843",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Guizhou nongxueyuan xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Guizhou nongxueyuan xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1000-2693"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-2693"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1997"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-2693"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "贵州农学院学报"
+  }, {
+    "@language" : "zh",
+    "@value" : "Guizhou nongxueyuan xuebao"
+  } ]
+} ]

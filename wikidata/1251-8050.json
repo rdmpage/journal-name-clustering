@@ -1,0 +1,75 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q29043751",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Comptes rendus de l'Académie des sciences. Série deux. Sciences de la terre et des planètes"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes rendus de l'Académie des sciences. Série II. Fascicule a, Sciences de la terre et des planètes"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes rendus de l'Académie des sciences. Série IIa, Sciences de la terre"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes rendus de l'Académie des sciences. Série IIa, Sciences de la terre et des planètes"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes rendus de l'Académie des sciences. Sciences de la terre et des planètes"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes rendus de l'Académie des sciences. Série 2. Earth"
+  }, {
+    "@language" : "en",
+    "@value" : "Comptes rendus de l'Académie des sciences. Earth and planetary science"
+  }, {
+    "@language" : "en",
+    "@value" : "Comptes rendus de l'Académie des sciences. Sciences de la terre et des planètes"
+  }, {
+    "@language" : "en",
+    "@value" : "Comptes rendus de l'Académie des sciences. Série 2. Earth"
+  }, {
+    "@language" : "en",
+    "@value" : "Comptes rendus de l'Académie des sciences. Série deux. Sciences de la terre et des planètes"
+  }, {
+    "@language" : "en",
+    "@value" : "Comptes rendus de l'Académie des sciences. Série II. Fascicule a, Sciences de la terre et des planètes"
+  }, {
+    "@language" : "en",
+    "@value" : "Comptes rendus de l'Académie des sciences. Série IIa, Sciences de la terre"
+  }, {
+    "@language" : "en",
+    "@value" : "Comptes rendus de l'Académie des sciences. Série IIa, Sciences de la terre et des planètes"
+  }, {
+    "@language" : "en",
+    "@value" : "Comptes rendus de l'Académie des sciences. Series IIA, Earth and planetary science"
+  }, {
+    "@language" : "en",
+    "@value" : "Comptes rendus de l'Académie des sciences. Series two A, Earth and planetary science"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2061"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/12518050"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1251-8050"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306506706"
+  }, {
+    "@value" : "S4210168559"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1251-8050"
+  }, {
+    "@value" : "1778-4107"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Comptes rendus de l'Académie des sciences. Série 2. Sciences de la terre et des planètes"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes rendus de l'Académie des sciences. Série 2. Sciences de la terre et des planètes"
+  } ]
+} ]

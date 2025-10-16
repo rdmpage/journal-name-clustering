@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385166",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Atti Soc. Tosc. Sci. Nat. Pisa Mem."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0365-7655"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "EF2ACE75-BB29-40C1-A1A7-687ECEAADD88"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0365-7655"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Atti della Società Toscana die Scienze Naturali Memorie"
+  }, {
+    "@language" : "mul",
+    "@value" : "Atti della Società toscana di scienze naturali residente in Pisa. Memorie. Serie A"
+  } ]
+} ]

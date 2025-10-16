@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51374131",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mem. Soc. Sci. nat. Neuchatel"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "10027"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1835"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://retro.seals.ch/digbib/vollist?UID=mem-001&id=browse&id2=browse4"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1420-2298"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1914"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2297-3273"
+  }, {
+    "@value" : "1420-2298"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Mémoires de la Société des Sciences Naturelles de Neuchâtel"
+  } ]
+} ]

@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385842",
+  "http://example.com/crossref" : [ {
+    "@value" : "285547"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.indianjournals.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0378-9519"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764542811"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E7BDA835-D510-44F3-A1EA-1BCF28D6699F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0378-9519"
+  }, {
+    "@value" : "0974-4576"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of entomological research"
+  } ]
+} ]

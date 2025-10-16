@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385970",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Lavori Soc. Ven. Sc. Nat."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.svsn.it/lavori/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0392-9450"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0392-9450"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Lavori della Società veneziana di scienze naturali"
+  }, {
+    "@language" : "mul",
+    "@value" : "Lavori - Società veneziana di scienze naturali"
+  } ]
+} ]

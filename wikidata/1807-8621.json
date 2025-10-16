@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1872766",
+  "http://example.com/crossref" : [ {
+    "@value" : "78318"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1807-8621"
+  }, {
+    "@value" : "1679-9275"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://periodicos.uem.br/ojs/index.php/ActaSciAgron"
+  }, {
+    "@id" : "https://periodicos.uem.br/ojs/index.php/actasciagron/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1679-9275"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S3983301"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1807-8621"
+  }, {
+    "@value" : "1679-9275"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Scientiarum"
+  }, {
+    "@language" : "mul",
+    "@value" : "Acta Scientiarum. Agronomy"
+  } ]
+} ]

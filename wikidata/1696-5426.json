@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96325053",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1696-5426"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1696-5426"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Monografies de la Societat d'Història Natural de les Balears"
+  } ]
+} ]

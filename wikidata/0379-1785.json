@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q46999350",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Ann. Mus. Congo Tervuren, Zool."
+  }, {
+    "@language" : "en",
+    "@value" : "Ann. Mus. Congo Tervuren, Zool."
+  }, {
+    "@language" : "es",
+    "@value" : "Ann. Mus. Congo Tervuren, Zool."
+  }, {
+    "@language" : "fr",
+    "@value" : "Ann. Mus. Congo Tervuren, Zool."
+  }, {
+    "@language" : "pt",
+    "@value" : "Ann. Mus. Congo Tervuren, Zool."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0379-1785"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0379-1785"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Annales du Musée Du Congo Belge, Tervuren"
+  }, {
+    "@language" : "fr",
+    "@value" : "Annales du Musée Royal de l'Afrique Centrale, Tervuren"
+  }, {
+    "@language" : "nl",
+    "@value" : "Annalen van het Koninklijk Museum voor Midden-Afrika"
+  }, {
+    "@language" : "nl",
+    "@value" : "Annalen van het Museum van Belgisch Congo, Tervuren"
+  } ]
+} ]

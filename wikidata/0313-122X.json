@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21384998",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Records of the Western Australian Museum. Supplement ;"
+  }, {
+    "@language" : "en",
+    "@value" : "Records of the Western Australian Museum. Supplements"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "285990"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0313-122X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210205627"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "6A59645C-C9D3-402F-B9B9-A975F2607310"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0313-122X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Records of the Western Australian Museum, supplement"
+  }, {
+    "@language" : "en",
+    "@value" : "Records of the Western Australian Museum. Supplements"
+  } ]
+} ]

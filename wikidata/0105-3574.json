@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385426",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0105-3574"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0105-3574"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Entomologica Scandinavica. Supplementum"
+  }, {
+    "@language" : "la",
+    "@value" : "Entomologica Scandinavica. Supplementum"
+  } ]
+} ]

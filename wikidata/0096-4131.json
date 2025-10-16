@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385334",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. Buffalo Soc. Nat. Sci."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "24029"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1873"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0096-4131"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B654DF4C-FCE1-4A6A-A18B-867B8A2CB78A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0096-4131"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Buffalo Society of Natural Sciences"
+  } ]
+} ]

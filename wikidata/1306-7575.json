@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7389494",
+  "http://example.com/crossref" : [ {
+    "@value" : "315235"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1306-7575"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://w3.sdu.edu.tr/"
+  }, {
+    "@id" : "http://www.sdu.edu.tr/dergi/fendergisi/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1306-7575"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210239798"
+  }, {
+    "@value" : "S4306531288"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1306-7575"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "tr",
+    "@value" : "Süleyman demirel üniversitesi fen-edebiyat fakültesi fen dergisi"
+  }, {
+    "@language" : "en",
+    "@value" : "SDU Journal of Science"
+  } ]
+} ]

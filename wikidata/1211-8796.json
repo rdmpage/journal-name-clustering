@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q119073459",
+  "http://example.com/from_year" : [ {
+    "@value" : "1997"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://scigeo.actamm.cz/cs/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1211-8796"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1211-8796"
+  }, {
+    "@value" : "2571-4686"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "cs",
+    "@value" : "Acta Musei Moraviae. Scientiae Geologicae"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Musei Moraviae, Scientiae Geologicae"
+  } ]
+} ]

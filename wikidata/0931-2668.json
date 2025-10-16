@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5493137",
+  "http://example.com/crossref" : [ {
+    "@value" : "3698"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.blackwell-synergy.com.loi/jbg"
+  }, {
+    "@id" : "http://www.interscience.wiley.com/jpages/0931-2668/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0931-2668"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S158490989"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0931-2668"
+  }, {
+    "@value" : "1439-0388"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Animal Breeding and Genetics"
+  } ]
+} ]

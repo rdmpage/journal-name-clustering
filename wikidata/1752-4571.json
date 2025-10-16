@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758978",
+  "http://example.com/crossref" : [ {
+    "@value" : "72059"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1752-4571"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1752-4571"
+  }, {
+    "@id" : "http://www.blackwellpublishing.com/journal.asp?ref=1752-4571&site=1"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/journal/119423602/home"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1752-4571"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S140378306"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1752-4571"
+  }, {
+    "@value" : "1752-4563"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Evolutionary Applications"
+  } ]
+} ]

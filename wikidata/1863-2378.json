@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753252",
+  "http://example.com/crossref" : [ {
+    "@value" : "61030"
+  }, {
+    "@value" : "3681"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2007"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/%28issn%291863-2378"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S46899502"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0931-1793"
+  }, {
+    "@value" : "0931-4229"
+  }, {
+    "@value" : "1439-0450"
+  }, {
+    "@value" : "1863-1959"
+  }, {
+    "@value" : "1863-2378"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zoonoses and Public Health"
+  } ]
+} ]

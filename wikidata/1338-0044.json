@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727284",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Geol Slovaca"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://geopaleo.fns.uniba.sk/ageos/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1338-0044"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500345"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1338-0044"
+  }, {
+    "@value" : "1338-5674"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "sk",
+    "@value" : "Acta geologica Slovaca"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta geologica Slovaca : AGEOS"
+  } ]
+} ]

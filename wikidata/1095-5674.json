@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22078437",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Torrey Bot. Soc."
+  }, {
+    "@language" : "de",
+    "@value" : "The Journal of the Torrey Botanical Society"
+  }, {
+    "@language" : "en",
+    "@value" : "The journal of the Torrey Botanical Society"
+  }, {
+    "@language" : "de",
+    "@value" : "J. Torrey Bot. Soc."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "65431"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://apt.allenpress.com/perlserv/?request=get-archive&issn=1095-5674"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=1095-5674"
+  }, {
+    "@id" : "http://www.jstor.org/journals/10955674.html"
+  }, {
+    "@id" : "http://www.torreybotanical.org/publications/journal/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1095-5674"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jtorrbotasoci"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S77226823"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1940-0616"
+  }, {
+    "@value" : "1095-5674"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The journal of the Torrey Botanical Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Torrey Botanical Society"
+  } ]
+} ]

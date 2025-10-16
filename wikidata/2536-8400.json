@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50534576",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "RJS"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "298219"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1800-279X"
+  }, {
+    "@value" : "2536-8400"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.rjs.ruh.ac.lk/index.php/rjs/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1800-279X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210180684"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2536-8400"
+  }, {
+    "@value" : "1800-279X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ruhuna Journal of Science"
+  } ]
+} ]

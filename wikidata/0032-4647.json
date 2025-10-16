@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q773087",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Popular Science Monthly"
+  }, {
+    "@language" : "en",
+    "@value" : "PopSci"
+  }, {
+    "@language" : "en",
+    "@value" : "PSM"
+  }, {
+    "@language" : "en",
+    "@value" : "Popular Science Monthly"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6921"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "5263"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1872"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.popsci.com/"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306556325"
+  }, {
+    "@value" : "S75520925"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0032-4647"
+  }, {
+    "@value" : "0161-7370"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Popular Science"
+  }, {
+    "@language" : "en",
+    "@value" : "The Popular science monthly"
+  } ]
+} ]

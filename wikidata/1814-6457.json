@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96732526",
+  "http://example.com/crossref" : [ {
+    "@value" : "311009"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://vestnik.osu.ru/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1814-6457"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210222344"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1814-6457"
+  }, {
+    "@value" : "1814-6465"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Vestnik Orenburgskogo gosudarstvennogo universiteta"
+  } ]
+} ]

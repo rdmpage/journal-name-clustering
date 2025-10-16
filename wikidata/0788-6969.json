@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q17297742",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Meddeland. Soc. Fauna Fl. Fenn."
+  }, {
+    "@language" : "de",
+    "@value" : "Meddeland. Soc. Fauna Fl. Fenn."
+  }, {
+    "@language" : "pt",
+    "@value" : "Meddeland. Soc. Fauna Fl. Fenn."
+  }, {
+    "@language" : "fr",
+    "@value" : "Meddeland. Soc. Fauna Fl. Fenn."
+  }, {
+    "@language" : "en",
+    "@value" : "Meddeland. Soc. Fauna Fl. Fenn."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "13470"
+  }, {
+    "@value" : "3613"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297297"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1876"
+  }, {
+    "@value" : "1875"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0788-6969"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210175933"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1924"
+  }, {
+    "@value" : "1925"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0788-6969"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "sv",
+    "@value" : "Meddelanden af Societas pro Fauna et Flora Fennica"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721048",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Volucella : (Malsch)"
+  }, {
+    "@language" : "en",
+    "@value" : "Volucella"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1995"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0947-9538"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0947-9538"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Volucella"
+  }, {
+    "@language" : "en",
+    "@value" : "Volucella : (Malsch)"
+  } ]
+} ]

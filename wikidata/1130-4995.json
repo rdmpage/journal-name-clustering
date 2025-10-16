@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q65928956",
+  "http://example.com/crossref" : [ {
+    "@value" : "329156"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "18093"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://tmgb.museucienciesjournals.cat/?lang=es"
+  }, {
+    "@id" : "http://www.raco.cat/index.php/TreballsMGB"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1130-4995"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210190679"
+  }, {
+    "@value" : "S4306533293"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1130-4995"
+  }, {
+    "@value" : "2385-4499"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Treballs del Museu de Geologia de Barcelona"
+  } ]
+} ]

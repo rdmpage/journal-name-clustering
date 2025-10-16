@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6425531",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Koedoe: African Protected Area Conservation and Science"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "82398"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0075-6458"
+  }, {
+    "@value" : "2071-0771"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1958"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.koedoe.co.za/index.php/koedoe/index"
+  }, {
+    "@id" : "http://www.scielo.org.za/scielo.php?script=sci_serial&pid=0075-6458&lng=en&nrm=iso"
+  }, {
+    "@id" : "https://koedoe.co.za/index.php/koedoe"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0075-6458"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S188599332"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2071-0771"
+  }, {
+    "@value" : "0075-6458"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Koedoe"
+  }, {
+    "@language" : "mul",
+    "@value" : "Koedoe"
+  } ]
+} ]

@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22080790",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ecol Evol"
+  }, {
+    "@language" : "en",
+    "@value" : "Ecology & Evolution"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "134926"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2045-7758"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2011"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2045-7758"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2045-7758"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2482021738"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2045-7758"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecology and evolution"
+  } ]
+} ]

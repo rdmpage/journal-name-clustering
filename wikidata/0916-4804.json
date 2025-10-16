@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714304",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nihon Ishinkin Gakkai Zasshi"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "67421"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0916-4804"
+  }, {
+    "@value" : "2434-5237"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jsmm"
+  }, {
+    "@value" : "ishinkin"
+  }, {
+    "@value" : "jjmm"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S31579729"
+  }, {
+    "@value" : "S4306550501"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2434-5237"
+  }, {
+    "@value" : "1882-0476"
+  }, {
+    "@value" : "2434-5229"
+  }, {
+    "@value" : "0916-4804"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Japanese journal of medical mycology"
+  }, {
+    "@language" : "ja",
+    "@value" : "Nihon Ishinkin Gakkai zasshi"
+  }, {
+    "@language" : "mul",
+    "@value" : "Nihon Ishinkin Gakkai zasshi"
+  } ]
+} ]

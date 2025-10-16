@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759435",
+  "http://example.com/crossref" : [ {
+    "@value" : "329946"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.czechmycology.org/czech-mycology-content.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1211-0981"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210230785"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1211-0981"
+  }, {
+    "@value" : "1805-1421"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Czech Mycology"
+  }, {
+    "@language" : "en",
+    "@value" : "Czech Mycology"
+  } ]
+} ]

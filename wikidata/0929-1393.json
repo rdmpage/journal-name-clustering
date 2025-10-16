@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750254",
+  "http://example.com/crossref" : [ {
+    "@value" : "1528"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/09291393/"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/applied-soil-ecology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0929-1393"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S148244296"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1873-0272"
+  }, {
+    "@value" : "0929-1393"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Applied Soil Ecology"
+  } ]
+} ]

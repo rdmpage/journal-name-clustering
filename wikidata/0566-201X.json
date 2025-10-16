@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22110425",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0566-201X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0566-201X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Annales de la Faculté des Sciences du Cameroun"
+  } ]
+} ]

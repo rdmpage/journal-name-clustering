@@ -1,0 +1,64 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3666497",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Zool. Anz."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Zoologischen Anzeiger"
+  }, {
+    "@language" : "de",
+    "@value" : "Zool. Anz."
+  }, {
+    "@language" : "en",
+    "@value" : "Zool. Anz."
+  }, {
+    "@language" : "fr",
+    "@value" : "Zool Anz."
+  }, {
+    "@language" : "en",
+    "@value" : "Zool Anz"
+  }, {
+    "@language" : "pt",
+    "@value" : "Zool Anz."
+  }, {
+    "@language" : "en",
+    "@value" : "Zoologischen Anzeiger"
+  }, {
+    "@language" : "es",
+    "@value" : "Zool Anz."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8942"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "50404"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1878"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/00445231"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0044-5231"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S160317517"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E3A3A004-5349-4323-B12E-A6A47A6FC5E5"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1873-2674"
+  }, {
+    "@value" : "0044-5231"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Zoologischen Anzeiger"
+  }, {
+    "@language" : "mul",
+    "@value" : "Zoologischer Anzeiger"
+  } ]
+} ]

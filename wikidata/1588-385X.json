@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763811",
+  "http://example.com/crossref" : [ {
+    "@value" : "324591"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://abs.bibl.u-szeged.hu/index.php/abs"
+  }, {
+    "@id" : "http://ttkde4.sci.u-szeged.hu/ABS/"
+  }, {
+    "@id" : "http://www.sci.u-szeged.hu/ABS/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1588-385X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210190448"
+  }, {
+    "@value" : "S4306500271"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "32881474-79EA-46D2-AF46-D553CAAE7E06"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1588-385X"
+  }, {
+    "@value" : "1588-4082"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta biologica Szegediensis"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Biologica Szegediensis"
+  } ]
+} ]

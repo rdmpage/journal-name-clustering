@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752685",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1010-5220"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1010-5220"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Opuscula zoologica Fluminensia"
+  }, {
+    "@language" : "und",
+    "@value" : "Opuscula Zoologica Fluminensia"
+  } ]
+} ]

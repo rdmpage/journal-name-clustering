@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4038115",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Entomol. rec. j. var."
+  }, {
+    "@language" : "en",
+    "@value" : "The entomologist's record and journal of variation"
+  }, {
+    "@language" : "en",
+    "@value" : "Entomologist's record and journal of variation"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8408"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297336"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1890"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.entrecord.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-8916"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S1019768892"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0013-8916"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The entomologist's record and journal of variation"
+  }, {
+    "@language" : "en",
+    "@value" : "Entomologist's record and journal of variation"
+  }, {
+    "@language" : "en",
+    "@value" : "The Entomologist's Record and Journal of Variation"
+  } ]
+} ]

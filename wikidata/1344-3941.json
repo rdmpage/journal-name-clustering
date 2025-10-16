@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2004742",
+  "http://example.com/crossref" : [ {
+    "@value" : "10657"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1930"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1740-0929"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1344-3941"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S21531271"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1344-3941"
+  }, {
+    "@value" : "1740-0929"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Animal Science Journal"
+  }, {
+    "@language" : "mul",
+    "@value" : "Animal science journal"
+  } ]
+} ]

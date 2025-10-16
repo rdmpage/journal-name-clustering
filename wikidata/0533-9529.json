@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113477089",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://repository.lib.gifu-u.ac.jp/handle/20.500.12099/7388"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0533-9529"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0533-9529"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Gifu Daigaku Kyoiku Gakubu Kenkyu Hokoku, Shizen Kagaku"
+  } ]
+} ]

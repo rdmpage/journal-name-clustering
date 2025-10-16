@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385308",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Neotropical Primates: A Journal of the Neotropical Section of the IUCN/SSC Primate Specialist Group"
+  }, {
+    "@language" : "en",
+    "@value" : "Neotropical Primates: A Newsletter of the Neotropical Section of the IUCN/SSC Primate Specialist Group"
+  }, {
+    "@language" : "en",
+    "@value" : "Neotrop. Primates"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "74040"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.primate-sg.org/neotropical_primates"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/86389"
+  }, {
+    "@id" : "http://www.bioone.org/loi/nepr"
+  }, {
+    "@id" : "https://primate.socgen.ucla.edu/index.php/multivitaminic/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1413-4705"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S26928114"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1413-4703"
+  }, {
+    "@value" : "1413-4705"
+  }, {
+    "@value" : "2995-2174"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Neotropical Primates"
+  } ]
+} ]

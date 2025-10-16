@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753855",
+  "http://example.com/crossref" : [ {
+    "@value" : "997"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.de/link/service/journals/00338/index.htm"
+  }, {
+    "@id" : "https://link.springer.com/journal/338"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0722-4028"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S130807758"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0722-4028"
+  }, {
+    "@value" : "1432-0975"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Coral Reefs"
+  } ]
+} ]

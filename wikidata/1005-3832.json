@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q135771925",
+  "http://example.com/from_year" : [ {
+    "@value" : "1988"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1005-3832"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh-hans",
+    "@value" : "水产学杂志"
+  }, {
+    "@language" : "zh",
+    "@value" : "Shuichanxue zazhi"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386200",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2161-7570"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "134266"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/66860"
+  }, {
+    "@id" : "http://www.scirp.org/journal/ojg/"
+  }, {
+    "@id" : "http://www.scirp.org/Journal/ojg/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2161-7570"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764901351"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2161-7570"
+  }, {
+    "@value" : "2161-7589"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Open journal of geology"
+  } ]
+} ]

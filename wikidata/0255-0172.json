@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27438845",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0255-0172"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0255-0172"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transvaal Museum Monograph"
+  }, {
+    "@language" : "mul",
+    "@value" : "Transvaal Museum monograph"
+  } ]
+} ]

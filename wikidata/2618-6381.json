@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96703259",
+  "http://example.com/crossref" : [ {
+    "@value" : "313218"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.aquast.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2618-6381"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210220402"
+  }, {
+    "@value" : "S4306502692"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2618-6381"
+  }, {
+    "@value" : "2651-3668"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "tr",
+    "@value" : "Aquaculture studies"
+  } ]
+} ]

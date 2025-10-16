@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7836881",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "古無脊椎動物學論叢"
+  }, {
+    "@language" : "zh",
+    "@value" : "無脊椎古生物論文集"
+  }, {
+    "@language" : "fr",
+    "@value" : "TIP"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://catalog.hathitrust.org/Record/003916076"
+  }, {
+    "@id" : "http://paleo.ku.edu/digitaltreatise/digitaltreatise.html"
+  }, {
+    "@id" : "https://journals.ku.edu/index.php/digitaltreatise/index"
+  }, {
+    "@id" : "https://journals.ku.edu/InvertebratePaleo/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2153-621X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2153-621X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Treatise on Invertebrate Paleontology"
+  } ]
+} ]

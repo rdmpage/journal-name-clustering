@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96697149",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "BRAZILIAN JOURNAL OF AGRICULTURE - Revista de Agricultura"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "379938"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.fealq.org.br/ojs/index.php/revistadeagricultura/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0034-7655"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "P4360969245"
+  }, {
+    "@value" : "S2764524079"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2318-2407"
+  }, {
+    "@value" : "0034-7655"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista de Agricultura"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725689",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Chongqing Shifan Daxue Xuebao Zi Ran Ke Xue Ban"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1672-6693"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764346719"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1672-6693"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Chongqing Shifan Daxue xuebao. Ziran kexue ban"
+  }, {
+    "@language" : "en",
+    "@value" : "Chongqing shi fan da xue xue bao. Zi ran ke xue ban"
+  } ]
+} ]

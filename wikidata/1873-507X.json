@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3618986",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Physiol. Behav."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Physiol. Behav."
+  }, {
+    "@language" : "de",
+    "@value" : "Physiology and Behavior"
+  }, {
+    "@language" : "en",
+    "@value" : "Physiology and Behavior"
+  }, {
+    "@language" : "en",
+    "@value" : "Physiol. Behav."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1633"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1966"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.elsevier.com/wps/find/journaldescription.cws_home/525487/description#description"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00319384"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/physiology-and-behavior/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0031-9384"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S167407068"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1873-507X"
+  }, {
+    "@value" : "0031-9384"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Physiology & Behavior"
+  } ]
+} ]

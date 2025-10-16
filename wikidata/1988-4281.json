@@ -1,0 +1,59 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27925289",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0373-2568"
+  }, {
+    "@language" : "en",
+    "@value" : "Pirineos"
+  }, {
+    "@language" : "es",
+    "@value" : "Pirineos: Revista de Ecología de Montaña"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista Pirineos"
+  }, {
+    "@language" : "en",
+    "@value" : "Pirineos: Revista de Ecología de Montaña"
+  }, {
+    "@language" : "es",
+    "@value" : "Pirineos (revista)"
+  }, {
+    "@language" : "es",
+    "@value" : "Pirineos"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "79084"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "1039"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1988-4281"
+  }, {
+    "@value" : "0373-2568"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://pirineos.revistas.csic.es"
+  }, {
+    "@id" : "http://pirineos.revistas.csic.es/index.php/pirineos"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-2568"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210208355"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1988-4281"
+  }, {
+    "@value" : "0373-2568"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Pirineos"
+  }, {
+    "@language" : "es",
+    "@value" : "Pirineos"
+  } ]
+} ]

@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1524113",
+  "http://example.com/crossref" : [ {
+    "@value" : "1017"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1924"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer-ny.com/link/service/journals/00441/index.htm"
+  }, {
+    "@id" : "http://link.springer.de/link/service/journals/00441/index.htm"
+  }, {
+    "@id" : "http://www.springer.com/journal/441/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0302-766X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S139399906"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0302-766X"
+  }, {
+    "@value" : "1432-0878"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cell and Tissue Research"
+  } ]
+} ]

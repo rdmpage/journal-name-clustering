@@ -1,0 +1,73 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13101842",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. Soc. nat. Luxemb."
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Soc. nat. Luxemb. (N.S.)"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin de la Societe des Naturalistes Luxembourgeois NS"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la SNL"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "546247"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.snl.lu/publications-wp/bulletins-depuis-1891-pdf/"
+  }, {
+    "@id" : "https://www.snl.lu/publications-wp/bulletin-de-la-snl/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0304-9620"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0304-9620"
+  }, {
+    "@value" : "2716-750X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bulletin - Société des naturalistes luxembourgeois"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société des naturalistes luxembourgeois"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q27725900",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull Soc Nat Luxemb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0304-9620"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "acadserbsciearts"
+  }, {
+    "@value" : "bullarchamerart"
+  }, {
+    "@value" : "bullassotropbiol"
+  }, {
+    "@value" : "bullcanaarchasso"
+  }, {
+    "@value" : "bulllingsociamer"
+  }, {
+    "@value" : "bullstlouartmus"
+  }, {
+    "@value" : "bullshawsociamer"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0304-9620"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bulletin - Société des naturalistes luxembourgeois"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin (Societe des naturalistes luxembourgeois)"
+  } ]
+} ]

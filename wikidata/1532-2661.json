@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761718",
+  "http://example.com/crossref" : [ {
+    "@value" : "3835"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://www.harcourt-international.com/journals"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/1644503.html"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0034-5288;screen=info;ECOIP"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/research-in-veterinary-science"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0034-5288"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S196403249"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1532-2661"
+  }, {
+    "@value" : "0034-5288"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Research in Veterinary Science"
+  } ]
+} ]

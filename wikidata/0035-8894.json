@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385808",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Transactions of the Royal Entomological Society of London."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "107325"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1933"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2311/issues"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0035-8894"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210233654"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1975"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "7B92D8B4-90D3-4519-A069-0E7A013467BF"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0035-8894"
+  }, {
+    "@value" : "2056-5259"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Royal Entomological Society of London"
+  } ]
+} ]

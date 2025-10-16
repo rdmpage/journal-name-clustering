@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766887",
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/edaphologia/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0389-1445"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "edaphologia"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306508748"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0041&sryCd=edaphologia&rssLang=en"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0389-1445"
+  }, {
+    "@value" : "2189-8499"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Edaphologia"
+  }, {
+    "@language" : "en",
+    "@value" : "Edaphologia"
+  } ]
+} ]

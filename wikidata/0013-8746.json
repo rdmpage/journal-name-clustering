@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4034061",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Entomological Society of America. Annals"
+  }, {
+    "@language" : "en",
+    "@value" : "Ann. Entomol. Soc. Am."
+  }, {
+    "@language" : "en",
+    "@value" : "Annals - Entomological Society of America"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "9426"
+  }, {
+    "@value" : "39849"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57269"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1908"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://aesa.oxfordjournals.org/content"
+  }, {
+    "@id" : "http://www.entsoc.org/pubs/periodicals/ann/index.htm/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-8746"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S79992667"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "1650023A-3CAC-43C3-996A-DD2E7A1203AE"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1938-2901"
+  }, {
+    "@value" : "0013-8746"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of the Entomological Society of America"
+  } ]
+} ]

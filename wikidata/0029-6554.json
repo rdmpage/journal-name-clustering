@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750868",
+  "http://example.com/crossref" : [ {
+    "@value" : "472"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.mosby.com/nursoutlook/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00296554"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/nursing-outlook"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0029-6554"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S163228481"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1528-3968"
+  }, {
+    "@value" : "0029-6554"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nursing Outlook"
+  } ]
+} ]

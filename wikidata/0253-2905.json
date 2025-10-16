@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51505488",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Mittheilungen der Thurgauischen Naturforschenden Gesellschaft"
+  }, {
+    "@language" : "en",
+    "@value" : "Mittheilungen der Thurgauischen Naturforschenden Gesellschaft"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "43749"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1857"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.e-periodica.ch/digbib/volumes?UID=tng-001"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0253-2905"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2504-3366"
+  }, {
+    "@value" : "0253-2905"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Mitteilungen der Thurgauischen Naturforschenden Gesellschaft"
+  } ]
+} ]

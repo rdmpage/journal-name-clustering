@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766704",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Adv. Zool."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jazindia.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0253-7214"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S39943216"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0253-7214"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Advanced Zoology"
+  } ]
+} ]

@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329863",
+  "http://example.com/crossref" : [ {
+    "@value" : "308584"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ubm.ro/sites/CJEES/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1842-4090"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S141308946"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1844-489X"
+  }, {
+    "@value" : "1842-4090"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Carpathian Journal of Earth and Environmental Sciences"
+  } ]
+} ]

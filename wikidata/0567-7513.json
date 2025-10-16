@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q86602891",
+  "http://example.com/crossref" : [ {
+    "@value" : "314293"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.lillo.org.ar/journals/index.php/acta-geologica-lilloana"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0567-7513"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210185672"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0567-7513"
+  }, {
+    "@value" : "1852-6217"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Acta Geológica Lilloana"
+  } ]
+} ]

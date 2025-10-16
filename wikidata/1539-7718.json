@@ -1,0 +1,56 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2367751",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Q. Rev. Biol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Quarterly Review of Biology"
+  }, {
+    "@language" : "zh",
+    "@value" : "生物學季評"
+  }, {
+    "@language" : "zh",
+    "@value" : "生物学评论季刊"
+  }, {
+    "@language" : "zh",
+    "@value" : "生物学季度评论"
+  }, {
+    "@language" : "en",
+    "@value" : "Q. rev. biol."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "63832"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "12338"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1926"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.uchicago.edu/QRB/home.html"
+  }, {
+    "@id" : "http://www.journals.uchicago.edu/QRB/journal/contents/v77n1.html"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00335770.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0033-5770"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "quarrevibiol"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S182717252"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0033-5770"
+  }, {
+    "@value" : "1539-7718"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Quarterly Review of Biology"
+  } ]
+} ]

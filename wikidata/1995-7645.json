@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842638",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "亚太热带医药杂志 (英文版)"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "YTRY"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "100514"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/19957645"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1995-7645"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S203437272"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1995-7645"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Asian Pacific journal of tropical medicine"
+  } ]
+} ]

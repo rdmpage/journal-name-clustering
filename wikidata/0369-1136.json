@@ -1,0 +1,59 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757750",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Mitt. Naturwiss. Ver. Steiermark"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mitteilungen des Naturwissenschaftlichen Vereines für Steiermark"
+  }, {
+    "@language" : "es",
+    "@value" : "Mitt. Naturwiss. Ver. Steiermark"
+  }, {
+    "@language" : "es",
+    "@value" : "Mitteilungen des Naturwissenschaftlichen Vereines für Steiermark"
+  }, {
+    "@language" : "pt",
+    "@value" : "Mitt. Naturwiss. Ver. Steiermark"
+  }, {
+    "@language" : "pt",
+    "@value" : "Mitteilungen des Naturwissenschaftlichen Vereines für Steiermark"
+  }, {
+    "@language" : "en",
+    "@value" : "Mitt.  naturwiss. Ver. Steiermark"
+  }, {
+    "@language" : "en",
+    "@value" : "Mitt.  naturwiss. Ver. Steiermark,  Graz"
+  }, {
+    "@language" : "en",
+    "@value" : "Mitt. Naturwiss. Ver. Steiermark"
+  }, {
+    "@language" : "en",
+    "@value" : "Mitteilungen des Naturwissenschaftlichen Vereines für Steiermark"
+  }, {
+    "@language" : "de",
+    "@value" : "Mitt. Naturwiss. Ver. Steiermark"
+  }, {
+    "@language" : "de",
+    "@value" : "Mitteilungen des Naturwissenschaftlichen Vereines für Steiermark"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "42384"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1863"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0369-1136"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0369-1136"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Mitteilungen des Naturwissenschaftlichen Vereines für Steiermark"
+  }, {
+    "@language" : "de",
+    "@value" : "Naturwissenschaftlicher Verein fuer Steiermark. Mitteilungen"
+  } ]
+} ]

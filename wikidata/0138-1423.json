@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q47089536",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "NBB"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0138-1423"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0138-1423"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Die neue Brehm-Bücherei"
+  } ]
+} ]

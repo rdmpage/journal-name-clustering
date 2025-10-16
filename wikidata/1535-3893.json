@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3186939",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Proteome Res."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Proteome Res."
+  }, {
+    "@language" : "en",
+    "@value" : "J Proteome Res"
+  }, {
+    "@language" : "fr",
+    "@value" : "J. Proteome Res."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2503"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2002"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://pubs.acs.org/journal/jprobs"
+  }, {
+    "@id" : "http://pubs.acs.org/journals/jprobs/index.html"
+  }, {
+    "@id" : "http://pubs3.acs.org/acs/journals/toc.page?incoden=jprobs"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1535-3893"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S74367812"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jprobs"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1535-3893"
+  }, {
+    "@value" : "1535-3907"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Proteome Research"
+  } ]
+} ]

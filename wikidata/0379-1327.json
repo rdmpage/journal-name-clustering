@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107018111",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Neujahrsbl. Naturforsch. Ges. Zürich"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0379-1327"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0379-1327"
+  }, {
+    "@value" : "2297-282X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de-ch",
+    "@value" : "Neujahrsblatt der Naturforschenden Gesellschaft in Zürich"
+  } ]
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q130542259",
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0918-5534"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2002"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0918-5534"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Jewel Beetles"
+  }, {
+    "@language" : "ja",
+    "@value" : "吉丁会"
+  }, {
+    "@language" : "mul",
+    "@value" : "Jewel beetles"
+  } ]
+} ]

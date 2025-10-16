@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96716825",
+  "http://example.com/crossref" : [ {
+    "@value" : "306220"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.multitemas.ucdb.br/multitemas"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1414-512X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210202038"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1414-512X"
+  }, {
+    "@value" : "2447-9276"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Multitemas"
+  } ]
+} ]

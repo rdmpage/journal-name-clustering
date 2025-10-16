@@ -1,0 +1,67 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q39049712",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Nat Ecol Evol"
+  }, {
+    "@language" : "es",
+    "@value" : "Nature Ecology & Evolution"
+  }, {
+    "@language" : "en",
+    "@value" : "2397-334X"
+  }, {
+    "@language" : "fr",
+    "@value" : "Nat Ecol Evol"
+  }, {
+    "@language" : "pt",
+    "@value" : "Nat Ecol Evol"
+  }, {
+    "@language" : "zh",
+    "@value" : "自然生態學及演化期刊"
+  }, {
+    "@language" : "zh",
+    "@value" : "自然生態與演化"
+  }, {
+    "@language" : "pt",
+    "@value" : "Nature Ecology & Evolution"
+  }, {
+    "@language" : "en",
+    "@value" : "Nat Ecol Evol"
+  }, {
+    "@language" : "fr",
+    "@value" : "Nature Ecology & Evolution"
+  }, {
+    "@language" : "es",
+    "@value" : "2397-334X"
+  }, {
+    "@language" : "fr",
+    "@value" : "2397-334X"
+  }, {
+    "@language" : "pt",
+    "@value" : "2397-334X"
+  }, {
+    "@language" : "en",
+    "@value" : "Nature Ecology & Evolution"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "303409"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.nature.com/natecolevol/"
+  }, {
+    "@id" : "https://www.nature.com/natecolevol/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2397-334X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764884935"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2397-334X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nature ecology & evolution"
+  } ]
+} ]

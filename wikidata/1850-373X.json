@@ -1,0 +1,54 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q62697882",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Intersecc. Antropol."
+  }, {
+    "@language" : "es",
+    "@value" : "Intersecc. Antropol."
+  }, {
+    "@language" : "es",
+    "@value" : "Intersecciones en antropología"
+  }, {
+    "@language" : "es",
+    "@value" : "Intersecciones"
+  }, {
+    "@language" : "en",
+    "@value" : "Intersecc. Antropol."
+  }, {
+    "@language" : "de",
+    "@value" : "Intersecc. Antropol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "374106"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1666-2105"
+  }, {
+    "@value" : "1850-373X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.redalyc.org/revista.oa?id=1795"
+  }, {
+    "@id" : "http://www.scielo.org.ar/scielo.php?script=sci_serial&pid=1850-373X&lng=es&nrm=iso"
+  }, {
+    "@id" : "https://interseccionesantro.soc.unicen.edu.ar/index.php/intersecciones"
+  }, {
+    "@id" : "https://interseccionesantro.soc.unicen.edu.ar/index.php/intersecciones/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1666-2105"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S979770011"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1666-2105"
+  }, {
+    "@value" : "1850-373X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Intersecciones en antropología"
+  } ]
+} ]

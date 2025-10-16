@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96321039",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mar Life Sci Technol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "373239"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/42995"
+  }, {
+    "@id" : "https://www.springer.com/journal/42995"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2662-1746"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210210781"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2096-6490"
+  }, {
+    "@value" : "2662-1746"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Marine Life Science & Technology"
+  } ]
+} ]

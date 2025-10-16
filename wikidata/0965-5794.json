@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4051011",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Coleopterist"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.coleoptera.org.uk/coleopterist/home"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0965-5794"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S35384700"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0965-5794"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Coleopterist"
+  } ]
+} ]

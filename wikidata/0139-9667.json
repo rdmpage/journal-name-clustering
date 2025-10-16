@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q18924107",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Folia Mus. Rerum Nat. Bohemiae Occid., Bot."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0139-9667"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0139-9667"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Folia Musei rerum naturalium Bohemiae occidentalis. Botanica"
+  } ]
+} ]

@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q130876015",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://bmcgenomdata.biomedcentral.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2730-6844"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2730-6844"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "BMC Genomic Data"
+  } ]
+} ]

@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51447255",
+  "http://example.com/bhl" : [ {
+    "@value" : "6048"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0096-4220"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1916"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0096-4220"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biochemical bulletin"
+  } ]
+} ]

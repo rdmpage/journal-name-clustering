@@ -1,0 +1,55 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4051483",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Netherlands Journal of Entomology"
+  }, {
+    "@language" : "en",
+    "@value" : "Tijdschrift voor entomologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Tijdschr. entomol."
+  }, {
+    "@language" : "ru",
+    "@value" : "Журнал энтомологии"
+  }, {
+    "@language" : "en",
+    "@value" : "TvE"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "10088"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "192809"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1857"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://nev.nl/publicaties_cat/tijdschrift-voor-entomologie/tijdschrift-voor-entomologie/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0040-7496"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764766162"
+  }, {
+    "@value" : "S4210222157"
+  }, {
+    "@value" : "S4306532919"
+  }, {
+    "@value" : "S4306532920"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "6CF6FBE6-58F9-46F6-B010-018C3A050196"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0040-7496"
+  }, {
+    "@value" : "2211-9434"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Tijdschrift voor Entomologie"
+  } ]
+} ]

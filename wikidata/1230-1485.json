@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q11821784",
+  "http://example.com/crossref" : [ {
+    "@value" : "254646"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.pjoes.com"
+  }, {
+    "@id" : "http://www.pjoes.com/scope.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1230-1485"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S110778218"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2083-5906"
+  }, {
+    "@value" : "1230-1485"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Polish Journal of Environmental Studies"
+  } ]
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756267",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "タクサ：日本動物分類学会誌"
+  }, {
+    "@language" : "ja",
+    "@value" : "日本動物分類学会誌"
+  }, {
+    "@language" : "ja",
+    "@value" : "Takusa"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/taxa/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1342-2367"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "taxa"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306550463"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2189-7298"
+  }, {
+    "@value" : "1342-2367"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "Takusa"
+  }, {
+    "@language" : "und",
+    "@value" : "Taxa"
+  } ]
+} ]

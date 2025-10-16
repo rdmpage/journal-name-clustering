@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3186941",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Journal of raptor research"
+  }, {
+    "@language" : "en",
+    "@value" : "The journal of raptor research"
+  }, {
+    "@language" : "en",
+    "@value" : "J. raptor res. (Online)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "119679"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "71322"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1987"
+  }, {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://sora.unm.edu/node/202"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/76939"
+  }, {
+    "@id" : "http://elibrary.unm.edu/sora/jrr/index.php#http://elibrary.unm.edu/sora/jrr/index.php#"
+  }, {
+    "@id" : "http://www.bioone.org/loi/rapt"
+  }, {
+    "@id" : "http://www.raptorresearchfoundation.org/publications/journal-of-raptor-research"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0892-1016"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S142676987"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2162-4569"
+  }, {
+    "@value" : "0892-1016"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Raptor Research"
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of raptor research"
+  } ]
+} ]

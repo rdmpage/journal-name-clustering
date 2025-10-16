@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723939",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Plant Sci J"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "130585"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2095-0837"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764881322"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2095-0837"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Zhiwu kexue xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Plant science journal"
+  } ]
+} ]

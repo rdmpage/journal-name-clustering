@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5712257",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Austrobaileya: a journal of plant systematics"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "169356"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.qld.gov.au/environment/plants-animals/plants/herbarium/austrobaileya"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0155-4131"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "aust"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306503841"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3CAE3F7C-D9A3-4608-9651-FDD10B44952D"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0155-4131"
+  }, {
+    "@value" : "2653-0139"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Austrobaileya"
+  }, {
+    "@language" : "en",
+    "@value" : "Austrobaileya"
+  } ]
+} ]

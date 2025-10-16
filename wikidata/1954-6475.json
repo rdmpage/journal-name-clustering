@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5657401",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Adansonia; recueil d'observations botaniques"
+  }, {
+    "@language" : "en",
+    "@value" : "Adansonia"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "600"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1860"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1954-6475"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1879"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1954-6475"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Adansonia"
+  } ]
+} ]

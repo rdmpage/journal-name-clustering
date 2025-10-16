@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50816238",
+  "http://example.com/doaj" : [ {
+    "@value" : "2236-3777"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.unisinos.br/revistas/index.php/neotropical"
+  }, {
+    "@id" : "https://neotropical.pensoft.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2236-3777"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210214477"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2236-3777"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Neotropical Biology and Conservation"
+  } ]
+} ]

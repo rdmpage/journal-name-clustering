@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q34301181",
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journals.flvc.org/holarctic/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1070-4140"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306512279"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1070-4140"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Holarctic lepidoptera"
+  } ]
+} ]

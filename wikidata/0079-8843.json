@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q9065143",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Queensland Naturalist"
+  }, {
+    "@language" : "en",
+    "@value" : "Queensl. nat"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "117951"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1908"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0079-8843"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0079-8843"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Queensland Naturalist"
+  } ]
+} ]

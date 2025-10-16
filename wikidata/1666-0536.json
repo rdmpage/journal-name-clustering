@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q20021977",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0327-9383"
+  }, {
+    "@language" : "es",
+    "@value" : "Mastozoologia Neotropical"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "322840"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://mn.sarem.org.ar/"
+  }, {
+    "@id" : "http://www.redalyc.org/revista.oa?id=457"
+  }, {
+    "@id" : "http://www.sarem.org.ar/mastozoologia-neotropical/"
+  }, {
+    "@id" : "http://www.scielo.org.ar/scielo.php?script=sci_serial&pid=0327-9383&lng=es&nrm=iso"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0327-9383"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765008840"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0327-9383"
+  }, {
+    "@value" : "1666-0536"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Mastozoología Neotropical"
+  }, {
+    "@language" : "mul",
+    "@value" : "Mastozoología neotropical"
+  } ]
+} ]

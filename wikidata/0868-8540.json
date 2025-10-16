@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15745429",
+  "http://example.com/crossref" : [ {
+    "@value" : "267612"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0868-8540"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210191706"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2413-5984"
+  }, {
+    "@value" : "0868-8540"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "uk",
+    "@value" : "Alʹgologìâ"
+  }, {
+    "@language" : "und",
+    "@value" : "Al'gologiya"
+  } ]
+} ]

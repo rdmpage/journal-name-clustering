@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385312",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mycol. Res."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0953-7562"
+  }, {
+    "@language" : "de",
+    "@value" : "Mycol. Res."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "6009"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1989"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://uk.cambridge.org/journals/myc/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/09537562"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0953-7562"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210189473"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2009"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0953-7562"
+  }, {
+    "@value" : "1469-8102"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Mycological Research"
+  } ]
+} ]

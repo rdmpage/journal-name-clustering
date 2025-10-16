@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q122068769",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Trudy Instituta geologii i geofiziki (Novosibirsk)"
+  }, {
+    "@language" : "ru",
+    "@value" : "Trudy Instituta geologii i geofiziki"
+  }, {
+    "@language" : "ru",
+    "@value" : "Труды Института геологии и геофизики"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0568-658X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0568-658X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Trudy Instituta geologii i geofiziki"
+  }, {
+    "@language" : "ru",
+    "@value" : "Труды Института геологии и геофизики Сибирского отделения Академии наук СССР"
+  } ]
+} ]

@@ -1,0 +1,82 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385981",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "Труды Зоологического института Академии наук Союза Советских Социалистических Республик"
+  }, {
+    "@language" : "de",
+    "@value" : "Tr. Zool. Inst."
+  }, {
+    "@language" : "ru",
+    "@value" : "Труды Зоологического института Академии наук СССР"
+  }, {
+    "@language" : "pt",
+    "@value" : "Tr. Zool. Inst."
+  }, {
+    "@language" : "en",
+    "@value" : "Trudy Zoologičeskogo instituta"
+  }, {
+    "@language" : "en",
+    "@value" : "Trudy Zoologicheskogo Instituta"
+  }, {
+    "@language" : "de",
+    "@value" : "Proceedings of the Zoological Institute RAS"
+  }, {
+    "@language" : "fr",
+    "@value" : "Tr. Zool. Inst."
+  }, {
+    "@language" : "es",
+    "@value" : "Tr. Zool. Inst."
+  }, {
+    "@language" : "ru",
+    "@value" : "Trudy Zoologičeskogo instituta"
+  }, {
+    "@language" : "fr",
+    "@value" : "Travaux de l'Institute Zoologique de l'Académie des Sciences de l'URSS"
+  }, {
+    "@language" : "en",
+    "@value" : "Tr. Zool. Inst."
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Zoological Institute RAS"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Zoological Institute, Academy of Sciences of the USSR"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "326162"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.zin.ru/journals/trudyzin/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0206-0477"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210211697"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2221-3996"
+  }, {
+    "@value" : "0206-0477"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Труды Зоологического института Академии наук Союза Советских Социалистических Республик"
+  }, {
+    "@language" : "ru",
+    "@value" : "Труды Зоологического института Академии наук СССР"
+  }, {
+    "@language" : "ru",
+    "@value" : "Труды Зоологического института"
+  }, {
+    "@language" : "fr",
+    "@value" : "Travaux de l'Institute Zoologique de l'Académie des Sciences de l'URSS"
+  }, {
+    "@language" : "ru",
+    "@value" : "Труды Зоологического института Российской академии наук"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Zoological Institute, Russian Academy of Sciences"
+  } ]
+} ]

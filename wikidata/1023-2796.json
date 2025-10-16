@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328516",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://jmst.ntou.edu.tw"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1023-2796"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "098E5F18-C8FF-4C91-BD08-5EC5162BE31D"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2709-6998"
+  }, {
+    "@value" : "1023-2796"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "海洋學刊"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Marine Science and Technology"
+  } ]
+} ]

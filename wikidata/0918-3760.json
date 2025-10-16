@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q45097137",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0918-3760"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0918-3760"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Tokyo Metropolitan University bulletin of natural history"
+  } ]
+} ]

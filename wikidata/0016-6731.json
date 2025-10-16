@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3100575",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Genetics"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Genetics (Austin, Tex.)"
+  }, {
+    "@language" : "fr",
+    "@value" : "Genetics (revue)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "30237"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1916"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=TJ_zAAAAMAAJ"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/1570590.html"
+  }, {
+    "@id" : "https://search.proquest.com/publication/47453"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0016-6731"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S65932378"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0016-6731"
+  }, {
+    "@value" : "1943-2631"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Genetics"
+  } ]
+} ]

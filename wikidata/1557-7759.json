@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765281",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Vector Borne and Zoonotic Diseases"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "15457"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=1530-3667;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.liebertonline.com/loi/vbz"
+  }, {
+    "@id" : "https://www.liebertpub.com/loi/vbz"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1530-3667"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S11075000"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1530-3667"
+  }, {
+    "@value" : "1557-7759"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Vector-Borne and Zoonotic Diseases"
+  }, {
+    "@language" : "en",
+    "@value" : "Vector borne and zoonotic diseases"
+  } ]
+} ]

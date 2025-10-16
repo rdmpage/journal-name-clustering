@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2189564",
+  "http://example.com/crossref" : [ {
+    "@value" : "626"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "802"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=0022-2852;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.journals.elsevier.com/journal-of-molecular-spectroscopy/"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://www.idealibrary.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-2852"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S77654513"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-2852"
+  }, {
+    "@value" : "1096-083X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Molecular Spectroscopy"
+  } ]
+} ]

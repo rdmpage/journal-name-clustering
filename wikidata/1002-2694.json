@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714575",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zhongguo Ren Shou Gong Huan Bing Za Zhi"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1002-2694"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764413516"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1002-2694"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Zhongguo renshougonghuanbing zazhi"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhongguo ren shou gong huan bing za zhi = Chinese journal of zoonoses"
+  } ]
+} ]

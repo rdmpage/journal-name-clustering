@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723481",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Front. Microbiol."
+  }, {
+    "@language" : "de",
+    "@value" : "Front Microbiol"
+  }, {
+    "@language" : "en",
+    "@value" : "Front Microbiol"
+  }, {
+    "@language" : "en",
+    "@value" : "Front. Microbiol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "108145"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1664-302X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2010"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journal.frontiersin.org/journal/microbiology"
+  }, {
+    "@id" : "https://www.frontiersin.org/journals/microbiology#articles"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1664-302X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2484704948"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1664-302X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Frontiers in microbiology"
+  } ]
+} ]

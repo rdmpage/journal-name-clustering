@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5381116",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Environ. Ethics"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "188626"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=_NUoAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=CNUoAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=jNUoAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=qicdAQAAMAAJ"
+  }, {
+    "@id" : "http://www.pdcnet.org/enviroethics"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0163-4275"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S87438066"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0163-4275"
+  }, {
+    "@value" : "2153-7895"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environmental Ethics"
+  } ]
+} ]

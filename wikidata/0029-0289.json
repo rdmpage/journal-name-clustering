@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727640",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nihon Kingakkai Kaiho"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Mycological Society of Japan"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0029-0289"
+  }, {
+    "@language" : "en",
+    "@value" : "Nihon Kin Gakkai kaiho"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jjom/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0029-0289"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jjom"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306533176"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0029-0289"
+  }, {
+    "@value" : "2424-1296"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "日本菌学会会報"
+  }, {
+    "@language" : "mul",
+    "@value" : "Nippon Kingakkai Kaiho"
+  }, {
+    "@language" : "en",
+    "@value" : "Japanese Journal of Mycology"
+  } ]
+} ]

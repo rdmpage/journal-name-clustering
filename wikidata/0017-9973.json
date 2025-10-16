@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764612",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://helictite.caves.org.au/contents4.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0017-9973"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2652-483X"
+  }, {
+    "@value" : "0017-9973"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Helictite"
+  }, {
+    "@language" : "en",
+    "@value" : "Helictite"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754509",
+  "http://example.com/crossref" : [ {
+    "@value" : "57335"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0005-0423;screen=info;ECOIP"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1751-0813"
+  }, {
+    "@id" : "http://www.ava.com.au/avj"
+  }, {
+    "@id" : "http://www.ava.com.au/content/avj/avj.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0005-0423"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S93354060"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1751-0813"
+  }, {
+    "@value" : "0005-0423"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australian Veterinary Journal"
+  } ]
+} ]

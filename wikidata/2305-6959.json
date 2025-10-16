@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328113",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "JHES"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://nceg.uop.edu.pk/researchjournal.html"
+  }, {
+    "@id" : "http://nceg.upesh.edu.pk/researchjournal.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1994-3237"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2305-6959"
+  }, {
+    "@value" : "1994-3237"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Himalayan Earth Sciences"
+  } ]
+} ]

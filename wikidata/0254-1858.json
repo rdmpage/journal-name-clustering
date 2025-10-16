@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386119",
+  "http://example.com/crossref" : [ {
+    "@value" : "295737"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0254-1858"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S177943080"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0254-1858"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "South African journal of zoology"
+  } ]
+} ]

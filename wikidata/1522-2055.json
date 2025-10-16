@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756307",
+  "http://example.com/crossref" : [ {
+    "@value" : "28120"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://afs.allenpress.com/afsonline/?request=get-issue&issn=1522-2055&volume=062&issue=01"
+  }, {
+    "@id" : "http://www.informaworld.com/smpp/title~content=t926380648~db=all"
+  }, {
+    "@id" : "https://afspubs.onlinelibrary.wiley.com/journal/15488454#pane-01cbe741-499a-4611-874e-1061f1f4679e01"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1522-2055"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S199435188"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1522-2055"
+  }, {
+    "@value" : "1548-8454"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "North American Journal of Aquaculture"
+  } ]
+} ]

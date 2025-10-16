@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753839",
+  "http://example.com/crossref" : [ {
+    "@value" : "264887"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1517-784X"
+  }, {
+    "@value" : "2317-6822"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://revistas.ufpr.br/veterinary"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1517-784X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764580246"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1517-784X"
+  }, {
+    "@value" : "2317-6822"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Archives of Veterinary Science"
+  }, {
+    "@language" : "en",
+    "@value" : "Archives of Veterinary Science"
+  } ]
+} ]

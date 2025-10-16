@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2492390",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. R. Soc. Interface"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "J. R. Soc. Interface"
+  }, {
+    "@language" : "fr",
+    "@value" : "J. R. Soc. Interface"
+  }, {
+    "@language" : "en",
+    "@value" : "J. R. Soc. Interface"
+  }, {
+    "@language" : "es",
+    "@value" : "J. R. Soc. Interface"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Royal Society. Interface"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "29457"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rsif.royalsocietypublishing.org"
+  }, {
+    "@id" : "https://royalsocietypublishing.org/journal/rsif"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1742-5662"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S129150467"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1742-5662"
+  }, {
+    "@value" : "1742-5689"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Royal Society Interface"
+  } ]
+} ]

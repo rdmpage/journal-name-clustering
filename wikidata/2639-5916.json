@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q63871630",
+  "http://example.com/crossref" : [ {
+    "@value" : "326478"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2639-5916"
+  }, {
+    "@value" : "2639-5908"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.tandfonline.com/toc/tbsm21/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2639-5908"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210186733"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2639-5908"
+  }, {
+    "@value" : "2639-5916"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecosystems and People"
+  } ]
+} ]

@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722080",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Folia Malacol"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1506-7629"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "101168"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1506-7629"
+  }, {
+    "@value" : "2300-7125"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.foliamalacologica.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1506-7629"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S191660720"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2300-7125"
+  }, {
+    "@value" : "1506-7629"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Folia malacologica"
+  } ]
+} ]

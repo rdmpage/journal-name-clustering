@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q73379064",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Marine Animals & Their Ecology"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://jmate.ca/the-journal-of-marine-animals-their-ecology/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1911-8929"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1911-8929"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of marine animals & their ecology"
+  } ]
+} ]

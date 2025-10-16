@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q25653939",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0166-5189"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764551295"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0166-5189"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Studies on the fauna of Curaçao and other Caribbean Islands"
+  } ]
+} ]

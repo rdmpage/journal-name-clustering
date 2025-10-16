@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385390",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "ISSN 1448-5532"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1448-5532"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1448-5532"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "9C0D73B4-102B-45F8-907A-137159C318B7"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1448-5532"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Calodema"
+  } ]
+} ]

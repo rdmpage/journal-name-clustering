@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2883120",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Univ. Calif. publ. bot."
+  }, {
+    "@language" : "en",
+    "@value" : "Univ. Calif. publ. bot."
+  }, {
+    "@language" : "de",
+    "@value" : "Univ. Calif. publ. bot."
+  }, {
+    "@language" : "es",
+    "@value" : "Univ. Calif. publ. bot."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0068-6395"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "4268"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1902"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ucjeps.berkeley.edu/constancea/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0068-6395"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0068-6395"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "University of California Publications in Botany"
+  } ]
+} ]

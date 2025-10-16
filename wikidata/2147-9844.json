@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q73903860",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Kastamonu Education Journal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "305497"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1300-8811"
+  }, {
+    "@value" : "2147-9844"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://kefdergi.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1300-8811"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210174109"
+  }, {
+    "@value" : "S4306517316"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1300-8811"
+  }, {
+    "@value" : "2147-9844"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Kastamonu eğitim dergisi"
+  } ]
+} ]

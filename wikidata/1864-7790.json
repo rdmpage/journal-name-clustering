@@ -1,0 +1,74 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756911",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "AB"
+  }, {
+    "@language" : "en",
+    "@value" : "Aquat Biol"
+  }, {
+    "@language" : "en",
+    "@value" : "Aquatic biology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "66757"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1864-7790"
+  }, {
+    "@value" : "1864-7782"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.int-res.com/journals/sedao/sedao-home/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1864-7782"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S16354640"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2195-2736"
+  }, {
+    "@value" : "1864-7782"
+  }, {
+    "@value" : "2195-2744"
+  }, {
+    "@value" : "1864-7790"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Aquatic Biology"
+  }, {
+    "@language" : "en",
+    "@value" : "Aquatic biology"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q96730657",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Aquatic biology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "190185"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.int-res.com/journals/sedao/sedao-home/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1864-7782"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1864-7790"
+  }, {
+    "@value" : "2195-2736"
+  }, {
+    "@value" : "2195-2744"
+  }, {
+    "@value" : "1864-7782"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Aquatic biology"
+  } ]
+} ]

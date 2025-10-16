@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722762",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Hua bei nong xue bao"
+  }, {
+    "@language" : "en",
+    "@value" : "Hua Bei Nong Xue Bao"
+  }, {
+    "@language" : "zh",
+    "@value" : "Huabei nongxuebao"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1962"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.hbnxb.net/EN/home"
+  }, {
+    "@id" : "http://www.hbnxb.net/CN/1000-7091/home.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-7091"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500230"
+  }, {
+    "@value" : "S4306500231"
+  }, {
+    "@value" : "S4306512391"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-7091"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta agriculturae boreali-sinica"
+  }, {
+    "@language" : "und",
+    "@value" : "华北农学报"
+  }, {
+    "@language" : "und",
+    "@value" : "Hua bei nong xue bao"
+  }, {
+    "@language" : "en",
+    "@value" : "Northern Chinese journal of agriculture"
+  }, {
+    "@language" : "zh",
+    "@value" : "Huabei nongxuebao"
+  } ]
+} ]

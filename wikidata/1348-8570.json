@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754904",
+  "http://example.com/crossref" : [ {
+    "@value" : "23317"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.nacos.com/asn/as.html"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/ase/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0918-7960"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "ase"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210168237"
+  }, {
+    "@value" : "S4210177751"
+  }, {
+    "@value" : "S5833240"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1348-8570"
+  }, {
+    "@value" : "0918-7960"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Anthropological Science"
+  } ]
+} ]

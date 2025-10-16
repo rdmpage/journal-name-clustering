@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q53955598",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Fish. Res. Board Can."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "J. Fish. Res. Board Can."
+  }, {
+    "@language" : "en",
+    "@value" : "J. Fish. Res. Board Can."
+  }, {
+    "@language" : "fr",
+    "@value" : "J. Fish. Res. Board Can."
+  }, {
+    "@language" : "de",
+    "@value" : "J. Fish. Res. Board Can."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "130206"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://cdnsciencepub.com/loi/jfrbc"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0015-296X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210175024"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0015-296X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Fisheries Research Board of Canada"
+  }, {
+    "@language" : "fr",
+    "@value" : "Journal de l'Office des recherches sur les pêcheries du Canada"
+  } ]
+} ]

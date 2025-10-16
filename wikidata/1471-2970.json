@@ -1,0 +1,97 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2153239",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Phil. Trans. R. Soc. B"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Phil. Trans. R. Soc. B"
+  }, {
+    "@language" : "de",
+    "@value" : "Philos. Trans. R. Soc. B, Biol. Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "Philosophical Transactions of the Royal Society B: Biological Sciences"
+  }, {
+    "@language" : "zh",
+    "@value" : "自然科学会报B刊"
+  }, {
+    "@language" : "en",
+    "@value" : "Philos. Trans. R. Soc. B, Biol. Sci."
+  }, {
+    "@language" : "zh",
+    "@value" : "自然科學會報B"
+  }, {
+    "@language" : "fr",
+    "@value" : "Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences"
+  }, {
+    "@language" : "fr",
+    "@value" : "Philos. Trans. R. Soc. B, Biol. Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "Philosophical transactions. Biological sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Philosophical Transactions B"
+  }, {
+    "@language" : "pt",
+    "@value" : "Philos. Trans. R. Soc. B, Biol. Sci."
+  }, {
+    "@language" : "fr",
+    "@value" : "Philos. Trans. R. Soc. B-Biol. Sci."
+  }, {
+    "@language" : "zh",
+    "@value" : "皇家学会哲学汇刊B辑"
+  }, {
+    "@language" : "en",
+    "@value" : "Philosophical transactions - Royal Society. Biological sciences"
+  }, {
+    "@language" : "es",
+    "@value" : "Philos. Trans. R. Soc. B, Biol. Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "Royal Society of London. Philosophical Transactions B. Biological Sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences"
+  }, {
+    "@language" : "zh",
+    "@value" : "皇家學會哲學彙刊 B"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5193"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1887"
+  }, {
+    "@value" : "1990"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rstb.royalsocietypublishing.org/"
+  }, {
+    "@id" : "https://royalsocietypublishing.org/loi/rstb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0962-8436"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "philtranbiolscie"
+  }, {
+    "@value" : "philtranroyasoc2"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S91660768"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1471-2970"
+  }, {
+    "@value" : "0962-8436"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Philosophical Transactions of the Royal Society B"
+  }, {
+    "@language" : "en",
+    "@value" : "Philosophical transactions - Royal Society. Biological sciences"
+  } ]
+} ]

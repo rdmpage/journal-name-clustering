@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755138",
+  "http://example.com/crossref" : [ {
+    "@value" : "1405"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.journals.elsevier.com/materials-research-bulletin"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0025-5408"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S138530117"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0025-5408"
+  }, {
+    "@value" : "1873-4227"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Materials research bulletin"
+  }, {
+    "@language" : "und",
+    "@value" : "Materials Research Bulletin"
+  } ]
+} ]

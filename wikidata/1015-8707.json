@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27718859",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Utafiti : occasional papers of the National Museums of Kenya"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "101780"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1988"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1015-8707"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1015-8707"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Utafiti"
+  } ]
+} ]

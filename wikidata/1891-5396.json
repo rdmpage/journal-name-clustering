@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385435",
+  "http://example.com/doaj" : [ {
+    "@value" : "1891-5396"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.ntnu.no/ojs/index.php/fauna_norvegica"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1502-4873"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210221493"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "33A5A757-8068-46DD-B36F-B195A132D4FD"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1891-5396"
+  }, {
+    "@value" : "1502-4873"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fauna Norvegica"
+  }, {
+    "@language" : "la",
+    "@value" : "Fauna Norvegica"
+  } ]
+} ]

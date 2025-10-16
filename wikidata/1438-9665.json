@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q109369575",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1438-9665"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1438-9665"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Märkische entomologische Nachrichten"
+  } ]
+} ]

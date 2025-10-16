@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4948501",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Botany"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Bot. Int. J. Pl. Biol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5607"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1929"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://cdnsciencepub.com/journal/cjb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1916-2790"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S118554560"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1916-2790"
+  }, {
+    "@value" : "1916-2804"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Botany"
+  }, {
+    "@language" : "en",
+    "@value" : "Botany"
+  } ]
+} ]

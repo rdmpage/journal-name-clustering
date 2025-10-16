@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q82229507",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "OrchideenJ."
+  }, {
+    "@language" : "en",
+    "@value" : "OrchideenJ."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.orchideen-journal.de/journal.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1864-9459"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2195-772X"
+  }, {
+    "@value" : "1864-9459"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "OrchideenJournal"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2904414",
+  "http://example.com/crossref" : [ {
+    "@value" : "85367"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1954"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bto.org/membership/birdstudy.htm"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S199296737"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1944-6705"
+  }, {
+    "@value" : "0006-3657"
+  }, {
+    "@value" : "0523-6894"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bird Study: the science of pure and applied orinthology"
+  }, {
+    "@language" : "en",
+    "@value" : "Bird Study"
+  } ]
+} ]

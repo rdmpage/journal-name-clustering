@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750548",
+  "http://example.com/crossref" : [ {
+    "@value" : "87460"
+  }, {
+    "@value" : "87516"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0718-5839"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.chileanjar.cl"
+  }, {
+    "@id" : "http://www.bioline.org.br/cj"
+  }, {
+    "@id" : "http://www.scielo.cl/chiljar.htm"
+  }, {
+    "@id" : "mailto:pundurra@inia.cl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0718-5820"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S9179619"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0718-5820"
+  }, {
+    "@value" : "0718-5839"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Chilean Journal of Agricultural Research"
+  } ]
+} ]

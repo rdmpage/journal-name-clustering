@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764971",
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764360568"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1368-8774"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Nematology"
+  } ]
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q118874857",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Notulas faunisticas"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.fundacionazara.org.ar/publicaciones"
+  }, {
+    "@id" : "https://fundacionazara.org.ar/notulas-faunisticas/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0327-0017"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1853-9564"
+  }, {
+    "@value" : "0327-0017"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Notulas faunisticas"
+  }, {
+    "@language" : "es",
+    "@value" : "Nótulas Faunísticas"
+  } ]
+} ]

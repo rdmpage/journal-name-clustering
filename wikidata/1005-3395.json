@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723477",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "J. Trop. Subtrop. Bot."
+  }, {
+    "@language" : "zh",
+    "@value" : "Redai yaredai zhiwu xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "J Trop Subtrop Botany"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Trop. Subtrop. Bot."
+  }, {
+    "@language" : "en",
+    "@value" : "Re dai ya re dai zhi wu xue bao"
+  }, {
+    "@language" : "en",
+    "@value" : "Redai yaredai zhiwu xuebao"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jtsb.ijournals.cn/jtsb_cn/ch/index.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1005-3395"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765025689"
+  }, {
+    "@value" : "S4306554395"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1005-3395"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "热带亚热带植物学报"
+  } ]
+} ]

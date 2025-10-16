@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1524986",
+  "http://example.com/doaj" : [ {
+    "@value" : "2190-1090"
+  }, {
+    "@value" : "0032-2490"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0032-2490"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2190-1090"
+  }, {
+    "@value" : "0032-2490"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Polarforschung"
+  }, {
+    "@language" : "mul",
+    "@value" : "Polarforschung"
+  } ]
+} ]

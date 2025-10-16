@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723804",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Madag Conserv Dev"
+  }, {
+    "@language" : "en",
+    "@value" : "Madagascar conservation & development"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "154187"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.mwc-info.net/en/services/journal.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1662-2510"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737345402"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1662-2510"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Madagascar conservation & development"
+  }, {
+    "@language" : "en",
+    "@value" : "Madagascar conservation and development"
+  } ]
+} ]

@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q47485836",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Entomologica austriaca : zeitschrift der Österreichischen entomologischen gesellschaft"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1681-0406"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1681-0406"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Entomologica Austriaca"
+  }, {
+    "@language" : "la",
+    "@value" : "Entomologica Austriaca"
+  } ]
+} ]

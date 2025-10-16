@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15746639",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Acta Palaeontol. Sin."
+  }, {
+    "@language" : "en",
+    "@value" : "Gushengwu xuebao"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1953"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://gswxb.cnjournals.cn/gswxb/home"
+  }, {
+    "@id" : "http://gswxb.cnjournals.cn/gswxben/home"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-6616"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500455"
+  }, {
+    "@value" : "S4306545292"
+  }, {
+    "@value" : "S4363606285"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-6616"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh-hans",
+    "@value" : "古生物学报"
+  } ]
+} ]

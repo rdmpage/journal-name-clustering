@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q73551732",
+  "http://example.com/crossref" : [ {
+    "@value" : "312483"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1110-1768"
+  }, {
+    "@value" : "2536-9342"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ejbpc.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1110-1768"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S130435576"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1110-1768"
+  }, {
+    "@value" : "2536-9342"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Egyptian Journal of Biological Pest Control"
+  } ]
+} ]

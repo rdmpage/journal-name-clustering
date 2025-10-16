@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3047086",
+  "http://example.com/crossref" : [ {
+    "@value" : "55585"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1939-5582"
+  }, {
+    "@id" : "http://www.esajournals.org"
+  }, {
+    "@id" : "http://www.esajournals.org/loi/ecap"
+  }, {
+    "@id" : "http://www.jstor.org/journals/10510761.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1051-0761"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "ecolappl"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S166870025"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1051-0761"
+  }, {
+    "@value" : "1939-5582"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecological Applications"
+  } ]
+} ]

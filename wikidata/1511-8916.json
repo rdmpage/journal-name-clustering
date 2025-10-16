@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5642052",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://foliamalaysiana.weebly.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1511-8916"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1511-8916"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Folia Malaysiana"
+  }, {
+    "@language" : "la",
+    "@value" : "Folia Malaysiana"
+  } ]
+} ]

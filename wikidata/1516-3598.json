@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757083",
+  "http://example.com/crossref" : [ {
+    "@value" : "45739"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1806-9290"
+  }, {
+    "@value" : "1516-3598"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://rbz.org.br/"
+  }, {
+    "@id" : "https://www.scielo.br/rbz"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1516-3598"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S54426137"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1516-3598"
+  }, {
+    "@value" : "1806-9290"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista Brasileira de Zootecnia"
+  }, {
+    "@language" : "pt",
+    "@value" : "Revista Brasileira de Zootecnia"
+  } ]
+} ]

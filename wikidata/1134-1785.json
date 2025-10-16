@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385845",
+  "http://example.com/bhl" : [ {
+    "@value" : "79640"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1134-1785"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306503905"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "C182337E-72E9-4B7C-BCB4-52EEF3907B76"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1134-1785"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Avicennia"
+  } ]
+} ]

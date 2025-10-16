@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3619498",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the AMNH"
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. Amer. Mus. Nat. Hist."
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Am. Mus. Nat. Hist."
+  }, {
+    "@language" : "zh",
+    "@value" : "美國自然歷史博物館公報"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "38930"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "13477"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1881"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/16485"
+  }, {
+    "@id" : "http://digitallibrary.amnh.org/dspace/handle/2246/7"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0003-0090;screen=info;ECOIP"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-0090"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S72004196"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A321013F-3168-40EC-B8A3-0656270D3BA9"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0003-0090"
+  }, {
+    "@value" : "1937-3546"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the American Museum of Natural History"
+  } ]
+} ]

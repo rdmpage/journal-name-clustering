@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727252",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Jordan J Biol Sci"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "232928"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jjbs.hu.edu.jo"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1995-6673"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764627590"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2307-7166"
+  }, {
+    "@value" : "1995-6673"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Jordan journal of biological sciences"
+  } ]
+} ]

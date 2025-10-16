@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385738",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Russian Journal of Arthropoda Research"
+  }, {
+    "@language" : "ru",
+    "@value" : "Русский Артроподологический Журнал"
+  }, {
+    "@language" : "en",
+    "@value" : "Russkij artropodologičeskij žurnal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "344881"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.kmkjournals.com/journals/AS"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0136-006X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210218701"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E6E761F4-D2C7-4DC7-A94E-DF022AFC8962"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0136-006X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Arthropoda Selecta"
+  } ]
+} ]

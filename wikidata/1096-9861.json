@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3186907",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Comp. Neurol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of comparative neurology"
+  }, {
+    "@language" : "en",
+    "@value" : "J. comp. neurol. (1911)"
+  }, {
+    "@language" : "fr",
+    "@value" : "J. Comp. Neurol."
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Comparative Neurology"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "11175"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "108"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1911"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=gLU0AQAAMAAJ"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9861"
+  }, {
+    "@id" : "http://www.interscience.wiley.com/jpages/0021-9967/"
+  }, {
+    "@id" : "https://digitalcollections.crl.edu/search?ln=en&p=oclc:38142722"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-9967"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210186231"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0021-9967"
+  }, {
+    "@value" : "1096-9861"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Comparative Neurology"
+  } ]
+} ]

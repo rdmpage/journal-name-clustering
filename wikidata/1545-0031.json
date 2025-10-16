@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96723382",
+  "http://example.com/crossref" : [ {
+    "@value" : "90325"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://paleoanthro.org/journal/"
+  }, {
+    "@id" : "http://www.pennpress.org/journal/pa"
+  }, {
+    "@id" : "https://paleoanthropology.org/ojs/index.php/paleo/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1545-0031"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S54817172"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1545-0031"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Paleoanthropology"
+  } ]
+} ]

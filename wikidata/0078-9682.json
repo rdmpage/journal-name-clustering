@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51441226",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ann. Inst. Oceanogr. (Paris)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "26874"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1909"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-9682"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306502187"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0078-9682"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Annales de l'Institut océanographique"
+  }, {
+    "@language" : "fr",
+    "@value" : "Annales de l'Institut océanographique."
+  } ]
+} ]

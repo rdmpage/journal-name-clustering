@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386186",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Eur. J. Taxon."
+  }, {
+    "@language" : "en",
+    "@value" : "EJT"
+  }, {
+    "@language" : "fr",
+    "@value" : "Eur. J. Taxon."
+  }, {
+    "@language" : "de",
+    "@value" : "Eur. J. Taxon."
+  }, {
+    "@language" : "es",
+    "@value" : "Eur. J. Taxon."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "144642"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "148585"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2118-9773"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2011"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://europeanjournaloftaxonomy.eu/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2118-9773"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764351231"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "DBF45D51-8BA4-45EC-8160-11CE515B6DF4"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2118-9773"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "European Journal of Taxonomy"
+  } ]
+} ]

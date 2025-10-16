@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124612143",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Special scientific report - Fisheries"
+  }, {
+    "@language" : "en",
+    "@value" : "Special scientific report / United States Department of the Interior, Fish and Wildlife Service. Fisheries"
+  }, {
+    "@language" : "en",
+    "@value" : "Special scientific report. Fisheries"
+  }, {
+    "@language" : "en",
+    "@value" : "SSRF"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0097-3653"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0097-3653"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Special scientific report: Fisheries"
+  }, {
+    "@language" : "en",
+    "@value" : "Special scientific report. Fisheries"
+  } ]
+} ]

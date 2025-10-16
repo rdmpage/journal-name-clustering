@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385147",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Bishop Mus. Occas. Pap."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1986"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=64wiAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=B5EiAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=bIwiAQAAMAAJ"
+  }, {
+    "@id" : "http://hbs.bishopmuseum.org/pubs-online/bmop.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0893-1348"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B81E1025-E91B-4DD3-ADC3-6E1CE00581BB"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2376-3191"
+  }, {
+    "@value" : "0893-1348"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bishop Museum Occasional Papers"
+  } ]
+} ]

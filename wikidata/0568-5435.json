@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13548587",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Novosti Sist. Nizsh. Rast."
+  }, {
+    "@language" : "es",
+    "@value" : "Novosti sistematiki nizshikh rastenii"
+  }, {
+    "@language" : "de",
+    "@value" : "Novosti Sistematiki Nizshikh Rastenii"
+  }, {
+    "@language" : "en",
+    "@value" : "Nov Sist Nizs Rast"
+  }, {
+    "@language" : "en",
+    "@value" : "Novitates Systematicae Plantarum non Vascularium"
+  }, {
+    "@language" : "en",
+    "@value" : "Novosti Sist. Nizsh. Rast."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "340117"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.binran.ru/en/science/periodicheskiye-izdaniya/novosti-sistematiki-nizshyh-rastenij/"
+  }, {
+    "@id" : "https://www.binran.ru/science/periodicheskiye-izdaniya/novosti-sistematiki-nizshyh-rastenij/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0568-5435"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210228852"
+  }, {
+    "@value" : "S4306539830"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0568-5435"
+  }, {
+    "@value" : "2713-2609"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Новости систематики низших растений"
+  }, {
+    "@language" : "la",
+    "@value" : "Novitates Systematicae Plantarum non Vascularium"
+  } ]
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722076",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nongyaoxue Xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Chinese Journal of Pesticide Science"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "NYXB"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.nyxxb.cn/"
+  }, {
+    "@id" : "http://www.nyxxb.cn/indexen.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1008-7303"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764880631"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1008-7303"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Nongyaoxue xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "农药学学报"
+  }, {
+    "@language" : "en",
+    "@value" : "Chinese Journal of Pesticide Science"
+  } ]
+} ]

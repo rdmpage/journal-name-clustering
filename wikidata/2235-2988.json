@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724376",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "2235-2988"
+  }, {
+    "@language" : "fr",
+    "@value" : "Front Cell Infect Microbiol"
+  }, {
+    "@language" : "en",
+    "@value" : "Front Cell Infect Microbiol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "148965"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2235-2988"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.frontiersin.org/journals/cellular-and-infection-microbiology#articles"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2235-2988"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2506667490"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2235-2988"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Frontiers in cellular and infection microbiology"
+  } ]
+} ]

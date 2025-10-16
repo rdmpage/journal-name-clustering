@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q55332370",
+  "http://example.com/crossref" : [ {
+    "@value" : "250106"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.tandfonline.com/loi/tabg18"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0181-1789"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210214330"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "3038-8503"
+  }, {
+    "@value" : "0181-1789"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bulletin de la Société botanique de France. Actualités botaniques"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société Botanique de France. Actualités Botaniques"
+  } ]
+} ]

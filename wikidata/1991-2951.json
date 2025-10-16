@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96722973",
+  "http://example.com/crossref" : [ {
+    "@value" : "67503"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1991-2951"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S127417157"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2091-2781"
+  }, {
+    "@value" : "1991-2951"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Our nature"
+  } ]
+} ]

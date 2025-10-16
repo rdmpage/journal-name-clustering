@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767141",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=9nZOAQAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=g3dOAQAAIAAJ"
+  }, {
+    "@id" : "http://nmsl-montage.auto-graphics.com/#/land-page/entities_9292"
+  }, {
+    "@id" : "https://geoinfo.nmt.edu/publications/periodicals/nmg/home.cfml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0196-948X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2837-6420"
+  }, {
+    "@value" : "0196-948X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "New Mexico Geology"
+  } ]
+} ]

@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5732619",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Bot. Mus. Leafl."
+  }, {
+    "@language" : "en",
+    "@value" : "Botanical Museum leaflets, Harvard University"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7542"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1932"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/action/showPublication?journalCode=botmusleaharuni"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-8098"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "botmusleaharuni"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210194406"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0006-8098"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Botanical Museum Leaflets"
+  } ]
+} ]

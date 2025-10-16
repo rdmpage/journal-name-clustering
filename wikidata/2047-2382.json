@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50815157",
+  "http://example.com/crossref" : [ {
+    "@value" : "160666"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2047-2382"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.environmentalevidencejournal.org/archive"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2047-2382"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737036037"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2047-2382"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environmental evidence"
+  } ]
+} ]

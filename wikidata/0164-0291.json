@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3623878",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Int. J. Primatol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "國際靈長動物期刊"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2767"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1980"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=0164-0291;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.kluweronline.com/issn/0164-0291/contents"
+  }, {
+    "@id" : "http://www.springer.com/life+sciences/journal/10764"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0164-0291"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S139016016"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "8C085A77-7D0D-48F8-861C-1E7AB34B06D1"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1573-8604"
+  }, {
+    "@value" : "0164-0291"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Primatology"
+  } ]
+} ]

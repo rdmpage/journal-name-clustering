@@ -1,0 +1,54 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2625424",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Proc. R. Soc. B"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings. Biological sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings - Royal Society. Biological Sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Society of London. Series B"
+  }, {
+    "@language" : "fr",
+    "@value" : "Proceedings of the Royal Society of London. Series B"
+  }, {
+    "@language" : "de",
+    "@value" : "Proc. Roy. Soc. London, Ser. B, Biol. Sci."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "378355"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1905"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rspb.royalsocietypublishing.org/"
+  }, {
+    "@id" : "https://royalsocietypublishing.org/journal/rspb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0962-8452"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S3006207977"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "17D69E71-34C3-42BA-B0A3-F462ADDA50B6"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0962-8452"
+  }, {
+    "@value" : "1471-2954"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Society B"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings - Royal Society. Biological Sciences"
+  } ]
+} ]

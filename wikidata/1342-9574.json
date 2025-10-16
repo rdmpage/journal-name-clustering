@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385148",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1342-9574"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764999208"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1342-9574"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "National Science Museum monographs"
+  }, {
+    "@language" : "en",
+    "@value" : "National Science Museum Monographs"
+  } ]
+} ]

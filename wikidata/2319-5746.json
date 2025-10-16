@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386357",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Species (India)"
+  }, {
+    "@language" : "de",
+    "@value" : "Species (India)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "550374"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.discoveryjournals.org/Species/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2319-5746"
+  }, {
+    "@value" : "0863-0763"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2319-5746"
+  }, {
+    "@value" : "2319-5754"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Species"
+  } ]
+} ]

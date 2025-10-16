@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842015",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Al-Mi’galaẗ al-sa'udiyaẗ lī-ulum al-ḥayaẗ"
+  }, {
+    "@language" : "en",
+    "@value" : "Saudi J. Biol. Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "SJBS"
+  }, {
+    "@language" : "de",
+    "@value" : "Saudi J. Biol. Sci."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "88070"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1319-562X"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1319-562X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S32679471"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1319-562X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Saudi Journal of Biological Sciences"
+  }, {
+    "@language" : "ar",
+    "@value" : "Al-Mi’galaẗ al-sa'udiyaẗ lī-ulum al-ḥayaẗ"
+  } ]
+} ]

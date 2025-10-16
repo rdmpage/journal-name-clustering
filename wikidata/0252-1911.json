@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766447",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zoologisch-Botanische Gesellschaft in Oesterreich. Verhandlungen"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1976"
+  }, {
+    "@value" : "1978"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0252-1911"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2012"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0252-1911"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Verhandlungen der zoologisch-botanischen Gesellschaft in Österreich"
+  }, {
+    "@language" : "de",
+    "@value" : "Zoologisch-Botanische Gesellschaft in Oesterreich. Verhandlungen"
+  } ]
+} ]

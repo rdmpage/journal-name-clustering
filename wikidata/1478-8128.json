@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4817699",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.atropos.info/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1478-8128"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S173414456"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1478-8128"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Atropos"
+  }, {
+    "@language" : "la",
+    "@value" : "Atropos"
+  } ]
+} ]

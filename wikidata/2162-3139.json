@@ -1,0 +1,57 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759271",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the American Entomological Society (1890)"
+  }, {
+    "@language" : "fr",
+    "@value" : "American Entomological Society. Transactions"
+  }, {
+    "@language" : "en",
+    "@value" : "American Entomological Society. Transactions"
+  }, {
+    "@language" : "en",
+    "@value" : "Trans. Am. Entomol. Soc. (1890)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "5795"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "114451"
+  }, {
+    "@value" : "68279"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1890"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=0002-8320"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00028320.html"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/31067"
+  }, {
+    "@id" : "http://chla.library.cornell.edu/c/chla/browse/title/5077659.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0002-8320"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "tranamerentosoc3"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S123258744"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "6E21202D-FB1F-4B8A-AAD6-4453CC0C6F36"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2162-3139"
+  }, {
+    "@value" : "0002-8320"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the American Entomological Society"
+  } ]
+} ]

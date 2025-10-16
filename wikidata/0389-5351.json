@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113476792",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "南総研紀要"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ir.kagoshima-u.ac.jp/search?search_type=2&q=258"
+  }, {
+    "@id" : "https://ir.kagoshima-u.ac.jp/search?search_type=2&q=259"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0389-5351"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0389-5351"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Nankaiken kiyō"
+  } ]
+} ]

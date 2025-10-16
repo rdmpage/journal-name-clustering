@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329585",
+  "http://example.com/crossref" : [ {
+    "@value" : "302852"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2307-6143"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764351852"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2307-6143"
+  }, {
+    "@value" : "2518-7376"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Problemy kriobiologii i kriomediciny"
+  } ]
+} ]

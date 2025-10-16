@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725079",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Alp Bot"
+  }, {
+    "@language" : "de",
+    "@value" : "Alpine Bot."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "120305"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://link.springer.com/journal/35/volumes-and-issues"
+  }, {
+    "@id" : "https://www.springer.com/journal/35"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1664-221X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2505486193"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1664-2201"
+  }, {
+    "@value" : "1664-221X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Alpine botany"
+  } ]
+} ]

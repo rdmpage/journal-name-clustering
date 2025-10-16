@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113477761",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://niigata-u.repo.nii.ac.jp/search?search_type=2&q=178"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1349-1237"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1349-1237"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Science reports of Niigata University"
+  } ]
+} ]

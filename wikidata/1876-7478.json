@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15817003",
+  "http://example.com/crossref" : [ {
+    "@value" : "75411"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/18747787"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/marine-genomics"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1874-7787"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S107001494"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1874-7787"
+  }, {
+    "@value" : "1876-7478"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Marine genomics"
+  }, {
+    "@language" : "und",
+    "@value" : "Marine Genomics"
+  } ]
+} ]

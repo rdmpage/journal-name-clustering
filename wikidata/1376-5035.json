@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q114725359",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1376-5035"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1376-5035"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1376-5035"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Cetoniimania"
+  } ]
+} ]

@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5696319",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ann. Bot. Fenn."
+  }, {
+    "@language" : "de",
+    "@value" : "Ann. Bot. Fenn."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "72056"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "189928"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.annbot.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-3847"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "annabotafenn"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S110937496"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "979A12D9-8F70-4AEC-B0DD-95116949E447"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1797-2442"
+  }, {
+    "@value" : "0003-3847"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annales botanici Fennici"
+  }, {
+    "@language" : "la",
+    "@value" : "Annales Botanici Fennici"
+  } ]
+} ]

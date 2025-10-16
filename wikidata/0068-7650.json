@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q71579764",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "GSC Paper"
+  }, {
+    "@language" : "en",
+    "@value" : "Paper - Geological Survey of Canada"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0068-7650"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "C91362FB-F576-4F15-8E72-B4DF9080DB5B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0068-7650"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Geological Survey of Canada Paper"
+  } ]
+} ]

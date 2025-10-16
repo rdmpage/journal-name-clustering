@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51481939",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0016-531X"
+  }, {
+    "@language" : "en",
+    "@value" : "Gayana, Zool."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "39684"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1961"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0016-531X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306511134"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1998"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0016-531X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Gayana. Zoología"
+  }, {
+    "@language" : "en",
+    "@value" : "Gayana. Zoología."
+  } ]
+} ]

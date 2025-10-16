@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13548385",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Abh. Naturwiss. Naturwiss. Verein Hamburg"
+  }, {
+    "@language" : "de",
+    "@value" : "Abh. Naturwiss. Naturwiss. Verein Hamburg"
+  }, {
+    "@language" : "en",
+    "@value" : "Abhandlungen aus dem Gebiete der Naturwissenschaften / hrsg. vom Naturwissenschaftlichen Verein in Hamburg"
+  }, {
+    "@language" : "en",
+    "@value" : "Abhandlungen aus dem Gebiete der Naturwissenschaften herausgegeben von dem Naturwissenschafltlichen Verein in Hamburg"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0933-9337"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "11442"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1846"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0933-9337"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1931"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0933-9337"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Abhandlungen aus dem Gebiete der Naturwissenschaften"
+  } ]
+} ]

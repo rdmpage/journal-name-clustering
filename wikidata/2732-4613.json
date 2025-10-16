@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q123982706",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://academic.oup.com/auk"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2732-4613"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2732-4613"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ornithology"
+  } ]
+} ]

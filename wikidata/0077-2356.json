@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108788802",
+  "http://example.com/from_year" : [ {
+    "@value" : "1929"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0077-2356"
+  } ],
+  "http://example.com/ndl" : [ {
+    "@value" : "1615959"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "289B9C07-446F-4932-B835-2DDC6E5CFB07"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0077-2356"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Mushi"
+  }, {
+    "@language" : "ja",
+    "@value" : "むし"
+  } ]
+} ]

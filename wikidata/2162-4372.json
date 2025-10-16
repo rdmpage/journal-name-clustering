@@ -1,0 +1,122 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2530335",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Missouri Botanical Garden. Annals"
+  }, {
+    "@language" : "en",
+    "@value" : "Ann. Missouri Bot. Gard."
+  }, {
+    "@language" : "en",
+    "@value" : "Ann. Mo. Bot. Gard."
+  }, {
+    "@language" : "es",
+    "@value" : "Anales del Jardin Botanico de Misuri"
+  }, {
+    "@language" : "de",
+    "@value" : "Ann. Missouri Bot. Gard."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "702"
+  }, {
+    "@value" : "125530"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "55373"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1914"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/journals/08933243.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0026-6493"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "annamissbotagard"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S187023669"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "8576A436-08C5-446A-B3D9-09D27AADB8F7"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2326-487X"
+  }, {
+    "@value" : "0893-3243"
+  }, {
+    "@value" : "0026-6493"
+  }, {
+    "@value" : "2162-4372"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Annals of the Missouri Botanical Garden"
+  }, {
+    "@language" : "en",
+    "@value" : "Annals of the Missouri Botanical Garden"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q5696514",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Annu. rep. - Mo. Bot. Gard."
+  }, {
+    "@language" : "en",
+    "@value" : "Annals of the Missouri Botanical Garden"
+  }, {
+    "@language" : "de",
+    "@value" : "Rep. (Annual) Missouri Bot. Gard."
+  }, {
+    "@language" : "en",
+    "@value" : "Rep. (Annual) Missouri Bot. Gard."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "818"
+  }, {
+    "@value" : "103830"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "55538"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1889"
+  }, {
+    "@value" : "1890"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/journals/08933243.html"
+  }, {
+    "@id" : "http://www.mobot.org/about/annualreport/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0026-6493"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "missbotagardannu"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1912"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0026-6493"
+  }, {
+    "@value" : "2326-487X"
+  }, {
+    "@value" : "0893-3243"
+  }, {
+    "@value" : "2162-4372"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of the Missouri Botanical Garden"
+  }, {
+    "@language" : "und",
+    "@value" : "Annual Report of the Missouri Botanical Garden"
+  }, {
+    "@language" : "en",
+    "@value" : "Annual Report of the Missouri Botanical Garden"
+  } ]
+} ]

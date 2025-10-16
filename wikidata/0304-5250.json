@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755158",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0304-5250"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764544752"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0304-5250"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Indian Journal of Ecology"
+  } ]
+} ]

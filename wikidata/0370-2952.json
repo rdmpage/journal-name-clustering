@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q25653954",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Quarterly journal of microscopical science"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "13831"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297264"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1853"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-2952"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210168866"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1965"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-2952"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Quarterly Journal of Microscopical Science"
+  } ]
+} ]

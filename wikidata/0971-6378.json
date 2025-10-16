@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26238718",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zoo's Print magazine"
+  }, {
+    "@language" : "en",
+    "@value" : "Zoos' Print"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1985"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://zooprint.org"
+  }, {
+    "@id" : "https://zoosprint.zooreach.org/index.php/zp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0971-6378"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765025767"
+  }, {
+    "@value" : "S4306536274"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0973-2543"
+  }, {
+    "@value" : "0971-6378"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zoo's Print"
+  } ]
+} ]

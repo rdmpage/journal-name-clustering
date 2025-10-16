@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q66134598",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal (Namibia Scientific Society)"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal / Namibia Wetenskaplike Vereniging"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal / Namibia Wissenschaftliche Gesellschaft"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal NSS"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Namibia Scientific Society"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.namscience.com/journal"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1018-7677"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764993059"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1018-7677"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal / Namibia Scientific Society"
+  }, {
+    "@language" : "mul",
+    "@value" : "Journal"
+  } ]
+} ]

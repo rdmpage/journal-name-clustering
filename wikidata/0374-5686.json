@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96704228",
+  "http://example.com/crossref" : [ {
+    "@value" : "322000"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://periodicos.ufc.br/index.php/arquivosdecienciadomar/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0374-5686"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210182999"
+  }, {
+    "@value" : "S4306503100"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2526-7639"
+  }, {
+    "@value" : "0374-5686"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Arquivos de Ciências do Mar"
+  } ]
+} ]

@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22104954",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "Докл. АН Арм. ССР"
+  }, {
+    "@language" : "en",
+    "@value" : "Academy of Sciences of the Armenian SSR. Proceedings"
+  }, {
+    "@language" : "en",
+    "@value" : "Dokl. Akad. Nauk. Arm. SSR"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Academy of Sciences of the Armenian SSR"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1945"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0321-1339"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0321-1339"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Доклады Академии наук Армянской ССР"
+  }, {
+    "@language" : "hy",
+    "@value" : "Հայկական ՍՍՌ Գիտությունների Ակադեմիայի զեկույցներ"
+  }, {
+    "@language" : "mul",
+    "@value" : "Zekuyts’ner - Haykakan SSṚ gitut’yunneri akademia"
+  } ]
+} ]

@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385097",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nota lepid."
+  }, {
+    "@language" : "en",
+    "@value" : "Nota lepidopterologica"
+  }, {
+    "@language" : "en",
+    "@value" : "Nota Lepi."
+  }, {
+    "@language" : "en",
+    "@value" : "NL"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "79076"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "248686"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0342-7536"
+  }, {
+    "@value" : "2367-5365"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://nl.pensoft.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0342-7536"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210167524"
+  }, {
+    "@value" : "S4306521010"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0342-7536"
+  }, {
+    "@value" : "2367-5365"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Nota lepidopterologica"
+  }, {
+    "@language" : "en",
+    "@value" : "Nota lepidopterologica"
+  } ]
+} ]

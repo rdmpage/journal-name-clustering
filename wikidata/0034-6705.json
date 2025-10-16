@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759717",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Review of Politics"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "55053"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1939"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=ROP"
+  }, {
+    "@id" : "https://www.cambridge.org/core/journals/review-of-politics"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0034-6705"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "reviewpolitics"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S123309644"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1748-6858"
+  }, {
+    "@value" : "0034-6705"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The review of politics"
+  }, {
+    "@language" : "en",
+    "@value" : "Review of Politics"
+  } ]
+} ]

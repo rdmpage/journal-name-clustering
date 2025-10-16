@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13415266",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Entomol. news"
+  }, {
+    "@language" : "en",
+    "@value" : "Ent. News"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0013-872X"
+  }, {
+    "@language" : "en",
+    "@value" : "Entomological news"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "2356"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "66244"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1925"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/76953"
+  }, {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/2356#/summary"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=0013-872X"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=0013-872X"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-872X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S123423509"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "172C3345-4A30-4FEE-9A6A-3E0009F0D9F5"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2162-3236"
+  }, {
+    "@value" : "0013-872X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Entomological News"
+  } ]
+} ]

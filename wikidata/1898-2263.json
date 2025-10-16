@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756576",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "AAEM. Annals of Agricultural and Environmental Medicine"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "248008"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1232-1966"
+  }, {
+    "@value" : "1898-2263"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.aaem.pl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1232-1966"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S81453128"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1898-2263"
+  }, {
+    "@value" : "1232-1966"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of Agricultural and Environmental Medicine"
+  }, {
+    "@language" : "en",
+    "@value" : "AAEM. Annals of Agricultural and Environmental Medicine"
+  } ]
+} ]

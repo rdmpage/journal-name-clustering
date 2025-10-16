@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96701298",
+  "http://example.com/crossref" : [ {
+    "@value" : "297319"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0430-3776"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210228237"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0430-3776"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fieldiana. Zoology Memoirs"
+  } ]
+} ]

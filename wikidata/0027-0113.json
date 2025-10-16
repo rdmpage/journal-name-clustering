@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27887126",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.mna.gub.uy/innovaportal/v/12406/12/mecweb/comunicaciones-zoologicas?3colid=3092&breadid=3092"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0027-0113"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1510-7345"
+  }, {
+    "@value" : "0027-0113"
+  }, {
+    "@value" : "2982-401X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Comunicaciones zoológicas del Museo de Historia Natural de Montevideo"
+  } ]
+} ]

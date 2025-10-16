@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5954646",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "水生生物"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3030"
+  }, {
+    "@value" : "2796"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/10750"
+  }, {
+    "@id" : "http://www.springer.com/life+sci/ecology/journal/10750"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0018-8158"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S107775873"
+  }, {
+    "@value" : "S4210238371"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0018-8158"
+  }, {
+    "@value" : "1573-5117"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Hydrobiologia"
+  }, {
+    "@language" : "mul",
+    "@value" : "Hydrobiologia"
+  } ]
+} ]

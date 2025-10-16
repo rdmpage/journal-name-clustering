@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q110253999",
+  "http://example.com/bhl" : [ {
+    "@value" : "81596"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1892"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-4435"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1919"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-4435"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Atti della R. Accademia dei Lincei. Rendiconti della Classe di scienze fisiche, matematiche e naturali"
+  }, {
+    "@language" : "it",
+    "@value" : "Atti della Reale Accademia dei Lincei. Classe di scienze fisiche, matematiche e naturali. Rendiconti. Serie quinta"
+  } ]
+} ]

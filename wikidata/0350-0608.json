@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50434971",
+  "http://example.com/crossref" : [ {
+    "@value" : "70245"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0350-0608"
+  }, {
+    "@value" : "2406-0747"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.doiserbia.nb.rs/journal.aspx?issn=0350-0608"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0350-0608"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210189147"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2406-0747"
+  }, {
+    "@value" : "0350-0608"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Geološki anali Balkanskoga poluostrva"
+  } ]
+} ]

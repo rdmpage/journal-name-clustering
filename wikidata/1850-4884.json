@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3668483",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Hornero (B. Aires) (en línea)"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0073-3407"
+  }, {
+    "@language" : "en",
+    "@value" : "Hornero"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "50364"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1919"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.org.ar/scielo.php?script=sci_serial&pid=0073-3407&lng=es&nrm=iso"
+  }, {
+    "@id" : "https://elhornero.avesargentinas.org.ar/index.php/home/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0073-3407"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306509176"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0073-3407"
+  }, {
+    "@value" : "1850-4884"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "El Hornero"
+  }, {
+    "@language" : "es",
+    "@value" : "El Hornero"
+  } ]
+} ]

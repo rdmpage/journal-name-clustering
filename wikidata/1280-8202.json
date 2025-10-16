@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2378346",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Le Journal de Botanique de la Société de botanique de France"
+  }, {
+    "@language" : "es",
+    "@value" : "J. Bot. Soc. Bot. France"
+  }, {
+    "@language" : "es",
+    "@value" : "Journal de Botanique de la Societe Botanique de France"
+  }, {
+    "@language" : "fr",
+    "@value" : "Le Journal de botanique"
+  }, {
+    "@language" : "de",
+    "@value" : "J. Bot. Soc. Bot. France"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Bot. Soc. Bot. France"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal de Botanique de la Societe Botanique de France"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1997"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://societebotaniquedefrance.fr/publications/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1280-8202"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1280-8202"
+  }, {
+    "@value" : "2741-4884"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Le Journal de botanique"
+  }, {
+    "@language" : "fr",
+    "@value" : "Journal de Botanique de la Société Botanique de France"
+  } ]
+} ]

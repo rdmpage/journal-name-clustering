@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386124",
+  "http://example.com/crossref" : [ {
+    "@value" : "310836"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.entsoc.gr/index_files/Page642.htm"
+  }, {
+    "@id" : "http://www.entsoc.gr/journaleee/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0254-5381"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210194986"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0254-5381"
+  }, {
+    "@value" : "2459-3885"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Entomologia Hellenica"
+  }, {
+    "@language" : "en",
+    "@value" : "Entomologia hellenica"
+  } ]
+} ]

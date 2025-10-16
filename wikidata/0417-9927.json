@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386019",
+  "http://example.com/bhl" : [ {
+    "@value" : "211183"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1949"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0417-9927"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "529DD207-19E4-44CC-BC7E-4FDE40B6DBF0"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0417-9927"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Doriana"
+  } ]
+} ]

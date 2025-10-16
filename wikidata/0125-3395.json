@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721195",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Songklanakarin Journal of Science and Technology"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0125-3395"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0125-3395"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0125-3395"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764853794"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2408-1779"
+  }, {
+    "@value" : "0125-3395"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Warasan Songkhla Nakharin"
+  }, {
+    "@language" : "en",
+    "@value" : "Songklanakarin Journal of Science and Technology"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q105079163",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Fisheries Research Station"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the Fisheries Research Station, Sri Lanka. Ceylon"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0253-6366"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0253-6366"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Fisheries Research Station Sri Lanka (Ceylon)"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the Fisheries Research Station, Sri Lanka. Ceylon"
+  } ]
+} ]

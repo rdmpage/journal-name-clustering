@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5946669",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Agric. Trop. Bot. Appl."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Agric Trop Bot Appl"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "238607"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.persee.fr/web/revues/home/prescript/revue/jatba"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-7662"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210176358"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0021-7662"
+  }, {
+    "@value" : "2437-2218"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Journal d'Agriculture Tropicale et de Botanique Appliquée"
+  } ]
+} ]

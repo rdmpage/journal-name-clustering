@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2441459",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of comparative physiology. B, Biochemical, systemic, and environmental physiology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "732"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springerlink.com/content/100425"
+  }, {
+    "@id" : "http://www.springerlink.com/openurl.asp?genre=journal&issn=0174-1578"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0174-1578"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S190640482"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0174-1578"
+  }, {
+    "@value" : "1432-136X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Comparative Physiology B"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of comparative physiology. B, Biochemical, systemic, and environmental physiology"
+  } ]
+} ]

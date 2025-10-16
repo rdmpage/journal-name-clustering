@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1783633",
+  "http://example.com/crossref" : [ {
+    "@value" : "3685"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2907"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=mam"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0305-1838"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S175935889"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0305-1838"
+  }, {
+    "@value" : "1365-2907"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Mammal Review"
+  } ]
+} ]

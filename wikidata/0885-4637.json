@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13426010",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Mem. Natl. Acad. Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "Mem. Natl. Acad. Sci."
+  }, {
+    "@language" : "fr",
+    "@value" : "Mem. Natl. Acad. Sci."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7008"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297329"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1866"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ufdc.ufl.edu/AA00054953"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0885-4637"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210217063"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1941"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0885-4637"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of the National Academy of Sciences"
+  } ]
+} ]

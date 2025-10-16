@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51418653",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Bull. Mus. Natl. Hist. Nat., Sci. Terre"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin du Museum national d'histoire naturelle. Sciences de la terre"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin du Muséum national d'histoire naturelle. Sciences de la terre"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Mus. natl. hist. nat., Sci. terre"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "145272"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0376-446X"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0376-446X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin du Muséum national d'histoire naturelle. Sciences de la terre"
+  } ]
+} ]

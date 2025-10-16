@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96696043",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ornithological observations"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "335097"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://oo.adu.org.za/index.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2219-0341"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210173651"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2219-0341"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ornithological observations"
+  } ]
+} ]

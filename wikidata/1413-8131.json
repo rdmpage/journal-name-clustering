@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96734422",
+  "http://example.com/crossref" : [ {
+    "@value" : "296799"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://periodicos.unesc.net/index.php/tecnoambiente/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1413-8131"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210174241"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1413-8131"
+  }, {
+    "@value" : "2358-9426"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Revista de tecnologia e ambiente"
+  } ]
+} ]

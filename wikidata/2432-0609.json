@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108541602",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1882-5249"
+  }, {
+    "@language" : "ja",
+    "@value" : "むかわ町立穂別博物館研究報告"
+  }, {
+    "@language" : "ja",
+    "@value" : "穂別町立博物館研究報告"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.town.mukawa.lg.jp/3389.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1882-5249"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2432-0609"
+  }, {
+    "@value" : "1882-5249"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Mukawa Chouritsu Hobetsu Hakubutsukan kenkyuu houkoku"
+  } ]
+} ]

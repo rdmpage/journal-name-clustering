@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385202",
+  "http://example.com/crossref" : [ {
+    "@value" : "85467"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0080-889X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S57786118"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0080-889X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Senckenbergiana maritima"
+  } ]
+} ]

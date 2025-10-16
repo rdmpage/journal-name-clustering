@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q122233549",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.matramuzeum.hu/e107_plugins/docrep_menu/docrep.php?0.show.2.2"
+  }, {
+    "@id" : "https://library.hungaricana.hu/en/collection/muze_megy_heve_folia_historico_naturalia/"
+  }, {
+    "@id" : "https://matramuzeum.nhmus.hu/hu/content/folia-historico-naturalia-musei-matraensis"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0134-1243"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2062-7602"
+  }, {
+    "@value" : "0134-1243"
+  }, {
+    "@value" : "1417-8036"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Folia historico-naturalia Musei Matraensis"
+  }, {
+    "@language" : "la",
+    "@value" : "Folia historico-naturalia Musei Matraensis"
+  } ]
+} ]

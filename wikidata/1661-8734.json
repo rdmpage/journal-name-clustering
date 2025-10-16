@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13416933",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Swiss J. Geosci."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "瑞士地球科學學報"
+  }, {
+    "@language" : "zh",
+    "@value" : "瑞士地球科学学报"
+  }, {
+    "@language" : "en",
+    "@value" : "Swiss J Geosci"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "64177"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1661-8734"
+  }, {
+    "@value" : "1661-8726"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2007"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://sjg.springeropen.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1661-8726"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210223918"
+  }, {
+    "@value" : "S76206574"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "525ACE66-86CE-4951-BBC5-E72D3969FB60"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1661-8734"
+  }, {
+    "@value" : "1661-8726"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Swiss Journal of Geosciences"
+  } ]
+} ]

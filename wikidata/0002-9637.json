@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766943",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "AJTMH"
+  }, {
+    "@language" : "ja",
+    "@value" : "American Journal of Tropical Medicine and Hygiene"
+  }, {
+    "@language" : "en",
+    "@value" : "The American journal of tropical medicine and hygiene"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "89745"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ajtmh.org/"
+  }, {
+    "@id" : "https://www.ncbi.nlm.nih.gov/pmc/journals/960/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0002-9637"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S100045985"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1476-1645"
+  }, {
+    "@value" : "0002-9637"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "American Journal of Tropical Medicine and Hygiene"
+  }, {
+    "@language" : "en",
+    "@value" : "The American journal of tropical medicine and hygiene"
+  } ]
+} ]

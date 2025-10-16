@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761502",
+  "http://example.com/crossref" : [ {
+    "@value" : "3167"
+  }, {
+    "@value" : "326741"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1965"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S165433549"
+  }, {
+    "@value" : "S4210240717"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-0930"
+  }, {
+    "@value" : "0044-4529"
+  }, {
+    "@value" : "1608-3202"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Журнал эволюционной биохимии и физиологии"
+  } ]
+} ]

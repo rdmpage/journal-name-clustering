@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756165",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Limnol"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of limnology"
+  }, {
+    "@language" : "en",
+    "@value" : "J Limnol, JL"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "160385"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1723-8633"
+  }, {
+    "@value" : "1129-5767"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jlimnol.it/index.php/jlimnol"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1129-5767"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S128544920"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1723-8633"
+  }, {
+    "@value" : "1129-5767"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Limnology"
+  } ]
+} ]

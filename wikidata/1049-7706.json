@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q33084057",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Field Mus. news"
+  }, {
+    "@language" : "en",
+    "@value" : "Field Museum news"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "5468"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1930"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1049-7706"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1943"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1049-7706"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Field Museum News"
+  } ]
+} ]

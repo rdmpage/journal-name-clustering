@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q127868946",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1041-5602"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1041-5602"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "World Aquaculture"
+  } ]
+} ]

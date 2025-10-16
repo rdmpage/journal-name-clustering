@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749199",
+  "http://example.com/crossref" : [ {
+    "@value" : "85"
+  }, {
+    "@value" : "317"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S172501620"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1077-3509"
+  }, {
+    "@value" : "1099-1603"
+  }, {
+    "@value" : "1099-2340"
+  }, {
+    "@value" : "1522-1970"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Tourism Research"
+  } ]
+} ]

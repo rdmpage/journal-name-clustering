@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5506065",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Front. Zool."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Front. Zool."
+  }, {
+    "@language" : "de",
+    "@value" : "Front. Zool."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "31857"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1742-9994"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://frontiersinzoology.biomedcentral.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1742-9994"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S166185052"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "2487B5DD-BD91-481B-BF98-AE3E0454A907"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1742-9994"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Frontiers in Zoology"
+  } ]
+} ]

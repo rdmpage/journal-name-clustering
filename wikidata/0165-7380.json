@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761009",
+  "http://example.com/crossref" : [ {
+    "@value" : "2875"
+  }, {
+    "@value" : "52702"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S146569788"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0165-7380"
+  }, {
+    "@value" : "0378-4312"
+  }, {
+    "@value" : "1573-7446"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Veterinary Research Communications: an international journal publishing topical reviews and research articles on all aspects of the veterinary sciences"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6296200",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "J. Roy. Soc. Western Australia"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "77508"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1925"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.rswa.org.au/publications/Journal.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0035-922X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S37896628"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0035-922X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Royal Society of Western Australia"
+  } ]
+} ]

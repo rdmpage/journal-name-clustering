@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759902",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Glob. Planet. Change"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1337"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "4199"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1989"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.sciencedirect.com/journal/global-and-planetary-change/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0921-8181"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S63048404"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0921-8181"
+  }, {
+    "@value" : "1872-6364"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Global and Planetary Change"
+  } ]
+} ]

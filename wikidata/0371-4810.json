@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6130175",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Sitzungsber. Kaiserl. Akad. Wiss., Math.-Naturwiss. Cl., Abt. 1."
+  }, {
+    "@language" : "de",
+    "@value" : "Sitzungsberichte der Akademie der Wissenschaften in Wien. Mathematisch-Naturwissenschaftliche Klasse. Abteilung I: Mineralogie, Biologie, Erdkunde"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6888"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0371-4810"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0371-4810"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Sitzungsberichte der Akademie der Wissenschaften in Wien. Mathematisch-Naturwissenschaftliche Klasse. Abteilung I: Mineralogie, Biologie, Erdkunde"
+  }, {
+    "@language" : "de",
+    "@value" : "Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften. Mathematisch-naturwissenschaftliche Classe. Abteilung I"
+  } ]
+} ]

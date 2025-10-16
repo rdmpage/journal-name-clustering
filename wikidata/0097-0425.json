@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q46074935",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "pt",
+    "@value" : "Occ. Pap. Mus. Zool. LSU"
+  }, {
+    "@language" : "en",
+    "@value" : "Occ. Pap. Mus. Zool. LSU"
+  }, {
+    "@language" : "en",
+    "@value" : "Occasional papers of the Museum of Zoology"
+  }, {
+    "@language" : "es",
+    "@value" : "Occ. Pap. Mus. Zool. LSU"
+  }, {
+    "@language" : "fr",
+    "@value" : "Occ. Pap. Mus. Zool. LSU"
+  }, {
+    "@language" : "de",
+    "@value" : "Occ. Pap. Mus. Zool. LSU"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1938"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=QDslAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=VTolAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=ZzolAQAAMAAJ"
+  }, {
+    "@id" : "http://sites01.lsu.edu/wp/mnspapers/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0097-0425"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0097-0425"
+  }, {
+    "@value" : "2474-8943"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Occasional Papers of the Museum of Zoology, Louisiana State University"
+  }, {
+    "@language" : "en",
+    "@value" : "Occasional papers of the Museum of Zoology"
+  } ]
+} ]

@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4652542",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "AMBIO"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ambio. A journal of the Human Environment"
+  }, {
+    "@language" : "en",
+    "@value" : "AMBIO: A Journal of the Human Environment"
+  }, {
+    "@language" : "de",
+    "@value" : "Ambio. A journal of the Human Environment"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60992"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ambio.allenpress.com/perlserv/?request=index-html"
+  }, {
+    "@id" : "http://www.springer.com/environment/journal/13280"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0044-7447"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "ambio"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S46982553"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1654-7209"
+  }, {
+    "@value" : "0044-7447"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Ambio"
+  }, {
+    "@language" : "en",
+    "@value" : "Ambio"
+  } ]
+} ]

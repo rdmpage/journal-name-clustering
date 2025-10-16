@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q105712856",
+  "http://example.com/dialnet" : [ {
+    "@value" : "18168"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sisbib.unmsm.edu.pe/bvrevistas/neohel/portada.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1995-1043"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765035552"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2218-6425"
+  }, {
+    "@value" : "1995-1043"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Neotropical helminthology"
+  }, {
+    "@language" : "en",
+    "@value" : "Neotropical Helminthology"
+  } ]
+} ]

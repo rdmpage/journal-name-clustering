@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96734696",
+  "http://example.com/crossref" : [ {
+    "@value" : "378313"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1216-4585"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210231373"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1216-4585"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "hu",
+    "@value" : "Természetvédelmi közlemények"
+  } ]
+} ]

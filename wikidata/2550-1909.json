@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385800",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Trop. Biol. Conserv."
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Tropical Biology and Conservation"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://jurcon.ums.edu.my/ojums/index.php/jtbc"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1823-3902"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4363606072"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1823-3902"
+  }, {
+    "@value" : "2550-1909"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Tropical Biology & Conservation"
+  } ]
+} ]

@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385198",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "北九州市立自然史・歴史博物館研究報告A類（自然史）"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the Kitakyushu Museum of Natural History and Human History. Series A, Natural history"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2003"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/kmnh/list/-char/ja"
+  }, {
+    "@id" : "https://www.kmnh.jp/editorial-committee-and-submission-instructions/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1348-2653"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "kmnh"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1348-2653"
+  }, {
+    "@value" : "2435-7545"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "北九州市立自然史・歴史博物館研究報告A類(自然史)"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the Kitakyushu Museum of Natural History and Human History, Series A (Natural History)"
+  } ]
+} ]

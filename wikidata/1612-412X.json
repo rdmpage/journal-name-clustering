@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q125190637",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Zitteliana. Reihe A, Mitteilungen der Bayerischen Staatssammlung für Paläontologie und Geologie"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1612-412X"
+  }, {
+    "@language" : "en",
+    "@value" : "Zitteliana. Reihe A, Mitteilungen der Bayerischen Staatssammlung für Paläontologie und Geologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Zitteliana. Serie A"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2610742"
+  }, {
+    "@id" : "http://www.palmuc.de/bspg/index.php?option=com_content&view=article&id=192&Itemid=297"
+  }, {
+    "@id" : "https://epub.ub.uni-muenchen.de/view/subjects/zitteliana.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1612-412X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2199-725X"
+  }, {
+    "@value" : "1612-412X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Zitteliana. Reihe A, Mitteilungen der Bayerischen Staatssammlung für Paläontologie und Geologie"
+  } ]
+} ]

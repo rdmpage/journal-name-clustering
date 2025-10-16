@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760507",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Zhejiang Univ. Sci. A"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zhejiang University. Journal. Science A: Applied Physics & Engineering"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Zhejiang University. Science A"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Zhejiang University. Science. A : an international applied physics & engineering journal"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Zhejiang University Science A"
+  }, {
+    "@language" : "es",
+    "@value" : "Journal of Zhejiang University Science A"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springerlink.com/content/119966"
+  }, {
+    "@id" : "http://www.zju.edu.cn/jzus/current_a.php"
+  }, {
+    "@id" : "http://www.zju.edu/cn/jzus/Archive.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1673-565X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210215848"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1862-1775"
+  }, {
+    "@value" : "1673-565X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Zhejiang University. Science. A"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Zhejiang University. Science A"
+  } ]
+} ]

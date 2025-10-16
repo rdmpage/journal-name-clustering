@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385429",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Sichuan dongwu"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1000-7083"
+  }, {
+    "@language" : "en",
+    "@value" : "Sichuan dongwu"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "SCDW"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1981"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scdwzz.com/index_en.aspx"
+  }, {
+    "@id" : "http://www.scdwzz.com/index.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-7083"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764434671"
+  }, {
+    "@value" : "S4306545737"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-7083"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "四川动物"
+  } ]
+} ]

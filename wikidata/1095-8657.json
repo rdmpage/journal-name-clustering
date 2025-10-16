@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3186947",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Struct. Biol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "J. Struct. Biol."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1047-8477"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "515"
+  }, {
+    "@value" : "40598"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1957"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=1047-8477;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.apnet.com/www/journal/sb.htm"
+  }, {
+    "@id" : "http://www.journals.elsevier.com/journal-of-structural-biology/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/10478477"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1047-8477"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S89954039"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1047-8477"
+  }, {
+    "@value" : "1095-8657"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Structural Biology"
+  } ]
+} ]

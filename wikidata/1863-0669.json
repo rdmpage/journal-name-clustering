@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752618",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Clean"
+  }, {
+    "@language" : "en",
+    "@value" : "CLEAN - Soil, Air, Water"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "58227"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002(ISSN)1863-0669"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1863-0650"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S19224985"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1863-0650"
+  }, {
+    "@value" : "1863-0669"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Clean"
+  }, {
+    "@language" : "en",
+    "@value" : "CLEAN: Soil, Air, Water"
+  } ]
+} ]

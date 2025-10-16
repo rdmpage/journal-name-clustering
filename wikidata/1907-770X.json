@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723923",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biotropia (Bogor)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "227786"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0215-6334"
+  }, {
+    "@value" : "1907-770X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journal.biotrop.org"
+  }, {
+    "@id" : "http://journal.biotrop.org/index.php/biotropia"
+  }, {
+    "@id" : "http://www.biotrop.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0215-6334"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764614200"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0215-6334"
+  }, {
+    "@value" : "2309-544X"
+  }, {
+    "@value" : "1907-770X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biotropia"
+  } ]
+} ]

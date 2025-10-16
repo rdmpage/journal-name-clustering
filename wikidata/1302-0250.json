@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6296134",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Ent. Res. Soc."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.entomol.org/journal/index.php?journal=JERS&page=index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1302-0250"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S163550739"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "BA1CAA9F-56C2-41C1-8247-F36B47F82211"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1302-0250"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Entomological Research Society"
+  }, {
+    "@language" : "mul",
+    "@value" : "Journal of entomological research society"
+  } ]
+} ]

@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13548592",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Physis"
+  }, {
+    "@language" : "en",
+    "@value" : "Physis (Buenos Aires)"
+  }, {
+    "@language" : "de",
+    "@value" : "Physis (Buenos Aires)"
+  }, {
+    "@language" : "en",
+    "@value" : "Physis Buenos Aires"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "51727"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1912"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-6709"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "1E1DA591-33DC-4404-B55B-3204818EBBBA"
+  }, {
+    "@value" : "FEE52C1F-662C-4525-8509-CB060B980234"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-6709"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Physis"
+  }, {
+    "@language" : "es",
+    "@value" : "Physis (Buenos Aires)"
+  } ]
+} ]

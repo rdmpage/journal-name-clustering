@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96731106",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Sindh University research journal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "309826"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://sujo.usindh.edu.pk/index.php/SURJ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1813-1743"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765008901"
+  }, {
+    "@value" : "S4210219307"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2791-0547"
+  }, {
+    "@value" : "1813-1743"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Sindh University research journal"
+  } ]
+} ]

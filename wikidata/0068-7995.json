@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51523559",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Publ. biol. oceanogr."
+  }, {
+    "@language" : "en",
+    "@value" : "Publications in Biological Oceanography. National Museum of Natural Sciences"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "52116"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0068-7995"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0068-7995"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Publications in biological oceanography"
+  }, {
+    "@language" : "en",
+    "@value" : "Publications in Biological Oceanography. National Museum of Natural Sciences"
+  } ]
+} ]

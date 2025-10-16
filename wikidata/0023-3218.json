@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385506",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "Konchū to shizen"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0023-3218"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306551869"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0023-3218"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "Konchū to shizen"
+  } ]
+} ]

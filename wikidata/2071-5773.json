@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386118",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2071-5773"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.seh-herpetology.org/herpetologynotes/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2071-5773"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306512077"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2071-5773"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Herpetology notes"
+  } ]
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51396505",
+  "http://example.com/bhl" : [ {
+    "@value" : "12011"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1872"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://gallica.bnf.fr/ark:/12148/cb32799054t/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2015-0172"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1877"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "2AFB7AC0-4A11-4E02-9752-5471CE698791"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2015-0172"
+  }, {
+    "@value" : "2400-4022"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Journal de zoologie"
+  } ]
+} ]

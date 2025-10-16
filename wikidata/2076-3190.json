@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124415451",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Revista Soc. Boliv. Bot."
+  }, {
+    "@language" : "en",
+    "@value" : "Revista Soc. Boliv. Bot."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1997"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://resbbo.sbb.org.bo"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2076-3190"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2076-3190"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista de la Sociedad Boliviana de Botánica"
+  } ]
+} ]

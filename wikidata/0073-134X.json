@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16859933",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc. Hawaii. Entomol. Soc."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "9697"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297393"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1907"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://scholarspace.manoa.hawaii.edu/handle/10125/3124/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0073-134X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210196260"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0073-134X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Hawaiian Entomological Society"
+  } ]
+} ]

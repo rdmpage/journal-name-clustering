@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724200",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bol Soc Micol Madr"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletín de la Sociedad Micológica de Madrid"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0214-140X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0214-140X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Boletin de la Sociedad Micologica de Madrid"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletín de la Sociedad Micológica de Madrid"
+  } ]
+} ]

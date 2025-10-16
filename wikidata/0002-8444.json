@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5672427",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Amer. Fern J."
+  }, {
+    "@language" : "en",
+    "@value" : "American fern journal"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "43943"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "55683"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1910"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0002-8444;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals=list&issn=0002-8444"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00028444.html"
+  }, {
+    "@id" : "https://www.amerfernsoc.org/american-fern-journal"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0002-8444"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "americanfernj"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S182829932"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "C1B92C29-8A0C-455B-A81F-17C4880709F4"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1938-422X"
+  }, {
+    "@value" : "0002-8444"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "American Fern Journal"
+  } ]
+} ]

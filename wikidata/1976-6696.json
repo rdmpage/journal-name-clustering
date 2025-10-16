@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764027",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "BMB Reports Online"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "110505"
+  }, {
+    "@value" : "130765"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1976-6696"
+  }, {
+    "@value" : "1976-670X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bmbreports.org/main.html"
+  }, {
+    "@id" : "http://www.jbmb.or.kr/index.html"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1225-8687"
+  }, {
+    "@value" : "1976-6696"
+  }, {
+    "@value" : "1976-670X"
+  }, {
+    "@value" : "0219-1024"
+  }, {
+    "@value" : "0368-4881"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "BMB Reports"
+  } ]
+} ]

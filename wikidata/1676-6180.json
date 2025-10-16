@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385642",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://periodicos.ufmg.br/index.php/lundiana/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1676-6180"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210201673"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2675-5327"
+  }, {
+    "@value" : "1676-6180"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Lundiana"
+  } ]
+} ]

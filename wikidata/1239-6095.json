@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721105",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Boreal Environ. Res."
+  }, {
+    "@language" : "en",
+    "@value" : "Boreal Environment Research"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.borenv.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1239-6095"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S28315859"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1239-6095"
+  }, {
+    "@value" : "1797-2469"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Boreal environment research"
+  }, {
+    "@language" : "en",
+    "@value" : "Boreal environment research : an international interdisciplinary journal"
+  } ]
+} ]

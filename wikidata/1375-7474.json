@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385273",
+  "http://example.com/bhl" : [ {
+    "@value" : "66304"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1375-7474"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1375-7474"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Novapex : trimestriel de la Société belge de malacologie."
+  }, {
+    "@language" : "mul",
+    "@value" : "Novapex (Bruxelles)"
+  } ]
+} ]

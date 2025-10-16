@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385712",
+  "http://example.com/crossref" : [ {
+    "@value" : "251369"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.arctoa.ru/en/"
+  }, {
+    "@id" : "http://www.arctoa.ru/ru/"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210203173"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0131-1379"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Arctoa"
+  } ]
+} ]

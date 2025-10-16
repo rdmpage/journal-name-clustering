@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751340",
+  "http://example.com/crossref" : [ {
+    "@value" : "49838"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1746-6148"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bmcvetres.biomedcentral.com"
+  }, {
+    "@id" : "http://pubmedcentral.com/tocrender.fcgi?iid=120829"
+  }, {
+    "@id" : "http://www.biomedcentral.com/bmcvetres/"
+  }, {
+    "@id" : "https://bmcvetres.biomedcentral.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1746-6148"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S197820984"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=12917&channel-name=BMC+Veterinary+Research"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1746-6148"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "BMC Veterinary Research"
+  } ]
+} ]

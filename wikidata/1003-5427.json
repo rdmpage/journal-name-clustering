@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385454",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Hupo kexue"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "FLKX"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "284101"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jlakes.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1003-5427"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764581412"
+  }, {
+    "@value" : "S2764715062"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1003-5427"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Hupo kexue"
+  }, {
+    "@language" : "zh",
+    "@value" : "湖泊科学"
+  } ]
+} ]

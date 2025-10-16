@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96729295",
+  "http://example.com/crossref" : [ {
+    "@value" : "378422"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2703-3082"
+  }, {
+    "@value" : "2703-3090"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2020"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://natlib-primo.hosted.exlibrisgroup.com/permalink/f/1s57t7d/NLNZ_ALMA21334589230002836"
+  }, {
+    "@id" : "https://www.mapress.com/j/mt/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2703-3082"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210169451"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D1EEC884-C7D8-435D-8D4F-14D09CFCF483"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2703-3090"
+  }, {
+    "@value" : "2703-3082"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Megataxa"
+  } ]
+} ]

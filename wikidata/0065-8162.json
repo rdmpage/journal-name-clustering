@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386044",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of the AEI"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1961"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.amentinst.org/memoirs.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0065-8162"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "592E5F1C-0A53-4989-9864-35599F3E53EE"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0065-8162"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of the American Entomological Institute"
+  } ]
+} ]

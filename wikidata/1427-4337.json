@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96729652",
+  "http://example.com/crossref" : [ {
+    "@value" : "240481"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.progress.plantprotection.pl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1427-4337"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764924460"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2084-4883"
+  }, {
+    "@value" : "1427-4337"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Progress in Plant Protection"
+  } ]
+} ]

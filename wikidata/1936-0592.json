@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754586",
+  "http://example.com/crossref" : [ {
+    "@value" : "70758"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/doi/10.1002/eco.v6.1/issuetoc"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/19360592"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1936-0584"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S148844903"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1936-0584"
+  }, {
+    "@value" : "1936-0592"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecohydrology"
+  } ]
+} ]

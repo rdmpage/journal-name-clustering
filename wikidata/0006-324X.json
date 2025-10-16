@@ -1,0 +1,56 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2655417",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc. Biol. Soc. Washington"
+  }, {
+    "@language" : "en",
+    "@value" : "Biological Society of Washington. Proceedings"
+  }, {
+    "@language" : "en",
+    "@value" : "Proc Biol Soc Wash"
+  }, {
+    "@language" : "en",
+    "@value" : "Proc. Biol. Soc. Wash."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "3622"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "63373"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1882"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=5XE4AQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=W3A4AQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=XHA4AQAAMAAJ"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=0006-324X"
+  }, {
+    "@id" : "http://www.pbsw.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-324X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210204600"
+  }, {
+    "@value" : "S4306524008"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "8B923AE7-9F79-420A-9685-91F47AD5215C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0006-324X"
+  }, {
+    "@value" : "1943-6327"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Biological Society of Washington"
+  } ]
+} ]

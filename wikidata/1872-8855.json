@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758166",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Anthropod-plant interactions"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "62750"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springerlink.com/content/1872-8855"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1872-8847"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S61151778"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1872-8847"
+  }, {
+    "@value" : "1872-8855"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Arthropod-Plant Interactions"
+  }, {
+    "@language" : "en",
+    "@value" : "Anthropod-plant interactions"
+  } ]
+} ]

@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755771",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Genes & Genetic Systems"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "6368"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1880-5779"
+  }, {
+    "@value" : "1341-7568"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://wwwsoc.nii.ac.jp/gsj3/GGS.html"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/ggs/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1341-7568"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "ggs"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S136610595"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1341-7568"
+  }, {
+    "@value" : "1880-5779"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Genes & genetic systems"
+  }, {
+    "@language" : "en",
+    "@value" : "Genes and Genetic Systems"
+  } ]
+} ]

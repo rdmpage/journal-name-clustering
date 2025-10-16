@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15746122",
+  "http://example.com/crossref" : [ {
+    "@value" : "76380"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1939-7445"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/loi/nrm"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/journal/118902516/home"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/19397445"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0890-8575"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S178576304"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1939-7445"
+  }, {
+    "@value" : "0890-8575"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Natural Resource Modeling"
+  }, {
+    "@language" : "en",
+    "@value" : "Natural resource modeling"
+  } ]
+} ]

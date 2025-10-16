@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27718119",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Comparative Pathology and Therapeutics"
+  }, {
+    "@language" : "en",
+    "@value" : "J Comp Pathol Ther"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "191985"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0368-1742"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210223609"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0368-1742"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Comparative Pathology and Therapeutics"
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of comparative pathology and therapeutics"
+  } ]
+} ]

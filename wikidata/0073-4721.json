@@ -1,0 +1,59 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760888",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Iheringia. Sér. zool."
+  }, {
+    "@language" : "en",
+    "@value" : "Iheringia: Série Zoologia"
+  }, {
+    "@language" : "en",
+    "@value" : "Iheringia, Série Zoologia"
+  }, {
+    "@language" : "en",
+    "@value" : "Iheringia. Série zoologia."
+  }, {
+    "@language" : "en",
+    "@value" : "Iheringia. Serie Zoologia"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "50228"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "45584"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1678-4766"
+  }, {
+    "@value" : "0073-4721"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.scielo.br/isz"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0073-4721"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S126474381"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "899EEAA3-AD63-4596-B899-06E14D5A1C28"
+  }, {
+    "@value" : "FDE01CC1-2C7E-4C45-8E82-1A9CFA673A55"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0073-4721"
+  }, {
+    "@value" : "1678-4766"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Iheringia. Série zoologia"
+  }, {
+    "@language" : "und",
+    "@value" : "Iheringia. Série zoologia."
+  } ]
+} ]

@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7923710",
+  "http://example.com/crossref" : [ {
+    "@value" : "15057"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://vet.sagepub.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0300-9858"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S195318895"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0300-9858"
+  }, {
+    "@value" : "1544-2217"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Veterinary Pathology"
+  } ]
+} ]

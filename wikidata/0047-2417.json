@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q65640599",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0047-2417"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "109525"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3113/issues"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0047-2417"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210195352"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1975"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2056-5283"
+  }, {
+    "@value" : "0047-2417"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of entomology. Series B, Taxonomy"
+  } ]
+} ]

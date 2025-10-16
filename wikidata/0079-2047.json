@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6074779",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Phyton (Horn)"
+  }, {
+    "@language" : "en",
+    "@value" : "Phyton (Horn)"
+  }, {
+    "@language" : "en",
+    "@value" : "Phyton. Annales Rei Botanicae"
+  }, {
+    "@language" : "es",
+    "@value" : "Phyton (Horn)"
+  }, {
+    "@language" : "fr",
+    "@value" : "Phyton (Horn)"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0079-2047"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S128633968"
+  }, {
+    "@value" : "S4306522524"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0079-2047"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Phyton"
+  }, {
+    "@language" : "la",
+    "@value" : "Phyton"
+  } ]
+} ]

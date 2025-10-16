@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385157",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=hZdKAQAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=XJdKAQAAIAAJ"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/15478111.html"
+  }, {
+    "@id" : "http://hbs.bishopmuseum.org/pubs-online/bpbm-bulletins.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0893-3146"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0893-3146"
+  }, {
+    "@value" : "2376-3124"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bishop Museum bulletin in entomology"
+  } ]
+} ]

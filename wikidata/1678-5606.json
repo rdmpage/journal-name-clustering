@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q89415503",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Colet. Orquídeas Brasil."
+  }, {
+    "@language" : "en",
+    "@value" : "Colet. Orquídeas Brasil."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1678-5606"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1678-5606"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Coletânea de Orquídeas Brasileiras"
+  } ]
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96702730",
+  "http://example.com/crossref" : [ {
+    "@value" : "332637"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2624-9375"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.frontiersin.org/journals/water#articles"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2624-9375"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210177373"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2624-9375"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Frontiers in water"
+  } ]
+} ]

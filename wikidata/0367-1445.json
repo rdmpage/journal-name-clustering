@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4532102",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0367-1445"
+  }, {
+    "@language" : "en",
+    "@value" : "Entomologicheskoye obozreniye"
+  }, {
+    "@language" : "en",
+    "@value" : "Энтомологическое обозрение"
+  }, {
+    "@language" : "en",
+    "@value" : "Èntomologičeskoe obozrenie"
+  }, {
+    "@language" : "ru",
+    "@value" : "Èntomologičeskoe obozrenie"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "325270"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1933"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://entrevras.ru/"
+  }, {
+    "@id" : "https://www.zin.ru/journals/entrev/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0367-1445"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764528406"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0367-1445"
+  }, {
+    "@value" : "3034-6223"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Энтомологическое обозрение"
+  } ]
+} ]

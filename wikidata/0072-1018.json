@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386345",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Geol. Palaeontol."
+  }, {
+    "@language" : "fr",
+    "@value" : "Geologica et Palæontologica"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0072-1018"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2012"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "806E7B86-39DC-4A64-8C85-1CFACCB0D159"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0072-1018"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Geologica et palaeontologica"
+  } ]
+} ]

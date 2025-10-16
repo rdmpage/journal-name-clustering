@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757480",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The New Zealand entomologist"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "171866"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=9CwlAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=aC0lAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=Ei4lAQAAMAAJ"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/tnze20"
+  }, {
+    "@id" : "https://www.tandfonline.com/toc/tnze20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0077-9962"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2483219354"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "F5B1E166-0CC1-49E7-8E3A-3B7A24A875F5"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0077-9962"
+  }, {
+    "@value" : "1179-3430"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "New Zealand Entomologist"
+  }, {
+    "@language" : "en",
+    "@value" : "The New Zealand entomologist"
+  } ]
+} ]

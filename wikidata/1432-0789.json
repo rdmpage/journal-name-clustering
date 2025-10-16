@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759219",
+  "http://example.com/crossref" : [ {
+    "@value" : "741"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.de/journals/bfs"
+  }, {
+    "@id" : "http://link.springer.de/link/service/journals/00374/index.htm"
+  }, {
+    "@id" : "http://www.link.springer-ny.com/link/service/journals/00374/index.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0178-2762"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S99756463"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0178-2762"
+  }, {
+    "@value" : "1432-0789"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biology and Fertility of Soils"
+  } ]
+} ]

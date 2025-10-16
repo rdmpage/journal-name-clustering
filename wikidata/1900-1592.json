@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q30017169",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1900-1592"
+  }, {
+    "@language" : "es",
+    "@value" : "Conservacion colombiana"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1900-1592"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4220650946"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1900-1592"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Conservacion colombiana"
+  } ]
+} ]

@@ -1,0 +1,66 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3085258",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Am. Nat."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Amer. Naturalist"
+  }, {
+    "@language" : "ja",
+    "@value" : "アメリカン.ナチュラリスト"
+  }, {
+    "@language" : "en",
+    "@value" : "Am. Nat."
+  }, {
+    "@language" : "en",
+    "@value" : "American Naturalist"
+  }, {
+    "@language" : "en",
+    "@value" : "The American Naturaliste"
+  }, {
+    "@language" : "fr",
+    "@value" : "American Naturalist"
+  }, {
+    "@language" : "en",
+    "@value" : "The American naturalist"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "62169"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4871"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1867"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/journals/00030147.html"
+  }, {
+    "@id" : "https://www.journals.uchicago.edu/toc/an/current"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/1480477.html"
+  }, {
+    "@id" : "http://infotrac.galegroup.com/itw/infomark/1/1/1/purl=rc18_AONE_0__jn+%22American+Naturalist%22?sw_aep=ocul_mcmaster"
+  }, {
+    "@id" : "http://www.journals.uchicago.edu/AN/home.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-0147"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "amernatu"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S122176235"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1537-5323"
+  }, {
+    "@value" : "0003-0147"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The American Naturalist"
+  } ]
+} ]

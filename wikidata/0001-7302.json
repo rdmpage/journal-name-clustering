@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q105241277",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Dongwu xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Dong wu xue bao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "BEAR"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1949"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-7302"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500609"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2008"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-7302"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "动物学报"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Zoologica Sinica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Dongwu xuebao"
+  } ]
+} ]

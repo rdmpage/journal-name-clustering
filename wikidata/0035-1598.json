@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27720922",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Rev. Micropaleontol."
+  }, {
+    "@language" : "fr",
+    "@value" : "Revue de micropaléontologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Rev. Micropaleontol."
+  }, {
+    "@language" : "es",
+    "@value" : "Rev. Micropaleontol."
+  }, {
+    "@language" : "de",
+    "@value" : "Rev. Micropaleontol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "16877"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.sciencedirect.com/journal/revue-de-micropaleontologie/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0035-1598"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2898090153"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1873-4413"
+  }, {
+    "@value" : "0035-1598"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Revue de micropaléontologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Revue de micropaleontologie (Online)"
+  } ]
+} ]

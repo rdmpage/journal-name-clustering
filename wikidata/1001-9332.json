@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714785",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of Applied Ecology"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Applied Ecology"
+  }, {
+    "@language" : "en",
+    "@value" : "Ying Yong Sheng Tai Xue Bao"
+  }, {
+    "@language" : "en",
+    "@value" : "Ying yong sheng tai xue bao = The journal of applied ecology"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.cjae.net"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1001-9332"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764758288"
+  }, {
+    "@value" : "S4306535403"
+  }, {
+    "@value" : "S4306548585"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1001-9332"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Yingyong shengtai xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "应用生态学报"
+  } ]
+} ]

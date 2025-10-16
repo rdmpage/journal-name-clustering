@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723366",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Microsc Anal (Am Ed)"
+  }, {
+    "@language" : "en",
+    "@value" : "Microscopy and analysis"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2043-0639"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2043-0639"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Microscopy and analysis"
+  }, {
+    "@language" : "en",
+    "@value" : "Microscopy and analysis (Americas ed.)"
+  } ]
+} ]

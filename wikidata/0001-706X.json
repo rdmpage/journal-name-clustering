@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762560",
+  "http://example.com/crossref" : [ {
+    "@value" : "1556"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1944"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/acta-tropica/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/0001706X"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-706X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S190456265"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1873-6254"
+  }, {
+    "@value" : "0001-706X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta tropica"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Tropica"
+  } ]
+} ]

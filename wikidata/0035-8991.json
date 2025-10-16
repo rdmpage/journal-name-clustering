@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27716122",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Irish Academy"
+  }, {
+    "@language" : "en",
+    "@value" : "Proc R Ir Acad C Archaeol Celt Stud Hist Linguist Lit"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Irish Academy. Section C, Archaeology, Celtic studies, history, linguistics, literature"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "75783"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ria.ie/publications/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0035-8991"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "procriasectc"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210228739"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0035-8991"
+  }, {
+    "@value" : "2009-0048"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Irish Academy. Section C, Archaeology, Celtic studies, history, linguistics, literature"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Irish Academy. Section C. Archaeology, Celtic studies, history, linguistics and literature. Royal Irish Academy"
+  } ]
+} ]

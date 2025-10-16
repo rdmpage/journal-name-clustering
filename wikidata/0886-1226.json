@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108689445",
+  "http://example.com/bhl" : [ {
+    "@value" : "69278"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1830"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1893"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "14A63A0C-7A21-4964-822E-813C98411BD3"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0886-1226"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Albany Institute"
+  } ]
+} ]

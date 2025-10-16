@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755710",
+  "http://example.com/crossref" : [ {
+    "@value" : "9956"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.israelsciencejournals.com/plants.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0792-9978"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S75377316"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0792-9978"
+  }, {
+    "@value" : "2223-8980"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Israel Journal of Plant Sciences"
+  } ]
+} ]

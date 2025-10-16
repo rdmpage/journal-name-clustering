@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758767",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Acta Parasitol."
+  }, {
+    "@language" : "fr",
+    "@value" : "Acta Parasitol."
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Parasitol."
+  }, {
+    "@language" : "de",
+    "@value" : "Acta Parasitol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "56447"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.actaparasitologica.pan.pl/acta.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1230-2821"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S120551135"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "42E4DEED-D1AA-46CB-8C32-D6EB71D847EC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1230-2821"
+  }, {
+    "@value" : "1896-1851"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Parasitologica"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Parasitologica"
+  } ]
+} ]

@@ -1,0 +1,55 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385275",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Entom. Meddel."
+  }, {
+    "@language" : "de",
+    "@value" : "Entom. Meddel."
+  }, {
+    "@language" : "fr",
+    "@value" : "Entom. Meddel."
+  }, {
+    "@language" : "en",
+    "@value" : "Entomol. medd."
+  }, {
+    "@language" : "es",
+    "@value" : "Entom. Meddel."
+  }, {
+    "@language" : "pt",
+    "@value" : "Entom. Meddel."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "11664"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297338"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1887"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://entomologiskforening.dk/tidsskrift/"
+  }, {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/11664#/summary"
+  }, {
+    "@id" : "http://www.entomologiskforening.dk/entomologiske-meddelelser/artikler"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-8851"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210212359"
+  }, {
+    "@value" : "S4306509530"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2246-8544"
+  }, {
+    "@value" : "0013-8851"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "da",
+    "@value" : "Entomologiske meddelelser"
+  } ]
+} ]

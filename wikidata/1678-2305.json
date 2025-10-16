@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q73908810",
+  "http://example.com/crossref" : [ {
+    "@value" : "300314"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1678-2305"
+  }, {
+    "@value" : "0046-9939"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://institutodepesca.org/index.php/bip"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0046-9939"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S27014582"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0046-9939"
+  }, {
+    "@value" : "1678-2305"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Boletim do Instituto de Pesca"
+  } ]
+} ]

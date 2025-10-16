@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751337",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Maǧallaẗ Asyūṭ al-ṭibiyyaẗ al-baytariyyaẗ"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2314-5226"
+  }, {
+    "@value" : "1012-5973"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://avmj.journals.ekb.eg"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1012-5973"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764436232"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1012-5973"
+  }, {
+    "@value" : "2314-5226"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Maǧallaẗ Asyūṭ al-ṭibiyyaẗ al-baytariyyaẗ"
+  } ]
+} ]

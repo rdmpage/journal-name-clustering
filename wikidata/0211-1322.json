@@ -1,0 +1,63 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5674339",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Anales Jard. Bot. Madrid"
+  }, {
+    "@language" : "es",
+    "@value" : "Anales del Jardin Botanico de Madrid"
+  }, {
+    "@language" : "de",
+    "@value" : "Anales Jard. Bot. Madrid"
+  }, {
+    "@language" : "en",
+    "@value" : "Anales del Jardin Botanico de Madrid"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "71237"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "79164"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "80"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1988-3196"
+  }, {
+    "@value" : "0211-1322"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1941"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.torrossa.com/es/resources/an/4911754?digital=true"
+  }, {
+    "@id" : "http://rjb.revistas.csic.es"
+  }, {
+    "@id" : "https://dialnet.unirioja.es/servlet/revista?codigo=80"
+  }, {
+    "@id" : "https://rjb.revistas.csic.es/index.php/rjb/issue/archive"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0211-1322"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S126239034"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1950"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0211-1322"
+  }, {
+    "@value" : "1988-3196"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Anales del Jardín Botánico de Madrid"
+  }, {
+    "@language" : "mul",
+    "@value" : "Anales del Jardín Botánico de Madrid"
+  } ]
+} ]

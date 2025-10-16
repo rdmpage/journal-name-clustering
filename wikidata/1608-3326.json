@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725172",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Russ J Dev Biol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3060"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=1062-3604;screen=info;ECOIP"
+  }, {
+    "@id" : "https://www.pleiades.online/en/journal/devbio/"
+  }, {
+    "@id" : "https://www.springer.com/journal/11174"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1062-3604"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S86500987"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1062-3604"
+  }, {
+    "@value" : "1608-3326"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Russian journal of developmental biology"
+  } ]
+} ]

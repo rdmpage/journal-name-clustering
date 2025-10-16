@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2499875",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Front. Genet."
+  }, {
+    "@language" : "de",
+    "@value" : "Front. Genet."
+  }, {
+    "@language" : "fr",
+    "@value" : "Front. Genet."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "115585"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1664-8021"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.frontiersin.org/journals/genetics#articles"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1664-8021"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2597340651"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1664-8021"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Frontiers in genetics"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108890038",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Association for Mexican Cave Studies Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin Ass mex Cave Stud"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.mexicancaves.org/bul/bulcat.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0571-5628"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0571-5628"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Association for Mexican Cave Studies Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the Association for Mexican Cave Studies"
+  } ]
+} ]

@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21384994",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ann. Parasitol. Humaine Comp."
+  }, {
+    "@language" : "ru",
+    "@value" : "Ann. Parasitol. Humaine Comp."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "301613"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1923"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.parasite-journal.org/"
+  }, {
+    "@id" : "https://www.parasite-journal.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-4150"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2754010042"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A2DE5A48-64D4-4EA3-84C6-5AC4E8B48480"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0003-4150"
+  }, {
+    "@value" : "2772-4042"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Annales de Parasitologie Humaine et Comparée"
+  } ]
+} ]

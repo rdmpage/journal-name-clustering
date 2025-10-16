@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751440",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Revista de Fisiología y Bioquímica"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "89388"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "3319"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1945"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springer.com/biomed/journal/13105"
+  }, {
+    "@id" : "https://link.springer.com/journal/volumesAndIssues/13105"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1138-7548"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S68195922"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1138-7548"
+  }, {
+    "@value" : "1877-8755"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Physiology and Biochemistry"
+  }, {
+    "@language" : "mul",
+    "@value" : "Journal of physiology and biochemistry"
+  } ]
+} ]

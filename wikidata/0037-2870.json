@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385829",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nihon-suisan-gakkai-shi"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0037-2870"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "307234"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/72814/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0037-2870"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "P4320800562"
+  }, {
+    "@value" : "S2765048718"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2189-2695"
+  }, {
+    "@value" : "0037-2870"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Publications of the Seto Marine Biological Laboratory"
+  } ]
+} ]

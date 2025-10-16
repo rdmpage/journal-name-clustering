@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50478709",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Berkala Penelitian Hayati"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "304547"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0852-6834"
+  }, {
+    "@value" : "2337-389X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.berkalahayati.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0852-6834"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737671603"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2337-389X"
+  }, {
+    "@value" : "0852-6834"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "id",
+    "@value" : "Berkala Penelitian Hayati"
+  } ]
+} ]

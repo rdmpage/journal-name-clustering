@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51418648",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mems R. Acad. Cienc. Artes Barcelona"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "145270"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2462-3334"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306519724"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2462-3334"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Memorias de la Real Academia de Ciencias y Artes de Barcelona"
+  }, {
+    "@language" : "ca",
+    "@value" : "Memòries de la Reial Acadèmia de Ciències i Arts de Barcelona"
+  } ]
+} ]

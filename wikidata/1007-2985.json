@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96326213",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1007-2985"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1007-2985"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Jishou Daxue xuebao. Ziran kexue ban"
+  } ]
+} ]

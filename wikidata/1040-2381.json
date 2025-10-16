@@ -1,0 +1,61 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767046",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Lake & Reservoir Management"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the annual Conference - North American Lake Management Society. Conference"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "85397"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0743-8141"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S199190827"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0743-8141"
+  }, {
+    "@value" : "1040-2381"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Lake and Reservoir Management"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the annual Conference - North American Lake Management Society. Conference"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q68825646",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Lake and reservoir management"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.informaworld.com/ULRM"
+  }, {
+    "@id" : "http://www.nalms.org/Publications/Journal/Default.aspx"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/ulrm20"
+  }, {
+    "@id" : "https://www.tandfonline.com/toc/ulrm20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1040-2381"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210189150"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2151-5530"
+  }, {
+    "@value" : "1040-2381"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Lake and reservoir management"
+  } ]
+} ]

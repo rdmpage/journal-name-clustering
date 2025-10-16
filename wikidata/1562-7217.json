@@ -1,0 +1,10 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q116003371",
+  "http://schema.org/issn" : [ {
+    "@value" : "1562-7217"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista Guatemalensis"
+  } ]
+} ]

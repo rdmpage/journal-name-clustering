@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q45099078",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Wilson bull."
+  }, {
+    "@language" : "fr",
+    "@value" : "The Wilson Bulletin A Quaterly Magazine of Ornithology"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8617"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57448"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1894"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://elibrary.unm.edu/sora/Wilson/index1.php"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/9966"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=0043-5643"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00435643.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0043-5643"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "wilsbull"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210223863"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2162-5204"
+  }, {
+    "@value" : "0043-5643"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Wilson bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Wilson Bulletin"
+  } ]
+} ]

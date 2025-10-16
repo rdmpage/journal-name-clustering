@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26867040",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Türkiye Parazitoloji Dergisi"
+  }, {
+    "@language" : "en",
+    "@value" : "Turkish Journal of Parasitology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "119566"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2146-3077"
+  }, {
+    "@value" : "1300-6320"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tparazitolderg.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1300-6320"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210216721"
+  }, {
+    "@value" : "S4306533555"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1300-6320"
+  }, {
+    "@value" : "2146-3077"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Türkiye parazitoloji dergisi"
+  } ]
+} ]

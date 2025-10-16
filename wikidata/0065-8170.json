@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386049",
+  "http://example.com/bhl" : [ {
+    "@value" : "6193"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297360"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1916"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0065-8170"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210240924"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0065-8170"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of the American Entomological Society"
+  } ]
+} ]

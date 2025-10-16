@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q18712759",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Ann. Rev. Mar. Sci."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "77439"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2009"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://arjournals.annualreviews.org/loi/marine"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/190859183.html"
+  }, {
+    "@id" : "http://www.annualreviews.org/journal/marine"
+  }, {
+    "@id" : "http://www.annualreviews.org/loi/marine"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1941-0611"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S43203325"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1941-0611"
+  }, {
+    "@value" : "1941-1405"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annual review of marine science"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q56827370",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://data.environment.sa.gov.au/Plants-and-Animals/Herbarium-Journals/Pages/All-Volumes.aspx"
+  }, {
+    "@id" : "https://www.jstor.org/journal/swainsona"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2206-1649"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2206-1649"
+  }, {
+    "@value" : "2206-1657"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Swainsona"
+  }, {
+    "@language" : "en",
+    "@value" : "Swainsona"
+  } ]
+} ]

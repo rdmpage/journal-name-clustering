@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q29035413",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://geoecomar.ro/en/publications/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1224-6808"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306511278"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1224-6808"
+  }, {
+    "@value" : "2248-2776"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Geo-Eco-Marina"
+  } ]
+} ]

@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3090883",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Funct. Ecol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3582"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0269-8463;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=fecoe5"
+  }, {
+    "@id" : "http://www.blackwellpublishing.com/journal.asp?ref=0269-8463&site=1"
+  }, {
+    "@id" : "http://www.functionalecology.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0269-8463"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "funcecol"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S174303711"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0269-8463"
+  }, {
+    "@value" : "1365-2435"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Functional Ecology"
+  } ]
+} ]

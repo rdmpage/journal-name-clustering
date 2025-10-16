@@ -1,0 +1,100 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q43061564",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Humanity space, Int. alm."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Humanity space"
+  }, {
+    "@language" : "fr",
+    "@value" : "Humanity space"
+  }, {
+    "@language" : "ru",
+    "@value" : "Humanity space"
+  }, {
+    "@language" : "en",
+    "@value" : "Humanity space"
+  }, {
+    "@language" : "de",
+    "@value" : "Humanitärer Raum"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 2226-0773"
+  }, {
+    "@language" : "en",
+    "@value" : "2226-0773"
+  }, {
+    "@language" : "en",
+    "@value" : "HSIA"
+  }, {
+    "@language" : "ru",
+    "@value" : "Гуман. Прос.Межд. Алм."
+  }, {
+    "@language" : "en",
+    "@value" : "Gumanitarnoe prostranstvo. Mezhdunarodnyj almanakh"
+  }, {
+    "@language" : "de",
+    "@value" : "Humanity space. International almanac"
+  }, {
+    "@language" : "ru",
+    "@value" : "Humanity space. International almanac"
+  }, {
+    "@language" : "ru",
+    "@value" : "ГПМА"
+  }, {
+    "@language" : "es",
+    "@value" : "Humanity space"
+  }, {
+    "@language" : "en",
+    "@value" : "Humanity space, Int. alm."
+  }, {
+    "@language" : "ru",
+    "@value" : "ISSN 2226-0773"
+  }, {
+    "@language" : "ru",
+    "@value" : "2226-0773"
+  }, {
+    "@language" : "ru",
+    "@value" : "Гуманитарное пространство"
+  }, {
+    "@language" : "en",
+    "@value" : "Humanity space. International almanac"
+  }, {
+    "@language" : "en",
+    "@value" : "Gumanitarnoe prostranstvo"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2012"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://humanityspace.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2226-0773"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "W4288050175"
+  }, {
+    "@value" : "S4306539047"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "17B9A925-660E-40C3-A36B-E5E2848493E0"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2226-0773"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Humanity space"
+  }, {
+    "@language" : "ru",
+    "@value" : "Гуманитарное пространство. Международный альманах"
+  }, {
+    "@language" : "ru",
+    "@value" : "Гуманитарное пространство"
+  }, {
+    "@language" : "en",
+    "@value" : "Humanity space. International almanac"
+  } ]
+} ]

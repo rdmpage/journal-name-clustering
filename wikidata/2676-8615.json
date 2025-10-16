@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96696209",
+  "http://example.com/crossref" : [ {
+    "@value" : "353157"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2019"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://akademiai.com/loi/019/"
+  }, {
+    "@id" : "https://www.springer.com/journal/42977"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2676-8607"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210189402"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2676-8615"
+  }, {
+    "@value" : "2676-8607"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biologia futura"
+  } ]
+} ]

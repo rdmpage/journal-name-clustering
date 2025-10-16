@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386320",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin de l'Institut océanographique"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Inst. océanogr. (Monaco)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "2185"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297340"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1907"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0304-5722"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210175029"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0304-5722"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bulletin de l'Institut océanographique"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de l'Institut océanographique de Monaco."
+  } ]
+} ]

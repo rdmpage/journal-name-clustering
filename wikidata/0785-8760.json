@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763069",
+  "http://example.com/crossref" : [ {
+    "@value" : "344197"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1990"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journal.fi/entomolfennica"
+  }, {
+    "@id" : "http://www.entomologicafennica.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0785-8760"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S11249774"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2020"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "4AA61108-FAAF-40A7-A9AA-86A24FC6DEEC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2489-4966"
+  }, {
+    "@value" : "0785-8760"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Entomologica Fennica"
+  }, {
+    "@language" : "la",
+    "@value" : "Entomologica Fennica"
+  } ]
+} ]

@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750918",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bonn. zool. Beitr."
+  }, {
+    "@language" : "en",
+    "@value" : "Bonner Zoologische Beitraege"
+  }, {
+    "@language" : "en",
+    "@value" : "Bonner zoologische Beiträge : Herausgeber: Zoologisches Forschungsinstitut und Museum Alexander Koenig, Bonn."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0006-7172"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "82240"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1950"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-7172"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737809785"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2009"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "C3277809-74C1-4A1E-937A-74064DAB64EB"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0006-7172"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bonner zoologische Beiträge"
+  }, {
+    "@language" : "de",
+    "@value" : "Bonner zoologische Beiträge"
+  } ]
+} ]

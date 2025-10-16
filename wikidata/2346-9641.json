@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5976433",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Lilloa; Revista de Botanica"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "314332"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2346-9641"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.lillo.org.ar/journals/index.php/lilloa/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0075-9481"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210167646"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://www.lillo.org.ar/journals/index.php/lilloa/gateway/plugin/WebFeedGatewayPlugin/atom"
+  }, {
+    "@id" : "https://www.lillo.org.ar/journals/index.php/lilloa/gateway/plugin/WebFeedGatewayPlugin/rss"
+  }, {
+    "@id" : "https://www.lillo.org.ar/journals/index.php/lilloa/gateway/plugin/WebFeedGatewayPlugin/rss2"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0075-9481"
+  }, {
+    "@value" : "2346-9641"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Lilloa"
+  } ]
+} ]

@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756024",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Comunicações do Instituto Geológico e Mineiro"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.oces.mctes.pt/scielo.php/script_sci_serial/pid_1647-581X/lng_pt/nrm_iso"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0873-948X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0873-948X"
+  }, {
+    "@value" : "1647-581X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Comunicações geológicas"
+  } ]
+} ]

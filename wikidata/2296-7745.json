@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725763",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Front Mar Sci"
+  }, {
+    "@language" : "en",
+    "@value" : "Front. Mar. Sci."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "238133"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2296-7745"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.frontiersin.org/journals/marine-science#articles"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2296-7745"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2596539584"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2296-7745"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Frontiers in Marine Science"
+  } ]
+} ]

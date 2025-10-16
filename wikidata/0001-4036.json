@@ -1,0 +1,107 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2667573",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "C. R. Acad. Sci."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "CRAS"
+  }, {
+    "@language" : "fr",
+    "@value" : "C.R. Hebd. Séances Acad. Sci."
+  }, {
+    "@language" : "fr",
+    "@value" : "C. R. Acad. Sci."
+  }, {
+    "@language" : "de",
+    "@value" : "Comptes rendus des séances de l'Académie des sciences. Vie académique"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes rendus des séances de l'Académie des sciences. Vie académique"
+  }, {
+    "@language" : "zh",
+    "@value" : "法國科學院院刊"
+  }, {
+    "@language" : "fr",
+    "@value" : "C. r. hebd. séances Acad. sci."
+  }, {
+    "@language" : "de",
+    "@value" : "Comptes rendus hebdomadaires des séances de l'Académie des sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Comptes rendus hebdomadaires des séances de l'Académie des sciences"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes rendus hebdomadaires des séances de l'Académie des sciences"
+  }, {
+    "@language" : "zh",
+    "@value" : "法國科學院報告"
+  }, {
+    "@language" : "zh",
+    "@value" : "法国科学院学报"
+  }, {
+    "@language" : "fr",
+    "@value" : "CRAS"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes rendus de l'Academie des sciences"
+  }, {
+    "@language" : "es",
+    "@value" : "Comptes Rendus Hebdomadaires des Séances de l'Academie des Sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "C. r. hebd. séances Acad. sci."
+  }, {
+    "@language" : "en",
+    "@value" : "C. R. Acad. Sci."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "4466"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297262"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1835"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://gallica.bnf.fr/ark:/12148/cb343481087/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0249-6321"
+  }, {
+    "@value" : "0001-4036"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2756273686"
+  }, {
+    "@value" : "S40805625"
+  }, {
+    "@value" : "S4210179703"
+  }, {
+    "@value" : "S4210191756"
+  }, {
+    "@value" : "S4210196005"
+  }, {
+    "@value" : "S4210233446"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1965"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-4036"
+  }, {
+    "@value" : "0249-6321"
+  }, {
+    "@value" : "2419-7610"
+  }, {
+    "@value" : "2419-6304"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Comptes rendus de l'Académie des Sciences"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes Rendus Hebdomadaires des Séances de l'Académie des Sciences"
+  } ]
+} ]

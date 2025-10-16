@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726750",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mamm Res"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "259589"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/13364"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2199-241X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210187125"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2199-241X"
+  }, {
+    "@value" : "2199-2401"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Mammal Research"
+  } ]
+} ]

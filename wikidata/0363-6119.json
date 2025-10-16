@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2201819",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "American journal of physiology. Regulatory, integrative and comparative physiology"
+  }, {
+    "@language" : "en",
+    "@value" : "Regulatory, integrative and comparative physiology"
+  }, {
+    "@language" : "en",
+    "@value" : "American journal of physiology: Regulatory, integrative and comparative physiology"
+  }, {
+    "@language" : "en",
+    "@value" : "AJP: regulatory, integrative and comparative physiology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "22944"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1977"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ajpregu.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0363-6119"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S59702976"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1522-1490"
+  }, {
+    "@value" : "0363-6119"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "American journal of physiology. Regulatory, integrative and comparative physiology"
+  } ]
+} ]

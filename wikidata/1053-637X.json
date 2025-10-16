@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725931",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Walkerana (Ann Arbor Mich)"
+  }, {
+    "@language" : "en",
+    "@value" : "Walkerana"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/10480343.html"
+  }, {
+    "@id" : "http://molluskconservation.org/Walkerana_BackIssues.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1053-637X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2472-2901"
+  }, {
+    "@value" : "1053-637X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Walkerana"
+  }, {
+    "@language" : "en",
+    "@value" : "Walkerana : transactions of the POETS Society"
+  } ]
+} ]

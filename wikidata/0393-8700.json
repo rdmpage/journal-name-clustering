@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385980",
+  "http://example.com/from_year" : [ {
+    "@value" : "1980"
+  }, {
+    "@value" : "1979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.museoscienzebergamo.it/educazione/pubblicazioni/rivista-del-museo/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0393-8700"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0393-8700"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Rivista del Museo civico di scienze naturali \"E. Caffi\""
+  } ]
+} ]

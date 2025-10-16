@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3040317",
+  "http://example.com/crossref" : [ {
+    "@value" : "1732"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/hearing-research/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/03785955"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0378-5955"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S82774605"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0378-5955"
+  }, {
+    "@value" : "1878-5891"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Hearing Research"
+  } ]
+} ]

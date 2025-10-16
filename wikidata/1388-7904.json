@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762626",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "JME"
+  }, {
+    "@language" : "en",
+    "@value" : "JME. Journal of mediterranean ecology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1388-7904"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1388-7904"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "JME. Journal of mediterranean ecology"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Mediterranean Ecology"
+  } ]
+} ]

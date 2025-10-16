@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759265",
+  "http://example.com/crossref" : [ {
+    "@value" : "60810"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1903-220X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S175034139"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0761-9243"
+  }, {
+    "@value" : "0909-6396"
+  }, {
+    "@value" : "1622-7662"
+  }, {
+    "@value" : "1903-220X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Wildlife Biology"
+  } ]
+} ]

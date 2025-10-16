@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16568424",
+  "http://example.com/crossref" : [ {
+    "@value" : "306907"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sazu.si/publikacije.html"
+  }, {
+    "@id" : "http://www.sazu.si/publikacije/folia.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1855-7996"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210171642"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1855-7996"
+  }, {
+    "@value" : "2335-2914"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "sl",
+    "@value" : "Folia biologica et geologica"
+  }, {
+    "@language" : "la",
+    "@value" : "Folia Biologica et Geologica"
+  } ]
+} ]

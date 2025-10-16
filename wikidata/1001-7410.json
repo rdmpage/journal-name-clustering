@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q98525518",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Disiji yanjiu"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "DSJJ"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1958"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.dsjyj.com.cn/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1001-7410"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306508140"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1001-7410"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "第四纪研究"
+  }, {
+    "@language" : "zh",
+    "@value" : "Disiji yanjiu"
+  }, {
+    "@language" : "en",
+    "@value" : "Quaternary Sciences"
+  }, {
+    "@language" : "zh-hans",
+    "@value" : "中国第四纪研究"
+  } ]
+} ]

@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766889",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ZR"
+  }, {
+    "@language" : "en",
+    "@value" : "Dongwuxue Yanjiu"
+  }, {
+    "@language" : "de",
+    "@value" : "Dongwuxue Yanjiu"
+  }, {
+    "@language" : "fr",
+    "@value" : "Dongwuxue Yanjiu"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "79061"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1980"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0254-5853"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210218118"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0254-5853"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh-hans",
+    "@value" : "动物学研究"
+  } ]
+} ]

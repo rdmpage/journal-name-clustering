@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51444704",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Atti Accad. gioenia Sci. nat."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0390-7686"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "69704"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1824"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0390-7686"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0390-7686"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Atti della Accademia gioenia di scienze naturali in Catania"
+  }, {
+    "@language" : "it",
+    "@value" : "Atti dell'Accademia gioenia di scienze naturali in Catania"
+  } ]
+} ]

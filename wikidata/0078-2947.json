@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q79078864",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Jahresberichte und Mitteilungen des Oberrheinischen Geologischen Vereines"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "186805"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.schweizerbart.de/publications/list/series/jber_oberrh?sort=new&topic=&page=1"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-2947"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210189259"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0078-2947"
+  }, {
+    "@value" : "2509-8349"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Jahresberichte und Mitteilungen des Oberrheinischen Geologischen Vereines"
+  } ]
+} ]

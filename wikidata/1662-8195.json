@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124999572",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "LML"
+  }, {
+    "@language" : "de",
+    "@value" : "LML"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2008"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1662-8195"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1662-8195"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Lepidopterologische Mitteilungen aus Luzern"
+  } ]
+} ]

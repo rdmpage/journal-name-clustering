@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751201",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "GSA Special Papers"
+  }, {
+    "@language" : "de",
+    "@value" : "Special papers / the Geological Society of America"
+  }, {
+    "@language" : "en",
+    "@value" : "Special paper - Geological Society of America"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "249748"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1934"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=3r4PAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=icZKAQAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=SB8cAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=ZZRNAQAAIAAJ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0072-1077"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210221451"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3A50EBCD-DC20-4104-BCA6-5EF49B3F83A3"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2331-219X"
+  }, {
+    "@value" : "0072-1077"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Special paper - Geological Society of America"
+  }, {
+    "@language" : "en",
+    "@value" : "Geological Society of America Special Papers"
+  } ]
+} ]

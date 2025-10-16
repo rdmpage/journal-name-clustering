@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765724",
+  "http://example.com/crossref" : [ {
+    "@value" : "3578"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.blackwell-synergy.com/Journals/issuelist.asp?journal=fis"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0919-9268"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "fishsci1994"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S109884595"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1444-2906"
+  }, {
+    "@value" : "0919-9268"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fisheries Science"
+  } ]
+} ]

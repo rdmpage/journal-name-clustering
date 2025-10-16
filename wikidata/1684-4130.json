@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385660",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Smithiana - Publications in Aquatic Biodiversity'''''; including '''''Smithiana Bulletin''''' and '''''Smithiana Monograph"
+  }, {
+    "@language" : "en",
+    "@value" : "Smithiana, Bull"
+  }, {
+    "@language" : "en",
+    "@value" : "Smithiana. Bulletin"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "141859"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2003"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioline.org.br/sm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1684-4130"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1811-329X"
+  }, {
+    "@value" : "1684-4130"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Smithiana. Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Smithiana Bulletin"
+  } ]
+} ]

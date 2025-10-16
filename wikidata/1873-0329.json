@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760917",
+  "http://example.com/crossref" : [ {
+    "@value" : "1705"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1997"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.journals.elsevier.com/parasitology-international"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/parasitology-international/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1383-5769"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S165236439"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1383-5769"
+  }, {
+    "@value" : "1873-0329"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Parasitology International"
+  } ]
+} ]

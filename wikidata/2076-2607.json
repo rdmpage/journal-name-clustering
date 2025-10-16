@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725360",
+  "http://example.com/crossref" : [ {
+    "@value" : "204705"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2076-2607"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:ch:bel-333845"
+  }, {
+    "@id" : "http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-333845"
+  }, {
+    "@id" : "http://www.mdpi.com/journal/microorganisms"
+  }, {
+    "@id" : "https://www.mdpi.com/journal/microorganisms"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2076-2607"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210222090"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2076-2607"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Microorganisms"
+  } ]
+} ]

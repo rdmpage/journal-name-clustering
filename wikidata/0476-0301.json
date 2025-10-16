@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q110105221",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Beijing shifan daxue xuebao. ziran kexue ban"
+  }, {
+    "@language" : "zh",
+    "@value" : "Beijing shifan daxue xuebao. ziran kexue ban"
+  }, {
+    "@language" : "zh",
+    "@value" : "北京师范大学学报自然科学版"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "BSDZ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0476-0301"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0476-0301"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh-hans",
+    "@value" : "北京师范大学学报（自然科学版）"
+  }, {
+    "@language" : "zh",
+    "@value" : "Beijing shifan daxue xuebao. ziran kexue ban"
+  } ]
+} ]

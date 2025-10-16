@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2062139",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Thin Solid Films"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1480"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/thin-solid-films/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00406090"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0040-6090"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S84339699"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0040-6090"
+  }, {
+    "@value" : "1879-2731"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Thin Solid Films"
+  }, {
+    "@language" : "mul",
+    "@value" : "Thin solid films"
+  } ]
+} ]

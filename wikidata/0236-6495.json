@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5656870",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Acta Bot. Hung."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Acta Bot. Hung."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "30344"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.akademiai.com"
+  }, {
+    "@id" : "http://www.akkrt.hu"
+  }, {
+    "@id" : "http://catalogue.nla.gov.au/record/2289184"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0236-6495"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S41725135"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0236-6495"
+  }, {
+    "@value" : "1588-2578"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Botanica Hungarica"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta botanica Hungarica"
+  } ]
+} ]

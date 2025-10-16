@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27720338",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Rev Iber Parasitol"
+  }, {
+    "@language" : "es",
+    "@value" : "Rev Iber Parasitol"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista iberica de parasitología"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0034-9623"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306527472"
+  }, {
+    "@value" : "S4306527473"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0034-9623"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista iberica de parasitología"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista ibérica de parasitología"
+  } ]
+} ]

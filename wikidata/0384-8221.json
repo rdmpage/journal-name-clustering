@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51417084",
+  "http://example.com/bhl" : [ {
+    "@value" : "14356"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1879"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0384-8221"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1904"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0384-8221"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Canadian Institute"
+  } ]
+} ]

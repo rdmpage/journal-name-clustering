@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q106698297",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Pearce-Sellards Series"
+  }, {
+    "@language" : "en",
+    "@value" : "Pearce Sellards Series,"
+  }, {
+    "@language" : "en",
+    "@value" : "Pearce-Sellards Series, Texas Memorial Museum"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1963"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=HrdfAAAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=l1I4AAAAIAAJ"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/2067916.html"
+  }, {
+    "@id" : "http://tnscpublications.org/tnscp/index.php/pss"
+  }, {
+    "@id" : "https://repositories.lib.utexas.edu/handle/2152/29839"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0079-0354"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2326-327X"
+  }, {
+    "@value" : "0079-0354"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Pearce-Sellards series"
+  }, {
+    "@language" : "en",
+    "@value" : "Pearce-Sellards Series"
+  } ]
+} ]

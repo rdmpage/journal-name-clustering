@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753833",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Archiv fuer Phytopathologie und Pflanzenschutz"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "16260"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandfonline.com/toc/gapp20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0323-5408"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S63663637"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1477-2906"
+  }, {
+    "@value" : "0323-5408"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Archives of Phytopathology and Plant Protection"
+  }, {
+    "@language" : "mul",
+    "@value" : "Archiv für Phytopathologie und Pflanzenschutz"
+  } ]
+} ]

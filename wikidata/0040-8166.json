@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q14494651",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Tissue & Cell"
+  }, {
+    "@language" : "fr",
+    "@value" : "Tissue & Cell"
+  }, {
+    "@language" : "en",
+    "@value" : "Tissue & Cell"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3964"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=0040-8166;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00408166"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0040-8166"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S165572755"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0040-8166"
+  }, {
+    "@value" : "1532-3072"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Tissue and Cell"
+  }, {
+    "@language" : "en",
+    "@value" : "Tissue & cell"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28841177",
+  "http://example.com/doaj" : [ {
+    "@value" : "1314-2488"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://neobiota.pensoft.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1314-2488"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210189550"
+  }, {
+    "@value" : "S4210215112"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1314-2488"
+  }, {
+    "@value" : "1619-0033"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "NeoBiota"
+  } ]
+} ]

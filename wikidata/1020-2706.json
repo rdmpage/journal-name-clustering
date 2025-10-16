@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721711",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Harmful Algae News"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1020-2706"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1020-2706"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Harmful algae news"
+  } ]
+} ]

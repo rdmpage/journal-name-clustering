@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385022",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0774-2819"
+  }, {
+    "@language" : "en",
+    "@value" : "Lambillionea: Revue internationale d'entomologie"
+  }, {
+    "@language" : "fr",
+    "@value" : "Lambillionea : revue internationale d'entomologie"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.lambillionea.be/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0774-2819"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306518066"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0774-2819"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Lambillionea"
+  }, {
+    "@language" : "fr",
+    "@value" : "Lambillionea"
+  } ]
+} ]

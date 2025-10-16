@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386227",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Korean J. Biol. Sci."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "144545"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1226-5071"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210232998"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1226-5071"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Korean Journal of Biological Sciences"
+  } ]
+} ]

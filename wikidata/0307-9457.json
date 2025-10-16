@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763138",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Avian Pathol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4276"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://fernando.catchword.com/vl=1871453/cl=11/nw=1/rpsv/catchword/tandf/03079457/v30n1/s1/p5"
+  }, {
+    "@id" : "http://www.tandfonline.com/toc/cavp20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0307-9457"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S101755860"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0307-9457"
+  }, {
+    "@value" : "1465-3338"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Avian Pathology"
+  } ]
+} ]

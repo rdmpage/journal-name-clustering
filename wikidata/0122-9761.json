@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50426585",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of Marine and Coastal Research"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "310187"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0122-9761"
+  }, {
+    "@value" : "2590-4671"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://boletin.invemar.org.co/ojs/index.php/boletin"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0122-9761"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2738549118"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2590-4671"
+  }, {
+    "@value" : "0122-9761"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletin de investigaciones marinas y costeras"
+  } ]
+} ]

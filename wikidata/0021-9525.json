@@ -1,0 +1,67 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1524550",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Cell Biol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "细胞生物学期刊"
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of Cell Biology"
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of Biophysical and Biochemical Cytology"
+  }, {
+    "@language" : "en",
+    "@value" : "J Cell Biol"
+  }, {
+    "@language" : "fr",
+    "@value" : "J. Cell Biol."
+  }, {
+    "@language" : "fr",
+    "@value" : "J Cell Biol"
+  }, {
+    "@language" : "en",
+    "@value" : "JCB"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Cell Biol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4868"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1955"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=482&action=archive"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/21389"
+  }, {
+    "@id" : "http://www.jcb.org"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00219525.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-9525"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jcellbiology"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S96410829"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0021-9525"
+  }, {
+    "@value" : "1540-8140"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Cell Biology"
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of cell biology"
+  } ]
+} ]

@@ -1,0 +1,57 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15265725",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Trends Ecol. Evol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Trends in Ecology and Evolution"
+  }, {
+    "@language" : "de",
+    "@value" : "TREE"
+  }, {
+    "@language" : "en",
+    "@value" : "TREE"
+  }, {
+    "@language" : "de",
+    "@value" : "Trends Ecol Evol"
+  }, {
+    "@language" : "es",
+    "@value" : "Trends in Ecology and Evolution"
+  }, {
+    "@language" : "en",
+    "@value" : "Trends Ecol Evol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2119"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "4414"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1986"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.cell.com/trends/ecology-evolution/home"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/trends-in-ecology-and-evolution/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0169-5347"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S79131028"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0169-5347"
+  }, {
+    "@value" : "1872-8383"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Trends in Ecology and Evolution"
+  }, {
+    "@language" : "en",
+    "@value" : "Trends in ecology & evolution"
+  } ]
+} ]

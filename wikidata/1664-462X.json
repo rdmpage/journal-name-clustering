@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723840",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Front. Plant Sci."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Front Plant Sci"
+  }, {
+    "@language" : "de",
+    "@value" : "Front Plant Sci"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "119245"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1664-462X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.frontiersin.org/journals/plant-science"
+  }, {
+    "@id" : "https://www.frontiersin.org/journals/plant-science#articles"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1664-462X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2493613807"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1664-462X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Frontiers in plant science"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51442398",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Annu. rep. Mich. Acad. Sci. (1903)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6209"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1903"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1064-9166"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1903"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1064-9166"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annual report of the Michigan Academy of Science"
+  } ]
+} ]

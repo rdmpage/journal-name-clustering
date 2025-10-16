@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113475644",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "Kyuushuu Daigaku Daigakuin Nougaku Kenkyuuin gakugei zasshi"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.lib.kyushu-u.ac.jp/ja/publications_kyushu/sciagri/"
+  }, {
+    "@id" : "https://www.lib.kyushu-u.ac.jp/publications_kyushu/sciagri"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1347-0159"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2433-4871"
+  }, {
+    "@value" : "1347-0159"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "Kyuushuu Daigaku Daigakuin Nougaku Kenkyuuin gakugei zasshi"
+  } ]
+} ]

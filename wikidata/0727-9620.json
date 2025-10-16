@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756097",
+  "http://example.com/crossref" : [ {
+    "@value" : "196026"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.rbgsyd.nsw.gov.au/science/Scientific_publications/cunninghamia/contents_by_volume"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0727-9620"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210205239"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0727-9620"
+  }, {
+    "@value" : "2200-405X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cunninghamia"
+  }, {
+    "@language" : "und",
+    "@value" : "Cunninghamia"
+  } ]
+} ]

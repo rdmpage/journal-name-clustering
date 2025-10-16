@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386310",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0304-0658"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0304-0658"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Bollettino del Laboratorio di Entomologia Agraria \"Filippo Silvestri\" di Portici"
+  }, {
+    "@language" : "mul",
+    "@value" : "Bollettino del Laboratorio di entomologia agraria \"Filippo Silvestri\""
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q88941028",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Trans. Wisconsin Acad. Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "Trans. Wisconsin Acad. Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Wisconsin Academy of Sciences, Arts, and Letters"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0084-0505"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764497797"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0084-0505"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Wisconsin Academy of Sciences, Arts and Letters"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Wisconsin Academy of Sciences, Arts, and Letters"
+  } ]
+} ]

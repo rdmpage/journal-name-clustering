@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4744264",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Am. J. Polit. Sci.."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "AJPS"
+  }, {
+    "@language" : "en",
+    "@value" : "AJPS"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "13551"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "20752"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1956"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ajps.org/"
+  }, {
+    "@id" : "http://books.google.com/books?id=b3YbAAAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=hH4bAAAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=KH0bAAAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=vHobAAAAIAAJ"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1540-5907"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0092-5853"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "amerjpoliscie"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S90314269"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1540-5907"
+  }, {
+    "@value" : "0092-5853"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "American Journal of Political Science"
+  } ]
+} ]

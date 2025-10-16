@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51399045",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The transactions of the Lincolnshire Naturalists' Union"
+  }, {
+    "@language" : "en",
+    "@value" : "Trans. Lincs. Nat. Un."
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Lincolnshire Naturalists' Union"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "12253"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0963-0961"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0963-0961"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions / Lincolnshire Naturalists' Union"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Lincolnshire Naturalists' Union"
+  } ]
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15816962",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Arthropod Systematics and Phylogeny"
+  }, {
+    "@language" : "en",
+    "@value" : "Arthropod systematics & phylogeny"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "423060"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1864-8312"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.arthropod-systematics.de"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1863-7221"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210188621"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "F56F6CF9-7502-4001-A751-35D5F2EF6CA0"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1863-7221"
+  }, {
+    "@value" : "1864-8312"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Arthropod Systematics & Phylogeny"
+  } ]
+} ]

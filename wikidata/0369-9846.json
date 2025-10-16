@@ -1,0 +1,56 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385293",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Teikoku Gakushiin kiji"
+  }, {
+    "@language" : "ja",
+    "@value" : "帝国学士院記事"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0369-9846"
+  }, {
+    "@language" : "fr",
+    "@value" : "Teikoku Gakushiin kiji"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "240688"
+  }, {
+    "@value" : "81978"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1942"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/pjab1912/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0369-9846"
+  }, {
+    "@value" : "0387-9984"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "pjab1912"
+  }, {
+    "@value" : "tja1942"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210174852"
+  }, {
+    "@value" : "S4210235723"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "9D461DFF-8E39-48EA-A1F5-B8FE101C2E5E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0387-9984"
+  }, {
+    "@value" : "1881-1140"
+  }, {
+    "@value" : "0369-9846"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "帝國學士院紀事"
+  } ]
+} ]

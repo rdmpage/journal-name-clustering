@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766798",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-7471"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0375-7471"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Quartaer: Jahrbuch fuer Erforschung des Eiszeitalters und der Steinzeit"
+  }, {
+    "@language" : "de",
+    "@value" : "Quartär"
+  } ]
+} ]

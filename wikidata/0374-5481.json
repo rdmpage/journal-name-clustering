@@ -1,0 +1,97 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q19798858",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Annals and magazine of natural history; zoology, botany, and geology"
+  }, {
+    "@language" : "en",
+    "@value" : "Ann. mag. nat. hist."
+  }, {
+    "@language" : "en",
+    "@value" : "Ann.Mag.nat.Hist."
+  }, {
+    "@language" : "fr",
+    "@value" : "Annals & magazine of natural history"
+  }, {
+    "@language" : "fr",
+    "@value" : "Annals and magazine of natural history, including zoology, botany, and geology"
+  }, {
+    "@language" : "en",
+    "@value" : "Annals and Magazine of Natural History, Including Zoology, Botany and Geology, Being a Continuation of the 'Magazine of Botany and Zoology', and of Louden and Charlesworth's 'Magazine of Natural History'"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0374-5481"
+  }, {
+    "@language" : "es",
+    "@value" : "The Annals and magazine of natural history"
+  }, {
+    "@language" : "de",
+    "@value" : "Ann.Mag.nat.Hist."
+  }, {
+    "@language" : "de",
+    "@value" : "Annals and magazine of natural history, including zoology, botany, and geology"
+  }, {
+    "@language" : "en",
+    "@value" : "The annals & magazine of natural history"
+  }, {
+    "@language" : "en",
+    "@value" : "Annals & magazine of natural history"
+  }, {
+    "@language" : "de",
+    "@value" : "Annals & magazine of natural history"
+  }, {
+    "@language" : "es",
+    "@value" : "Ann.Mag.nat.Hist."
+  }, {
+    "@language" : "de",
+    "@value" : "The Annals and magazine of natural history"
+  }, {
+    "@language" : "en",
+    "@value" : "Annals and magazine of natural history, including zoology, botany, and geology"
+  }, {
+    "@language" : "en",
+    "@value" : "The Annals and magazine of natural history"
+  }, {
+    "@language" : "es",
+    "@value" : "Annals and magazine of natural history, including zoology, botany, and geology"
+  }, {
+    "@language" : "fr",
+    "@value" : "The Annals and magazine of natural history"
+  }, {
+    "@language" : "fr",
+    "@value" : "Ann.Mag.nat.Hist."
+  }, {
+    "@language" : "es",
+    "@value" : "Annals & magazine of natural history"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "15774"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "234646"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1840"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0374-5481"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210178952"
+  }, {
+    "@value" : "S4306532066"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1966"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0374-5481"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Annals and magazine of natural history; zoology, botany, and geology being a continuation of the Annals combined with Loudon and Charlesworth's Magazine of Natural History."
+  }, {
+    "@language" : "en",
+    "@value" : "Annals & magazine of natural history"
+  } ]
+} ]

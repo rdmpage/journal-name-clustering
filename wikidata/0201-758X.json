@@ -1,0 +1,10 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719476",
+  "http://schema.org/issn" : [ {
+    "@value" : "0201-758X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Visnyk L'vivs'koho universytetu. Seriia biolohichna"
+  } ]
+} ]

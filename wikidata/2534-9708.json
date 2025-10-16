@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q61056529",
+  "http://example.com/crossref" : [ {
+    "@value" : "309885"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2534-9708"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://mbmg.pensoft.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2534-9708"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210182883"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2534-9708"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Metabarcoding and Metagenomics"
+  } ]
+} ]

@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2653025",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Linnean Society. Biological Journal"
+  }, {
+    "@language" : "es",
+    "@value" : "Biol. J. Linn. Soc."
+  }, {
+    "@language" : "de",
+    "@value" : "Biol. J. Linn. Soc."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "501"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1095-8312"
+  }, {
+    "@id" : "http://www.ingenta.com/journals/browse/ap/bj"
+  }, {
+    "@id" : "http://www.ingenta.com/journals/browse/bsc/bij"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00244066"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/journal/118502921/home"
+  }, {
+    "@id" : "https://academic.oup.com/biolinnean"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0024-4066"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S98424699"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E68A6900-F289-4C52-9F29-B667BB31BA35"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1095-8312"
+  }, {
+    "@value" : "0024-4066"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biological Journal of the Linnean Society"
+  } ]
+} ]

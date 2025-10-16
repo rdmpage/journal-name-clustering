@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760094",
+  "http://example.com/crossref" : [ {
+    "@value" : "57330"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1936"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-toc&issn=0018-0831"
+  }, {
+    "@id" : "http://www.hljournals.org/loi/herp"
+  }, {
+    "@id" : "http://www.inhs.uiuc.edu/cbd/HL/Titles.html"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00180831.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0018-0831"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "herpetologica"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S11925254"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0018-0831"
+  }, {
+    "@value" : "1938-5099"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Herpetologica"
+  }, {
+    "@language" : "en",
+    "@value" : "Herpetologica"
+  } ]
+} ]

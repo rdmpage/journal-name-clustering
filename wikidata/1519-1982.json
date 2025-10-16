@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385453",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.biologiageralexperimental.bio.br/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1519-1982"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1519-1982"
+  }, {
+    "@value" : "1980-9689"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Biologia geral e experimental"
+  } ]
+} ]

@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51398837",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Scott. Nat."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "122421"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0268-3385"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Scottish Naturalist"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q51419994",
+  "http://example.com/bhl" : [ {
+    "@value" : "147011"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1955"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0268-3385"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "B.S.B.I. conference reports"
+  } ]
+} ]

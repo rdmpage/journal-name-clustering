@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386038",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biodiversity journal"
+  }, {
+    "@language" : "en",
+    "@value" : "Biodivers. j. (Online)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "139317"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "330699"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2039-0394"
+  }, {
+    "@value" : "2039-0408"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2010"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2039-0394"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210191357"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "7CA0E0A3-093A-470E-836C-9BDBAFE695E0"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2039-0408"
+  }, {
+    "@value" : "2039-0394"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biodiversity journal"
+  } ]
+} ]

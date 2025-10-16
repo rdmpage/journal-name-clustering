@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4042588",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "Landscape Ecology (журнал)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2916"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/volumesAndIssues/10980"
+  }, {
+    "@id" : "http://www.springerlink.com/content/0921-2973"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0921-2973"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S104292366"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0921-2973"
+  }, {
+    "@value" : "1572-9761"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Landscape Ecology"
+  } ]
+} ]

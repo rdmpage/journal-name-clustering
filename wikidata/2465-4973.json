@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q53979107",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Studies in fungi"
+  }, {
+    "@language" : "en",
+    "@value" : "Studies in fungi"
+  }, {
+    "@language" : "en",
+    "@value" : "Stud Fungi"
+  }, {
+    "@language" : "en",
+    "@value" : "Studies in Fungi (Online)"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 2465-4973"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "312151"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2465-4973"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://studiesinfungi.org/"
+  }, {
+    "@id" : "https://www.maxapress.com/journal/sif"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2465-4973"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210203566"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2465-4973"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Studies in fungi"
+  } ]
+} ]

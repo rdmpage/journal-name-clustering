@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15745350",
+  "http://example.com/crossref" : [ {
+    "@value" : "56268"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S187443113"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1004-7301"
+  }, {
+    "@value" : "1008-1321"
+  }, {
+    "@value" : "1993-0372"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Forestry Studies in China"
+  } ]
+} ]

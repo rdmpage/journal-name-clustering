@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15464848",
+  "http://example.com/crossref" : [ {
+    "@value" : "229026"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.persee.fr/collection/jatba"
+  }, {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/cb34378376w/date"
+  }, {
+    "@id" : "https://www.patrimoines-martinique.org/ark:/35569/2qfxkwmchzdr"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-3681"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210197789"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2419-8021"
+  }, {
+    "@value" : "0370-3681"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Revue de botanique appliquée et d'agriculture coloniale"
+  } ]
+} ]

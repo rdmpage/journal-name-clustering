@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754102",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Anthropologie"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2479"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/lanthropologie/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00035521"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-5521"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2898112208"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0003-5521"
+  }, {
+    "@value" : "1873-5827"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "L'Anthropologie"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q103813320",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0440-5757"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0440-5757"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Year Book of the Heather Society"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q51487242",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Year book of the Heather Society"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "77481"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0440-5757"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0440-5757"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Year book of the Heather Society"
+  } ]
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96320416",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Appl Microsc"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "215267"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2287-4445"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://appmicro.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2234-6198"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764999901"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2287-5123"
+  }, {
+    "@value" : "2234-6198"
+  }, {
+    "@value" : "2287-4445"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Han-guk hyeonmigyeong hakoeji"
+  } ]
+} ]

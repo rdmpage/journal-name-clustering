@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50516767",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Kragujevac J Science"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "304255"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1450-9636"
+  }, {
+    "@value" : "2466-5509"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://scindeks.ceon.rs/journaldetails.aspx?issn=1450-9628&lang=en"
+  }, {
+    "@id" : "http://www.pmf.kg.ac.rs/KJS"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1450-9636"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2738993314"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1450-9636"
+  }, {
+    "@value" : "2466-5509"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Kragujevac Journal of Science"
+  } ]
+} ]

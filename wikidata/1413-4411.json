@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96696314",
+  "http://example.com/crossref" : [ {
+    "@value" : "71440"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://xenarthrans.org/es/revista-edentata/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1413-4411"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S96339937"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1413-4411"
+  }, {
+    "@value" : "1852-9208"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Edentata"
+  }, {
+    "@language" : "la",
+    "@value" : "Edentata"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752756",
+  "http://example.com/crossref" : [ {
+    "@value" : "1421"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1980"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.sciencedirect.com/journal/molecular-and-biochemical-parasitology/"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/molecular-and-biochemical-parasitology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0166-6851"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S144099348"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1872-9428"
+  }, {
+    "@value" : "0166-6851"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Molecular and Biochemical Parasitology"
+  } ]
+} ]

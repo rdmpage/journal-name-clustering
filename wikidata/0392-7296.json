@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385951",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "G. It. Ent."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0392-7296"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "4E90CCB3-3BBA-4BCC-BBD4-42174C95A1A6"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0392-7296"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Giornale italiano di entomologia"
+  } ]
+} ]

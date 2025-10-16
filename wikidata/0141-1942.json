@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q91015381",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0141-1942"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0141-1942"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin annuel de la Société Jersiaise"
+  }, {
+    "@language" : "mul",
+    "@value" : "Annual bulletin - Société Jersiaise"
+  } ]
+} ]

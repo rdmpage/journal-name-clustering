@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28840800",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Proc. Linn. Soc."
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the proceedings of the Linnean Society. Zoology."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8473"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "80968"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1857"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ncco.galegroup.com/gdc/ncco/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&prodId=NCCO&action=1&activityType=BasicSearch&javax.portlet.action=viewPortletAction&documentId=GALE%7CBHCKFU884070276&dviSelectedPage=1&userGroupName="
+  }, {
+    "@id" : "http://books.google.com/books?id=3iVAAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=ASZAAQAAMAAJ"
+  }, {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/8473"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1945-9475"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210206962"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1864"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3400115B-915A-41CE-A6C2-690E53965EED"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1945-9416"
+  }, {
+    "@value" : "1945-9475"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the proceedings of the Linnean Society. Zoology."
+  } ]
+} ]

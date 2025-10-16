@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385313",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Occas. pap. Mus. Nat. Hist. (Lawrence)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "4672"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0091-7958"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Occasional papers of the Museum of Natural History, the University of Kansas"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q51513087",
+  "http://example.com/bhl" : [ {
+    "@value" : "5584"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210234996"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0091-7958"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Occasional papers of the Natural History Museum, the University of Kansas, Lawrence, Kansas"
+  } ]
+} ]

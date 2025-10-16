@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762745",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Am. J. Surg."
+  }, {
+    "@language" : "en",
+    "@value" : "American Journal of Surgery"
+  }, {
+    "@language" : "de",
+    "@value" : "Am. J. Surg."
+  }, {
+    "@language" : "de",
+    "@value" : "American Journal of Surgery"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2158"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sciencedirect.com/science/journal/00029610"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00029610"
+  }, {
+    "@id" : "https://www.americanjournalofsurgery.com/"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/the-american-journal-of-surgery"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0002-9610"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S101510409"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1879-1883"
+  }, {
+    "@value" : "0002-9610"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The American Journal of Surgery"
+  } ]
+} ]

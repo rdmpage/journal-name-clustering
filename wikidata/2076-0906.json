@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96327788",
+  "http://example.com/crossref" : [ {
+    "@value" : "299022"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0552-9034"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2496683313"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0552-9034"
+  }, {
+    "@value" : "2076-0906"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Pakistan journal of agricultural sciences"
+  } ]
+} ]

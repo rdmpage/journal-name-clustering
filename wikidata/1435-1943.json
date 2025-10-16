@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28840835",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Mitt. Mus. Nat.kd. Berl., Geowiss. Reihe"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mitteilungen aus dem Museum für Naturkunde in Berlin, Geowissenschaftliche Reihe"
+  }, {
+    "@language" : "de",
+    "@value" : "Mitt. Mus. Nat.kd. Berl., Geowiss. Reihe"
+  }, {
+    "@language" : "de",
+    "@value" : "Mitteilungen aus dem Museum für Naturkunde. Geowissenschaftliche Reihe"
+  }, {
+    "@language" : "es",
+    "@value" : "Mitt. Mus. Nat.kd. Berl., Geowiss. Reihe"
+  }, {
+    "@language" : "es",
+    "@value" : "Mitteilungen aus dem Museum für Naturkunde. Geowissenschaftliche Reihe"
+  }, {
+    "@language" : "en",
+    "@value" : "Mitt. Mus. Nat.kd. Berl., Geowiss. Reihe"
+  }, {
+    "@language" : "en",
+    "@value" : "Mitteilungen aus dem Museum für NaturkundeGeowissenschaftliche . Reihe"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1998"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1860-1014"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1860-1014"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210170920"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1435-1943"
+  }, {
+    "@value" : "1860-1014"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Mitteilungen aus dem Museum für Naturkunde in Berlin. Geowissenschaftliche Reihe"
+  } ]
+} ]

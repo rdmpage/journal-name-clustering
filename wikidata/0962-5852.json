@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7374152",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Handbooks for the Identification of British Insects"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0962-5852"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0962-5852"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Handbooks for the Identification of British Insects"
+  } ]
+} ]

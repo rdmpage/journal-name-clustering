@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51451399",
+  "http://example.com/bhl" : [ {
+    "@value" : "8266"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1882"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0885-0410"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1897"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0885-0410"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Illinois State Museum of Natural History"
+  } ]
+} ]

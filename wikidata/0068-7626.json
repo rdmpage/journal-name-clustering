@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329354",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin - Geological Survey of Canada"
+  }, {
+    "@language" : "en",
+    "@value" : "Geological Survey of Canada Bulletin"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://publications.gc.ca/site/eng/9.504778/issues.html?hpp=25&psi=1&rq.ssp=-2"
+  }, {
+    "@id" : "http://www.nrcan.gc.ca/publications/1138"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0068-7626"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0068-7626"
+  }, {
+    "@value" : "2560-7219"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin - Geological Survey of Canada"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the Geological Survey of Canada"
+  } ]
+} ]

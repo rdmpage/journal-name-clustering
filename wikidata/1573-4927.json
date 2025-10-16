@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765855",
+  "http://example.com/crossref" : [ {
+    "@value" : "2743"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0006-2928;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.kluweronline.com/issn/0006-2928/contents"
+  }, {
+    "@id" : "http://www.springerlink.com/openurl.asp?genre=journal&issn=0006-2928"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-2928"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S8388595"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1573-4927"
+  }, {
+    "@value" : "0006-2928"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biochemical Genetics"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50810716",
+  "http://example.com/crossref" : [ {
+    "@value" : "305466"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2528-9691"
+  }, {
+    "@value" : "2147-0294"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://dergipark.org.tr/en/pub/trkjnat"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2528-9691"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210186583"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2528-9691"
+  }, {
+    "@value" : "2147-0294"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Trakya university journal of natural sciences"
+  } ]
+} ]

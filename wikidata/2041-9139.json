@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15816653",
+  "http://example.com/crossref" : [ {
+    "@value" : "103487"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2041-9139"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.evodevojournal.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2041-9139"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S128203929"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2041-9139"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "EvoDevo"
+  }, {
+    "@language" : "en",
+    "@value" : "EvoDevo"
+  } ]
+} ]

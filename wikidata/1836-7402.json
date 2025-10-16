@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q781568",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Aust. Mammal."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "84046"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.publish.csiro.au/nid/256.htm"
+  }, {
+    "@id" : "https://www.publish.csiro.au/am"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0310-0049"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S158693716"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "216D5DEA-CE64-4E2F-9744-465D308C19B8"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0310-0049"
+  }, {
+    "@value" : "1836-7402"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australian Mammalogy"
+  } ]
+} ]

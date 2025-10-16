@@ -1,0 +1,95 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2269599",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "pt",
+    "@value" : "The Botanical Magazine"
+  }, {
+    "@language" : "zh",
+    "@value" : "柯蒂斯植物杂志"
+  }, {
+    "@language" : "pt",
+    "@value" : "Flower-Garden Displayed"
+  }, {
+    "@language" : "pt",
+    "@value" : "Bot. Mag."
+  }, {
+    "@language" : "en",
+    "@value" : "Curtis's Bot. Mag."
+  }, {
+    "@language" : "es",
+    "@value" : "The Kew Magazine"
+  }, {
+    "@language" : "en",
+    "@value" : "Curtis's bot. mag."
+  }, {
+    "@language" : "en",
+    "@value" : "Botanical Magazine"
+  }, {
+    "@language" : "es",
+    "@value" : "Flower-Garden Displayed"
+  }, {
+    "@language" : "de",
+    "@value" : "Curtis's Bot. Mag."
+  }, {
+    "@language" : "en",
+    "@value" : "Bot. Mag."
+  }, {
+    "@language" : "es",
+    "@value" : "The Botanical Magazine"
+  }, {
+    "@language" : "es",
+    "@value" : "Curtis's Botanical Magazine"
+  }, {
+    "@language" : "es",
+    "@value" : "Bot. Mag."
+  }, {
+    "@language" : "en",
+    "@value" : "Curtis's botanical magazine"
+  }, {
+    "@language" : "es",
+    "@value" : "Curtis's Bot. Mag."
+  }, {
+    "@language" : "de",
+    "@value" : "Bot. Mag."
+  }, {
+    "@language" : "de",
+    "@value" : "Botanical Magazine"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "706"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "21938"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1787"
+  }, {
+    "@value" : "1801"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://eu.wiley.com/WileyCDA/WileyTitle/productCd-CURT.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1355-4905"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S128487797"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "0C669448-8B24-4AA0-8D4C-24EA94A7139D"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1467-8748"
+  }, {
+    "@value" : "0011-4073"
+  }, {
+    "@value" : "1355-4905"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Curtis's Botanical Magazine"
+  } ]
+} ]

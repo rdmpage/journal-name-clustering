@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q105072381",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://kumadai.repo.nii.ac.jp/search?search_type=2&q=618"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0454-6148"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0454-6148"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of the Faculty of Education, Kumamoto University"
+  }, {
+    "@language" : "mul",
+    "@value" : "Kumamoto Daigaku Kyōiku Gakubu kiyō. Shizen kagaku"
+  } ]
+} ]

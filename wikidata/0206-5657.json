@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q12093477",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "Vìsnik Lʹvìvsʹkogo unìversitetu. Serìâ bìologìčna"
+  }, {
+    "@language" : "en",
+    "@value" : "Visnyk Lvivskoho Universytetu Seriia Biolohichna"
+  }, {
+    "@language" : "en",
+    "@value" : "Вісник Львівського університету. Серія біологічна"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "326248"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1962"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://prima.lnu.edu.ua/faculty/biologh/wis/wis.htm"
+  }, {
+    "@id" : "http://www.lnu.edu.ua/faculty/biologh/wis/wis.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0206-5657"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210229824"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2075-5236"
+  }, {
+    "@value" : "0206-5657"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "uk",
+    "@value" : "Вісник Львівського університету. Серія біологічна"
+  } ]
+} ]

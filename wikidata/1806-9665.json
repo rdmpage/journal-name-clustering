@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759765",
+  "http://example.com/crossref" : [ {
+    "@value" : "305130"
+  }, {
+    "@value" : "45722"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0085-5626"
+  }, {
+    "@value" : "1806-9665"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1954"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/00855626?sdc=1"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/revista-brasileira-de-entomologia"
+  }, {
+    "@id" : "https://www.scielo.br/rbent"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0085-5626"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S201077199"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0085-5626"
+  }, {
+    "@value" : "1806-9665"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Revista Brasileira de Entomologia"
+  }, {
+    "@language" : "mul",
+    "@value" : "Revista Brasileira de entomologia"
+  } ]
+} ]

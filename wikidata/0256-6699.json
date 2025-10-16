@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51397914",
+  "http://example.com/bhl" : [ {
+    "@value" : "121491"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0256-6699"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1989"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0256-6699"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of the Cape provincial museums. Human sciences"
+  } ]
+} ]

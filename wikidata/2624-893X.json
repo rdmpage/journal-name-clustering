@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96702626",
+  "http://example.com/crossref" : [ {
+    "@value" : "316725"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2624-893X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.frontiersin.org/journals/forests-and-global-change#articles"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2624-893X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210178346"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2624-893X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Frontiers in forests and global change"
+  } ]
+} ]

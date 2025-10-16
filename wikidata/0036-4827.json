@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q11999600",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0036-4827"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4792"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journalsonline.tandf.co.uk/(ezhj4ceileaehej2ol4fyvnn)/app/home/journal.asp?referrer=parent&backto=linkingpublicationresults,1:300364,1"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0036-4827"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S9091723"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0036-4827"
+  }, {
+    "@value" : "1503-1128"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Sarsia"
+  } ]
+} ]

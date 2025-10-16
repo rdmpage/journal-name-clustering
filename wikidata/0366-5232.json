@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5739840",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Caldasia. Boletin del Instituto de Ciencias Naturales de la Universidad Nacional de Colombia"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "249071"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0366-5232"
+  }, {
+    "@value" : "2357-3759"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1940"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://revistas.unal.edu.co/index.php/cal"
+  }, {
+    "@id" : "https://revistas.unal.edu.co/index.php/cal/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-5232"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "caldasia"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S50669219"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0366-5232"
+  }, {
+    "@value" : "2357-3759"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Caldasia"
+  } ]
+} ]

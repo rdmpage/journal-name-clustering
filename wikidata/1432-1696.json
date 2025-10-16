@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124633415",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1432-1696"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1432-1696"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Veröffentlichungen des Museums für Naturkunde Chemnitz"
+  } ]
+} ]

@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762086",
+  "http://example.com/crossref" : [ {
+    "@value" : "311043"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ajbasweb.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1991-8178"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764745110"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1991-8178"
+  }, {
+    "@value" : "2309-8414"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australian Journal of Basic and Applied Sciences"
+  } ]
+} ]

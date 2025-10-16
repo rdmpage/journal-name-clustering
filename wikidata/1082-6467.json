@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385770",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Orthoptera Research"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1082-6467"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57490"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1082-6467"
+  }, {
+    "@value" : "1937-2426"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/85338"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=1082-6467"
+  }, {
+    "@id" : "http://www.jstor.org/journals/10826467.html"
+  }, {
+    "@id" : "https://jor.pensoft.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1082-6467"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jorthrese"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S82630499"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "9F491333-DE0B-4C9F-A392-B7AE8C41CE13"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1937-2426"
+  }, {
+    "@value" : "1082-6467"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Orthoptera Research"
+  } ]
+} ]

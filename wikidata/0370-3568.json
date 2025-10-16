@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q57445602",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://digital.casalini.it/26126532"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-3568"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-3568"
+  }, {
+    "@value" : "2612-6532"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Rendiconto dell'Accademia delle Scienze Fisiche e Matematiche"
+  }, {
+    "@language" : "mul",
+    "@value" : "Rendiconto della Accademia delle scienze fisiche e matematiche"
+  } ]
+} ]

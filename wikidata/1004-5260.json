@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q118679758",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Ningxia Nongxueyuan xuebao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "LXLX"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://oversea.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=LXLX"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1004-5260"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1004-5260"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "宁夏农学院学报"
+  }, {
+    "@language" : "zh",
+    "@value" : "Ningxia Nongxueyuan xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Ningxia Agricultural College"
+  } ]
+} ]

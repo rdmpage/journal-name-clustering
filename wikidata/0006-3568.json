@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1092250",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Bioscience"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "生物科學"
+  }, {
+    "@language" : "zh",
+    "@value" : "生物科学杂志"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "55680"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://bioscience.oxfordjournals.org"
+  }, {
+    "@id" : "http://www.aibs.org/bioscience"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=0006-3568"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-3568"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "bioscience"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S121830084"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1525-3244"
+  }, {
+    "@value" : "0006-3568"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "BioScience"
+  } ]
+} ]

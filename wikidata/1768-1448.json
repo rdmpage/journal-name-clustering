@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385713",
+  "http://example.com/crossref" : [ {
+    "@value" : "125605"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1314-2615"
+  }, {
+    "@value" : "1768-1448"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sibios.area.fi.cnr.it/subtbiol.htm"
+  }, {
+    "@id" : "http://www.pensoft.net/journals/subtbiol/"
+  }, {
+    "@id" : "https://subtbiol.pensoft.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1768-1448"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764509370"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1314-2615"
+  }, {
+    "@value" : "1768-1448"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Subterranean biology"
+  } ]
+} ]

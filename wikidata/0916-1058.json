@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q128520937",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0916-1058"
+  } ],
+  "http://example.com/ndl" : [ {
+    "@value" : "11025860"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0916-1058"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Special Publications of the Japan Hymenopterists Association"
+  } ]
+} ]

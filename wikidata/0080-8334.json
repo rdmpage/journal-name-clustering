@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q62382485",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Initial Reports of the Deep Sea Drilling Project"
+  }, {
+    "@language" : "en",
+    "@value" : "DSDP Initial Reports"
+  }, {
+    "@language" : "en",
+    "@value" : "Initial Reports of the Deep Sea Drilling Project: A project planned by and carried out with the advice of the Joint Oceanographic Institutions for Deep Earth Sampling (JOIDES)"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0080-8334"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1969"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/18386"
+  }, {
+    "@id" : "http://books.google.com/books?id=OjaM4dg6r6oC"
+  }, {
+    "@id" : "http://www.deepseadrilling.org/i_reports.htm"
+  }, {
+    "@id" : "https://purl.fdlp.gov/GPO/LPS109564"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1936-7392"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210175631"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1986"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1936-7392"
+  }, {
+    "@value" : "0080-8334"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Initial Reports of the Deep Sea Drilling Project"
+  }, {
+    "@language" : "en",
+    "@value" : "Deep Sea Drilling Project: Initial Reports"
+  }, {
+    "@language" : "en",
+    "@value" : "Initial reports of the Deep Sea Drilling Project"
+  } ]
+} ]

@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2203661",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "JARQ. Japan agricultural research quarterly"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "159347"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ss.jircas.affrc.go.jp/english/publication/jarq/index.html"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jarq/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-3551"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jarq"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S1035346364"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2185-8896"
+  }, {
+    "@value" : "0021-3551"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "JARQ. Japan agricultural research quarterly"
+  }, {
+    "@language" : "en",
+    "@value" : "Japan Agricultural Research Quarterly"
+  } ]
+} ]

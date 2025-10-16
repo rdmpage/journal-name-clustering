@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15716662",
+  "http://example.com/crossref" : [ {
+    "@value" : "9174"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1963"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.karger.com/fpr"
+  }, {
+    "@id" : "http://www.karger.com/FPR"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0015-5713"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4747479"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1421-9980"
+  }, {
+    "@value" : "0015-5713"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Folia Primatologica"
+  } ]
+} ]

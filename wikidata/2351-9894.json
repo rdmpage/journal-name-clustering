@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q18612823",
+  "http://example.com/crossref" : [ {
+    "@value" : "249075"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2351-9894"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/23519894"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2351-9894"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765061010"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2351-9894"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Global ecology and conservation"
+  } ]
+} ]

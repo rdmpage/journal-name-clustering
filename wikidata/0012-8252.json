@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15716529",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Earth-Sci. Rev."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1870"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "3986"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1966"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/earth-science-reviews/"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/earth-science-reviews/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0012-8252"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S40187045"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1872-6828"
+  }, {
+    "@value" : "0012-8252"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Earth-Science Reviews"
+  } ]
+} ]

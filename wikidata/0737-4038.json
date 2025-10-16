@@ -1,0 +1,62 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1992656",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Mol. Biol. Evol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Molecular Biology & Evolution"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mol. Biol. Evol."
+  }, {
+    "@language" : "zh",
+    "@value" : "分子生物學與演化"
+  }, {
+    "@language" : "pt",
+    "@value" : "Mol. Biol. Evol."
+  }, {
+    "@language" : "en",
+    "@value" : "Molecular Biology & Evolution"
+  }, {
+    "@language" : "en",
+    "@value" : "Mol Biol Evol"
+  }, {
+    "@language" : "en",
+    "@value" : "Mol. Biol. Evol."
+  }, {
+    "@language" : "en",
+    "@value" : "MBE"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "11458"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0737-4038"
+  }, {
+    "@value" : "1537-1719"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://academic.oup.com/mbe"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0737-4038"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S57552105"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1537-1719"
+  }, {
+    "@value" : "0737-4038"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Molecular Biology and Evolution"
+  } ]
+} ]

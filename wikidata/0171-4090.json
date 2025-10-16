@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385848",
+  "http://example.com/from_year" : [ {
+    "@value" : "1975"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?3093760"
+  }, {
+    "@id" : "http://www.dgfo-articulata.de/de/Articulata/Articulata.php"
+  }, {
+    "@id" : "https://dgfo-articulata.de/articulata"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0171-4090"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "317C9EEE-1FEB-4464-B88A-E99585B31689"
+  }, {
+    "@value" : "5F154B9F-6E34-4858-8492-EDF6E66DF03E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0171-4090"
+  }, {
+    "@value" : "2942-0881"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Articulata"
+  }, {
+    "@language" : "de",
+    "@value" : "Articulata"
+  } ]
+} ]

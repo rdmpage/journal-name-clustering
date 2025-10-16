@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96711662",
+  "http://example.com/crossref" : [ {
+    "@value" : "311064"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.krepublishers.com/journalofbiodiversity.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0976-6901"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210197904"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2456-6543"
+  }, {
+    "@value" : "0976-6901"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of biodiversity"
+  } ]
+} ]

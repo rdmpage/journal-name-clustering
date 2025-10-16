@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385526",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Tyô to Ga"
+  }, {
+    "@language" : "en",
+    "@value" : "Trans. Lepidopterol. Soc. Jpn."
+  }, {
+    "@language" : "en",
+    "@value" : "Butterflies and moths"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Lepidopterological Society of Japan"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Nippon Lepidopterological Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Cho to Ga"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/lepid/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0024-0974"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "lepid"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764992495"
+  }, {
+    "@value" : "S4306518457"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0024-0974"
+  }, {
+    "@value" : "1880-8077"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "蝶と蛾"
+  } ]
+} ]

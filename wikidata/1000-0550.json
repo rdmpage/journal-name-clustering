@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q111811716",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Chenji xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "Chénjī Xuébào"
+  }, {
+    "@language" : "en",
+    "@value" : "Chenji xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Chenji Xuebao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "CJXB"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1000-0550"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-0550"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500543"
+  }, {
+    "@value" : "S4306506003"
+  }, {
+    "@value" : "S4306553468"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-0550"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh-hans",
+    "@value" : "沉积学报"
+  }, {
+    "@language" : "zh",
+    "@value" : "Chenji xuebao"
+  } ]
+} ]

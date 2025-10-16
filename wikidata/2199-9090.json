@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96609242",
+  "http://example.com/crossref" : [ {
+    "@value" : "311743"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0424-7116"
+  }, {
+    "@value" : "2199-9090"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2572732"
+  }, {
+    "@id" : "https://www.eg-quaternary-sci-j.net/volumes.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0424-7116"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210224252"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2199-9090"
+  }, {
+    "@value" : "0424-7116"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Eiszeitalter und Gegenwart"
+  }, {
+    "@language" : "en",
+    "@value" : "E&G Quaternary Science Journal"
+  } ]
+} ]

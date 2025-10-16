@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15716640",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Arch. Molluskenkd."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "82668"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1868"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2502935"
+  }, {
+    "@id" : "http://www.ingentaconnect.com/content/schweiz/afmijm"
+  }, {
+    "@id" : "http://www.schweizerbart.de/journals/archmoll"
+  }, {
+    "@id" : "https://www.schweizerbart.de/papers/archmoll/volumes"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1869-0963"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S122402926"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "391C67B3-197B-4362-9BAD-1FD71D45940C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1869-0963"
+  }, {
+    "@value" : "2367-0622"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Archiv für Molluskenkunde"
+  } ]
+} ]

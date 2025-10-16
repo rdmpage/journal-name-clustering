@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714311",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Kaupia"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Kaupia: Darmstädter Beiträge zur Naturgeschichte"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0941-8482"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0941-8482"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Kaupia"
+  }, {
+    "@language" : "la",
+    "@value" : "Kaupia"
+  } ]
+} ]

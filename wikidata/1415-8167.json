@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96704231",
+  "http://example.com/crossref" : [ {
+    "@value" : "307543"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.revistas.unipar.br/index.php/veterinaria"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1415-8167"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210168283"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1415-8167"
+  }, {
+    "@value" : "1982-1131"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Arquivos de Ciências Veterinárias e Zoologia da UNIPAR"
+  } ]
+} ]

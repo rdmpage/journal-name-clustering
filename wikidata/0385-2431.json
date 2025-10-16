@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385861",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the National Science Museum [Tokyo], Series B (Botany)"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the National Science Museum. Series B: Botany"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the National Science Museum. Series B, Botany"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the National Science Museum, Series B (Botany)"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1975"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.kahaku.go.jp/english/research/publication/botany.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0385-2431"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306505246"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0385-2431"
+  }, {
+    "@value" : "2434-0928"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the National Science Museum. Series B: Botany"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the National Science Museum. Series B, Botany"
+  } ]
+} ]

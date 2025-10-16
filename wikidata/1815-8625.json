@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96710086",
+  "http://example.com/crossref" : [ {
+    "@value" : "240450"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://jjournals.ju.edu.jo/index.php/jjas"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1815-8625"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764539307"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1815-8625"
+  }, {
+    "@value" : "2707-6415"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Al-mağallaẗ al-urdunniyyaẗ fī al-ʻulūm al-zirāʻiyyaẗ"
+  } ]
+} ]

@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51405822",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of the National Museum Melbourne"
+  }, {
+    "@language" : "en",
+    "@value" : "Mem. Natl. Mus. Melb."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "13041"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "311016"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1906"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0311-9548"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210198335"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1944"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0311-9548"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of the National Museum, Melbourne"
+  }, {
+    "@language" : "en",
+    "@value" : "Memoirs of the National Museum Melbourne"
+  } ]
+} ]

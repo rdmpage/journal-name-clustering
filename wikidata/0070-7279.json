@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386292",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Reichenbachia: Zeitschrift für taxonomische Entomologie"
+  }, {
+    "@language" : "es",
+    "@value" : "Reichenbachia: Zeitschrift für taxonomische Entomologie"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1962"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0070-7279"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2002"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "12F610C5-3D89-4445-BEAB-0642B5A94A79"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0070-7279"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Reichenbachia"
+  }, {
+    "@language" : "de",
+    "@value" : "Reichenbachia"
+  } ]
+} ]

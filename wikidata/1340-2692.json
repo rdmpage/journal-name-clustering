@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722236",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nat Hist Res Spec Issue"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1340-2692"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1340-2692"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Natural history research. Special issue"
+  } ]
+} ]

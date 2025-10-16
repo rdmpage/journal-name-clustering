@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26085244",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Pakistan journal of marine sciences"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.pakjmsuok.com/index.php/pjms"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1019-8415"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2710-4583"
+  }, {
+    "@value" : "1019-8415"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Pakistan Journal of Marine Science"
+  }, {
+    "@language" : "en",
+    "@value" : "Pakistan journal of marine sciences"
+  } ]
+} ]

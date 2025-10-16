@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6035799",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0252-7960"
+  }, {
+    "@language" : "en",
+    "@value" : "Mem. Soc. Phys. Hist. nat. Geneve"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "13710"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1821"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0252-7960"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0252-7960"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Mémoires de la Société de Physique et d'Histoire Naturelle de Genève"
+  } ]
+} ]

@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15746350",
+  "http://example.com/crossref" : [ {
+    "@value" : "2204"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "3838"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0985-3111"
+  }, {
+    "@value" : "1778-3593"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=ULRNAQAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=vLZNAQAAIAAJ"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/09853111"
+  }, {
+    "@id" : "http://www.tandfonline.com/TGDA"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0985-3111"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S46446895"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1778-3593"
+  }, {
+    "@value" : "0985-3111"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Geodinamica Acta: the European journal of geodynamics"
+  }, {
+    "@language" : "en",
+    "@value" : "Geodinamica acta"
+  } ]
+} ]

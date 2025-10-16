@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27020387",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Jpn J Infect Dis"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "190525"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.niid.go.jp/niid/en/past-issue.html/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1344-6304"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "yoken"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S191397617"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1344-6304"
+  }, {
+    "@value" : "1884-2836"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Japanese Journal of Infectious Diseases"
+  } ]
+} ]

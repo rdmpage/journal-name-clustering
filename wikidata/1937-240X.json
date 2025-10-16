@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3624239",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Crust. Biol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "55701"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1981"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://apt.allenpress.com/aptonline/?request=get-archive&issn=0278-0372"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=0278-0372"
+  }, {
+    "@id" : "http://www.brill.com/publications/journals/journal-crustacean-biology"
+  }, {
+    "@id" : "http://www.jstor.org/journals/02780372.html"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0278-0372"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jcrusbiol"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S141356220"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3DB03DBC-D653-4DD6-87C8-5549908AEC82"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0278-0372"
+  }, {
+    "@value" : "1937-240X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Crustacean Biology"
+  } ]
+} ]

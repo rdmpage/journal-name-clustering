@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722147",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0388-8266"
+  }, {
+    "@language" : "en",
+    "@value" : "Kinjin Kenkyusho Kenkyu Hokoku"
+  }, {
+    "@language" : "en",
+    "@value" : "Kinjin Kenkyusho kenkyū hōkoku"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0388-8266"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0388-8266"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Reports of the Tottori Mycological Institute"
+  }, {
+    "@language" : "ja",
+    "@value" : "財団法人日本きのこセンター菌蕈研究所研究報告"
+  }, {
+    "@language" : "mul",
+    "@value" : "Kinjin Kenkyūjo kenkyū hōkoku"
+  } ]
+} ]

@@ -1,0 +1,56 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q53953275",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Open-File Rep."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Open-file report (United States Geological Survey. Online)"
+  }, {
+    "@language" : "en",
+    "@value" : "Open-File Reports"
+  }, {
+    "@language" : "en",
+    "@value" : "Open file report / U.S. Geological Survey"
+  }, {
+    "@language" : "en",
+    "@value" : "Open-file report /"
+  }, {
+    "@language" : "en",
+    "@value" : "U.S. Geological Survey open file report"
+  }, {
+    "@language" : "en",
+    "@value" : "U.S. Geological Survey open file report (CD-ROM)"
+  }, {
+    "@language" : "en",
+    "@value" : "Open-file report (United States Geological Survey. 1978)"
+  }, {
+    "@language" : "en",
+    "@value" : "Open file report"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "65975"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://pubs.er.usgs.gov/browse/usgs-publications/OFR"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0196-1497"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210194219"
+  }, {
+    "@value" : "S4306521528"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2332-4899"
+  }, {
+    "@value" : "2331-1258"
+  }, {
+    "@value" : "0196-1497"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Open-file report"
+  } ]
+} ]

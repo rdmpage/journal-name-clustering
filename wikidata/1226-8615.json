@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766715",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Asia Pacific Entomology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "75403"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/journal-of-asia-pacific-entomology/"
+  }, {
+    "@id" : "http://www.sciencedirecct.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1226-8615"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S49593656"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1876-7990"
+  }, {
+    "@value" : "1226-8615"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Asia Pacific Entomology"
+  } ]
+} ]

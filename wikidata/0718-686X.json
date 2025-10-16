@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386266",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Magallania"
+  }, {
+    "@language" : "en",
+    "@value" : "now Magallania"
+  }, {
+    "@language" : "de",
+    "@value" : "Anales Inst. Patagonia"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "87500"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.analesdelinstitutodelapatagonia.cl"
+  }, {
+    "@id" : "https://scielo.conicyt.cl/ainpat.htm"
+  }, {
+    "@id" : "mailto:carlos.rios@umag.cl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0718-6932"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210209654"
+  }, {
+    "@value" : "S65744445"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "157E81A2-B9B8-4AFE-9A54-5372FD831667"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0718-686X"
+  }, {
+    "@value" : "0718-6932"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Anales del Instituto de la Patagonia"
+  } ]
+} ]

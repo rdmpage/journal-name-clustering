@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385860",
+  "http://example.com/dialnet" : [ {
+    "@value" : "1662"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://revistaselectronicas.ujaen.es/index.php/jnms"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1139-5192"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764983813"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "96F67127-C9ED-4622-8BED-CA14FFE44880"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1139-5192"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Journal of nematode morphology and systematics"
+  } ]
+} ]

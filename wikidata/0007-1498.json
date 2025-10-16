@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385105",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum (Natural History), zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. br. Mus. nat. Hist. Zool."
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum, Natural History. Zoology"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "2202"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297254"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1950"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0007-1498"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764773488"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "DD1B44B9-F084-4788-A64C-547922BBDD2F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0007-1498"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum, Natural History. Zoology"
+  }, {
+    "@language" : "en-gb",
+    "@value" : "Bulletin of the British Museum (Natural History), zoology"
+  } ]
+} ]

@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q39599305",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ann. Cape prov. mus. nat. hist."
+  }, {
+    "@language" : "en",
+    "@value" : "Annals of the Cape provincial museums. Natural History"
+  }, {
+    "@language" : "en",
+    "@value" : "Annals of the Cape Provincial Museums. Natural history"
+  }, {
+    "@language" : "es",
+    "@value" : "Annals of the Cape provincial museums. Natural History"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "121223"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1966"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0570-1880"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1997"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0570-1880"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of the Cape provincial museums. Natural History"
+  }, {
+    "@language" : "en",
+    "@value" : "Annals of the Cape provincial Museums. Natural history"
+  } ]
+} ]

@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108368897",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1516-7259"
+  }, {
+    "@language" : "pt",
+    "@value" : "Contribuições avulsas sobre história natural do Brasil. Série zoologia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1516-7259"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1516-7259"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Contribuições Avulsas sobre História Natural do Brasil. Série Zoologia"
+  } ]
+} ]

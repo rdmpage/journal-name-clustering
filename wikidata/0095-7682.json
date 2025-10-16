@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51389875",
+  "http://example.com/bhl" : [ {
+    "@value" : "46533"
+  }, {
+    "@value" : "11359"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1939"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1977"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0095-7682"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fishery statistics of the United States"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q51389882",
+  "http://example.com/bhl" : [ {
+    "@value" : "11360"
+  }, {
+    "@value" : "46534"
+  }, {
+    "@value" : "61715"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1959"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0095-7682"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fisheries of the United States"
+  } ]
+} ]

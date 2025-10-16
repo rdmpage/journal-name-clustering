@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7833735",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Trans. Kans. Acad. Sci."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Kansas Academy of Science (1903)"
+  }, {
+    "@language" : "en",
+    "@value" : "Trans. Kans. Acad. Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Kansas Academy of Science (1903-)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8256"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57347"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.kansasacademyscience.org/transactions.html"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0022-8443;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=0022-8443"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00228443.html"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-8443"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "trankansacadscie"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210187061"
+  }, {
+    "@value" : "S7724661"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-8443"
+  }, {
+    "@value" : "1938-5420"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Kansas Academy of Science"
+  } ]
+} ]

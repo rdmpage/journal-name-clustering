@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714395",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Xiamen Da Xue Xue Bao Zi Ran Ke Xue Ban"
+  }, {
+    "@language" : "fr",
+    "@value" : "Xiamen Da Xue Xue Bao Zi Ran Ke Xue Ban"
+  }, {
+    "@language" : "zh",
+    "@value" : "Xiamen Daxue xuebao. Ziran kexueban"
+  }, {
+    "@language" : "en",
+    "@value" : "Xiamen Da Xue Xue Bao Zi Ran Ke Xue Ban"
+  }, {
+    "@language" : "de",
+    "@value" : "Xiamen Da Xue Xue Bao Zi Ran Ke Xue Ban"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "XDZK"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://jxmu.xmu.edu.cn"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0438-0479"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0438-0479"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Xiamen Daxue xuebao. Ziran kexueban"
+  }, {
+    "@language" : "zh",
+    "@value" : "Journal of Xiamen University (Natural science)"
+  }, {
+    "@language" : "zh",
+    "@value" : "厦门大学学报（自然科学版）"
+  } ]
+} ]

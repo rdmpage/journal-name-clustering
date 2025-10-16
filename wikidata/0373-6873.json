@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q17333692",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Memo Soc Fauna Flora Fenn"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ojs.tsv.fi/index.php/msff/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-6873"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306519703"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-6873"
+  }, {
+    "@value" : "1796-9816"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Memoranda Societatis pro fauna et flora Fennica"
+  }, {
+    "@language" : "en",
+    "@value" : "Memoranda Societatis pro Fauna et Flora Fennica"
+  } ]
+} ]

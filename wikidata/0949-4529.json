@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385286",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Esperiana Buchreihe zur Entomologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Esperiana Buchreihe zur Entomologie"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://esperiana.net/esperiana.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0949-4529"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0949-4529"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Esperiana"
+  } ]
+} ]

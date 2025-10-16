@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2813832",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Parasite"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "197465"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1776-1042"
+  }, {
+    "@value" : "1252-607X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1923"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.parasite-journal.org/component/issues/"
+  }, {
+    "@id" : "http://www.parasite-journal.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1252-607X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S51637054"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "EB721272-2003-4488-AEEF-0041887D234F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1252-607X"
+  }, {
+    "@value" : "1776-1042"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Parasite"
+  }, {
+    "@language" : "en",
+    "@value" : "Parasite"
+  } ]
+} ]

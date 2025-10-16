@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721009",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mycol. Balc."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1312-3300"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1312-3300"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2011"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1312-3300"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "bg",
+    "@value" : "Mycologia Balcanica"
+  }, {
+    "@language" : "en",
+    "@value" : "Mycologia balcanica"
+  } ]
+} ]

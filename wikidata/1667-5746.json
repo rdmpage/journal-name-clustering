@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15745275",
+  "http://example.com/crossref" : [ {
+    "@value" : "327787"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/23311"
+  }, {
+    "@id" : "http://www.biocell.de/"
+  }, {
+    "@id" : "http://www.scielo.org.ar/scielo.php?script=sci_serial&pid=0327-9545&lng=en&nrm=iso"
+  }, {
+    "@id" : "http://www.scielo.org.ar/scielo.php/script_sci_serial/lng_en/pid_0327-9545/nrm_iso"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0327-9545"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S55203824"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0327-9545"
+  }, {
+    "@value" : "1667-5746"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biocell"
+  }, {
+    "@language" : "und",
+    "@value" : "Biocell"
+  } ]
+} ]

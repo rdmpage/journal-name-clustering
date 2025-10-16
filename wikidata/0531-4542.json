@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51452072",
+  "http://example.com/bhl" : [ {
+    "@value" : "6452"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1963"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0531-4542"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Calcified tissues; proceedings"
+  } ]
+} ]

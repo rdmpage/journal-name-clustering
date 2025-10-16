@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28469656",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Boletim do Museu de Biologia Mello Leitão"
+  }, {
+    "@language" : "en",
+    "@value" : "Bol. Mus. Biol. Mello Leitão, Nova Sér."
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0103-9121"
+  }, {
+    "@value" : "2318-9444"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://boletim.sambio.org.br/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0103-9121"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2736309657"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2318-9444"
+  }, {
+    "@value" : "0103-9121"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Boletim do Museu de Biologia Mello Leitao"
+  }, {
+    "@language" : "mul",
+    "@value" : "Boletim do Museu de Biologia Mello Leitão. Nova Série"
+  } ]
+} ]

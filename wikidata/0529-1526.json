@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5656885",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Acta Phytotax. Sin."
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Phytotax. Sin."
+  }, {
+    "@language" : "de",
+    "@value" : "Acta Phytotax. Sin."
+  }, {
+    "@language" : "en",
+    "@value" : "Zhiwu fenlei xuebao"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "47522"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.plantsystematics.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0529-1526"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S175440194"
+  }, {
+    "@value" : "S4306552802"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "83F07E28-FE43-4326-BAA3-26F7D1F68DE2"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0529-1526"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Phytotaxonomica Sinica"
+  }, {
+    "@language" : "zh",
+    "@value" : "植物分类学报"
+  } ]
+} ]

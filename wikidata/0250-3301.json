@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27020386",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Huanjing Kexue"
+  }, {
+    "@language" : "zh",
+    "@value" : "Huanjing Kexue"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0250-3301"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0250-3301"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Huanjing Kexue"
+  }, {
+    "@language" : "zh",
+    "@value" : "环境科学"
+  }, {
+    "@language" : "en",
+    "@value" : "Environmental Science"
+  } ]
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108280092",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0270-3017"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0270-3017"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "New Mexico Journal of Science"
+  } ]
+} ]

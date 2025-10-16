@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4712993",
+  "http://example.com/doaj" : [ {
+    "@value" : "0835-5851"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1963"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://alcesjournal.org/index.php/alces/index"
+  }, {
+    "@id" : "http://alcesjournal.org/"
+  }, {
+    "@id" : "http://flash.lakeheadu.ca/~arodgers/Alces/alces.html#"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0835-5851"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S107940400"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2293-6629"
+  }, {
+    "@value" : "0835-5851"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Alces"
+  } ]
+} ]

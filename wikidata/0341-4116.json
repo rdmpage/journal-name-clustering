@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766002",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "CFS. Courier Forschungsinstitut Senckenberg"
+  }, {
+    "@language" : "en",
+    "@value" : "CFS: Courier Forschungsergebnisse Senckenberg"
+  }, {
+    "@language" : "en",
+    "@value" : "CFS. Courier Forschungsinstitut Senckenberg"
+  }, {
+    "@language" : "es",
+    "@value" : "CFS: Courier Forschungsergebnisse Senckenberg"
+  }, {
+    "@language" : "es",
+    "@value" : "CFS. Courier Forschungsinstitut Senckenberg"
+  }, {
+    "@language" : "en",
+    "@value" : "CFS"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1973"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.senckenberg.de/de/wissenschaft/publikationen/diverses/courier-forschungsinstitut-senckenberg/"
+  }, {
+    "@id" : "https://www.senckenberg.de/en/science/senckenberg-publications/back-volumes/courier-forschungsinstitut-senckenberg/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0341-4116"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2008"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0341-4116"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "CFS. Courier Forschungsinstitut Senckenberg"
+  }, {
+    "@language" : "de",
+    "@value" : "CFS: Courier Forschungsergebnisse Senckenberg"
+  }, {
+    "@language" : "de",
+    "@value" : "Courier Forschungsinstitut Senckenberg"
+  } ]
+} ]

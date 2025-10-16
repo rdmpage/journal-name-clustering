@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q106876845",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Verhandelingen - Koninlijk Belgisch Instituut voor Natuurwetenschappen"
+  }, {
+    "@language" : "en",
+    "@value" : "Mémoires - Institut royal des sciences naturelles de Belgique"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mémoires"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mémoires - Institut royal des sciences naturelles de Belgique"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1949"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-207X"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1984"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-207X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Verhandelingen"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mémoires"
+  }, {
+    "@language" : "mul",
+    "@value" : "Mémoires - Institut royal des sciences naturelles de Belgique"
+  } ]
+} ]

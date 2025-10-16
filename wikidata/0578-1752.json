@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714568",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Zhongguo nongye Kexue"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhongguo Nong Ye Ke Xue"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhongguo Nongye Kexue"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "ZNYK"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1960"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.chinaagrisci.com/CN/0578-1752/home.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0578-1752"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306529288"
+  }, {
+    "@value" : "S4306535984"
+  }, {
+    "@value" : "S4306535985"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0578-1752"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Scientia Agricultura Sinica"
+  }, {
+    "@language" : "zh",
+    "@value" : "中国农业科学"
+  }, {
+    "@language" : "zh",
+    "@value" : "Zhongguo nongye Kexue"
+  } ]
+} ]

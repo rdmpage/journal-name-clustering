@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50814953",
+  "http://example.com/crossref" : [ {
+    "@value" : "301399"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1981-5484"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://periodicos.ufersa.edu.br/index.php/acta/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1981-5484"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210199225"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1981-5484"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta Veterinaria Brasilica"
+  } ]
+} ]

@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385244",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of the Linnean Society, Zoology."
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of the Linnean Society of London. Zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of the Linnean Society. Zoology"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "45411"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "109985"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1865"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=8Vo4AQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=j1o4AQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=nGI4AQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=uFo4AQAAMAAJ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0368-2935"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210173425"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1968"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0368-2935"
+  }, {
+    "@value" : "2378-5314"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of the Linnean Society, Zoology."
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of the Linnean Society of London. Zoology"
+  } ]
+} ]

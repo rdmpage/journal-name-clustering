@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51451040",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. Soc. Sci. hist. nat. Yonne"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "4041"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://catalog.hathitrust.org/Record/000518258"
+  }, {
+    "@id" : "https://catalog.hathitrust.org/Record/008891276"
+  }, {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/cb34354407z/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0181-0588"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0181-0588"
+  }, {
+    "@value" : "2540-3516"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société des Sciences Historiques et Naturelles de l'Yonne"
+  } ]
+} ]

@@ -1,0 +1,75 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761822",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zool. Gärt."
+  }, {
+    "@language" : "en",
+    "@value" : "Der Zoologische Garten. Neue Folge"
+  }, {
+    "@language" : "de",
+    "@value" : "Der Zoologische Garten (Zoologischer Beobachter)"
+  }, {
+    "@language" : "en",
+    "@value" : "Zool. Gart."
+  }, {
+    "@language" : "en",
+    "@value" : "Der Zoologische Garten (Zoologischer Beobachter)"
+  }, {
+    "@language" : "de",
+    "@value" : "Naturwissenschaftlicher Beobachter (früher Zoologischer Beobachter – Der Zoologische Garten)"
+  }, {
+    "@language" : "en",
+    "@value" : "Zoologischer Beobachter. Der Zoologische Garten"
+  }, {
+    "@language" : "de",
+    "@value" : "Der Zoologische Garten. Neue Folge"
+  }, {
+    "@language" : "de",
+    "@value" : "Zoologischer Beobachter. Der Zoologische Garten"
+  }, {
+    "@language" : "en",
+    "@value" : "Naturwissenschaftlicher Beobachter (früher Zoologischer Beobachter – Der Zoologische Garten)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "142777"
+  }, {
+    "@value" : "109322"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "72858"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1859"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/00445169"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0044-5169"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S1844242"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0044-5169"
+  }, {
+    "@value" : "1876-4312"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Der Zoologische Garten (Neue Folge)"
+  }, {
+    "@language" : "de",
+    "@value" : "Der Zoologische Garten (Zoologischer Beobachter)"
+  }, {
+    "@language" : "de",
+    "@value" : "Zoologischer Beobachter. Der Zoologische Garten."
+  }, {
+    "@language" : "de",
+    "@value" : "Der Zoologische Garten"
+  }, {
+    "@language" : "de",
+    "@value" : "Naturwissenschaftlicher Beobachter (früher Zoologischer Beobachter – Der Zoologische Garten)"
+  } ]
+} ]

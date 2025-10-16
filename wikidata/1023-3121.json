@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15745427",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://reference.sabinet.co.za/sa_epublication/plantpro"
+  }, {
+    "@id" : "https://journals.co.za/content/journal/plantpro"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1023-3121"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764943949"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2309-3811"
+  }, {
+    "@value" : "1023-3121"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "African Plant Protection"
+  }, {
+    "@language" : "en",
+    "@value" : "African plant protection"
+  } ]
+} ]

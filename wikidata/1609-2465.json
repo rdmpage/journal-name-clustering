@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28967071",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Natl. Taiwan Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "Guoli Taiwan Bowuguan Xuekan"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1609-2465"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "EB708EB0-B5F8-4497-B0C1-F0232973978A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1609-2465"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh-tw",
+    "@value" : "國立臺灣博物館學刊"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the National Taiwan Museum"
+  } ]
+} ]

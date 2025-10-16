@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386247",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "ARTHROPODA Generalis"
+  }, {
+    "@language" : "en",
+    "@value" : "Arthropoda generalis"
+  }, {
+    "@language" : "en",
+    "@value" : "ARTHROPODA Generalis"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 2191-4427"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2191-4427"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2191-4427"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Arthropoda Generalis"
+  } ]
+} ]

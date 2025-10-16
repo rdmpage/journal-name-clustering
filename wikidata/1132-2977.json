@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15278379",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Revista de los progresos de las ciencias exactas físicas y naturales"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista Progr. Ci. Exact."
+  }, {
+    "@language" : "en",
+    "@value" : "Rev. prog. cienc. exactas fis. nat"
+  }, {
+    "@language" : "de",
+    "@value" : "Revista Progr. Ci. Exact."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7135"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.rac.es/4/4_2_1.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1132-2977"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1132-2977"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista de los progresos de las ciencias exactas físicas y naturales"
+  } ]
+} ]

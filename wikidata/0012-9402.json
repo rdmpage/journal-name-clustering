@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q100451090",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Eclogae Geologicae Helveticae"
+  }, {
+    "@language" : "de",
+    "@value" : "Eclogae Geologicae Helveticae"
+  }, {
+    "@language" : "en",
+    "@value" : "Eclogae geol. Helv."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "34819"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1888"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.e-periodica.ch/digbib/volumes?UID=egh-001"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0012-9402"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S75244570"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D8069D5F-8D7D-48DD-B9CC-86246E2D7F18"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0012-9402"
+  }, {
+    "@value" : "1420-9128"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Eclogae geologicae Helveticae"
+  }, {
+    "@language" : "la",
+    "@value" : "Eclogae Geologicae Helveticae"
+  } ]
+} ]

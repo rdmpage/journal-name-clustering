@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4595719",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "19th century music"
+  }, {
+    "@language" : "en",
+    "@value" : "Nineteenth Century Music"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "23072"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1977"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0148-2076;screen=info;ECOIP"
+  }, {
+    "@id" : "http://ncm.ucpress.edu//content/by/year"
+  }, {
+    "@id" : "http://www.jstor.org/journals/01482076.html"
+  }, {
+    "@id" : "http://www.ucpressjournals.com/journal.asp?j=ncm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0148-2076"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "19thcenturymusic"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S174624592"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1533-8606"
+  }, {
+    "@value" : "0148-2076"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "19th century music"
+  }, {
+    "@language" : "en",
+    "@value" : "19th-Century Music"
+  } ]
+} ]

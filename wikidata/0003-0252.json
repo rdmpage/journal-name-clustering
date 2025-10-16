@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5672461",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "AOS Bulletin"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1932"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-0252"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4363606206"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1995"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0003-0252"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "American Orchid Society Bulletin"
+  } ]
+} ]

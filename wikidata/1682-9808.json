@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96325278",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Scientific Council studies"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "91708"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.nafo.ca/"
+  }, {
+    "@id" : "http://www.nafo.ca/studies.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0250-6432"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S40896584"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1682-9808"
+  }, {
+    "@value" : "0250-6432"
+  }, {
+    "@value" : "1812-2469"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Scientific Council studies"
+  } ]
+} ]

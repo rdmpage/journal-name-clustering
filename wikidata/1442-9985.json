@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q781205",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Austral Ecol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3663"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.blackwell-synergy.com/issuelist.asp?journal=aec"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/14429993"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1442-9985"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S38880878"
+  }, {
+    "@value" : "S4210240342"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A4402F88-424D-4DC9-84B3-90A48538271D"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1442-9985"
+  }, {
+    "@value" : "1442-9993"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Austral Ecology"
+  } ]
+} ]

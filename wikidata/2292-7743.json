@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722385",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc. Nova Scotian Inst. Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "Proc N S Inst Sci"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Nova Scotian Institute of Science (NSIS)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "145928"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "325224"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1931"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dalspace.library.dal.ca/handle/10222/11192"
+  }, {
+    "@id" : "https://ojs.library.dal.ca/nsis"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-2521"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210182865"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2292-7743"
+  }, {
+    "@value" : "0078-2521"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Nova Scotian Institute of Science"
+  }, {
+    "@language" : "und",
+    "@value" : "Proceedings of the Nova Scotian Institute of Science"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q87829757",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0038-6804"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0038-6804"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S969808089"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "29600F14-E49F-4413-9EB7-F1ABB22BE3B0"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0038-6804"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Special Papers in Palaeontology"
+  } ]
+} ]

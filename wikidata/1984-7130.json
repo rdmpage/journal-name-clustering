@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96719590",
+  "http://example.com/crossref" : [ {
+    "@value" : "245411"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://periodicos.uff.br/rbcv/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1413-0130"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210171159"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1413-0130"
+  }, {
+    "@value" : "1984-7130"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista Brasileira de Ciência Veterinária"
+  } ]
+} ]

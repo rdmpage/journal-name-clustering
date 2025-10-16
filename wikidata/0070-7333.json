@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714179",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Drosoph Inf Serv"
+  }, {
+    "@language" : "en",
+    "@value" : "Drosoph. Inf. Serv."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ou.edu/journals/dis/byissue.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0070-7333"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0070-7333"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Drosophila information service"
+  } ]
+} ]

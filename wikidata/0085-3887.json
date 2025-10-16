@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q18584731",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0085-3887"
+  }, {
+    "@language" : "en",
+    "@value" : "Nemouria; occasional papers of the Delaware Museum of Natural History"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "95222"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.delmnh.org/pubnf.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0085-3887"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0085-3887"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nemouria"
+  } ]
+} ]

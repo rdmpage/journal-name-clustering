@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722761",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Rev Investig Vet Peru"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "249849"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://revistasinvestigacion.unmsm.edu.pe/index.php/veterinaria"
+  }, {
+    "@id" : "http://sisbib.unmsm.edu.pe/BVRevistas/veterinaria/veterinaria.htm"
+  }, {
+    "@id" : "http://www.redalyc.org/revista.oa?id=3718"
+  }, {
+    "@id" : "http://www.scielo.org.pe/scielo.php?script=sci_serial&pid=1609-9117&lng=es&nrm=iso"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1609-9117"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210179982"
+  }, {
+    "@value" : "S4306526839"
+  }, {
+    "@value" : "S4306526840"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1609-9117"
+  }, {
+    "@value" : "1682-3419"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Revista de investigaciones veterinarias del Peru (Online)"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista de investigaciones veterinarias del Perú"
+  } ]
+} ]

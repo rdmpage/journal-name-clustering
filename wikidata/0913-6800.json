@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113475872",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://tsukuba.repo.nii.ac.jp/search?search_type=2&q=60"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0913-6800"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0913-6800"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Tsukuba Daigaku Sugadaira Kōgen Jikken Sentā kenkyū hōkoku"
+  } ]
+} ]

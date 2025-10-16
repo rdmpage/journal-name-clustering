@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386187",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0532-7679"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4363606489"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0532-7679"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Frustula entomologica"
+  } ]
+} ]

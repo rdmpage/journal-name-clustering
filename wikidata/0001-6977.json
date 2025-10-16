@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4676744",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Acta Soc. Bot. Poloniae"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "135785"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0001-6977"
+  }, {
+    "@value" : "2083-9480"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1923"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://pbsociety.org.pl/journals/index"
+  }, {
+    "@id" : "http://pbsociety.org.pl/journals/index.php/asbp/index"
+  }, {
+    "@id" : "https://pbsociety.org.pl/journals/index.php/asbp/issue/view/336"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-6977"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S100464430"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-6977"
+  }, {
+    "@value" : "2083-9480"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Societatis Botanicorum Poloniae"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Societatis Botanicorum Poloniae"
+  } ]
+} ]

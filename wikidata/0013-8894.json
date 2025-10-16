@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4038113",
+  "http://example.com/crossref" : [ {
+    "@value" : "318660"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1950"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.pemberleybooks.com/journals/Entomologists_Gazette.asp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-8894"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S22138105"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2023"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3D2CE8DC-2149-4EA9-8756-730CA4647208"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0013-8894"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Entomologist's Gazette"
+  } ]
+} ]

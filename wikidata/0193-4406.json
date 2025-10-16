@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51450237",
+  "http://example.com/bhl" : [ {
+    "@value" : "66539"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://digital.ncdcr.gov/cdm/ref/collection/p16062coll9/id/22623"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0193-4406"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0193-4406"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Brimleyana"
+  } ]
+} ]

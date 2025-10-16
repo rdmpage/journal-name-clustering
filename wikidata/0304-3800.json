@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763045",
+  "http://example.com/crossref" : [ {
+    "@value" : "1655"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1975"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.journals.elsevier.com/ecological-modelling"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0304-3800"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S88315673"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0304-3800"
+  }, {
+    "@value" : "1872-7026"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecological modelling"
+  } ]
+} ]

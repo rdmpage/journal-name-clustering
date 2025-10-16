@@ -1,0 +1,62 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28469658",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Mt. zool. Mus. Berlin"
+  }, {
+    "@language" : "es",
+    "@value" : "Mt. zool. Mus. Berlin"
+  }, {
+    "@language" : "en",
+    "@value" : "Mt. zool. Mus. Berlin"
+  }, {
+    "@language" : "de",
+    "@value" : "Mitt. zool. Mus. Berlin"
+  }, {
+    "@language" : "pt",
+    "@value" : "Mitt. zool. Mus. Berlin"
+  }, {
+    "@language" : "es",
+    "@value" : "Mitt. zool. Mus. Berlin"
+  }, {
+    "@language" : "en",
+    "@value" : "Mitt. Zool. Mus. Berl."
+  }, {
+    "@language" : "fr",
+    "@value" : "Mitt. zool. Mus. Berlin"
+  }, {
+    "@language" : "en",
+    "@value" : "Mitt. zool. Mus. Berlin"
+  }, {
+    "@language" : "de",
+    "@value" : "Mt. zool. Mus. Berlin"
+  }, {
+    "@language" : "pt",
+    "@value" : "Mt. zool. Mus. Berlin"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "42540"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "66424"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1901"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-8493"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210180489"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1997"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-8493"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Mitteilungen aus dem Zoologischen Museum in Berlin"
+  } ]
+} ]

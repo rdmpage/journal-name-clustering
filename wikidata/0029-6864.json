@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q52184437",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0029-6864"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0029-6864"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0029-6864"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Norwegian Journal of Zoology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Norwegian journal of zoology"
+  } ]
+} ]

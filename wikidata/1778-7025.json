@@ -1,0 +1,101 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761324",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "CR Géos"
+  }, {
+    "@language" : "es",
+    "@value" : "Comptes Rendus. Geoscience"
+  }, {
+    "@language" : "es",
+    "@value" : "CRAS Geoscience"
+  }, {
+    "@language" : "es",
+    "@value" : "C. R. Géos."
+  }, {
+    "@language" : "en",
+    "@value" : "CR Géoscience"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes Rendus Geoscience"
+  }, {
+    "@language" : "en",
+    "@value" : "Comptes Rendus Geoscience"
+  }, {
+    "@language" : "fr",
+    "@value" : "CR Géoscience"
+  }, {
+    "@language" : "en",
+    "@value" : "CRAS Geoscience"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes Rendus Géoscience"
+  }, {
+    "@language" : "en",
+    "@value" : "Comptes Rendus Géoscience"
+  }, {
+    "@language" : "fr",
+    "@value" : "CRAS Geoscience"
+  }, {
+    "@language" : "en",
+    "@value" : "CRAS Géoscience"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes Rendus. Geoscience"
+  }, {
+    "@language" : "en",
+    "@value" : "Comptes Rendus. Geoscience"
+  }, {
+    "@language" : "es",
+    "@value" : "Comptes Rendus Geoscience"
+  }, {
+    "@language" : "es",
+    "@value" : "CR Géos"
+  }, {
+    "@language" : "fr",
+    "@value" : "CRAS Géoscience"
+  }, {
+    "@language" : "en",
+    "@value" : "CR Géos"
+  }, {
+    "@language" : "en",
+    "@value" : "C. R. Géos."
+  }, {
+    "@language" : "fr",
+    "@value" : "C. R. Géos."
+  }, {
+    "@language" : "es",
+    "@value" : "Comptes Rendus Géoscience"
+  }, {
+    "@language" : "es",
+    "@value" : "CR Géoscience"
+  }, {
+    "@language" : "en",
+    "@value" : "CR Geoscience"
+  }, {
+    "@language" : "fr",
+    "@value" : "C.R. Géoscience"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2302"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1778-7025"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://comptes-rendus.academie-sciences.fr/geoscience/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1631-0713"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "s113329220"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1778-7025"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Comptes rendus. Géoscience"
+  } ]
+} ]

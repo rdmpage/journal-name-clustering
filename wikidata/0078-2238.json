@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385076",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Beih. Nova Hedwigia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-2238"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306504103"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "1D454D64-F584-44DA-8A13-777DCBAE9AA2"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0078-2238"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Beihefte zur Nova Hedwigia"
+  }, {
+    "@language" : "de",
+    "@value" : "Beihefte zur Nova Hedwigia"
+  } ]
+} ]

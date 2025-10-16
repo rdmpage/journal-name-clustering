@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767059",
+  "http://example.com/crossref" : [ {
+    "@value" : "113465"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1960"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://link.springer.com/journal/13353"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S152710239"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0016-6715"
+  }, {
+    "@value" : "2190-3883"
+  }, {
+    "@value" : "1234-1983"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Applied Genetics: an international journal of genetics and breeding"
+  } ]
+} ]

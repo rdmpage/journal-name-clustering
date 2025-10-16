@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27715450",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "James Arthur Lect"
+  }, {
+    "@language" : "en",
+    "@value" : "James Arthur lect. evol. hum. brain."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "15831"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1955"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0447-3353"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0447-3353"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "James Arthur lecture on the evolution of the human brain"
+  } ]
+} ]

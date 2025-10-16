@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385002",
+  "http://example.com/bhl" : [ {
+    "@value" : "10603"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297361"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1911"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0771-0488"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210185288"
+  }, {
+    "@value" : "S4306528281"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1928"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0771-0488"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Revue de zoologie africaine"
+  }, {
+    "@language" : "mul",
+    "@value" : "Revue de zoologie africaine"
+  } ]
+} ]

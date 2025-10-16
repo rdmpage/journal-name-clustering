@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51408814",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Transaction of the Canadian Institute"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "13502"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297359"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1890"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0384-823X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210179802"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1913"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0384-823X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transaction of the Canadian Institute"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Canadian Institute"
+  } ]
+} ]

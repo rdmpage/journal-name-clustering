@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758979",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Corella :  journal of the Australian Bird Study Association"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://nla.gov.au/nla.obj-434364950"
+  }, {
+    "@id" : "http://www.absa.asn.au/publication-category/corella/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0155-0438"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2203-4420"
+  }, {
+    "@value" : "0155-0438"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Corella :  journal of the Australian Bird Study Association"
+  }, {
+    "@language" : "und",
+    "@value" : "Corella"
+  } ]
+} ]

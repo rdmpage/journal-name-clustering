@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50552823",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca Horticulture"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca. Horticulture"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "265128"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1843-5394"
+  }, {
+    "@value" : "1843-5254"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.usamvcluj.ro/index.php/horticulture"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1843-5254"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2738259759"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1843-5254"
+  }, {
+    "@value" : "2457-1415"
+  }, {
+    "@value" : "1843-5394"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca. Horticulture"
+  } ]
+} ]

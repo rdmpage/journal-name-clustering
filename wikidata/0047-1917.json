@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15746711",
+  "http://example.com/from_year" : [ {
+    "@value" : "1954"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://eprints.lib.hokudai.ac.jp/journals/index.php?jname=117&archive=ON"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0047-1917"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jjvr"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S155525461"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0047-1917"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Japanese Journal of Veterinary Research"
+  } ]
+} ]

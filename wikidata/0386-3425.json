@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q95572573",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0386-3425"
+  }, {
+    "@language" : "en",
+    "@value" : "Snake"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0386-3425"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0386-3425"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Snake"
+  }, {
+    "@language" : "en",
+    "@value" : "The Snake"
+  } ]
+} ]

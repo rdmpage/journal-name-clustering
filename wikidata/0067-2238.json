@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761652",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Australian zoologist"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "57946"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "191925"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1914"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://meridian.allenpress.com/australian-zoologist"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0067-2238"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764740935"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://publications.rzsnsw.org.au/action/showFeed?type=etoc&feed=rss&jc=azoo"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "6CDF97D4-8032-4A99-A810-EE466FB4BA58"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2204-2105"
+  }, {
+    "@value" : "0067-2238"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australian Zoologist"
+  } ]
+} ]

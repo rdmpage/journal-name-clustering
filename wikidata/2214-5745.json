@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725756",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Curr Opin Insect Sci"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "246954"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/current-opinion-in-insect-science/"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/current-opinion-in-insect-science"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2214-5745"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764908915"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2214-5753"
+  }, {
+    "@value" : "2214-5745"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Current opinion in insect science"
+  } ]
+} ]

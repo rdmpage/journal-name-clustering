@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751973",
+  "http://example.com/crossref" : [ {
+    "@value" : "28145"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://afs.allenpress.com/afsonline/?request=get-archive&issn=0899-7659"
+  }, {
+    "@id" : "https://academic.oup.com/jaah"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/15488667"
+  }, {
+    "@id" : "https://www.tandfonline.com/loi/uahh20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0899-7659"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S194317145"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0899-7659"
+  }, {
+    "@value" : "1548-8667"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Aquatic Animal Health"
+  } ]
+} ]

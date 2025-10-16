@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719564",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc R Inst G B"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8073"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1854"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0035-8959"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0035-8959"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Institution of Great Britain"
+  } ]
+} ]

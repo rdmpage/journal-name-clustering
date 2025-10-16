@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5735493",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Bulletin de la Societe Philomatique de Paris"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin de la Societe Philomatique de Paris"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société philomathique de Paris"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0366-3515"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société philomathique de Paris."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "9580"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1864"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://catalog.hathitrust.org/Record/012099771"
+  }, {
+    "@id" : "https://www.biodiversitylibrary.org/bibliography/9580"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-3515"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1948"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "3039-6840"
+  }, {
+    "@value" : "0366-3515"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société Philomatique de Paris"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société philomathique de Paris"
+  } ]
+} ]

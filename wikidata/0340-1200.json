@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766256",
+  "http://example.com/crossref" : [ {
+    "@value" : "777"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springerlink.com/content/100465/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0340-1200"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S87357125"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0340-1200"
+  }, {
+    "@value" : "1432-0770"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Biological cybernetics"
+  }, {
+    "@language" : "en",
+    "@value" : "Biological Cybernetics: communication and control in organisms and automata"
+  } ]
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3566669",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Colonial Waterbirds"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57542"
+  }, {
+    "@value" : "55559"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.waterbirds.org/journal.htm"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "colowate"
+  }, {
+    "@value" : "wateintejwatebio"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S114498453"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0738-6028"
+  }, {
+    "@value" : "1524-4695"
+  }, {
+    "@value" : "1938-5390"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Waterbirds: the international journal of waterbird biology"
+  } ]
+} ]

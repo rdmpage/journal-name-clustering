@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q111130772",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0211-609X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306521931"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0211-609X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Paleontologia i Evolució"
+  } ]
+} ]

@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722974",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull Soc Sci Nat Ouest Fr"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Soc. sci. nat. Ouest Fr."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6436"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297295"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1891"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210190808"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0758-3818"
+  }, {
+    "@value" : "0373-3025"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société des sciences naturelles de l'Ouest de la France."
+  } ]
+} ]

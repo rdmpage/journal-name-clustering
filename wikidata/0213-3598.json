@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386016",
+  "http://example.com/dialnet" : [ {
+    "@value" : "1672"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0213-3598"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306505324"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0213-3598"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ca",
+    "@value" : "Butlletí del Centre d'Estudis de la Natura del Barcelonés-Nord"
+  } ]
+} ]

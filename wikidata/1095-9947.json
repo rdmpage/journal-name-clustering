@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755687",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Fish & shellfish immunology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "541"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=1050-4648;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/10504648"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/latest/10504648"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/fish-and-shellfish-immunology"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1050-4648"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S185787987"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1050-4648"
+  }, {
+    "@value" : "1095-9947"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fish & shellfish immunology"
+  }, {
+    "@language" : "en",
+    "@value" : "Fish and Shellfish Immunology"
+  } ]
+} ]

@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5655060",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Abhandlungen der Mathematisch-Physikalischen Klasse der Königlich Bayerischen Akademie der Wissenschaften"
+  }, {
+    "@language" : "es",
+    "@value" : "Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss."
+  }, {
+    "@language" : "en",
+    "@value" : "Abh. Math. Physik. Cl. Bayer. Akad. Wiss."
+  }, {
+    "@language" : "en",
+    "@value" : "Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss."
+  }, {
+    "@language" : "en",
+    "@value" : "Abh. Math.-Phys. Kl., K. Bayer. Akad. Wiss."
+  }, {
+    "@language" : "en",
+    "@value" : "Abhandlungen der Mathematisch-Physikalischen Klasse der Königlich Bayerischen Akademie der Wissenschaften"
+  }, {
+    "@language" : "fr",
+    "@value" : "Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss."
+  }, {
+    "@language" : "de",
+    "@value" : "Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0176-7100"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "10920"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1832"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1910"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "BE2C2D23-91DC-45A8-8670-CB09C7A36EDC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0716-7100"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Abhandlungen der Mathematisch-Physikalischen Klasse der Königlich Bayerischen Akademie der Wissenschaften"
+  }, {
+    "@language" : "de",
+    "@value" : "Abhandlungen der Mathematisch-Physikalischen Classe der Königlich Bayerischen Akademie der Wissenschaften"
+  } ]
+} ]

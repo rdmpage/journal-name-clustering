@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113477895",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "Obihiro Chikusan Daigaku gakujutsu kenkyuu houkoku"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.obihiro.ac.jp/‾library/kenkyu.htm"
+  }, {
+    "@id" : "https://obihiro.repo.nii.ac.jp/search?search_type=2&q=75"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1348-5261"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1348-5261"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "Obihiro Chikusan Daigaku gakujutsu kenkyuu houkoku"
+  } ]
+} ]

@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756923",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0127-5720"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S50721268"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2521-9855"
+  }, {
+    "@value" : "0127-5720"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Tropical Biomedicine"
+  } ]
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386153",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Entomological Society of Iran"
+  }, {
+    "@language" : "en",
+    "@value" : "JESI"
+  }, {
+    "@language" : "en",
+    "@value" : "نامه انجمن حشرهشناسی ایران"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2783-3968"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1968"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://jesi.areeo.ac.ir/?lang=en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0259-9996"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765059546"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0259-9996"
+  }, {
+    "@value" : "2783-3968"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fa",
+    "@value" : "Namahyi Anjumani Hasharahshinasani Iran"
+  } ]
+} ]

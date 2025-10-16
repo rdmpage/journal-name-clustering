@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96332431",
+  "http://example.com/crossref" : [ {
+    "@value" : "213426"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sci.muni.cz/CPR/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1805-0689"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764658641"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1805-0697"
+  }, {
+    "@value" : "1805-0689"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Czech Polar Reports"
+  } ]
+} ]

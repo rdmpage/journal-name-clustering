@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329207",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Royal Society of Sciences of Liège"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://popups.uliege.be/0037-9565/index.php?page=presentation"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0037-9565"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210203114"
+  }, {
+    "@value" : "S4210232837"
+  }, {
+    "@value" : "S4306505107"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0037-9565"
+  }, {
+    "@value" : "1783-5720"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société royale des sciences de Liège"
+  } ]
+} ]

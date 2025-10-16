@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q56762029",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2248-3799"
+  }, {
+    "@language" : "en",
+    "@value" : "Romanian Journal of Biology Zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "Romanian Journal of Biology. Zoology"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ibiol.ro/zoology/zoology.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1843-7761"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1843-7761"
+  }, {
+    "@value" : "2248-3799"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Romanian Journal of Biology. Zoology"
+  } ]
+} ]

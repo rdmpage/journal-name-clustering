@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5747392",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0373-2967"
+  }, {
+    "@language" : "es",
+    "@value" : "Candollea (revista)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "265748"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ville-ge.ch/cjb/publications_candollea.php"
+  }, {
+    "@id" : "https://www.e-periodica.ch/digbib/volumes?UID=can-002"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-2967"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S83500941"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2235-3658"
+  }, {
+    "@value" : "0373-2967"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Candollea"
+  }, {
+    "@language" : "fr",
+    "@value" : "Candollea"
+  } ]
+} ]

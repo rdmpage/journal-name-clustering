@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756447",
+  "http://example.com/crossref" : [ {
+    "@value" : "5388"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ieeexplore.ieee.org/servlet/opac?punumber=48"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0364-9059"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S132957497"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2373-7786"
+  }, {
+    "@value" : "0364-9059"
+  }, {
+    "@value" : "1558-1691"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "IEEE Journal of Oceanic Engineering"
+  } ]
+} ]

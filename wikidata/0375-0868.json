@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385791",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0375-0868"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1934"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-0868"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306528347"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1965"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3FB9DAAA-3A1D-4C6E-BCAB-C4E01391ABE8"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0375-0868"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Revue française d'entomologie"
+  } ]
+} ]

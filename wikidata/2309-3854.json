@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50816691",
+  "http://example.com/crossref" : [ {
+    "@value" : "357948"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2309-3854"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://corescholar.libraries.wright.edu/jbm/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2309-3854"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737205702"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2309-3854"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of bioresource management"
+  } ]
+} ]

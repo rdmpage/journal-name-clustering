@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726616",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biochem Biophys Rep"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "278446"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2405-5808"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/24055808"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/biochemistry-and-biophysics-reports"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2405-5808"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764640729"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2405-5808"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biochemistry and biophysics reports"
+  } ]
+} ]

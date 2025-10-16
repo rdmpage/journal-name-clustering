@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385272",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0084-5604"
+  }, {
+    "@language" : "en",
+    "@value" : "Vestnik zoologii"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "88187"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2073-2333"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://content.sciendo.com/view/journals/vzoo/vzoo-overview.xml"
+  }, {
+    "@id" : "https://v-zool.kiev.ua/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0084-5604"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S196708879"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2019"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "71025731-AB68-4F8E-8D94-DE119080AC77"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2073-2333"
+  }, {
+    "@value" : "0084-5604"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Vestnik zoologii"
+  } ]
+} ]

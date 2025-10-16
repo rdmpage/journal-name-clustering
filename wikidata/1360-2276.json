@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765747",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "TM & IH. Tropical medicine and international health"
+  }, {
+    "@language" : "de",
+    "@value" : "Trop Med Int Health"
+  }, {
+    "@language" : "en",
+    "@value" : "Tropical Medicine & International Health"
+  }, {
+    "@language" : "en",
+    "@value" : "Trop Med Int Health"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "6195"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/%28issn%291365-3156"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=tmi"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1360-2276"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S148484591"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1365-3156"
+  }, {
+    "@value" : "1360-2276"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "TM & IH. Tropical medicine and international health"
+  }, {
+    "@language" : "en",
+    "@value" : "Tropical Medicine and International Health"
+  } ]
+} ]

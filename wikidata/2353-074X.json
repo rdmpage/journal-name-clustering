@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724065",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Mycol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "219805"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0001-625X"
+  }, {
+    "@value" : "2353-074X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1965"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://pbsociety.org.pl/journal/index.php/am"
+  }, {
+    "@id" : "https://pbsociety.org.pl/journals/index.php/am/issue/view/335"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-625X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210208739"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://pbsociety.org.pl/journals/index.php/am/gateway/plugin/WebFeedGatewayPlugin/atom"
+  }, {
+    "@id" : "https://pbsociety.org.pl/journals/index.php/am/gateway/plugin/WebFeedGatewayPlugin/rss"
+  }, {
+    "@id" : "https://pbsociety.org.pl/journals/index.php/am/gateway/plugin/WebFeedGatewayPlugin/rss2"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-625X"
+  }, {
+    "@value" : "2353-074X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta Mycologica"
+  } ]
+} ]

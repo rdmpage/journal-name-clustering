@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759646",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://search.ebscohost.com/direct.asp?db=a9h&jid=91KN&scope=site"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0018-084X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764973804"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0018-084X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Herpetological Review"
+  } ]
+} ]

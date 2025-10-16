@@ -1,0 +1,63 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4041880",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Clin. Microbiol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "JCM"
+  }, {
+    "@language" : "fr",
+    "@value" : "JCM"
+  }, {
+    "@language" : "es",
+    "@value" : "JCM"
+  }, {
+    "@language" : "ru",
+    "@value" : "JCM"
+  }, {
+    "@language" : "zh",
+    "@value" : "臨床微生物學期刊"
+  }, {
+    "@language" : "fr",
+    "@value" : "J. Clin. Microbiol."
+  }, {
+    "@language" : "es",
+    "@value" : "J. Clin. Microbiol."
+  }, {
+    "@language" : "de",
+    "@value" : "JCM"
+  }, {
+    "@language" : "de",
+    "@value" : "J. Clin. Microbiol."
+  }, {
+    "@language" : "en",
+    "@value" : "J. Clin. Microbiol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5545"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1975"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=81"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0095-1137"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S53087977"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1098-660X"
+  }, {
+    "@value" : "1070-633X"
+  }, {
+    "@value" : "0095-1137"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Clinical Microbiology"
+  } ]
+} ]

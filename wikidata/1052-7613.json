@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751173",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Aquatic conservation"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "210"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1991"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-0755"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/5593"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1052-7613"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S97382565"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1099-0755"
+  }, {
+    "@value" : "1052-7613"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Aquatic conservation"
+  }, {
+    "@language" : "en",
+    "@value" : "Aquatic Conservation: Marine and Freshwater Ecosystems"
+  } ]
+} ]

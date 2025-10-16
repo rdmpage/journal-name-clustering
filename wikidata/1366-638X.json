@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767148",
+  "http://example.com/crossref" : [ {
+    "@value" : "2681"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dx.doi.org/10.1007/10841.1572-9753"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1366-638X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S92632373"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1366-638X"
+  }, {
+    "@value" : "1572-9753"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of insect conservation"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Insect Conservation: an international journal devoted to the conservation of inects and related invertebrates"
+  } ]
+} ]

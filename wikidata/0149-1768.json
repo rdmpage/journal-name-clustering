@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385822",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Spec Publ Tex Tech Univ Mus"
+  }, {
+    "@language" : "en",
+    "@value" : "Spec. Publ. Mus. Tex. Tech Univ."
+  }, {
+    "@language" : "en",
+    "@value" : "Spec. publ. Mus., Tex. Tech. Univ."
+  }, {
+    "@language" : "en",
+    "@value" : "Special publications - The Museum, Texas Tech University"
+  }, {
+    "@language" : "en",
+    "@value" : "Special Publications of the Museum of Texas Tech University"
+  }, {
+    "@language" : "en",
+    "@value" : "Special publications. The Museum, Texas Tech University"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "142707"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0149-1768"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0149-1768"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Special publications (Texas Tech University. Museum)"
+  }, {
+    "@language" : "en",
+    "@value" : "Special publications. The Museum, Texas Tech University"
+  } ]
+} ]

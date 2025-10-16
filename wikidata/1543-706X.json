@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1524094",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "In vitro cellular & developmental biology. Animal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57491"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/11626"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=1071-2690"
+  }, {
+    "@id" : "http://www.jstor.org/journals/10712690.html"
+  }, {
+    "@id" : "http://www.springerlink.com/content/120498/"
+  }, {
+    "@id" : "https://www.springer.com/journal/11626/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1071-2690"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "invitrcelldeveanim"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S97150082"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1543-706X"
+  }, {
+    "@value" : "1071-2690"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "In Vitro Cellular & Developmental Biology – Animal"
+  }, {
+    "@language" : "en",
+    "@value" : "In vitro cellular & developmental biology. Animal"
+  } ]
+} ]

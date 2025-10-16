@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756091",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Eur. J. Phycol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "6086"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0967-0262;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.journals.cup.org/owa_dba/owa/volumes?sjid=EJP"
+  }, {
+    "@id" : "http://www.metapress.com/link.asp?id=300394"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0967-0262"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S133660675"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1469-4433"
+  }, {
+    "@value" : "0967-0262"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "European Journal of Phycology"
+  } ]
+} ]

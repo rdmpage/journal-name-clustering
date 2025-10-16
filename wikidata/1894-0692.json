@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q11992670",
+  "http://example.com/doaj" : [ {
+    "@value" : "1891-5396"
+  }, {
+    "@value" : "1502-4873"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.entomologi.no/journals/nje/nje.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1501-8415"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764853258"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1894-0692"
+  }, {
+    "@value" : "1502-4873"
+  }, {
+    "@value" : "1501-8415"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Norwegian Journal of Entomology"
+  } ]
+} ]

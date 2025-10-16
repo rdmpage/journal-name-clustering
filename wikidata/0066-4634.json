@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386054",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0066-4634"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210232917"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "5022078B-5A43-4979-824D-E95801DAA26C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2328-9201"
+  }, {
+    "@value" : "0066-4634"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Antarctic Research Series"
+  } ]
+} ]

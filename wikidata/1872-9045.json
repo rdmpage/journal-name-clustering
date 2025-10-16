@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2159220",
+  "http://example.com/crossref" : [ {
+    "@value" : "1521"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0168-1591"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S179500637"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1872-9045"
+  }, {
+    "@value" : "0168-1591"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Applied Animal Behaviour Science"
+  } ]
+} ]

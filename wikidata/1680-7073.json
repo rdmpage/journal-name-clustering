@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4316776",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jast.journals.modares.ac.ir/"
+  }, {
+    "@id" : "http://jast.modares.ac.ir/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1680-7073"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S85130756"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1680-7073"
+  }, {
+    "@value" : "2345-3737"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Agricultural Science and Technology"
+  } ]
+} ]

@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765717",
+  "http://example.com/crossref" : [ {
+    "@value" : "3702"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=fme"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0969-997X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S106394429"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1365-2400"
+  }, {
+    "@value" : "0969-997X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fisheries Management and Ecology"
+  } ]
+} ]

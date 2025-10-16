@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q41133844",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0376-5156"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306511358"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0376-5156"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Geophytology"
+  } ]
+} ]

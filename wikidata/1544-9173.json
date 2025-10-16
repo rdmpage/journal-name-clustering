@@ -1,0 +1,66 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1771695",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "PLoS Biol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "PLOS生物学"
+  }, {
+    "@language" : "zh",
+    "@value" : "PLOS生物學"
+  }, {
+    "@language" : "ru",
+    "@value" : "PLoS Biology"
+  }, {
+    "@language" : "ja",
+    "@value" : "プロス・バイオロジー"
+  }, {
+    "@language" : "en",
+    "@value" : "PLoS Biology"
+  }, {
+    "@language" : "zh",
+    "@value" : "《公共科学图书馆：生物学》"
+  }, {
+    "@language" : "de",
+    "@value" : "PLoS Biology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "17016"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1545-7885"
+  }, {
+    "@value" : "1544-9173"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2003"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journals.plos.org/plosbiology/"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/8459"
+  }, {
+    "@id" : "http://www.plosbiology.org"
+  }, {
+    "@id" : "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=212"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1544-9173"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S154343897"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E7DDD4EC-C000-4613-A3BD-60B6A8158414"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1544-9173"
+  }, {
+    "@value" : "1545-7885"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "PLOS Biology"
+  } ]
+} ]

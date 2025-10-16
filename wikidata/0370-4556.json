@@ -1,0 +1,58 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3212308",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Nucleus (revue)"
+  }, {
+    "@language" : "ja",
+    "@value" : "ラ・ルビュー・スィエンティフィーク"
+  }, {
+    "@language" : "pt",
+    "@value" : "Revue scientifique (France)"
+  }, {
+    "@language" : "fr",
+    "@value" : "Revue scientifique"
+  }, {
+    "@language" : "fr",
+    "@value" : "Revue des cours scientifiques de la France et de l'étranger"
+  }, {
+    "@language" : "ja",
+    "@value" : "ルビュー・スィヤンティフィーク"
+  }, {
+    "@language" : "fr",
+    "@value" : "Revue rose"
+  }, {
+    "@language" : "fr",
+    "@value" : "Revue scientifique (france)"
+  }, {
+    "@language" : "fr",
+    "@value" : "Revue scientifique (France)"
+  }, {
+    "@language" : "fr",
+    "@value" : "Revue scientifique de la France et de l'étranger"
+  }, {
+    "@language" : "fr",
+    "@value" : "La Revue Scientifique"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1863"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/cb34378388w/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-4556"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2419-8048"
+  }, {
+    "@value" : "0370-4556"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Revue scientifique"
+  } ]
+} ]

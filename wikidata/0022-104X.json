@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842574",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Experimental Zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "JEZ"
+  }, {
+    "@language" : "en",
+    "@value" : "J. exp. zool."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "11140"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "63147"
+  }, {
+    "@value" : "162"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1904"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1932-5231"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/110471710"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jtoc/102521318/2002"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-5015"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-104X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210222064"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2002"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1097-010X"
+  }, {
+    "@value" : "0022-104X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The journal of experimental zoology"
+  } ]
+} ]

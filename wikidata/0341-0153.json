@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385087",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Stutt. Beitr. Naturkd., B"
+  }, {
+    "@language" : "de",
+    "@value" : "ISSN 0341-0153"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0341-0153"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "43750"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0341-0153"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2007"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "C9B75CF5-47FE-4999-ADA0-971A1DCBC366"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0341-0153"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Stuttgarter Beiträge zur Naturkunde. Serie B. Geologie und Paläontologie"
+  }, {
+    "@language" : "mul",
+    "@value" : "Stuttgarter Beiträge zur Naturkunde. Serie B, Geologie und Paläontologie"
+  } ]
+} ]

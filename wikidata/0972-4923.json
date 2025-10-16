@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5162944",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Conservat. Soc."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Conservation & Society"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "87386"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0972-4923"
+  }, {
+    "@value" : "0975-3133"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2003"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0972-4923"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S152775278"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0972-4923"
+  }, {
+    "@value" : "0975-3133"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Conservation and Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Conservation & Society"
+  } ]
+} ]

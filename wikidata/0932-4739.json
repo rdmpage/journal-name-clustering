@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752457",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Eur. J. Protistol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Europ. J. Protistol."
+  }, {
+    "@language" : "es",
+    "@value" : "Europ. J. Protistol."
+  }, {
+    "@language" : "fr",
+    "@value" : "Europ. J. Protistol."
+  }, {
+    "@language" : "en",
+    "@value" : "Europ. J. Protistol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "30562"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.urbanfischer.de/journals/ejp/e-protis.htm"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/european-journal-of-protistology"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/european-journal-of-protistology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0932-4739"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S172934240"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0932-4739"
+  }, {
+    "@value" : "1618-0429"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "European journal of protistology"
+  }, {
+    "@language" : "en",
+    "@value" : "European Journal of Protistology"
+  } ]
+} ]

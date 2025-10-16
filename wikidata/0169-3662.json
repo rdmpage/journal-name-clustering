@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385833",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0169-3662"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0169-3662"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Stygologia"
+  } ]
+} ]

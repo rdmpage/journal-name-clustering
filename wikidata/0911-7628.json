@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113475940",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://kindai.repo.nii.ac.jp/search?search_type=2&q=1937"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0911-7628"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0911-7628"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Kinki Daigaku Suisan Kenkyūjo hōkoku"
+  } ]
+} ]

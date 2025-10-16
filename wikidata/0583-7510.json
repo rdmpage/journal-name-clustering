@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q90293804",
+  "http://example.com/dialnet" : [ {
+    "@value" : "219"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0583-7510"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306504705"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0583-7510"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletín de la Real Sociedad Española de Historia Natural. Sección geológica"
+  } ]
+} ]

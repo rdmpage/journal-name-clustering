@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15731308",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://richardiana.com/"
+  }, {
+    "@id" : "https://web.archive.org/web/*/http://www.richardiana.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1626-3596"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1626-3596"
+  }, {
+    "@value" : "2262-9017"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Richardiana"
+  }, {
+    "@language" : "fr",
+    "@value" : "Richardiana"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q89410121",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Richardiana, N.S."
+  }, {
+    "@language" : "en",
+    "@value" : "Richardiana, N.S."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://richardiana.com/"
+  }, {
+    "@id" : "https://web.archive.org/web/*/http://www.richardiana.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1626-3596"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1626-3596"
+  }, {
+    "@value" : "2262-9017"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Richardiana"
+  }, {
+    "@language" : "fr",
+    "@value" : "Richardiana"
+  } ]
+} ]

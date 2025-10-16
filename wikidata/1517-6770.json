@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96719886",
+  "http://example.com/crossref" : [ {
+    "@value" : "368118"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://periodicos.ufjf.br/index.php/zoociencias/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1517-6770"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210202751"
+  }, {
+    "@value" : "S4306526226"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2596-3325"
+  }, {
+    "@value" : "1517-6770"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista brasileira de zoociências"
+  } ]
+} ]

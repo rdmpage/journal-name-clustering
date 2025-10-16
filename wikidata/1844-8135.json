@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50552795",
+  "http://example.com/crossref" : [ {
+    "@value" : "247975"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1844-8135"
+  }, {
+    "@value" : "2065-2445"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://afrjournal.org/index.php/afr/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1844-8135"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2483781163"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2065-2445"
+  }, {
+    "@value" : "1844-8135"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Annals of Forest Research"
+  } ]
+} ]

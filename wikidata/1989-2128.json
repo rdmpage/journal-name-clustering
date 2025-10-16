@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725346",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Anales de biologia"
+  }, {
+    "@language" : "en",
+    "@value" : "Anales de Biología"
+  }, {
+    "@language" : "en",
+    "@value" : "An Biol"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "71448"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "200286"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "59"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1989-2128"
+  }, {
+    "@value" : "1138-3399"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://dialnet.unirioja.es/servlet/revista?codigo=59"
+  }, {
+    "@id" : "http://www.um.es/analesdebiologia/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1138-3399"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210173491"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1138-3399"
+  }, {
+    "@value" : "1989-2128"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Anales de biología"
+  }, {
+    "@language" : "mul",
+    "@value" : "Anales de biología"
+  } ]
+} ]

@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385232",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Contrib. mar. sci."
+  }, {
+    "@language" : "en",
+    "@value" : "Contributions in marine science"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "147193"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://repositories.lib.utexas.edu/handle/2152/18015"
+  }, {
+    "@id" : "http://www.lib.utexas.edu/msl/research_guides/bibliographies/contributions_marine_science"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0082-3449"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0082-3449"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Contributions in marine science"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751997",
+  "http://example.com/crossref" : [ {
+    "@value" : "9325"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/15689883"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/harmful-algae"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1568-9883"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S26186121"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1568-9883"
+  }, {
+    "@value" : "1878-1470"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Harmful algae"
+  }, {
+    "@language" : "und",
+    "@value" : "Harmful Algae"
+  } ]
+} ]

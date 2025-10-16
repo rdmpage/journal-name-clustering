@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50515224",
+  "http://example.com/doaj" : [ {
+    "@value" : "1314-6238"
+  }, {
+    "@value" : "1314-6246"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jbb.uni-plovdiv.bg/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1314-6238"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737891808"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1314-6238"
+  }, {
+    "@value" : "1314-6246"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of BioScience and Biotechnology"
+  } ]
+} ]

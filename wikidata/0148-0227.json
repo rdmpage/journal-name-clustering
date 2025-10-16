@@ -1,0 +1,60 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2738009",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Geophys. Res."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "JGR"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Geophys. Res."
+  }, {
+    "@language" : "ja",
+    "@value" : "地球物理連合学会誌"
+  }, {
+    "@language" : "ja",
+    "@value" : "米国地球物理連合学会誌"
+  }, {
+    "@language" : "fr",
+    "@value" : "J. Geophys. Res."
+  }, {
+    "@language" : "ja",
+    "@value" : "アメリカ地球物理連合学会誌"
+  }, {
+    "@language" : "de",
+    "@value" : "JGR"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3293"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1896"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.agu.org/journals/ja/"
+  }, {
+    "@id" : "http://www.agu.org/journals/jb/"
+  }, {
+    "@id" : "http://www.agu.org/journals/jc/"
+  }, {
+    "@id" : "http://www.agu.org/journals/jd/"
+  }, {
+    "@id" : "http://www.agu.org/journals/jgr/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0148-0227"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S207178839"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2156-2202"
+  }, {
+    "@value" : "0148-0227"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Geophysical Research"
+  } ]
+} ]

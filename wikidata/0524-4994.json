@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386139",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. Br. Arachnol. Soc."
+  }, {
+    "@language" : "fr",
+    "@value" : "Bull. Br. Arachnol. Soc."
+  }, {
+    "@language" : "es",
+    "@value" : "Bull. Br. Arachnol. Soc."
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. Br. Arachnol. Soc."
+  }, {
+    "@language" : "pt",
+    "@value" : "Bull. Br. Arachnol. Soc."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1969"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.britishspiders.org.uk/html/bas.php?page=bultn&menu=publ"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2012"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A9693C9D-44E7-4521-9ABB-61017F0B7B8B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0524-4994"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Arachnological Society"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q48688592",
+  "http://example.com/to_year" : [ {
+    "@value" : "1968"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0524-6741"
+  }, {
+    "@value" : "0524-4994"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en-gb",
+    "@value" : "Bulletin of the British Spider Study Group"
+  } ]
+} ]

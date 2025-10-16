@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27709056",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ann Soc R Sci Med Nat Brux"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0772-3997"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210224178"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0772-3997"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annales de la Societe royale des sciences medicales et naturelles de Bruxelles"
+  }, {
+    "@language" : "fr",
+    "@value" : "Annales de la Société royale des sciences médicales et naturelles de Bruxelles"
+  } ]
+} ]

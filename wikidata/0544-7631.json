@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q106486018",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0544-7631"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306505178"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0544-7631"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin du Musée d'Anthropologie Préhistorique de Monaco"
+  } ]
+} ]

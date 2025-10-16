@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q101246294",
+  "http://example.com/doaj" : [ {
+    "@value" : "2673-5636"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.mdpi.com/journal/jzbg"
+  }, {
+    "@id" : "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:ch:bel-1822139"
+  }, {
+    "@id" : "http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-1822139"
+  }, {
+    "@id" : "https://www.mdpi.com/journal/JZBG"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2673-5636"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210235900"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2673-5636"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Zoological and Botanical Gardens"
+  } ]
+} ]

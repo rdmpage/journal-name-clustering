@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760263",
+  "http://example.com/crossref" : [ {
+    "@value" : "9957"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencefromisrael.com/app/home/journal.asp?referrer=nav&backto=homemainpublications,2,5;&journalchange=300171"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-2210"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S31031158"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0021-2210"
+  }, {
+    "@value" : "2304-7976"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Israel Journal of Zoology"
+  } ]
+} ]

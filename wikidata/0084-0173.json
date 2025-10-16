@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759266",
+  "http://example.com/crossref" : [ {
+    "@value" : "58627"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1938-5455"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=0084-0173"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00840173.html"
+  }, {
+    "@id" : "http://www.wildlife.org/publications/wildlife-monographs"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0084-0173"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "wildmono"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S124985173"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1938-5455"
+  }, {
+    "@value" : "0084-0173"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Wildlife Monographs"
+  } ]
+} ]

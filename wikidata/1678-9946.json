@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26841971",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Rev Inst Med Trop Sao Paulo"
+  }, {
+    "@language" : "pt",
+    "@value" : "RIMTSP"
+  }, {
+    "@language" : "en",
+    "@value" : "RIMTSP"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the São Paulo Institute of Tropical Medicine : publication of the Instituto de Medicina Tropical"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "45763"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0036-4665"
+  }, {
+    "@value" : "1678-9946"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.revistas.usp.br/rimtsp/index"
+  }, {
+    "@id" : "https://www.scielo.br/rimtsp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0036-4665"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S182450478"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0036-4665"
+  }, {
+    "@value" : "1678-9946"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Revista do Instituto de Medicina Tropical de São Paulo"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the São Paulo Institute of Tropical Medicine : publication of the Instituto de Medicina Tropical"
+  }, {
+    "@language" : "und",
+    "@value" : "Revista do Instituto de Medicina Tropical de São Paulo"
+  } ]
+} ]

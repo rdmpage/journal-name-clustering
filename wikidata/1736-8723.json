@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q12370224",
+  "http://example.com/crossref" : [ {
+    "@value" : "126745"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1736-8723"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://mi.emu.ee/teadusinfo/metsanduslikud-uurimused/contents/1999/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1406-9954"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2738890804"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1406-9954"
+  }, {
+    "@value" : "1736-8723"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "et",
+    "@value" : "Metsanduslikud uurimused."
+  }, {
+    "@language" : "und",
+    "@value" : "Metsanduslikud Uurimused"
+  } ]
+} ]

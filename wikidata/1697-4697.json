@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96331673",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1697-4697"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "18064"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ornitologia.org/ca/queoferim/divulgacio/publicacions/rco.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1697-4697"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1697-4697"
+  }, {
+    "@value" : "2340-3764"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista catalana d'ornitologia"
+  } ]
+} ]

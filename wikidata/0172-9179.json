@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766006",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0172-9179"
+  }, {
+    "@language" : "en",
+    "@value" : "Facies: Carbonate Sedimentology and Paleoecology"
+  }, {
+    "@language" : "en",
+    "@value" : "Facies: International Journal of Paleontology, Sedimentology and Geology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "24459"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://link.springer.com/journal/10347"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0172-9179"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S197058623"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0172-9179"
+  }, {
+    "@value" : "1612-4820"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Facies"
+  } ]
+} ]

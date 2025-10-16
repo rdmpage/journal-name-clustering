@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5656877",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Botanica Mexicana"
+  }, {
+    "@language" : "es",
+    "@value" : "Acta Botanica Mexicana"
+  }, {
+    "@language" : "de",
+    "@value" : "Acta Bot. Mex."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "114584"
+  }, {
+    "@value" : "71453"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "304252"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "11830"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2448-7589"
+  }, {
+    "@value" : "0187-7151"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1988"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://abm.ojs.inecol.mx"
+  }, {
+    "@id" : "http://abm.ojs.inecol.mx/index.php/abm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0187-7151"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S189988577"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0187-7151"
+  }, {
+    "@value" : "2448-7589"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Acta Botánica Mexicana"
+  } ]
+} ]

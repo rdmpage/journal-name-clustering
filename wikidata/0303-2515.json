@@ -1,0 +1,57 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5696393",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0303-2515"
+  }, {
+    "@language" : "en",
+    "@value" : "Ann. S. Afr. Mus."
+  }, {
+    "@language" : "de",
+    "@value" : "Annale van die Suid-Afrikaanse Museum"
+  }, {
+    "@language" : "de",
+    "@value" : "Ann. S. African Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "Annals of the South African Museum. Annale van die Suid-Afrikaanse Museum"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6928"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297322"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1898"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0303-2515"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210222947"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "0A30BC99-E007-49B7-A78B-3432B776E48B"
+  }, {
+    "@value" : "C6639B62-995B-4A63-96CF-79874CCA085F"
+  }, {
+    "@value" : "DB40E879-7719-455B-9480-B20F834EB60E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0303-2515"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of the South African Museum"
+  }, {
+    "@language" : "af",
+    "@value" : "Annale van die Suid-Afrikaanse Museum"
+  }, {
+    "@language" : "mul",
+    "@value" : "Annals of the South African Museum"
+  } ]
+} ]

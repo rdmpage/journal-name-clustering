@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113475300",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://kwjc.repo.nii.ac.jp/search?search_type=2&q=53"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0286-8970"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306560482"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0286-8970"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Kagoshima Joshi Tanki Daigaku kiyō"
+  } ]
+} ]

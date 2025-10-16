@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3669010",
+  "http://example.com/bhl" : [ {
+    "@value" : "46530"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297355"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1834"
+  }, {
+    "@value" : "1837"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0271-5716"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S941831606"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1863"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0271-5716"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Boston Journal of Natural History"
+  } ]
+} ]

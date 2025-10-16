@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q93399051",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0016-755X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0016-755X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Geologica Bavarica"
+  } ]
+} ]

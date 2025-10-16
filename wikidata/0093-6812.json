@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385318",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0093-6812"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0093-6812"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the University of Nebraska State Museum"
+  } ]
+} ]

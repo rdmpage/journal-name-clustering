@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96696946",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Egyptian Academic Journal of Biological Sciences. E, Medical Entomology and Parasitology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "325167"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2090-0783"
+  }, {
+    "@value" : "2090-0856"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://eajbse.journals.ekb.eg"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2090-0783"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210234263"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2090-0783"
+  }, {
+    "@value" : "2090-0856"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Egyptian Academic Journal of Biological Sciences. E, Medical Entomology and Parasitology"
+  } ]
+} ]

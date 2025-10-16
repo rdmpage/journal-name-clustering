@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107242463",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Science of the Hiroshima University, Series B, Division 1 (Zoology)"
+  }, {
+    "@language" : "ja",
+    "@value" : "広島文理科大学理科紀要 動物学"
+  }, {
+    "@language" : "ja",
+    "@value" : "廣島文理科大學理科紀要 動物學"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1930"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0368-4113"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1990"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0368-4113"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of science of the Hiroshima University, Series B, Division 1 (Zoology)"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Science of the Hiroshima University, Series B, Division 1: Zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Science of the Hiroshima University. Series B, Division 1, Zoology"
+  } ]
+} ]

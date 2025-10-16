@@ -1,0 +1,58 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13548569",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "J. Hattori Bot. Lab."
+  }, {
+    "@language" : "es",
+    "@value" : "J. Hattori Bot. Lab."
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Hattori Botanical Laboratory"
+  }, {
+    "@language" : "pt",
+    "@value" : "J. Hattori Bot. Lab."
+  }, {
+    "@language" : "en",
+    "@value" : "J. Hattori Bot. Lab."
+  }, {
+    "@language" : "fr",
+    "@value" : "J. Hattori Bot. Lab."
+  }, {
+    "@language" : "en",
+    "@value" : "Hattori Shokubutsu Kenkyujo Hokoku: devoted to bryology and lichenology"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "822"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1947"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jhbl/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0073-0912"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jhbl"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S122433521"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0073-0912"
+  }, {
+    "@value" : "2432-8944"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of the Hattori Botanical Laboratory"
+  }, {
+    "@language" : "ja",
+    "@value" : "財団法人服部植物研究所報告"
+  } ]
+} ]

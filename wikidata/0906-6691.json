@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755686",
+  "http://example.com/crossref" : [ {
+    "@value" : "3327"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.blackwellpublishing.com/journal.asp?ref=0906-6691&site=1"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0906-6691"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S1311355"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0906-6691"
+  }, {
+    "@value" : "1600-0633"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecology of Freshwater Fish"
+  } ]
+} ]

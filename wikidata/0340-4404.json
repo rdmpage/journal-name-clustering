@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96331745",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0340-4404"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0340-4404"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Mainzer geowissenschaftliche Mitteilungen"
+  } ]
+} ]

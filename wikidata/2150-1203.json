@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15817669",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2150-1203"
+  }, {
+    "@language" : "en",
+    "@value" : "Mycology: An International Journal on Fungal Biology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "106512"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2150-1211"
+  }, {
+    "@value" : "2150-1203"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.informaworld.com"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/tmyc20"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/tmyc20#.U5XvD00U-mQ"
+  }, {
+    "@id" : "http://www.tandfonline.com/toc/tmyc20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2150-1203"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S134592498"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2150-1203"
+  }, {
+    "@value" : "2150-1211"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Mycology"
+  }, {
+    "@language" : "en",
+    "@value" : "Mycology: an International Journal on Fungal Biology"
+  } ]
+} ]

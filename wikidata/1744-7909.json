@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760521",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "JIPB"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "ZWXB"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "41958"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jipb.net/EN/1672-9072/home.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1672-9072"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S58990993"
+  }, {
+    "@value" : "S78044941"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0577-7496"
+  }, {
+    "@value" : "1672-9072"
+  }, {
+    "@value" : "1744-7909"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Integrative Plant Biology"
+  } ]
+} ]

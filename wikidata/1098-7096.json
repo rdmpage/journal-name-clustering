@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758398",
+  "http://example.com/bhl" : [ {
+    "@value" : "49171"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "61183"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1998"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/76942"
+  }, {
+    "@id" : "http://rave.ohiolink.edu/ejournals/issn/10987096/"
+  }, {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/49171#/summary"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=1098-7096"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1098-7096"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210214658"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1098-7096"
+  }, {
+    "@value" : "1938-2960"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Kentucky Academy of Science"
+  } ]
+} ]

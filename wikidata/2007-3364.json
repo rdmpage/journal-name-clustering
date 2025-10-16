@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725721",
+  "http://example.com/crossref" : [ {
+    "@value" : "213505"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "27811"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2007-3364"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2010"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2007-3364"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210179710"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2007-3364"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Therya"
+  }, {
+    "@language" : "en",
+    "@value" : "Therya"
+  } ]
+} ]

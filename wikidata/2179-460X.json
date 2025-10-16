@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96700839",
+  "http://example.com/crossref" : [ {
+    "@value" : "233307"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://periodicos.ufsm.br/cienciaenatura"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0100-8307"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210217131"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2179-460X"
+  }, {
+    "@value" : "0100-8307"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Ciência e Natura"
+  } ]
+} ]

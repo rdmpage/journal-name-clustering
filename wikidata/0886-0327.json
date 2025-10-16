@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107065777",
+  "http://example.com/from_year" : [ {
+    "@value" : "1893"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/16483"
+  }, {
+    "@id" : "http://digitallibrary.amnh.org/dspace/handle/2246/8"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0886-0327"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1926"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0886-0327"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of the American Museum of Natural History"
+  } ]
+} ]

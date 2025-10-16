@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765853",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "EPPO Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin OEPP"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "14035"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2338"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0250-8052"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S111457979"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0250-8052"
+  }, {
+    "@value" : "1365-2338"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "EPPO Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin OEPP"
+  } ]
+} ]

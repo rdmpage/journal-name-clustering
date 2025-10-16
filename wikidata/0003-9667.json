@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q33112749",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "pt",
+    "@value" : "Arch. zool. exp. gen."
+  }, {
+    "@language" : "fr",
+    "@value" : "Arch. zool. exp. gen."
+  }, {
+    "@language" : "fr",
+    "@value" : "Archives de zoologie expérimentale et générale."
+  }, {
+    "@language" : "de",
+    "@value" : "Arch. zool. exp. gen."
+  }, {
+    "@language" : "es",
+    "@value" : "Arch. zool. exp. gen."
+  }, {
+    "@language" : "en",
+    "@value" : "Arch. zool. exp. gen."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "79165"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297335"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1872"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://gallica.bnf.fr/ark:/12148/cb34348221q/date"
+  }, {
+    "@id" : "http://iris.univ-lille1.fr/handle/1908/72"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-9667"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210168466"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0003-9667"
+  }, {
+    "@value" : "2419-6347"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Archives de zoologie expérimentale et générale"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721523",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nova Hedwig Beih"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "315413"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1438-9134"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210204330"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1438-9134"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nova Hedwigia. Beiheft"
+  } ]
+} ]

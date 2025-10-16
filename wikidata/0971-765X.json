@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96324945",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0971-765X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4363604298"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0971-765X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecology, Environment and Conservation"
+  } ]
+} ]

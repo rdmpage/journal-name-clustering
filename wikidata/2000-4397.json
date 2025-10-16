@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q78998199",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.norrent.se/index.php?option=com_content&view=article&id=1&Itemid=13"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2000-4397"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2000-4397"
+  }, {
+    "@value" : "2002-4290"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "sv",
+    "@value" : "Skörvnöpparn"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q79019353",
+  "http://example.com/from_year" : [ {
+    "@value" : "2009"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.norrent.se/index.php?option=com_content&view=article&id=1&Itemid=13"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2000-4397"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2000-4397"
+  }, {
+    "@value" : "2002-4290"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "sv",
+    "@value" : "Skörvnöpparn [Elektronisk resurs]"
+  }, {
+    "@language" : "sv",
+    "@value" : "Skörvnöpparn"
+  } ]
+} ]

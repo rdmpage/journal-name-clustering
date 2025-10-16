@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q115642089",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0020-7322"
+  }, {
+    "@language" : "en",
+    "@value" : "International Journal of Insect Morphology & Embryology"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.sciencedirect.com/journal/international-journal-of-insect-morphology-and-embryology/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0020-7322"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S6014623"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1872-907X"
+  }, {
+    "@value" : "0020-7322"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International journal of insect morphology & embryology"
+  } ]
+} ]

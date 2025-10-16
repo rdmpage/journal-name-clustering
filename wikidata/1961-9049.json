@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26841921",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Bulletin de la SPE"
+  }, {
+    "@language" : "es",
+    "@value" : "Bulletin de la SPE"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin de la SPE"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la SPE"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "63369"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bspe.revuesonline.com/accueil.jsp"
+  }, {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/cb344790278/date"
+  }, {
+    "@id" : "https://pathexo.societe-mtsi.fr/1844-sommaire-bulletin.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0037-9085"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S85516562"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2020"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1961-9049"
+  }, {
+    "@value" : "0037-9085"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société de pathologie exotique"
+  } ]
+} ]

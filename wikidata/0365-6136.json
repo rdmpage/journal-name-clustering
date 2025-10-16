@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5702854",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Arch. Naturgesch."
+  }, {
+    "@language" : "en",
+    "@value" : "Arch. Naturgesch."
+  }, {
+    "@language" : "fr",
+    "@value" : "Arch. Naturgesch."
+  }, {
+    "@language" : "de",
+    "@value" : "Arch. Naturgesch. (Berlin)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6638"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297273"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1835"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0365-6136"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210183609"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1926"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "83E92EFC-273D-439D-A35E-58D08489ED1F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0365-6136"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Archiv für Naturgeschichte"
+  } ]
+} ]

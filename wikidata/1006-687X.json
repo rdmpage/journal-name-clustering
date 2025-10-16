@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27717405",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ying Yong Yu Huan Jing Sheng Wu Xue Bao"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "95765"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1006-687X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210207357"
+  }, {
+    "@value" : "S4306535406"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1006-687X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Yingyong yu huanjing shengwu xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Ying yong yu huan jing sheng wu xue bao = Chinese journal of applied and environmental biology"
+  } ]
+} ]

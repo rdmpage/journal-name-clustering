@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385928",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0041-3860"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0041-3860"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Tuatara"
+  } ]
+} ]

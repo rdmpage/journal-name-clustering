@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757834",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ESH"
+  }, {
+    "@language" : "en",
+    "@value" : "Earth sciences history: journal of the History of the Earth Sciences Society"
+  }, {
+    "@language" : "ru",
+    "@value" : "История наук о Земле"
+  }, {
+    "@language" : "ru",
+    "@value" : "ESH"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "279946"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://hess.metapress.com/content/t72876813708/"
+  }, {
+    "@id" : "http://www.jstor.org/journal/eartsciehist"
+  }, {
+    "@id" : "https://historyearthscience.org/journal"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0736-623X"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "eartsciehist"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S44364171"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1944-6187"
+  }, {
+    "@value" : "0736-623X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Earth Sciences History"
+  } ]
+} ]

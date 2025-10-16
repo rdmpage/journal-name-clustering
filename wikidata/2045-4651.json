@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386068",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zoological Bibliography or Opera Zoologica"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "133565"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.avespress.com/featured-periodicals/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2045-4643"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "61316B11-A695-459A-A9D4-F3FCA8FDE521"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2045-4651"
+  }, {
+    "@value" : "2045-4643"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zoological Bibliography"
+  } ]
+} ]

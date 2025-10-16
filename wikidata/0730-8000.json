@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758847",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. shellfish res."
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Shellfish Research"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "2179"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60873"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1981"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/76933"
+  }, {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/2179"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=0730-8000"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=0730-8000"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0730-8000"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S48813012"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1943-6319"
+  }, {
+    "@value" : "0730-8000"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of shellfish research"
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of Shellfish Research"
+  } ]
+} ]

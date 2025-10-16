@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2386891",
+  "http://example.com/crossref" : [ {
+    "@value" : "33716"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://imammb.oxfordjournals.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1477-8599"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210193328"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1477-8602"
+  }, {
+    "@value" : "1477-8599"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Mathematical Medicine and Biology"
+  } ]
+} ]

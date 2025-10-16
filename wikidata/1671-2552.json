@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328483",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Dizhi tongbao"
+  }, {
+    "@language" : "zh",
+    "@value" : "Dizhi tongbao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "ZQYD"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2002"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dzhtb.cgs.cn/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1671-2552"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764355075"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1671-2552"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "地质通报"
+  } ]
+} ]

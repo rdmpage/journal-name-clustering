@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q100700986",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin - New Mexico Museum of Natural History and Science"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1524-4156"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1524-4156"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin - New Mexico Museum of Natural History and Science"
+  }, {
+    "@language" : "en",
+    "@value" : "New Mexico Museum of Natural History and Science Bulletin"
+  } ]
+} ]

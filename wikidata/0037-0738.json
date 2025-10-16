@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755126",
+  "http://example.com/crossref" : [ {
+    "@value" : "1307"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/sedimentary-geology/"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S85417211"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0037-0738"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Sedimentary Geology"
+  } ]
+} ]

@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754430",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0724-6331"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0724-6331"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Palaeo-Ichthyologica"
+  }, {
+    "@language" : "und",
+    "@value" : "Palaeo Ichthyologica"
+  } ]
+} ]

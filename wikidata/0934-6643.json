@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714657",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0934-6643"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0934-6643"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Mertensiella"
+  } ]
+} ]

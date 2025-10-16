@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385836",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1859-1434"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1859-1434"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Vietnamese Journal of Primatology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Primatology"
+  } ]
+} ]

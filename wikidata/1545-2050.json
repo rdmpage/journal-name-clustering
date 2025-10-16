@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15716736",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Ann. Rev. Environ. Resour."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Annu Rev Environ Resour"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "32501"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "7197"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2003"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://search.ebscohost.com/direct.asp?db=aph&jid=V4A&scope=site"
+  }, {
+    "@id" : "https://search.proquest.com/publication/29383"
+  }, {
+    "@id" : "http://arjournals.annualreviews.org/loi/energy"
+  }, {
+    "@id" : "http://www.annualreviews.org/loi/energy"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1543-5938"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S5491134"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1543-5938"
+  }, {
+    "@value" : "1545-2050"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annual Review of Environment and Resources"
+  } ]
+} ]

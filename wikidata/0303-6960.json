@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721109",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Indian J. Nematol."
+  }, {
+    "@language" : "en",
+    "@value" : "Indian journal of nematology"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://indianjournals.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0303-6960"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764620129"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0303-6960"
+  }, {
+    "@value" : "0974-4444"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Indian journal of nematology"
+  }, {
+    "@language" : "en",
+    "@value" : "Indian journal of nematology : official publication of the Nematological Society of India"
+  } ]
+} ]

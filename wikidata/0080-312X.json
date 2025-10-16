@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385165",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0080-312X"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E2A1DA03-CA3C-4038-A4C3-C6772C3CB93C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0080-312X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Boletim do Museu Nacional, Nova Série, Zoologia"
+  }, {
+    "@language" : "pt",
+    "@value" : "Boletim do Museu Nacional. Zoologia"
+  } ]
+} ]

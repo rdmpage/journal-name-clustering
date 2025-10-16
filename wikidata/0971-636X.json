@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96330174",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jtropag.in"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0971-636X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765054543"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0973-5399"
+  }, {
+    "@value" : "0971-636X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Tropical Agriculture"
+  } ]
+} ]

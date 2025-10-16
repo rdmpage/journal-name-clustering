@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q135900533",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Wetlands Biodiversity"
+  }, {
+    "@language" : "en",
+    "@value" : "JWB"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journalofwetlandsbiodiversity.wordpress.com/"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2247-0506"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Wetlands Biodiversity"
+  } ]
+} ]

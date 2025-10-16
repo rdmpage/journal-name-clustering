@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755242",
+  "http://example.com/crossref" : [ {
+    "@value" : "787"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer-ny.com/link/service/journals/00436/index.htm"
+  }, {
+    "@id" : "http://link.springer.com/journal/436"
+  }, {
+    "@id" : "http://link.springer.de/link/service/journals/00436/index.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0932-0113"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S155128447"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "69085266-65B0-464B-A8F8-7EFF0600D509"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1432-1955"
+  }, {
+    "@value" : "0932-0113"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Parasitology research"
+  }, {
+    "@language" : "und",
+    "@value" : "Parasitology Research"
+  } ]
+} ]

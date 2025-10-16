@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757050",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.irishvetjournal.org/"
+  }, {
+    "@id" : "http://www.isrvma.org/journal.htm"
+  }, {
+    "@id" : "http://www.isrvma.org/TextPage.aspx?ID=25"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0334-9152"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S151009755"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0334-9152"
+  }, {
+    "@value" : "2304-8859"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Israel journal of veterinary medicine"
+  }, {
+    "@language" : "en",
+    "@value" : "Israel Journal of Veterinary Medicine"
+  } ]
+} ]

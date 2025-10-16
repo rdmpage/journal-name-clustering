@@ -1,0 +1,78 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5735479",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletins de la Société de botanique de Belgique"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société Royale de Botanique de Belgique"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin de la Société Royale de Botanique de Belgique"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin de la Societe Botanique de Belgique"
+  }, {
+    "@language" : "es",
+    "@value" : "Bulletin de la Societe Royale de Botanique de Belgique"
+  }, {
+    "@language" : "es",
+    "@value" : "Bulletin de la Societe Botanique de Belgique"
+  }, {
+    "@language" : "es",
+    "@value" : "Bulletin de la Société Royale de Botanique de Belgique"
+  }, {
+    "@language" : "de",
+    "@value" : "Bulletin de la Société Royale de Botanique de Belgique"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin de la Societe Royale de Botanique de Belgique"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Soc. r. bot. Belge."
+  }, {
+    "@language" : "es",
+    "@value" : "Bulletin de la Société royale de botanique de Belgique"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société royale de botanique de Belgique."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "3941"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1866"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstor.org/journal/bullsocroybotbel"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0037-9557"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "bullsocibotabelg"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306505106"
+  }, {
+    "@value" : "S4306505105"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1989"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0037-9557"
+  }, {
+    "@value" : "2796-1702"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bulletin de la Société royale de botanique de Belgique"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletins de la Société de botanique de Belgique"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société botanique de Belgique"
+  } ]
+} ]

@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96709443",
+  "http://example.com/crossref" : [ {
+    "@value" : "150348"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/benthos/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1345-112X"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "benthos"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210171690"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1345-112X"
+  }, {
+    "@value" : "1883-891X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Nihon Bentosu Gakkaishi"
+  } ]
+} ]

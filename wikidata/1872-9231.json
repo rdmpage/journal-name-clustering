@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385877",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Notes Leyden Mus."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8740"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1879"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1872-9231"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306521025"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1914"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1872-9231"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Notes from the Leyden Museum"
+  } ]
+} ]

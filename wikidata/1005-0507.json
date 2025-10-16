@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385464",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Jishengchong yu yixue kunchong xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Jishengchong yu yixue kunchong xuebao"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1005-0507"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500457"
+  }, {
+    "@value" : "S4306547661"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1005-0507"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "寄生虫与医学昆虫学报"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Parasitologica et Medica Entomologica Sinica"
+  } ]
+} ]

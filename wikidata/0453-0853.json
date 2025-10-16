@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113475120",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mem. Fac. Agric., Kagoshima Univ."
+  }, {
+    "@language" : "en",
+    "@value" : "Mem. Fac. Agric. Kagoshima Univ."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1952"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ir.kagoshima-u.ac.jp/search?search_type=2&q=270"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0453-0853"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764536249"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2011"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0453-0853"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of the Faculty of Agriculture, Kagoshima University"
+  } ]
+} ]

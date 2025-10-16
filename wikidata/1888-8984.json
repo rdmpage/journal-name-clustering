@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q110839736",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Revista de Micología Yesca"
+  }, {
+    "@language" : "en",
+    "@value" : "«YESCA» – Revista de Micología"
+  }, {
+    "@language" : "es",
+    "@value" : "Yesca"
+  }, {
+    "@language" : "en",
+    "@value" : "Yesca"
+  }, {
+    "@language" : "en",
+    "@value" : "Yesca (Maliaño)"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1989"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://somican.com/revista-micologia-yesca/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1888-8984"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1888-8984"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Yesca"
+  }, {
+    "@language" : "es",
+    "@value" : "YESCA, Revista de Micología"
+  } ]
+} ]

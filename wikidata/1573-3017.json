@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15724467",
+  "http://example.com/crossref" : [ {
+    "@value" : "3099"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dx.doi.org/10.1007/10646.1573-3017"
+  }, {
+    "@id" : "http://www.springer.com/environment/journal/10646"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0963-9292"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S71291874"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1573-3017"
+  }, {
+    "@value" : "0963-9292"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecotoxicology"
+  } ]
+} ]

@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96697111",
+  "http://example.com/crossref" : [ {
+    "@value" : "251226"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ejz.journals.ekb.eg"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1110-6344"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764668197"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1110-6344"
+  }, {
+    "@value" : "2682-3160"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Egyptian Journal of Zoology"
+  } ]
+} ]

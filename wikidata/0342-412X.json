@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q55376973",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Entomologische Blätter : internationale Monatsschrift für die Biologie der Käfer Europas unter besonderer Berücksichtigung der Forstentomologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Entomologische Blätter : internationale Monatsschrift für die Biologie der Käfer Europas unter besonderer Berücksichtigung der Forstentomologie"
+  }, {
+    "@language" : "es",
+    "@value" : "Entomologische Blätter : internationale Monatsschrift für die Biologie der Käfer Europas unter besonderer Berücksichtigung der Forstentomologie"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "50899"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1905"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0342-412X"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1944"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "92471FF7-38FB-44C1-8910-C4A01FE346F7"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0342-412X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Entomologische Blätter"
+  } ]
+} ]

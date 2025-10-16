@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5731488",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Bol. Acad. Nac. Ci."
+  }, {
+    "@language" : "en",
+    "@value" : "Boletin. Academia Nacional de Ciencias (Cordoba, Argentina)"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletin de la Academia Nacional de Ciencias"
+  }, {
+    "@language" : "en",
+    "@value" : "Bol Acad Nac Cienc"
+  }, {
+    "@language" : "en",
+    "@value" : "Bol. Acad. nac. cienc."
+  }, {
+    "@language" : "fr",
+    "@value" : "Boletin de la Academia Nacional de Ciencias en Córdoba, República Argentina."
+  }, {
+    "@language" : "en",
+    "@value" : "Boletin de la Academia Nacional de Ciencias"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "3645"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1874"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0325-2051"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "0D1AC1BD-AAB3-4135-9E67-DF98933118D9"
+  }, {
+    "@value" : "4ECC8266-8E23-4426-84DD-D7DFD92D3ABA"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0325-2051"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletín de la Academia Nacional de Ciencias"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletin. Academia Nacional de Ciencias (Cordoba, Argentina)"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletin de la Academia Nacional de Ciencias en Córdoba, República Argentina."
+  } ]
+} ]

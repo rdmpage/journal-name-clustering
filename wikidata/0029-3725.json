@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3344282",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nos oiseaux"
+  }, {
+    "@language" : "en",
+    "@value" : "Nos oiseaux."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8615"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1913"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.nosoiseaux.ch/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0029-3725"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0029-3725"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nos oiseaux"
+  }, {
+    "@language" : "fr",
+    "@value" : "Nos oiseaux"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q53979723",
+  "http://example.com/crossref" : [ {
+    "@value" : "242166"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandfonline.com/toc/tinw20/current"
+  }, {
+    "@id" : "https://www.fba.org.uk/journals/index.php/IW/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2044-2041"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2475729051"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2044-205X"
+  }, {
+    "@value" : "2044-2041"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Inland Waters"
+  } ]
+} ]

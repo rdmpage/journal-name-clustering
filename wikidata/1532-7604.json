@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761322",
+  "http://example.com/crossref" : [ {
+    "@value" : "22446"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://www.catchword.com"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=1088-8705;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/haaw20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1088-8705"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S78331093"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1532-7604"
+  }, {
+    "@value" : "1088-8705"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Applied Animal Welfare Science"
+  } ]
+} ]

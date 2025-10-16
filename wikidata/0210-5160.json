@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5674328",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Anales Soc. Esp. Hist. Nat."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8068"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rshn.geo.ucm.es/index.php?d=publicaciones"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0210-5160"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "7B49F125-4C2E-46B2-B1D7-03D9A4D8E1D3"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0210-5160"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Anales de la Sociedad Española de Historia Natural"
+  } ]
+} ]

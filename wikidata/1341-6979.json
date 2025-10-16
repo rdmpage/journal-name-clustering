@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764311",
+  "http://example.com/crossref" : [ {
+    "@value" : "21799"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer-ny.com/link/service/journals/10310"
+  }, {
+    "@id" : "http://link.springer.de/link/service/journals/10310/"
+  }, {
+    "@id" : "http://tandfonline.com/toc/tjfr20/current"
+  }, {
+    "@id" : "http://www.metapress.com/link.asp?id=109671"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1341-6979"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S174443613"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1341-6979"
+  }, {
+    "@value" : "1610-7403"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Forest Research"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96326282",
+  "http://example.com/doaj" : [ {
+    "@value" : "1408-533X"
+  }, {
+    "@value" : "2591-1783"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://zdjp.si/p/annalesshn/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1408-533X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2591-1783"
+  }, {
+    "@value" : "1408-533X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Annales. Series historia naturalis"
+  } ]
+} ]

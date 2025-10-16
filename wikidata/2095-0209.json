@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724559",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Front Earth Sci"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "130285"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springerlink.com/content/2095-0209"
+  }, {
+    "@id" : "https://journal.hep.com.cn/fesci/EN/2095-0195/home.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2095-0195"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210180727"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2095-0195"
+  }, {
+    "@value" : "2095-0209"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Frontiers of Earth Science"
+  } ]
+} ]

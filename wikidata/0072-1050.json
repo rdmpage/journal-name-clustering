@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q10504107",
+  "http://example.com/crossref" : [ {
+    "@value" : "272"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-1034"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/1903"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0072-1050"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S128421901"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0072-1050"
+  }, {
+    "@value" : "1099-1034"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Geological Journal"
+  } ]
+} ]

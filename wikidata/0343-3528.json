@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385108",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0343-3528"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0343-3528"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0343-3528"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Primate Report"
+  } ]
+} ]

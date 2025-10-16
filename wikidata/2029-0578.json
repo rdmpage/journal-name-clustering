@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714590",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biologija (Vilnius, Lithuania)"
+  }, {
+    "@language" : "en",
+    "@value" : "Biologija (Vilnius)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "84005"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://eia.libis.lt/isteklius.php?url=http://www.lmaleidykla.lt/biologija/"
+  }, {
+    "@id" : "https://www.lmaleidykla.lt/ojs/index.php/biologija/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1392-0146"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S138910149"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1392-0146"
+  }, {
+    "@value" : "2029-0578"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biologija"
+  }, {
+    "@language" : "mul",
+    "@value" : "Biologija"
+  } ]
+} ]

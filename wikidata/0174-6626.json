@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385858",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0174-6626"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "4010B4BB-4C66-4396-BE76-2A212945D51C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0174-6626"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Mainzer naturwissenschaftliches Archiv. Beiheft"
+  } ]
+} ]

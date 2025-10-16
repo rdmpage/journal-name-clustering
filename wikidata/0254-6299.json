@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6132741",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "S. African J. Bot."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "54210"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/south-african-journal-of-botany/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/02546299"
+  }, {
+    "@id" : "http://www.ingentaselect.com/"
+  }, {
+    "@id" : "http://www.nisc.co.za/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0254-6299"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S31493525"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0254-6299"
+  }, {
+    "@value" : "1727-9321"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "South African Journal of Botany"
+  }, {
+    "@language" : "mul",
+    "@value" : "South African journal of botany"
+  } ]
+} ]

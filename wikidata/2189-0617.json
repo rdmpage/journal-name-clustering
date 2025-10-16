@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q45305626",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scc.u-tokai.ac.jp/~289077/bulletin/bulletin.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0289-680X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2189-0617"
+  }, {
+    "@value" : "0289-680X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of Institute of Oceanic Research and Development, Tokai University"
+  }, {
+    "@language" : "ja",
+    "@value" : "東海大学海洋研究所研究報告"
+  }, {
+    "@language" : "mul",
+    "@value" : "Tōkai Daigaku Kaiyō Kenkyūjo kenkyū hōkoku"
+  } ]
+} ]

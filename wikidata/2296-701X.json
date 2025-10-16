@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725646",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Front Ecol Evol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "233907"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2296-701X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.frontiersin.org/journals/ecology-and-evolution#articles"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2296-701X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2597028195"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2296-701X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Frontiers in Ecology and Evolution"
+  } ]
+} ]

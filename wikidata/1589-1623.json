@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757846",
+  "http://example.com/crossref" : [ {
+    "@value" : "252107"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.aloki.hu"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1589-1623"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S87697115"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1589-1623"
+  }, {
+    "@value" : "1785-0037"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Applied Ecology and Environmental Research"
+  } ]
+} ]

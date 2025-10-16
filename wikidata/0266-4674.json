@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755822",
+  "http://example.com/crossref" : [ {
+    "@value" : "6055"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=TRO"
+  }, {
+    "@id" : "http://journals.cambridge.org/TRO"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0266-4674"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jtropicalecology"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S184693934"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0266-4674"
+  }, {
+    "@value" : "1469-7831"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Tropical Ecology"
+  } ]
+} ]

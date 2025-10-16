@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749827",
+  "http://example.com/crossref" : [ {
+    "@value" : "86365"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=3C1UAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=60xUAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=QFFUAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=XS5UAAAAMAAJ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0025-3324"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S42930874"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1948-1209"
+  }, {
+    "@value" : "0025-3324"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Marine Technology Society journal"
+  }, {
+    "@language" : "en",
+    "@value" : "Marine Technology Society Journal: the international, interdisciplinary society devoted to ocean and marine engineering, science and policy"
+  } ]
+} ]

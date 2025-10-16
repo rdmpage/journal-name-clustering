@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q133846665",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Beringeria : Würzburger geowissenschaftliche Mitteilungen"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "EB70E614-FE5F-452C-8188-46F0DA3E666A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0937-0242"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Beringeria"
+  } ]
+} ]

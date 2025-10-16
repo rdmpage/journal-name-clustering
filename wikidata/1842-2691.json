@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329053",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.enciclopedia-dacica.ro/?operatie=subiect&locatie=periodice&fisier=acta_musei_brukenthal"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1842-2691"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1842-2691"
+  }, {
+    "@value" : "2285-9470"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ro",
+    "@value" : "Acta Mvsei Brvkenthal"
+  } ]
+} ]

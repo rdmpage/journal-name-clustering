@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7269557",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Quat. Res."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "577"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0033-5894;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.elsevier.com/wps/find/journaldescription.cws_home/622937/description"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00335894"
+  }, {
+    "@id" : "https://www.cambridge.org/core/journals/quaternary-research/all-issues"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0033-5894"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S202995604"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1096-0287"
+  }, {
+    "@value" : "0033-5894"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Quaternary Research"
+  } ]
+} ]

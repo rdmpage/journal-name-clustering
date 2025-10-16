@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15972550",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Proc. Wash. Acad. Sci."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8074"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297274"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1899"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=A60iAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=c60iAQAAMAAJ"
+  }, {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/8074#/summary"
+  }, {
+    "@id" : "http://www.jstor.org/journal/procwashacadscie"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0363-1095"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "procwashacadscie"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210188385"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1911"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0363-1095"
+  }, {
+    "@value" : "2573-2099"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Washington Academy of Sciences"
+  } ]
+} ]

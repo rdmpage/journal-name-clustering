@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7552800",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Sociol. Rural."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "14259"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1960"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9523"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0038-0199"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S66322501"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0038-0199"
+  }, {
+    "@value" : "1467-9523"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Sociologia Ruralis"
+  } ]
+} ]

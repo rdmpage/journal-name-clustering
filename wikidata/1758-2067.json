@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96331742",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://conservationevidencejournal.com/"
+  }, {
+    "@id" : "https://www.conservationevidence.com/collection/view"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1758-2067"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210196699"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1758-2067"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Conservation evidence"
+  } ]
+} ]

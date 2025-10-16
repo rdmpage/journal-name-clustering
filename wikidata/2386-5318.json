@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q89377583",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sea-entomologia.org/monoelec.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2386-5318"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A7640353-74EF-4246-A349-35615F7A6749"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2386-5318"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Monografías electrónicas SEA"
+  }, {
+    "@language" : "es",
+    "@value" : "Monografias electrónicas SEA"
+  } ]
+} ]

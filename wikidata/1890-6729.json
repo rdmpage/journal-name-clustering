@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7292828",
+  "http://example.com/crossref" : [ {
+    "@value" : "204525"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0333-256X"
+  }, {
+    "@value" : "1890-6729"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1981"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.rangifer.no/eng/aboutrangifer.html"
+  }, {
+    "@id" : "http://www.ub.uit.no/baser/septentrio/index.php/rangifer/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0333-256X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S100217082"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1890-6729"
+  }, {
+    "@value" : "0333-256X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Rangifer"
+  }, {
+    "@language" : "mul",
+    "@value" : "Rangifer"
+  } ]
+} ]

@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721235",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Shengwu Duoyangxing"
+  }, {
+    "@language" : "en",
+    "@value" : "Chinese biodiversity"
+  }, {
+    "@language" : "de",
+    "@value" : "Chinese Biodiversity"
+  }, {
+    "@language" : "en",
+    "@value" : "Sheng Wu Duo Yang Xing"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "SWDY"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "50019"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.biodiversity-science.net/CN/1005-0094/home.shtml"
+  }, {
+    "@id" : "https://www.biodiversity-science.net/EN/1005-0094/home.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1005-0094"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764693478"
+  }, {
+    "@value" : "S4210222162"
+  }, {
+    "@value" : "S56774797"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1005-0094"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "生物多样性"
+  } ]
+} ]

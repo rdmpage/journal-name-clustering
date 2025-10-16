@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3025404",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Journal of Embryology and Experimental Morphology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "75998"
+  }, {
+    "@value" : "11177"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1953"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journals.biologists.com/dev"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210189519"
+  }, {
+    "@value" : "S86558740"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0212-2448"
+  }, {
+    "@value" : "0950-1991"
+  }, {
+    "@value" : "1477-9129"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Development: the journal of the Society for International Development"
+  }, {
+    "@language" : "en",
+    "@value" : "Development"
+  } ]
+} ]

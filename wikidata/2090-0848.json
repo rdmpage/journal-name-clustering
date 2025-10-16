@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96696943",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Egyptian Academic Journal of Biological Sciences. D, Histology and Histochemistry"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "325011"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2090-0775"
+  }, {
+    "@value" : "2090-0848"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://eajbsd.journals.ekb.eg"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2090-0775"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210206516"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2090-0775"
+  }, {
+    "@value" : "2090-0848"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Egyptian Academic Journal of Biological Sciences. D, Histology and Histochemistry"
+  } ]
+} ]

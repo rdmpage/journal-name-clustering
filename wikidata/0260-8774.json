@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752496",
+  "http://example.com/crossref" : [ {
+    "@value" : "2028"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/journal-of-food-engineering/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0260-8774"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S137362610"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1873-5770"
+  }, {
+    "@value" : "0260-8774"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Food Engineering"
+  } ]
+} ]

@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752773",
+  "http://example.com/crossref" : [ {
+    "@value" : "30354"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1986"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.akademiai.com"
+  }, {
+    "@id" : "http://www.akkrt.hu"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0238-1249"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S16365148"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3AB4ABEA-6680-4672-8BD7-334EA2FE2486"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0238-1249"
+  }, {
+    "@value" : "1588-2691"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta phytopathalogica et entomologica Hungarica"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta phytopathologica et entomologica Hungarica"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Phytopathologica et Entomologica Hungarica"
+  } ]
+} ]

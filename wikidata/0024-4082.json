@@ -1,0 +1,64 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1990750",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Zool. J. Linn. Soc."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zool. j. Linn. Soc."
+  }, {
+    "@language" : "es",
+    "@value" : "Zool. J. Linn. Soc."
+  }, {
+    "@language" : "de",
+    "@value" : "Zool J Linn Soc"
+  }, {
+    "@language" : "zh",
+    "@value" : "林奈學會動物學期刊"
+  }, {
+    "@language" : "en",
+    "@value" : "Linnean Society. Zoological Journal"
+  }, {
+    "@language" : "de",
+    "@value" : "Zool. J. Linn. Soc."
+  }, {
+    "@language" : "en",
+    "@value" : "Zool J Linn Soc"
+  }, {
+    "@language" : "zh",
+    "@value" : "林奈学会动物学杂志"
+  }, {
+    "@language" : "en",
+    "@value" : "Zool. J. Linn. Soc."
+  }, {
+    "@language" : "fr",
+    "@value" : "Zool. J. Linn. Soc."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "672"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1969"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1096-3642"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0024-4082"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S126748203"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "57578F2E-630F-4107-ACA4-2E5C0B9AB400"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0024-4082"
+  }, {
+    "@value" : "1096-3642"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zoological Journal of the Linnean Society"
+  } ]
+} ]

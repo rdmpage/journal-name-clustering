@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q23930026",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Fieldiana, Anthropol."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "42253"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "67699"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=17eAAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=i7GAAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=JKmAAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=m7mAAAAAMAAJ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0071-4739"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "fieldianaanthro"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S73181313"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2162-4321"
+  }, {
+    "@value" : "0071-4739"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fieldiana. Anthropology"
+  } ]
+} ]

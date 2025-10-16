@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2511577",
+  "http://example.com/crossref" : [ {
+    "@value" : "84446"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.cja-jca.org"
+  }, {
+    "@id" : "http://www.springerlink.com/content/1496-8975"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0832-610X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210186964"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0832-610X"
+  }, {
+    "@value" : "1496-8975"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Canadian journal of anaesthesia"
+  }, {
+    "@language" : "en",
+    "@value" : "Canadian Journal of Anesthesia"
+  } ]
+} ]

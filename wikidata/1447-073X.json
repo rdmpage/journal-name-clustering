@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2896249",
+  "http://example.com/crossref" : [ {
+    "@value" : "3802"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://search.ebscohost.com/direct.asp?db=aph&jid=K8Q&scope=site"
+  }, {
+    "@id" : "http://www.springerlink.com/openurl.asp?genre=journal&issn=1447-6959"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1447-073X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S147958056"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1447-073X"
+  }, {
+    "@value" : "1447-6959"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Anatomical Science International"
+  } ]
+} ]

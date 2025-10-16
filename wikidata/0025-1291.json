@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6741601",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Malayan Nat. J."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.mns.org.my/section.php?sid=22"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0025-1291"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S406924"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0025-1291"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Malayan Nature Journal"
+  } ]
+} ]

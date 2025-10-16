@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q81793160",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "AJCB"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 2278-7666"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ajcb.in"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2278-7666"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210233369"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2278-7666"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Asian journal of conservation biology"
+  } ]
+} ]

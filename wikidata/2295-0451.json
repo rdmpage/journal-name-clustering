@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763165",
+  "http://example.com/crossref" : [ {
+    "@value" : "308551"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1990"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.belgianjournalofzoology.eu/BJZ/index"
+  }, {
+    "@id" : "http://www.naturalsciences.be/institute/associations/rbzs_website/bjz/back"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0777-6276"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S25861425"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D524E7F3-A514-4DC6-9E1A-0C31F8610663"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2295-0451"
+  }, {
+    "@value" : "0777-6276"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Belgian Journal of Zoology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Belgian journal of zoology"
+  } ]
+} ]

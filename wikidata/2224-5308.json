@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96730555",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Izvestiâ Nacionalʹnoj akademii nauk Respubliki Kazahstan. Seriâ biologičeskaâ i medicinskaâ"
+  }, {
+    "@language" : "ru",
+    "@value" : "Известия НАН РК. Серия биологическая и медицинская"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "325916"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.biological-medical.kz/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2224-5308"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210167676"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2224-5308"
+  }, {
+    "@value" : "2518-1629"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Известия Национальной академии наук Республики Казахстан. Серия биологическая и медицинская"
+  } ]
+} ]

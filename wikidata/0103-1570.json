@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50426338",
+  "http://example.com/crossref" : [ {
+    "@value" : "84105"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1982-4513"
+  }, {
+    "@value" : "0103-1570"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0103-1570"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210205132"
+  }, {
+    "@value" : "S4306527952"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1982-4513"
+  }, {
+    "@value" : "0103-1570"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Sociedade & natureza"
+  } ]
+} ]

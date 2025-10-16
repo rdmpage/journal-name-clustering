@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28469661",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1608-4195"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1608-4195"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Contributions from the Zoological Institute, St. Petersburg"
+  } ]
+} ]

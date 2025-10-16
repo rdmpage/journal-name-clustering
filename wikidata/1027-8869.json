@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385596",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1027-8869"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1997"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.coleoptera.at/publikationsreihen/3"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1027-8869"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1027-8869"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Monographs on Coleoptera"
+  } ]
+} ]

@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767112",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Texas journal of science"
+  }, {
+    "@language" : "en",
+    "@value" : "Tex. j. sci."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "147842"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "325391"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1949"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.texasacademyofscience.org/texas-journal-of-science"
+  }, {
+    "@id" : "https://www.texasacademyofscience.org/texas-journal-of-science"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0040-4403"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S5868762"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0040-4403"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Texas journal of science"
+  }, {
+    "@language" : "en",
+    "@value" : "Texas Journal of Science"
+  } ]
+} ]

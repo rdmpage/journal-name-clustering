@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q55829629",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Nanjing lin ye da xue xue bao"
+  }, {
+    "@language" : "zh",
+    "@value" : "Nanjing Linye Daxue xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Nanjing Linye Daxue xuebao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "NJLY"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-2006"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764516959"
+  }, {
+    "@value" : "S4306545052"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-2006"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Nanjing Forestry University (Natural Sciences Edition)"
+  }, {
+    "@language" : "zh",
+    "@value" : "南京林业大学学报（自然科学版）"
+  }, {
+    "@language" : "zh",
+    "@value" : "Nanjing Linye Daxue xuebao"
+  } ]
+} ]

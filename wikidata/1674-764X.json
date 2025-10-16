@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726633",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "资源与生态学报"
+  }, {
+    "@language" : "en",
+    "@value" : "J Resour Ecol"
+  }, {
+    "@language" : "zh",
+    "@value" : "Journal of resources and ecology"
+  }, {
+    "@language" : "ja",
+    "@value" : "Ziyuan yu Shengtai Xuebao(Yingwenban)"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "JORE"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "189925"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jorae.cn"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1674-764X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764400789"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1674-764X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Journal of Resources and Ecology"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of resources and ecology"
+  } ]
+} ]

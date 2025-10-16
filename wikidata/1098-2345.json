@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1527889",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Am. J. Primatol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "296"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1981"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2345"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/34629/"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/10982345"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0275-2565"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S194752149"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1098-2345"
+  }, {
+    "@value" : "0275-2565"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "American Journal of Primatology"
+  } ]
+} ]

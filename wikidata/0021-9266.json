@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2185529",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "JBE"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "122249"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=ZIq0AAAAIAAJ"
+  }, {
+    "@id" : "http://www.iob.org/"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/rjbe20"
+  }, {
+    "@id" : "https://search.ebscohost.com/direct.asp?db=eue&jid=JBI"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-9266"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S185954893"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0021-9266"
+  }, {
+    "@value" : "2157-6009"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Biological Education"
+  } ]
+} ]

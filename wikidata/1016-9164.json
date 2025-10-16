@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96731234",
+  "http://example.com/crossref" : [ {
+    "@value" : "308222"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jmo.org.tr/yayinlar/dergi_listele.php?dergi=3"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1016-9164"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210184636"
+  }, {
+    "@value" : "S4306533483"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2564-6745"
+  }, {
+    "@value" : "1016-9164"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Türkiye jeoloji bülteni"
+  } ]
+} ]

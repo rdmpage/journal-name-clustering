@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50497960",
+  "http://example.com/doaj" : [ {
+    "@value" : "2458-7176"
+  }, {
+    "@value" : "1114-8500"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.israbat.ac.ma/IS_Bulletins/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1114-8500"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2739291548"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2458-7176"
+  }, {
+    "@value" : "1114-8500"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de l'institut scientifique. section sciences de la vie"
+  } ]
+} ]

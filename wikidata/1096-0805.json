@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4041896",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "Journal of Insect Pathology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "605"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1959"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0022-2011;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.apnet.com/www/journal/in.htm"
+  }, {
+    "@id" : "http://www.elsevier.com/wps/find/journaldescription.cws_home/622883/description"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00222011"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-2011"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S115815424"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1096-0805"
+  }, {
+    "@value" : "0022-2011"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Invertebrate Pathology"
+  } ]
+} ]

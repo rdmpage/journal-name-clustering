@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5175380",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Cotinga"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.neotropicalbirdclub.org/pages/JMenu.asp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1353-985X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1353-985X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cotinga"
+  } ]
+} ]

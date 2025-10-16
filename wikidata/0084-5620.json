@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385283",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Trans. Zool. Soc. London"
+  }, {
+    "@language" : "en",
+    "@value" : "Trans. Zool. Soc. London"
+  }, {
+    "@language" : "fr",
+    "@value" : "Trans. Zool. Soc. London"
+  }, {
+    "@language" : "es",
+    "@value" : "Trans. Zool. Soc. London"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "45493"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "106445"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1835"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0084-5620"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210224303"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1984"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0084-5620"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Zoological Society of London"
+  } ]
+} ]

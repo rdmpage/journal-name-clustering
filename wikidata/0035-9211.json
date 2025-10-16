@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51412638",
+  "http://example.com/bhl" : [ {
+    "@value" : "138908"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1889"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0035-9211"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Society of Victoria. New series"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q6087112",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc. R. Soc. Vic."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8096"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1889"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210194232"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0035-9211"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Royal Society of Victoria. Proceedings"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Society of Victoria"
+  } ]
+} ]

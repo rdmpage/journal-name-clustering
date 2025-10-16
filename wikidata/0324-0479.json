@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108305099",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.uni-sofia.bg/index.php/bul/universitet_t/fakulteti/geologo_geografski_fakultet/oficialni_izdaniya"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0324-0479"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0324-0479"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "bg",
+    "@value" : "Annuaire de l'universite de Sofia \"St. Kliment Ohridski\""
+  }, {
+    "@language" : "mul",
+    "@value" : "Godišnik na Sofijskiâ universitet Sv. Kliment Ohridski. Geologo-geografski fakultet. Kniga 1, Geologiâ"
+  } ]
+} ]

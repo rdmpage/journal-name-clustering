@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q37408733",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Bull. Mus. Natl. Hist. Nat."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. Mus. Natl. Hist. Nat."
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. Mus. Natl. Hist. Nat."
+  }, {
+    "@language" : "fr",
+    "@value" : "Bull. Mus. Natl. Hist. Nat."
+  }, {
+    "@language" : "es",
+    "@value" : "Bull. Mus. Natl. Hist. Nat."
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin du Museum national d'histoire naturelle"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "5943"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297260"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1907"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1148-8425"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210177329"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "BF572082-305D-48B8-9C3C-9A590B9E103E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1148-8425"
+  }, {
+    "@value" : "2420-1901"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin du Muséum national d'histoire naturelle"
+  } ]
+} ]

@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4996840",
+  "http://example.com/crossref" : [ {
+    "@value" : "118085"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "20318"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1951"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/5516608.html"
+  }, {
+    "@id" : "http://www.rsmas.miami.edu/bms/"
+  }, {
+    "@id" : "http://www.rsmas.miami.edu/bms/thejournal.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0007-4977"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S99248529"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0007-4977"
+  }, {
+    "@value" : "1553-6955"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of Marine Science"
+  } ]
+} ]

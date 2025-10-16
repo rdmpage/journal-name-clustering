@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714283",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Mammal. Soc. Jpn."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jmammsocjapan/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0914-1855"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jmammsocjapan"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0914-1855"
+  }, {
+    "@value" : "1884-3948"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Mammalogical Society of Japan"
+  } ]
+} ]

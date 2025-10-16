@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842469",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Jornal Brasileiro de Medicina Tropical"
+  }, {
+    "@language" : "pt",
+    "@value" : "RSBMT"
+  }, {
+    "@language" : "en",
+    "@value" : "RSBMT"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "45742"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0037-8682"
+  }, {
+    "@value" : "1678-9849"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://rsbmt.org.br/"
+  }, {
+    "@id" : "https://www.scielo.br/rsbmt"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0037-8682"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S119628427"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1678-9849"
+  }, {
+    "@value" : "0037-8682"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Revista da Sociedade Brasileira de Medicina Tropical"
+  }, {
+    "@language" : "mul",
+    "@value" : "Revista da Sociedade Brasileira de Medicina Tropical"
+  } ]
+} ]

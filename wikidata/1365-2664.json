@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3186894",
+  "http://example.com/crossref" : [ {
+    "@value" : "3596"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=jpe"
+  }, {
+    "@id" : "http://www.journalofappliedecology.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-8901"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jappliedecology"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S82098733"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0021-8901"
+  }, {
+    "@value" : "1365-2664"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Applied Ecology"
+  } ]
+} ]

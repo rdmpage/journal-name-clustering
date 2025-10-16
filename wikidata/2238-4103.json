@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385458",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "SCB"
+  }, {
+    "@language" : "pt",
+    "@value" : "SCB"
+  }, {
+    "@language" : "en",
+    "@value" : "SCB"
+  }, {
+    "@language" : "es",
+    "@value" : "SCB"
+  }, {
+    "@language" : "fr",
+    "@value" : "SCB"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "246797"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://periodicos.uefs.br/index.php/sitientibusBiologia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1519-6097"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210209812"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2238-4103"
+  }, {
+    "@value" : "1519-6097"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Sitientibus. Série Ciências Biológicas"
+  } ]
+} ]

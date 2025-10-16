@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q18326677",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Pac. coast avifauna"
+  }, {
+    "@language" : "en",
+    "@value" : "Pacific coast avifauna"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "37933"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1900"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0161-2913"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0161-2913"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Pacific Coast Avifauna"
+  } ]
+} ]

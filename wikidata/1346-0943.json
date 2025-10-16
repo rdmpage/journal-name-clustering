@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385178",
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.kogane.jp/blog/pub_kogane/"
+  }, {
+    "@id" : "http://www.kogane.jp/eng/?post_type=kogane"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1346-0943"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "161D9A4E-11AE-4C3D-8C73-07A96E55CC76"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1346-0943"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Kogane"
+  }, {
+    "@language" : "mul",
+    "@value" : "Kogane"
+  } ]
+} ]

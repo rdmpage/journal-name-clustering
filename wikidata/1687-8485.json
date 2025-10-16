@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28053305",
+  "http://example.com/crossref" : [ {
+    "@value" : "79342"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1687-8477"
+  }, {
+    "@value" : "1687-8485"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2009"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1687-8477"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S98670697"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1687-8485"
+  }, {
+    "@value" : "1687-8477"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Zoology"
+  } ]
+} ]

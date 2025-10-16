@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385179",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Entomologica scandinavica"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-8711"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S159633830"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "02950C68-D6D4-4A07-BF69-9036DC6B8095"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0013-8711"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Entomologica Scandinavica"
+  }, {
+    "@language" : "en",
+    "@value" : "Entomologica scandinavica"
+  } ]
+} ]

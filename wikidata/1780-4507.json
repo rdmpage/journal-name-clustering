@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q953622",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biotechnology, Agronomy, Society and Environment (BASE)"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1370-6233"
+  }, {
+    "@value" : "1780-4507"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://popups.ulg.ac.be/1780-4507/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1370-6233"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2477050140"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1780-4507"
+  }, {
+    "@value" : "1370-6233"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Biotechnologie, agronomie, société et environnement"
+  }, {
+    "@language" : "fr",
+    "@value" : "Biotechnologie, Agronomie, Société et Environnement"
+  } ]
+} ]

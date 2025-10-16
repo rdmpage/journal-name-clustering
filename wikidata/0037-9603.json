@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756427",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société vaudoise des sciences naturelles"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Soc. vaud. sci. nat."
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Soc. vaudoise sci. nat."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "4870"
+  }, {
+    "@value" : "146586"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1864"
+  }, {
+    "@value" : "1845"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0037-9603"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306505111"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0037-9603"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société vaudoise des sciences naturelles."
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société vaudoise des sciences naturelles"
+  }, {
+    "@language" : "fr",
+    "@value" : "Societe Vaudoise des Sciences Naturelles. Bulletin"
+  } ]
+} ]

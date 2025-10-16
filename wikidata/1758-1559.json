@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750916",
+  "http://example.com/crossref" : [ {
+    "@value" : "69395"
+  }, {
+    "@value" : "86426"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S124370801"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1470-2061"
+  }, {
+    "@value" : "1758-1559"
+  }, {
+    "@value" : "1758-1567"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Avian Biology Research"
+  } ]
+} ]

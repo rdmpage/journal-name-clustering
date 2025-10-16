@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22103187",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Soc. Sci. Fenn."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "13498"
+  }, {
+    "@value" : "13517"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1842"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0788-6934"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1926"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0788-6934"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta Societatis scientiarum Fennicae"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Societatis Scientiarum Fennicae"
+  } ]
+} ]

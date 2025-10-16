@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749150",
+  "http://example.com/crossref" : [ {
+    "@value" : "298288"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1674-5507"
+  }, {
+    "@value" : "2396-9814"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2009"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://cz.oxfordjournals.org"
+  }, {
+    "@id" : "http://eep.oxfordjournals.org"
+  }, {
+    "@id" : "http://www.currentzoology.org"
+  }, {
+    "@id" : "https://academic.oup.com/cz"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1674-5507"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S58136343"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2396-9814"
+  }, {
+    "@value" : "1674-5507"
+  }, {
+    "@value" : "2058-5888"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Current Zoology"
+  } ]
+} ]

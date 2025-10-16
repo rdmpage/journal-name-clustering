@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107019531",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Medical and veterinary"
+  }, {
+    "@language" : "en",
+    "@value" : "Review of applied entomology. Series B. Medical and veterinary"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0305-0084"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0305-0084"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Review of applied entomology. Series B. Medical and veterinary"
+  }, {
+    "@language" : "en",
+    "@value" : "The Review of applied entomology"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385729",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Folia Heyrovskyana. Serie A"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1801-7142"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3F2AE05E-BEC4-4591-9790-A8D5C47B0D3B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1801-7142"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Folia Heyrovskyana. Serie A"
+  }, {
+    "@language" : "cs",
+    "@value" : "Folia Heyrovskyana"
+  } ]
+} ]

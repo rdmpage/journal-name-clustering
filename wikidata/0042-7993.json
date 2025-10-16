@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1217300",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.vogelwelt.com/cms/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0042-7993"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0042-7993"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Die Vogelwelt"
+  }, {
+    "@language" : "mul",
+    "@value" : "Die Vogelwelt"
+  } ]
+} ]

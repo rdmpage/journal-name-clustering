@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5727044",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bernice P. Bishop Mus. bull."
+  }, {
+    "@language" : "fr",
+    "@value" : "Bernice P. Bishop Mus. bull."
+  }, {
+    "@language" : "en",
+    "@value" : "Bernice P. Bishop Museum bulletin"
+  }, {
+    "@language" : "de",
+    "@value" : "Bernice P. Bishop Mus. bull."
+  }, {
+    "@language" : "es",
+    "@value" : "Bernice P. Bishop Mus. bull."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "43919"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1922"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=KP7HE9zkAHkC"
+  }, {
+    "@id" : "http://books.google.com/books?id=XJvKO2NdHKQC"
+  }, {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/43919"
+  }, {
+    "@id" : "https://www.biodiversitylibrary.org/bibliography/43919"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0005-9439"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0005-9439"
+  }, {
+    "@value" : "3066-5248"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bernice P. Bishop Museum Bulletin"
+  } ]
+} ]

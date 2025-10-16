@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q114350460",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1000-8527"
+  }, {
+    "@language" : "en",
+    "@value" : "Xiandai dizhi"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.geoscience.net.cn/CN/1000-8527/home.shtml"
+  }, {
+    "@id" : "http://www.geoscience.net.cn/EN/1000-8527/home.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-8527"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306511365"
+  }, {
+    "@value" : "S4306535053"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-8527"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "现代地质"
+  } ]
+} ]

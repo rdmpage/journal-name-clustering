@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4787307",
+  "http://example.com/crossref" : [ {
+    "@value" : "3832"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0003-9993;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00039993"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-9993"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S110924429"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0003-9993"
+  }, {
+    "@value" : "1532-821X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Archives of Physical Medicine and Rehabilitation"
+  } ]
+} ]

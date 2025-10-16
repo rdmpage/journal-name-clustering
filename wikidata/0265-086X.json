@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q897055",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bradleya; Yearbook of the British Cactus and Succulent Society"
+  }, {
+    "@language" : "es",
+    "@value" : "Bradleya; Yearbook of the British Cactus and Succulent Society"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "311997"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0265-086X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S42923069"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0265-086X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bradleya"
+  } ]
+} ]

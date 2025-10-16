@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q59385643",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://science.org.ge/moambe/moambe-eng.html"
+  }, {
+    "@id" : "http://science.org.ge/moambe/moambe-geo.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0132-1447"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0132-1447"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ka",
+    "@value" : "საქართველოს მეცნიერებათა ეროვნული აკადემიის მოამბე"
+  }, {
+    "@language" : "mul",
+    "@value" : "Sakʼartʼvelos SSR mecʼnierebatʼa akademiis moambe"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the Georgian National Academy of Sciences"
+  } ]
+} ]

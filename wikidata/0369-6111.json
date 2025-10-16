@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q29515201",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Naturaliste Malgache"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1949"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0369-6111"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1962"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0369-6111"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Naturaliste malgache"
+  }, {
+    "@language" : "fr",
+    "@value" : "Le Naturaliste Malgache"
+  } ]
+} ]

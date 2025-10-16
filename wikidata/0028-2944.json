@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2710954",
+  "http://example.com/crossref" : [ {
+    "@value" : "2600"
+  }, {
+    "@value" : "49966"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springerlink.com/openurl.asp?genre=journal&issn=0929-1873"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S29946585"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0028-2944"
+  }, {
+    "@value" : "0929-1873"
+  }, {
+    "@value" : "1573-8469"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "European Journal of Plant Pathology"
+  } ]
+} ]

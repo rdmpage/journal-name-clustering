@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22109819",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Riviéra Scientifique"
+  }, {
+    "@language" : "fr",
+    "@value" : "Riviéra scientifique"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://asnatnic.fr/riviera/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0395-0395"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0395-0395"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Riviéra Scientifique"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758595",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Cetacean Research and Management"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2312-2692"
+  }, {
+    "@value" : "1561-0713"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://iwc.int/jcrm"
+  }, {
+    "@id" : "https://archive.iwc.int/pages/themes.php?lastlevelchange=1&theme1=Journal+of+Cetacean+Research+and+Management#/pages/view.php?ref=1469&search=!collection15&order_by=relevance&sort=DESC&offset=0&archive=0&k"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1561-0713"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210217040"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1561-0713"
+  }, {
+    "@value" : "2312-2692"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of Cetacean Research and Management"
+  } ]
+} ]

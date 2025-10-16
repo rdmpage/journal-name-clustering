@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q116912456",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0255-6014"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306516151"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0255-6014"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Yánjiū bàogào di ... hào - Gúolì Táiwān dàxué shìyàn lín"
+  }, {
+    "@language" : "zh",
+    "@value" : "國立臺灣大學生物資源暨農學院實驗林研究報告"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Experimental Forest of National Taiwan University"
+  } ]
+} ]

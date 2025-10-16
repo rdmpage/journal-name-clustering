@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q110755738",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1386-3460"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1386-3460"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Brachytron"
+  } ]
+} ]

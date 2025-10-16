@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385900",
+  "http://example.com/from_year" : [ {
+    "@value" : "1995"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.doc.govt.nz/templates/page.aspx?id=39157"
+  }, {
+    "@id" : "https://www.doc.govt.nz/about-us/science-publications/series/science-for-conservation/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1173-2946"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4363607005"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1173-2946"
+  }, {
+    "@value" : "1177-9241"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Science for conservation"
+  } ]
+} ]

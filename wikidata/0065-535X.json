@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16483695",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Anz. Österr. Akad. Wiss., Math.-Naturwiss. Kl."
+  }, {
+    "@language" : "de",
+    "@value" : "Anzeiger der Österreichischen Akademie der Wissenschaften, Mathematisch-Naturwissenschatliche Klasse"
+  }, {
+    "@language" : "en",
+    "@value" : "Anz. Österr. Akad. Wiss., Math.-Naturwiss. Kl."
+  }, {
+    "@language" : "en",
+    "@value" : "Anzeiger der Österreichischen Akademie der Wissenschaften, Mathematisch-Naturwissenschatliche Klasse"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1947"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0065-535X"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0065-535X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Anzeiger der Österreichischen Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Klasse"
+  }, {
+    "@language" : "de",
+    "@value" : "Anzeiger der Österreichischen Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Klasse"
+  } ]
+} ]

@@ -1,0 +1,59 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6151611",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Trans. Linn. Soc. Lond."
+  }, {
+    "@language" : "es",
+    "@value" : "Transactions of the Linnean Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Linnean Society"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1945-9432"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "683"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1791"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1945-9335"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/journal/122208837/grouphome"
+  }, {
+    "@id" : "https://academic.oup.com/transactionslinnean"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1945-9432"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S105286527"
+  }, {
+    "@value" : "S4210174855"
+  }, {
+    "@value" : "S4210179068"
+  }, {
+    "@value" : "S4210191033"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1875"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A56F28C3-A78D-4E32-BE22-30BB726D63D8"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1945-9432"
+  }, {
+    "@value" : "1945-9335"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Linnean Society of London"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Linnean Society"
+  } ]
+} ]

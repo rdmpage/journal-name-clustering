@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51397419",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.biodiv.be/abctaxa"
+  }, {
+    "@id" : "http://www.abctaxa.be"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1784-1283"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1784-1283"
+  }, {
+    "@value" : "1784-1291"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Abc Taxa"
+  }, {
+    "@language" : "en",
+    "@value" : "Abc Taxa"
+  } ]
+} ]

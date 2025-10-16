@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765364",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Deep-sea research. Part 1, Oceanographic research papers"
+  }, {
+    "@language" : "en",
+    "@value" : "Deep-sea research. Part 1. Oceanographic research papers"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0967-0637"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1997"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/09670637"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0967-0637"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S113880702"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0967-0637"
+  }, {
+    "@value" : "1879-0119"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Deep-sea research. Part 1. Oceanographic research papers"
+  }, {
+    "@language" : "en",
+    "@value" : "Deep-Sea Research. Part 1: Oceanographic Research Papers"
+  } ]
+} ]

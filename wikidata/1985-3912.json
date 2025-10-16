@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q25652014",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Malesian Orchid J."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1985-3912"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1985-3912"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Malesian Orchid Journal"
+  } ]
+} ]

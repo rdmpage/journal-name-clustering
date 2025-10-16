@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766556",
+  "http://example.com/crossref" : [ {
+    "@value" : "1938"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/14690292/"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/psychology-of-sport-and-exercise"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1878-5476"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S131954271"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1878-5476"
+  }, {
+    "@value" : "1469-0292"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Psychology of Sport and Exercise"
+  } ]
+} ]

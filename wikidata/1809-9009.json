@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7129486",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Pan-Am. J. Aquat. Sci."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.panamjas.org/"
+  }, {
+    "@id" : "http://www.panamjas.org/index.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1809-9009"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S985138145"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1809-9009"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Pan-American Journal of Aquatic Sciences"
+  }, {
+    "@language" : "mul",
+    "@value" : "Pan-American Journal of Aquatic Sciences"
+  } ]
+} ]

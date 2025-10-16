@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722498",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Schr Malakozool Haus Nat Cismar"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0936-2959"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0936-2959"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Schriften zur Malakozoologie aus dem Haus der Natur, Cismar"
+  } ]
+} ]

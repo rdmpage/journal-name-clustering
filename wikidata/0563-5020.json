@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758588",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Chinese Journal of Geology"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0563-5020"
+  }, {
+    "@value" : "0001-5717"
+  }, {
+    "@value" : "1004-3543"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Scientia Geologica Sinica"
+  }, {
+    "@language" : "zh",
+    "@value" : "地质科学"
+  } ]
+} ]

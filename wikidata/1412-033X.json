@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727374",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biodiversitas Journal of Biological Diversity"
+  }, {
+    "@language" : "en",
+    "@value" : "Biodiversitas (Surakarta)"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1412-033X"
+  }, {
+    "@language" : "en",
+    "@value" : "Biodiversitas : journal of biological diversity"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "115767"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "250726"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1412-033X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2738269101"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1412-033X"
+  }, {
+    "@value" : "2085-4722"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biodiversitas"
+  } ]
+} ]

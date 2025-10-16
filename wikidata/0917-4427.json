@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714296",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Protozool. Res."
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of protozoology research"
+  }, {
+    "@language" : "fr",
+    "@value" : "The Journal of protozoology research"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://obihiro.repo.nii.ac.jp/search?search_type=2&q=12"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jprotozoolres/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0917-4427"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jprotozoolres"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764381476"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2434-7027"
+  }, {
+    "@value" : "0917-4427"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of protozoology research"
+  } ]
+} ]

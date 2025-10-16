@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124712015",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Rev. Mus. La Plata, Secc. Zool."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Revista del Museo de La Plata. Nueva serie. Seccíon zoológia"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1937"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2015"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3A6C2409-928C-4204-AD3A-C7694315C672"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0372-4638"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista del Museo de La Plata. Sección Zoología"
+  } ]
+} ]

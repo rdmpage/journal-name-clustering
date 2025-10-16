@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q95947425",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta dipterologica"
+  }, {
+    "@language" : "en",
+    "@value" : "Makunagi"
+  }, {
+    "@language" : "ja",
+    "@value" : "Makunagi"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1966"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0917-4710"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0917-4710"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "Makunagi"
+  }, {
+    "@language" : "ja",
+    "@value" : "まくなぎ"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Dipterologica"
+  } ]
+} ]

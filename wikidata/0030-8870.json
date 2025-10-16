@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6056825",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Pac. sci."
+  }, {
+    "@language" : "en",
+    "@value" : "Pacific science"
+  }, {
+    "@language" : "de",
+    "@value" : "Pacific Sci."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "138348"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "46376"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1947"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/75356"
+  }, {
+    "@id" : "http://muse.jhu.edu/journals/psc"
+  }, {
+    "@id" : "http://www.uhpress.hawaii.edu/journals/ps/"
+  }, {
+    "@id" : "https://pacificscience.wordpress.com/open-access-v1-v54/"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0030-8870"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S190755922"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "8759499F-AFD6-4167-803B-1E76B82F92F1"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1534-6188"
+  }, {
+    "@value" : "0030-8870"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Pacific Science"
+  } ]
+} ]

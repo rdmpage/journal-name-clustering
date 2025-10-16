@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q131195284",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Annual of the All-Union paleontological society"
+  }, {
+    "@language" : "en",
+    "@value" : "Ezheg. Vsesoyuzn. Paleontol. Obshch."
+  }, {
+    "@language" : "ru",
+    "@value" : "Ežegodnik Vsesoûznogo paleontologičeskogo obŝestva"
+  }, {
+    "@language" : "ru",
+    "@value" : "Ежег. Всес. палеонт. общ."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0201-9280"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0201-9280"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annual of the All-Union paleontological society"
+  }, {
+    "@language" : "ru",
+    "@value" : "Ežegodnik Vsesoûznogo paleontologičeskogo obŝestva"
+  }, {
+    "@language" : "ru",
+    "@value" : "Ежегодник Всесоюзного палеонтологического общества"
+  } ]
+} ]

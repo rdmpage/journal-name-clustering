@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q53953132",
+  "http://example.com/crossref" : [ {
+    "@value" : "55546"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/journals/04739868.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0473-9868"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "johioherpsoci"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210209017"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0473-9868"
+  }, {
+    "@value" : "2326-3784"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Ohio Herpetological Society"
+  } ]
+} ]

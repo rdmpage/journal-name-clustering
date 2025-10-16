@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21556862",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Trans. Proc. Royal Soc. New Zeal."
+  }, {
+    "@language" : "en",
+    "@value" : "Trans. Roy. Soc. N. Z."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1935"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://paperspast.natlib.govt.nz/periodicals/transactions-and-proceedings-of-the-royal-society-of-new-zealand"
+  }, {
+    "@id" : "http://rsnz.natlib.govt.nz/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1176-6166"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1951"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2744-4139"
+  }, {
+    "@value" : "1176-6166"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions and proceedings of the Royal Society of New Zealand"
+  } ]
+} ]

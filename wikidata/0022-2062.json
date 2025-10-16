@@ -1,0 +1,69 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5946705",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journ. Jap. Bot."
+  }, {
+    "@language" : "en",
+    "@value" : "J. Jap. Bot."
+  }, {
+    "@language" : "ru",
+    "@value" : "Журнал японской ботаники"
+  }, {
+    "@language" : "ja",
+    "@value" : "植研"
+  }, {
+    "@language" : "de",
+    "@value" : "J. Jap. Bot."
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of Japanese Botany"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Jpn. Bot."
+  }, {
+    "@language" : "es",
+    "@value" : "The Journal of Japanese Botany"
+  }, {
+    "@language" : "ja",
+    "@value" : "Shokubutsu Kenkyu Zasshi"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "79099"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1916"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jjapbot/list/-char/ja"
+  }, {
+    "@id" : "http://www.jjbotany.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-2062"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jjapbot"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306515691"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2436-6730"
+  }, {
+    "@value" : "0022-2062"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "植物研究雑誌"
+  }, {
+    "@language" : "ja",
+    "@value" : "Shokubutsu kenkyū zasshi"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Japanese Botany"
+  }, {
+    "@language" : "mul",
+    "@value" : "Shokubutsu kenkyū zasshi"
+  } ]
+} ]

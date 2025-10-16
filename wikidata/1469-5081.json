@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5535309",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The geological magazine, or, Monthly journal of geology"
+  }, {
+    "@language" : "en",
+    "@value" : "Geol. mag."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "44230"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "6049"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1864"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://geolmag.geoscienceworld.org/"
+  }, {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=GEO"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0016-7568"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2203401"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "4FE59BC5-0432-42DC-8050-B8A9D4BC6D50"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0016-7568"
+  }, {
+    "@value" : "1469-5081"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Geological Magazine"
+  } ]
+} ]

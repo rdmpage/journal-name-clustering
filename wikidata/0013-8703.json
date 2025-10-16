@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753202",
+  "http://example.com/crossref" : [ {
+    "@value" : "3263"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1570-7458"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/toc/eea"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-8703"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S26596028"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1570-7458"
+  }, {
+    "@value" : "0013-8703"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Entomologia experimentalis et applicata"
+  }, {
+    "@language" : "la",
+    "@value" : "Entomologia Experimentalis et Applicata"
+  } ]
+} ]

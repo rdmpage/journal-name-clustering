@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761374",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Egyptian Journal of Veterinary Sciences"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "305176"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1110-0222"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210175237"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1110-0222"
+  }, {
+    "@value" : "2357-0903"
+  }, {
+    "@value" : "2357-089X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Egyptian Journal of Veterinary Science"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q96697029",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Egyptian Journal of Veterinary Science"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "309329"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1110-0222"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764654829"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1110-0222"
+  }, {
+    "@value" : "2357-0903"
+  }, {
+    "@value" : "2357-089X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Egyptian Journal of Veterinary Science"
+  } ]
+} ]

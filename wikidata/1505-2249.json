@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725873",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Pol J Ecol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "265747"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.pje.miiz.waw.pl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1505-2249"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S38301578"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1505-2249"
+  }, {
+    "@value" : "2450-1395"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Polish journal of ecology"
+  } ]
+} ]

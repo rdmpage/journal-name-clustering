@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3356545",
+  "http://example.com/crossref" : [ {
+    "@value" : "60534"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/40215"
+  }, {
+    "@id" : "http://www.aou.org/monographs/"
+  }, {
+    "@id" : "http://www.bioone.org/series/aoum"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00786594.html"
+  }, {
+    "@id" : "https://sora.unm.edu/node/213"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-6594"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "ornithmono"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S106645107"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1941-2282"
+  }, {
+    "@value" : "0078-6594"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ornithological monographs"
+  } ]
+} ]

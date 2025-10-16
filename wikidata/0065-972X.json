@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q64909638",
+  "http://example.com/crossref" : [ {
+    "@value" : "56690"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/journals/0065972X.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0065-972X"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "procaddramerphil"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210213457"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0065-972X"
+  }, {
+    "@value" : "2325-9248"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings and Addresses of the American Philosophical Association"
+  } ]
+} ]

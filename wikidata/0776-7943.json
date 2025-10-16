@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385034",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Revue de zoologie africaine"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  }, {
+    "@value" : "1990"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0776-7943"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1998"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0776-7943"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of African zoology"
+  } ]
+} ]

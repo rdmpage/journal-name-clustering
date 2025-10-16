@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108279444",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://digitalcommons.unl.edu/tnas/index.5.html"
+  }, {
+    "@id" : "http://infotrac.london.galegroup.com/itw/infomark/1/1/1/purl=rc3%5fSP00%5F0%5F%5Fjn+%22Transactions+of+the+Nebraska+Academy+of+Sciences%22"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0077-6351"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0077-6351"
+  }, {
+    "@value" : "2379-8696"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Nebraska Academy of Sciences"
+  } ]
+} ]

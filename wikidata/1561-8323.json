@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763334",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "Doklady Akademii nauk BSSR"
+  }, {
+    "@language" : "ru",
+    "@value" : "Doklady Nacionalʹnoj akademii nauk Belarusi"
+  }, {
+    "@language" : "en",
+    "@value" : "Doklady of the National Academy of Sciences of Belarus"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "314369"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://doklady.belnauka.by/jour"
+  }, {
+    "@id" : "http://doklady.belnauka.by"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1561-8323"
+  }, {
+    "@value" : "0002-354X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210224350"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2524-2431"
+  }, {
+    "@value" : "1561-8323"
+  }, {
+    "@value" : "0002-354X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Papers of the National Academy of Sciences of Belarus"
+  }, {
+    "@language" : "ru",
+    "@value" : "Doklady Akademii nauk BSSR"
+  }, {
+    "@language" : "ru",
+    "@value" : "Doklady Nacionalʹnoj akademii nauk Belarusi"
+  } ]
+} ]

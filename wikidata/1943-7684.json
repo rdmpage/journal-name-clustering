@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757832",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Phytopathology: international journal of the American Phytopathological Society"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60948"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://apsjournals.apsnet.org/loi/phyto"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/38821"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0031-949X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S85201822"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0031-949X"
+  }, {
+    "@value" : "1943-7684"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Phytopathology"
+  } ]
+} ]

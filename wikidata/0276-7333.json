@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q595719",
+  "http://example.com/crossref" : [ {
+    "@value" : "2500"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "4242"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://pubs.acs.org/journals/orgnd7/index.html"
+  }, {
+    "@id" : "http://pubs3.acs.org/acs/journals/toc.page?incoden=orgnd7"
+  }, {
+    "@id" : "https://pubs.acs.org/journal/orgnd7"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0276-7333"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4924609"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=orgnd7"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1520-6041"
+  }, {
+    "@value" : "0276-7333"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Organometallics"
+  } ]
+} ]

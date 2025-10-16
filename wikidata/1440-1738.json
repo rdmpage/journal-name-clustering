@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6082985",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The island arc"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "56928"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=1038-4871;screen=info;ECOIP"
+  }, {
+    "@id" : "http://search.ebscohost.com/direct.asp?db=aph&jid=%22EVD%22&scope=site"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/issuelist.asp?journal=iar"
+  }, {
+    "@id" : "http://www.wiley.com/bw/journal.asp?ref=1038-4871&site=1"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1038-4871"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S50265103"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1440-1738"
+  }, {
+    "@value" : "1038-4871"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Island Arc"
+  }, {
+    "@language" : "en",
+    "@value" : "The island arc"
+  } ]
+} ]

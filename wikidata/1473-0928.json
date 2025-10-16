@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756704",
+  "http://example.com/crossref" : [ {
+    "@value" : "330718"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765068309"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0260-5805"
+  }, {
+    "@value" : "1473-0928"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Herpetological Bulletin"
+  } ]
+} ]

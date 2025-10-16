@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q88522834",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.schubartiana.de/"
+  }, {
+    "@id" : "https://schubartiana.de/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1861-0366"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1861-0366"
+  }, {
+    "@value" : "2568-5570"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Schubartiana"
+  }, {
+    "@language" : "mul",
+    "@value" : "Schubartiana"
+  } ]
+} ]

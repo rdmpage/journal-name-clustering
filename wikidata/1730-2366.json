@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q91316225",
+  "http://example.com/crossref" : [ {
+    "@value" : "95127"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dspace.uni.lodz.pl:8080/xmlu/handle/11089/12057"
+  }, {
+    "@id" : "http://versita.com/fbo"
+  }, {
+    "@id" : "https://content.sciendo.com/view/journals/fobio/fobio-overview.xml?tab_body=editorial"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1730-2366"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210211679"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2083-8484"
+  }, {
+    "@value" : "1730-2366"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta Universitatis Lodziensis. Folia Biologica et Oecologica"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Universitatis Lodziensis. Folia Biologica et Oecologica"
+  } ]
+} ]

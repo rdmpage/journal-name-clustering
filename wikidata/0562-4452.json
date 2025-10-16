@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q72209302",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Stuttg. Beitr. Naturkd"
+  }, {
+    "@language" : "en",
+    "@value" : "Stuttgarter Beiträge zur Naturkunde aus dem Staatlichen Museum für Naturkunde in Stuttgart"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0562-4452"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "49392"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1957"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0562-4452"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0562-4452"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Stuttgarter Beiträge zur Naturkunde aus dem Staatlichen Museum für Naturkunde in Stuttgart"
+  } ]
+} ]

@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842292",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0011-4529"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S143925333"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0011-4529"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cytobios"
+  } ]
+} ]

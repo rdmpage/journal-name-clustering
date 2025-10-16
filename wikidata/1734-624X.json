@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96708161",
+  "http://example.com/crossref" : [ {
+    "@value" : "297040"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://iss.wnb.uz.zgora.pl/pl/iss/online"
+  }, {
+    "@id" : "https://www.degruyter.com/view/j/isspar"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1734-624X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210172827"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2450-0488"
+  }, {
+    "@value" : "1734-624X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Studies on Sparrows"
+  } ]
+} ]

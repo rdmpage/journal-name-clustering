@@ -1,0 +1,61 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5100608",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "科学通报"
+  }, {
+    "@language" : "en",
+    "@value" : "Science bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Chinese Science Bulletin"
+  }, {
+    "@language" : "es",
+    "@value" : "Science bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Sci Bull (Beijing)"
+  }, {
+    "@language" : "fr",
+    "@value" : "Chinese Science Bulletin"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "JXTW"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "265197"
+  }, {
+    "@value" : "14936"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1956"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springer.com/11434"
+  }, {
+    "@id" : "http://www.springer.com/new+%26+forthcoming+titles+%28default%29/journal/11434"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2095-9273"
+  }, {
+    "@value" : "1001-6538"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210187383"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1861-9541"
+  }, {
+    "@value" : "1001-6538"
+  }, {
+    "@value" : "2095-9273"
+  }, {
+    "@value" : "2095-9281"
+  }, {
+    "@value" : "0250-7862"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Science Bulletin"
+  } ]
+} ]

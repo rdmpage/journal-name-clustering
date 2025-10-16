@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q80449825",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bibliotheca Herpetologica: A Journal of the History and Bibliography of Herpetology"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.t-ad.net/ishbh"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1653-3798"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1653-3798"
+  }, {
+    "@value" : "2002-4029"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bibliotheca herpetologica"
+  } ]
+} ]

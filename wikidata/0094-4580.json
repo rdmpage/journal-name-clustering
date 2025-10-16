@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51510690",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "NOAA tech. rep. NMFS SSRF"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "9501"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297409"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0094-4580"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210232561"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0094-4580"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "NOAA technical report NMFS SSRF"
+  } ]
+} ]

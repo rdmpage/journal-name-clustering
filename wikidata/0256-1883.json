@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q52380146",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zhenjun xuebao"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0256-1883"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500419"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0256-1883"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "真菌学报"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Mycologica Sinica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Zhenjun xuebao"
+  } ]
+} ]

@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386234",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0067-4745"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306504086"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "84FB1408-8E0D-4208-91C0-29D9C7AE59FA"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0067-4745"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Beaufortia"
+  }, {
+    "@language" : "en",
+    "@value" : "Beaufortia"
+  } ]
+} ]

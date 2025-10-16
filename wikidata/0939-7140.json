@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766449",
+  "http://example.com/crossref" : [ {
+    "@value" : "205146"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sci.ege.edu.tr/%7Ezme/"
+  }, {
+    "@id" : "http://www.kasparek-verlag.de/ZME-allgem.htm"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/tzme20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0939-7140"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S5754067"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2326-2680"
+  }, {
+    "@value" : "0939-7140"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zoology in the Middle East"
+  }, {
+    "@language" : "mul",
+    "@value" : "Zoology in the Middle East"
+  } ]
+} ]

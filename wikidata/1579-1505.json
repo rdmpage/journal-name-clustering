@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15647026",
+  "http://example.com/crossref" : [ {
+    "@value" : "95785"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/13398"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1578-7303"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S129511265"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1579-1505"
+  }, {
+    "@value" : "1578-7303"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista de la Real Academia de Ciencias Exactas, Físicas y Naturales. Serie A. Matemáticas"
+  }, {
+    "@language" : "mul",
+    "@value" : "Revista de la Real Academia de Ciencias Exactas, Físicas y Naturales. Serie A, Matemáticas"
+  } ]
+} ]

@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385089",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Genus (Wrocław)"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.biol.uni.wroc.pl/cassidae/genus.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0867-1710"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764499429"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "CB377375-E72E-410F-8F33-94EE87A0876E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1689-3786"
+  }, {
+    "@value" : "0867-1710"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Genus"
+  } ]
+} ]

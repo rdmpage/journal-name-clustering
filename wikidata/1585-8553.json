@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764121",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "CE"
+  }, {
+    "@language" : "en",
+    "@value" : "Community Ecol."
+  }, {
+    "@language" : "en",
+    "@value" : "Community Ecology:  An Interdisciplinary Journal Reporting Progress in Community and Population Studies"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "30355"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.akademiai.com/loi/168/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1585-8553"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "communityecology"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S85153969"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1588-2756"
+  }, {
+    "@value" : "1585-8553"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Community Ecology"
+  } ]
+} ]

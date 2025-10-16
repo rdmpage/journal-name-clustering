@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q117213102",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "He'nan Shifan Daxue xuebao. Ziran kexue ban"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1960"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-2367"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-2367"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "河南师范大学学报（自然科学版）"
+  } ]
+} ]

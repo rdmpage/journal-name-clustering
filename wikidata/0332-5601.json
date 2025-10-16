@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q19398451",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0332-5601"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0332-5601"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nb",
+    "@value" : "Vår fuglefauna"
+  }, {
+    "@language" : "nb",
+    "@value" : "Vår Fuglfauna"
+  } ]
+} ]

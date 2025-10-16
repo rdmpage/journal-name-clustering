@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5863676",
+  "http://example.com/bhl" : [ {
+    "@value" : "73431"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "8370"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://bibdigital.rjb.csic.es/records/item/11876-fontqueria?offset=1"
+  }, {
+    "@id" : "https://dialnet.unirioja.es/servlet/revista?codigo=8370"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0212-0623"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2792-2170"
+  }, {
+    "@value" : "0212-0623"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Fontqueria"
+  }, {
+    "@language" : "mul",
+    "@value" : "Fontqueria"
+  } ]
+} ]

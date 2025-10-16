@@ -1,0 +1,62 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6087079",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the American Philosophical Society held at Philadelphia for promoting useful knowledge"
+  }, {
+    "@language" : "zh",
+    "@value" : "美国哲学学会会刊"
+  }, {
+    "@language" : "zh",
+    "@value" : "美国哲学会论文集"
+  }, {
+    "@language" : "en",
+    "@value" : "Proc. Am. Phil. Soc."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7023"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297350"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "19087"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1838"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/journals/0003049X.html"
+  }, {
+    "@id" : "https://www.pennpress.org/journals/journal/proceedings-of-the-american-philosophical-society/"
+  }, {
+    "@id" : "http://books.google.com/books?id=rpdJAAAAYAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=TJRJAAAAYAAJ"
+  }, {
+    "@id" : "http://www.amphilsoc.org/publications/proceedings"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-049X"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "procamerphilsoci"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210172702"
+  }, {
+    "@value" : "S4306523955"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2326-9243"
+  }, {
+    "@value" : "0003-049X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the American Philosophical Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the American Philosophical Society held at Philadelphia for promoting useful knowledge"
+  } ]
+} ]

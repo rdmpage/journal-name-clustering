@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2099918",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "CSF"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "6361"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1347-3700"
+  }, {
+    "@value" : "0386-7196"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0386-7196"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "csf"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S89337528"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1347-3700"
+  }, {
+    "@value" : "0386-7196"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cell Structure and Function"
+  } ]
+} ]

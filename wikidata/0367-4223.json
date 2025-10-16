@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1885453",
+  "http://example.com/crossref" : [ {
+    "@value" : "3803"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/10343"
+  }, {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2075524"
+  }, {
+    "@id" : "http://www.springerlink.com/openurl.asp?genre=journal&issn=0367-4223"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/14390345"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0367-4223"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S70673737"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1439-0345"
+  }, {
+    "@value" : "0367-4223"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Gesunde Pflanzen"
+  }, {
+    "@language" : "de",
+    "@value" : "Gesunde Pflanzen"
+  } ]
+} ]

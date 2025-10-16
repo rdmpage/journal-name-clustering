@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2471672",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "European Physical Journal A. Hadrons and Nuclei"
+  }, {
+    "@language" : "en",
+    "@value" : "European physical journal. A, Hadrons and nuclei"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "889"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1998"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springer.com/10050"
+  }, {
+    "@id" : "http://www.springerlink.com/content/1434-6001/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1434-6001"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210173186"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1434-601X"
+  }, {
+    "@value" : "1434-6001"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "European physical journal. A, Hadrons and nuclei"
+  }, {
+    "@language" : "en",
+    "@value" : "European Physical Journal A"
+  } ]
+} ]

@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96723103",
+  "http://example.com/crossref" : [ {
+    "@value" : "376701"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://revistas.ung.br/index.php/geociencias"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1981-741X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210170139"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "45B88C91-9825-40AC-BC8B-EC65E45D5B02"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1981-741X"
+  }, {
+    "@value" : "1981-7428"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Revista UnG. Geociências"
+  } ]
+} ]

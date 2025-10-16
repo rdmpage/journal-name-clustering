@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725892",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "J. Asia-Pacific Biodivers."
+  }, {
+    "@language" : "en",
+    "@value" : "J Asia Pac Biodivers"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Asia-Pacific Biodivers."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "205767"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2287-884X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/2287884X?sdc=1"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/journal-of-asia-pacific-biodiversity"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2287-884X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765047820"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2287-9544"
+  }, {
+    "@value" : "2287-884X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Asia-Pacific Biodiversity"
+  } ]
+} ]

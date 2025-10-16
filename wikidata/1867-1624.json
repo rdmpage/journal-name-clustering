@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15816726",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Marine Biodiversity: international journal of marine science"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "81862"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springerlink.com/content/121312/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1867-1616"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S134949215"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "14951824-21DF-46B8-9A62-4E0BC56A6544"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1867-1616"
+  }, {
+    "@value" : "1867-1624"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Marine Biodiversity: international journal of marine science"
+  }, {
+    "@language" : "en",
+    "@value" : "Marine biodiversity"
+  } ]
+} ]

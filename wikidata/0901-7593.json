@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385167",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Graphis scripta"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://nhm2.uio.no/lichens/nordiclichensociety/graphis_index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0901-7593"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0901-7593"
+  }, {
+    "@value" : "2002-4495"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Graphis scripta"
+  } ]
+} ]

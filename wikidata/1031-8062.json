@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385621",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1031-8062"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "83045"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://australianmuseum.net.au/journalfinder"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1031-8062"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S154972524"
+  }, {
+    "@value" : "S4210213110"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1031-8062"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Technical reports of the Australian Museum"
+  } ]
+} ]

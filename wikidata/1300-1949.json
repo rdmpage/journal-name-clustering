@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50498141",
+  "http://example.com/doaj" : [ {
+    "@value" : "1300-1949"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1300-1949"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210218970"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1300-1949"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "tr",
+    "@value" : "Cumhuriyet Üniversitesi Fen-Edebiyat Fakültesi fen bilimleri dergisi"
+  } ]
+} ]

@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328659",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Boletines SVE"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0583-7731"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0583-7731"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0583-7731"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Boletín de la Sociedad Venezolana de Espeleología"
+  } ]
+} ]

@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q67141936",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. romand entomol."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1981"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.e-periodica.ch/digbib/volumes?UID=enh-005"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0256-3991"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2007"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2813-9747"
+  }, {
+    "@value" : "0256-3991"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin romand d'entomologie"
+  } ]
+} ]

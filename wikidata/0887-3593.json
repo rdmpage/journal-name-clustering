@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755823",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J-NABS"
+  }, {
+    "@language" : "en",
+    "@value" : "North American Benthological Society. Journal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "44558"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jnabs.allenpress.com/jnabsonline/?request=get-archive"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-moreinfo&issn=0887-3593"
+  }, {
+    "@id" : "http://www.jnabs.org/"
+  }, {
+    "@id" : "http://www.jstor.org/journals/08873593.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0887-3593"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jnortamerbentsoc"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S81067756"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1937-237X"
+  }, {
+    "@value" : "0887-3593"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the North American Benthological Society"
+  } ]
+} ]

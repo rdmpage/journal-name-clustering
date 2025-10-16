@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2615776",
+  "http://example.com/crossref" : [ {
+    "@value" : "1446"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/01679317"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/microelectronic-engineering/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0167-9317"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S158028765"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1873-5568"
+  }, {
+    "@value" : "0167-9317"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Microelectronic Engineering"
+  }, {
+    "@language" : "en",
+    "@value" : "Microelectronic engineering"
+  } ]
+} ]

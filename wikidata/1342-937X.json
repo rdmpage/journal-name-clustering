@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761707",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "Исследования Гондваны"
+  }, {
+    "@language" : "zh",
+    "@value" : "岡瓦納研究"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "52399"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1997"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/gondwana-research//"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/1342937X"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1342-937X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S158567263"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "2DE148C3-028C-497D-9C12-F11A36C8E409"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1342-937X"
+  }, {
+    "@value" : "1878-0571"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Gondwana Research"
+  } ]
+} ]

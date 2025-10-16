@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765137",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.evolutionary-ecology.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1522-0613"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S137715739"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1937-3791"
+  }, {
+    "@value" : "1522-0613"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Evolutionary Ecology Research"
+  } ]
+} ]

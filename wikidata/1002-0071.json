@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767110",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "自然科学进展(英文版)"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "ZKJY"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "16216"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1002-0071"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/10020071"
+  }, {
+    "@id" : "http://www.tandfonline.com/toc/tpns20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1002-0071"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2898338117"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1745-5391"
+  }, {
+    "@value" : "1002-0071"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Progress in Natural Science: communication of state key laboratories of China"
+  }, {
+    "@language" : "en",
+    "@value" : "Progress in Natural Science"
+  }, {
+    "@language" : "en",
+    "@value" : "Progress in Natural Science: Materials International"
+  } ]
+} ]

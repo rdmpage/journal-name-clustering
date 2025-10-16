@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108610504",
+  "http://example.com/from_year" : [ {
+    "@value" : "1981"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0240-8783"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306528298"
+  }, {
+    "@value" : "S4306528299"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1997"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0240-8783"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Revue d'Hydrobiologie Tropicale"
+  }, {
+    "@language" : "mul",
+    "@value" : "Revue d'hydrobiologie tropicale"
+  } ]
+} ]

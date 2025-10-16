@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13641257",
+  "http://example.com/crossref" : [ {
+    "@value" : "118810"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1997"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://sciencepress.mnhn.fr/en/periodiques/geodiversitas"
+  }, {
+    "@id" : "https://sciencepress.mnhn.fr/fr/periodiques/geodiversitas"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1280-9659"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S60344327"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D20730FB-D923-4DD0-A0AA-927250A221F9"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1280-9659"
+  }, {
+    "@value" : "1638-9395"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Geodiversitas"
+  } ]
+} ]

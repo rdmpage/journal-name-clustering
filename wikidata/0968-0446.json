@@ -1,0 +1,54 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5735549",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "Bulletin of The Natural History Museum. Botany Series"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the Natural History Museum. Botany series"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of The Natural History Museum. Botany Series"
+  }, {
+    "@language" : "ja",
+    "@value" : "Bulletin of the Natural History Museum. Botany series"
+  }, {
+    "@language" : "de",
+    "@value" : "Bulletin of The Natural History Museum. Botany Series"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "53883"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "6343"
+  }, {
+    "@value" : "10818"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=BBO"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0968-0446"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S196951245"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2002"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1475-2956"
+  }, {
+    "@value" : "0968-0446"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Natural History Museum, London (Botany)"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the Natural History Museum. Botany series"
+  } ]
+} ]

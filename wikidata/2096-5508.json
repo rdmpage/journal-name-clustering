@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328870",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "JOL"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 2096-5508"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "313898"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2018"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jol343.com"
+  }, {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2931064"
+  }, {
+    "@id" : "https://link.springer.com/journal/343"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2523-3521"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210178101"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2096-5508"
+  }, {
+    "@value" : "2523-3521"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of oceanology and limnology"
+  } ]
+} ]

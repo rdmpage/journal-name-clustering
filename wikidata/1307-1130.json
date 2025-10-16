@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722164",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "JABS"
+  }, {
+    "@language" : "en",
+    "@value" : "Uygulamalı biyolojik bilimler dergisi"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1307-1130"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1307-1130"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "JABS : journal of applied biological sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Uygulamalı biyolojik bilimler dergisi"
+  } ]
+} ]

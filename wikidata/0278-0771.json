@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q25049135",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of ethnobiology"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "47071"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "76925"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1981"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/51473"
+  }, {
+    "@id" : "http://ethnobiology.org/publications/journal-of-ethnobiology/back-issues"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=0278-0771"
+  }, {
+    "@id" : "http://www.ethnobiology.org/publications/journal"
+  }, {
+    "@id" : "https://journals.sagepub.com/home/ebi"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0278-0771"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S72250933"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2162-4496"
+  }, {
+    "@value" : "0278-0771"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of ethnobiology"
+  } ]
+} ]

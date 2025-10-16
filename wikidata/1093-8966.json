@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27720957",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Afr. Primates"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/50510"
+  }, {
+    "@id" : "http://journals.sfu.ca/afrprims/index.php/AfricanPrimates"
+  }, {
+    "@id" : "http://search.ebscohost.com/direct.asp?db=a9h&jid=FWO0"
+  }, {
+    "@id" : "http://www.primate-sg.org/ap.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1093-8966"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1026-2865"
+  }, {
+    "@value" : "1093-8966"
+  }, {
+    "@value" : "2325-6109"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "African primates"
+  } ]
+} ]

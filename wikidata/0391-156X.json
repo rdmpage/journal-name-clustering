@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q47069693",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0391-156X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0391-156X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Natura Bresciana"
+  } ]
+} ]

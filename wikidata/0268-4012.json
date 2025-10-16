@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764010",
+  "http://example.com/crossref" : [ {
+    "@value" : "2151"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.journals.elsevier.com/international-journal-of-information-management"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0268-4012"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S189354248"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0268-4012"
+  }, {
+    "@value" : "1873-4707"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Information Management"
+  } ]
+} ]

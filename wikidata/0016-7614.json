@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28840834",
+  "http://example.com/crossref" : [ {
+    "@value" : "146765"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0016-7614"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210232405"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0016-7614"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Geological Society of Australia"
+  } ]
+} ]

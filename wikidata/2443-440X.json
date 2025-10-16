@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96333450",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://salus-online.fcs.uc.edu.ve/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1316-7138"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210201133"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1316-7138"
+  }, {
+    "@value" : "2443-440X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Salus"
+  } ]
+} ]

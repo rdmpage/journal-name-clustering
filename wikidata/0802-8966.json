@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124453713",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Syn. Fung. (Oslo)"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0802-8966"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0802-8966"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Synopsis fungorum"
+  }, {
+    "@language" : "la",
+    "@value" : "Synopsis fungorum"
+  } ]
+} ]

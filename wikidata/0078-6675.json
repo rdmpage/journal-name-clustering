@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385090",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "Bulletin of the Osaka Museum of Natural History"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://omnh.repo.nii.ac.jp/search?search_type=2&q=1"
+  }, {
+    "@id" : "http://www.mus-nh.city.osaka.jp/publication/bulletin/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-6675"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306505247"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "8741BD24-5CE3-4AA1-BA9F-DBF054222577"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0078-6675"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "大阪市立自然史博物館研究報告"
+  }, {
+    "@language" : "ja",
+    "@value" : "大阪市立自然科学博物館研究報告"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the Osaka Museum of Natural History"
+  }, {
+    "@language" : "mul",
+    "@value" : "Bulletin of the Osaka Museum of Natural History"
+  } ]
+} ]

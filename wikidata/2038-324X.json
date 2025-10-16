@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386033",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Entomol Acarol Res, JEAR"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "196206"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2038-324X"
+  }, {
+    "@value" : "2279-7084"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jear.it"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2038-324X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2738218850"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "EEFA909E-C0E7-4511-BB71-BB23BD44B26F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2279-7084"
+  }, {
+    "@value" : "2038-324X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Journal of entomological and acarological research"
+  } ]
+} ]

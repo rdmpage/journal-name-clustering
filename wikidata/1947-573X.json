@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15817871",
+  "http://example.com/crossref" : [ {
+    "@value" : "106486"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1947-573X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/78387"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/83627"
+  }, {
+    "@id" : "http://pagepressjournals.org/index.php/aiol/index"
+  }, {
+    "@id" : "http://www.tandfonline.com/toc/taol20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1947-5721"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S71726598"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1947-573X"
+  }, {
+    "@value" : "1947-5721"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Advances in Oceanography and Limnology"
+  } ]
+} ]

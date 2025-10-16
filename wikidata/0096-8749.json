@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6130489",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Smithson. misc. collect."
+  }, {
+    "@language" : "de",
+    "@value" : "Smithsonian Misc. Collect."
+  }, {
+    "@language" : "de",
+    "@value" : "Smithson. misc. collect."
+  }, {
+    "@language" : "de",
+    "@value" : "Smithsonian miscellaneous collections"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8128"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297321"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1862"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sil.si.edu/smithsoniancontributions/sics_history.cfm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0096-8749"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210184248"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0096-8749"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Smithsonian Miscellaneous Collections"
+  } ]
+} ]

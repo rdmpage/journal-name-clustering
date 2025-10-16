@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751996",
+  "http://example.com/crossref" : [ {
+    "@value" : "50301"
+  }, {
+    "@value" : "2533"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://link.springer.com/journal/10452"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S157918159"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1380-8427"
+  }, {
+    "@value" : "1386-2588"
+  }, {
+    "@value" : "1573-5125"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Aquatic Ecology: a multidisciplinary journal relating to processes and structures at different organizational levels"
+  } ]
+} ]

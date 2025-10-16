@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724580",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2090-5238"
+  }, {
+    "@language" : "en",
+    "@value" : "ISRN Zool"
+  }, {
+    "@language" : "en",
+    "@value" : "International Scholarly Research Network, Zoology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "128285"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.hindawi.com/isrn/zoology/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2090-522X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210224204"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2090-5238"
+  }, {
+    "@value" : "2090-522X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "ISRN Zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "International Scholarly Research Network, Zoology"
+  } ]
+} ]

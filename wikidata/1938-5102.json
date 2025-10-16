@@ -1,0 +1,64 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749995",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Florida Entomologist"
+  }, {
+    "@language" : "es",
+    "@value" : "Florida Entomologist"
+  }, {
+    "@language" : "en",
+    "@value" : "Fla. entomol."
+  }, {
+    "@language" : "en",
+    "@value" : "The Florida Entomologist: Official organ of the Florida Entomological Society"
+  }, {
+    "@language" : "fr",
+    "@value" : "Florida Entomologist"
+  }, {
+    "@language" : "en",
+    "@value" : "Florida Entomologist"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "118765"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57329"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0015-4040"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1920"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://bioone.org/journals/florida-entomologist"
+  }, {
+    "@id" : "https://journals.flvc.org/flaent"
+  }, {
+    "@id" : "https://www.degruyter.com/journal/key/flaent/html"
+  }, {
+    "@id" : "https://www.jstor.org/journal/florento"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0015-4040"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "florento"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S185774633"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "9C65874D-0D08-4CD6-9DDA-6DB17A22EC65"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1938-5102"
+  }, {
+    "@value" : "0015-4040"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Florida entomologist"
+  } ]
+} ]

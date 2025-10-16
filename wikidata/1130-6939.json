@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723667",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bol Asoc Herpetol Esp"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "6704"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1130-6939"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306504681"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1130-6939"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletín de la Asociación Herpetológica Española"
+  } ]
+} ]

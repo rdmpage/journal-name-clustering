@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27709673",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Exp Zool Suppl"
+  }, {
+    "@language" : "en",
+    "@value" : "The journal of experimental zoology. Supplement"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jtoc/110471710/1989"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1059-8324"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1059-8324"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The journal of experimental zoology. Supplement"
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of experimental zoology. Supplement : published under auspices of the American Society of Zoologists and the Division of Comparative Physiology and Biochemistry"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51407025",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Sitzungsberichte und Abhandlungen der Naturwissenschaftlichen Gesellschaft Isis Dresden e.V."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "132035"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1881"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0941-4673"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0941-4673"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Sitzungsberichte und Abhandlungen der Naturwissenschaftlichen Gesellschaft Isis Dresden e.V."
+  }, {
+    "@language" : "de",
+    "@value" : "Sitzungsberichte und Abhandlungen der Naturwissenschaftlichen Gesellschaft Isis in Dresden"
+  } ]
+} ]

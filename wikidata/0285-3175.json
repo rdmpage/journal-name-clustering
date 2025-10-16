@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96326396",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Annual report of the Institute of Geoscience, the University of Tsukuba"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://tsukuba.repo.nii.ac.jp/search?search_type=2&q=93"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0285-3175"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764614789"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0285-3175"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annual report of the Institute of Geoscience, the University of Tsukuba"
+  } ]
+} ]

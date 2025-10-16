@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766542",
+  "http://example.com/crossref" : [ {
+    "@value" : "73440"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0354-4664"
+  }, {
+    "@value" : "1821-4339"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.doiserbia.nb.rs/journal.aspx?issn=0354-4664"
+  }, {
+    "@id" : "http://www.serbiosoc.org.rs/arch/index.php/abs"
+  }, {
+    "@id" : "https://www.serbiosoc.org.rs/arch/index.php/abs/issue/archive"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0354-4664"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S100658864"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "C32994F0-28F5-4D36-BBE9-C8CB2529BF1A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0354-4664"
+  }, {
+    "@value" : "1821-4339"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Archives of Biological Sciences"
+  } ]
+} ]

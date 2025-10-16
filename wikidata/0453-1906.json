@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725271",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Kanagawa Kenritsu Hakubutsukan Kenkyu Hokoku Shizen Kagaku"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1968"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://nh.kanagawa-museum.jp/research/bulletin/"
+  }, {
+    "@id" : "http://nh.kanagawa-museum.jp/research/bulletin/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0453-1906"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "bkpmnh"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0040&sryCd=bkpmnh&rssLang=en"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2189-6720"
+  }, {
+    "@value" : "0453-1906"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "神奈川県立博物館研究報告（自然科学）"
+  } ]
+} ]

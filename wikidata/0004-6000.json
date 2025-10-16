@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26085243",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://arderoma.altervista.org/?page_id=171"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0004-6000"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0004-6000"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bollettino dell'Associazione romana di entomologia"
+  } ]
+} ]

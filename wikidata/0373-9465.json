@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385573",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Folia entomologica Hungarica (1970)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "283864"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://publication.nhmus.hu/folent/index.php"
+  }, {
+    "@id" : "https://folia.nhmus.hu/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-9465"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210194960"
+  }, {
+    "@value" : "S4306510644"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "FA130576-CA9B-48FE-970A-2EC02044F619"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2786-2798"
+  }, {
+    "@value" : "0373-9465"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Folia Entomologica Hungarica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Folia entomologica Hungarica"
+  } ]
+} ]

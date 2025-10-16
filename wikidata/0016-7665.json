@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329365",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0016-7665"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0016-7665"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Chishitsu chos̄ajo geppō"
+  } ]
+} ]

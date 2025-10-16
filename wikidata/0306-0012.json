@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2962268",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Chem. Soc. Rev."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Chem. Soc. Rev."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3467"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://pubs.rsc.org/en/journals/journalissues/cs#!recentarticles&adv"
+  }, {
+    "@id" : "http://www.rsc.org/publishing/journals/cs/about.asp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0306-0012"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S316438"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0306-0012"
+  }, {
+    "@value" : "1460-4744"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Chemical Society Reviews"
+  } ]
+} ]

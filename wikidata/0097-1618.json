@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5785352",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Contr. U.S. Natl. Herb."
+  }, {
+    "@language" : "fr",
+    "@value" : "Contr. U.S. Natl. Herb."
+  }, {
+    "@language" : "en",
+    "@value" : "Contributions from the U.S. National Herbarium."
+  }, {
+    "@language" : "fr",
+    "@value" : "ISSN 0097-1618"
+  }, {
+    "@language" : "en",
+    "@value" : "Contr. U. S. Natl. Herb."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "687"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297328"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1890"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://botany.si.edu/pubs/CUSNH/ContList.htm"
+  }, {
+    "@id" : "http://www.jstor.org/action/showPublication?journalCode=contusnatiherb"
+  }, {
+    "@id" : "https://purl.fdlp.gov/GPO/gpo1485"
+  }, {
+    "@id" : "https://purl.fdlp.gov/GPO/gpo253"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0097-1618"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "contusnatiherb"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210199753"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0097-1618"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Contributions from the United States National Herbarium"
+  } ]
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15746594",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/54056"
+  }, {
+    "@id" : "http://books.google.com/books?id=3bYoAQAAMAAJ"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/3918136.html"
+  }, {
+    "@id" : "http://escholarship.org/uc/ucmp_paleobios"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0031-0298"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210174410"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0031-0298"
+  }, {
+    "@value" : "2373-8189"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "PaleoBios"
+  }, {
+    "@language" : "und",
+    "@value" : "PaleoBios"
+  } ]
+} ]

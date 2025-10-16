@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759440",
+  "http://example.com/crossref" : [ {
+    "@value" : "4593"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandfonline.com/toc/cjis20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0725-6868"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S161901644"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0725-6868"
+  }, {
+    "@value" : "1469-9540"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Intercultural Studies"
+  } ]
+} ]

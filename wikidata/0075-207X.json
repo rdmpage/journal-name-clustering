@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107498901",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0075-207X"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A34EBFD7-C3A6-4E24-925E-1F23B879022E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0075-207X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Occasional paper - J.L.B. Smith Institute of Ichthyology"
+  } ]
+} ]

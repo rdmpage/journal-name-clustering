@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q130387742",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Verhandelingen van het Koninklijk Belgisch Instituut voor Natuurwetenschappen. 2. reeks"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0778-9386"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mémoires - Institut royal des sciences naturelles de Belgique. Deuxième série"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mémoires de l'Institut Royal des Sciences Naturelles de Belgique. 2. série"
+  }, {
+    "@language" : "en",
+    "@value" : "Mémoires - Institut royal des sciences naturelles de Belgique. Deuxième série"
+  }, {
+    "@language" : "en",
+    "@value" : "Mémoires de l'Institut Royal des Sciences Naturelles de Belgique. 2. série"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1949"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0778-9386"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0778-9386"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Mémoires - Institut royal des sciences naturelles de Belgique. Deuxième série"
+  }, {
+    "@language" : "nl",
+    "@value" : "Verhandelingen"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mémoires"
+  } ]
+} ]

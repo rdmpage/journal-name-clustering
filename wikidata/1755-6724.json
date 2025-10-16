@@ -1,0 +1,57 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750996",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Geologica Sinica - English Edition"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Geologica Sinica"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1000-9515"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "82379"
+  }, {
+    "@value" : "109866"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://0-onlinelibrary.wiley.com.pugwash.lib.warwick.ac.uk/journal/10.1111/(ISSN)1755-6724"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/18183147.html"
+  }, {
+    "@id" : "http://cjn.lib.hku.hk"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1755-6724/issues"
+  }, {
+    "@id" : "http://www.geojournals.cn/dzxbcn/ch/index.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-9515"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306546397"
+  }, {
+    "@value" : "S103198402"
+  }, {
+    "@value" : "S2764570741"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "53F4046E-1643-4AF3-8ED4-000783AEA049"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1755-6724"
+  }, {
+    "@value" : "1000-9515"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "地质学报（英文版）"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Geologica Sinica"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta geologica sinica"
+  } ]
+} ]

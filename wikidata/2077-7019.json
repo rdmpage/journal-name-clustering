@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15816854",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mycosphere"
+  }, {
+    "@language" : "es",
+    "@value" : "Mycosphere"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "149285"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2077-7000"
+  }, {
+    "@value" : "2077-7019"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2077-7000"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2739093061"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2077-7019"
+  }, {
+    "@value" : "2077-7000"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Mycosphere"
+  }, {
+    "@language" : "en",
+    "@value" : "Mycosphere Online: Journal of Fungal Biology"
+  } ]
+} ]

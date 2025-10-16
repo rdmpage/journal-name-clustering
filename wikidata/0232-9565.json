@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386046",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Veroff Natkdmus (Erfurt)"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Vernate: Fortsetzung der Veröffentlichungen des Naturkundemuseums Erfurt"
+  }, {
+    "@language" : "en",
+    "@value" : "Vernate: Fortsetzung der Veröffentlichungen des Naturkundemuseums Erfurt"
+  }, {
+    "@language" : "de",
+    "@value" : "Veröffentlichungen des Naturkundemuseums Erfurt"
+  }, {
+    "@language" : "en",
+    "@value" : "Veroeffentlichungen des Naturkundemuseums Erfurt"
+  }, {
+    "@language" : "en",
+    "@value" : "Veröffentlichungen des Naturkundemuseums Erfurt"
+  }, {
+    "@language" : "fr",
+    "@value" : "Veröffentlichungen des Naturkundemuseums Erfurt"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0232-9565"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "57D198AD-9518-4FD0-8110-25D38FF8E7E7"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0232-9565"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Veröffentlichungen des Naturkundemuseums Erfurt"
+  }, {
+    "@language" : "de",
+    "@value" : "Vernate"
+  } ]
+} ]

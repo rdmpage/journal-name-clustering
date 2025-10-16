@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328317",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ucla.edu.ve/bioagro/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1316-3361"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210227417"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1316-3361"
+  }, {
+    "@value" : "2521-9693"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Bioagro-"
+  } ]
+} ]

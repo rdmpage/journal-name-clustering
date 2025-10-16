@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21384985",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Miscellaneous publications - Museum of Zoology, University of Michigan"
+  }, {
+    "@language" : "en",
+    "@value" : "Miscellaneous publications. Museum of Zoology, University of Michigan"
+  }, {
+    "@language" : "en",
+    "@value" : "Miscellaneous publications. Museum of Zoology. University of Michigan"
+  }, {
+    "@language" : "en",
+    "@value" : "Miscellaneous publications"
+  }, {
+    "@language" : "en",
+    "@value" : "Misc. publ. - Mus. Zool., Univ. Mich."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "14082"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1916"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.lsa.umich.edu/ummz/publications/default.asp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0076-8405"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765051419"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0076-8405"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Miscellaneous publications - Museum of Zoology, University of Michigan"
+  } ]
+} ]

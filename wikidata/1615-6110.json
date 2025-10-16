@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2891391",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Plant Syst Evol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Pl. Syst. Evol."
+  }, {
+    "@language" : "de",
+    "@value" : "Pl. Syst. Evol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "10199"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.de/link/service/journals/00606/index.htm"
+  }, {
+    "@id" : "http://www.springer.com/life+sciences/plant+sciences/journal/606"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0378-2697"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "plansystevol"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S50870786"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0378-2697"
+  }, {
+    "@value" : "1615-6110"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Plant systematics and evolution"
+  }, {
+    "@language" : "en",
+    "@value" : "Plant Systematics and Evolution"
+  } ]
+} ]

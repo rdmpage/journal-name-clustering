@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51513093",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Occas. pap. mollusks"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "5384"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1945"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/5384"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0073-0807"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2002"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0073-0807"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Occasional papers on mollusks"
+  } ]
+} ]

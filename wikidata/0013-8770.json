@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385211",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "昆虫"
+  }, {
+    "@language" : "ja",
+    "@value" : "こんちゅう"
+  }, {
+    "@language" : "en",
+    "@value" : "Konchū"
+  }, {
+    "@language" : "en",
+    "@value" : "Japanese journal of entomology"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1926"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-8770"
+  } ],
+  "http://example.com/ndl" : [ {
+    "@value" : "10387610"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1988"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0013-8770"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "昆蟲"
+  }, {
+    "@language" : "mul",
+    "@value" : "Kontyū"
+  } ]
+} ]

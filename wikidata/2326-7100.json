@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q116671798",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Caribbean Naturalist"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2013"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.eaglehill.us"
+  }, {
+    "@id" : "http://www.eaglehill.us/CANAonline/CANAregular.shtml"
+  }, {
+    "@id" : "https://www.eaglehill.us/programs/journals/cana/caribbean-naturalist.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2326-7100"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "BC251826-8A48-4E03-AAF1-99952062A3E8"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2326-7119"
+  }, {
+    "@value" : "2326-7100"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Caribbean Naturalist"
+  } ]
+} ]

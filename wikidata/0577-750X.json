@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714556",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zhi Wu Bao Hu Xue Hui Hui Kan"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0577-750X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0577-750X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zhi wu bao hu xue hui hui kan Plant protection bulletin"
+  }, {
+    "@language" : "mul",
+    "@value" : "Zhíwù bǎohùxué huì huìkān"
+  } ]
+} ]

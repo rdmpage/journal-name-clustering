@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q811399",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0067-4605"
+  }, {
+    "@language" : "en",
+    "@value" : "Zeitschrift der Basler Botanischen Gesellschaft"
+  }, {
+    "@language" : "fr",
+    "@value" : "Zeitschrift der Basler Botanischen Gesellschaft"
+  }, {
+    "@language" : "de",
+    "@value" : "Zeitschrift der Basler Botanischen Gesellschaft"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1955"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://botges.ch/bauhinia/ueber_die_zeitschrift_bauhinia"
+  }, {
+    "@id" : "http://pages.unibas.ch/botges/bauhinia/index.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0067-4605"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0067-4605"
+  }, {
+    "@value" : "2235-0284"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Bauhinia"
+  } ]
+} ]

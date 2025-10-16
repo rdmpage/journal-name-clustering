@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754758",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Arkansas Academy of Science"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings - Arkansas Academy of Science"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=1lYoAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=AFAoAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=XlcoAAAAMAAJ"
+  }, {
+    "@id" : "http://libinfo.uark.edu/aas/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0097-4374"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0097-4374"
+  }, {
+    "@value" : "2326-0513"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings - Arkansas Academy of Science"
+  } ]
+} ]

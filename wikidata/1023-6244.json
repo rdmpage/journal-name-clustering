@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755943",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Marine behaviour and physiology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "17841"
+  }, {
+    "@value" : "145991"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/1789191.html"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/gmfw20#.VUU7qv50zcs"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0091-181X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S61664533"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1023-6244"
+  }, {
+    "@value" : "1029-0362"
+  }, {
+    "@value" : "0091-181X"
+  }, {
+    "@value" : "2378-9298"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Marine behaviour and physiology"
+  }, {
+    "@language" : "en",
+    "@value" : "Marine and Freshwater Behaviour and Physiology"
+  } ]
+} ]

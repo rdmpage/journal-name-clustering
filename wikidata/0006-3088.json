@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96032603",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Biologia (Bratislava)"
+  }, {
+    "@language" : "en",
+    "@value" : "Biologia (Bratislava)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57787"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.degruyter.com/view/j/biolog"
+  }, {
+    "@id" : "https://www.springer.com/journal/11756"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-3088"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306504388"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1336-9563"
+  }, {
+    "@value" : "0006-3088"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biologia"
+  }, {
+    "@language" : "sk",
+    "@value" : "Biologia"
+  } ]
+} ]

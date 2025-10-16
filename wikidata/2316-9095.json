@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328471",
+  "http://example.com/crossref" : [ {
+    "@value" : "172485"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2316-9095"
+  }, {
+    "@value" : "1519-874X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.revistas.usp.br/guspsc"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1519-874X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210238242"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2316-9095"
+  }, {
+    "@value" : "1519-874X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Geologia USP. Série Científica"
+  } ]
+} ]

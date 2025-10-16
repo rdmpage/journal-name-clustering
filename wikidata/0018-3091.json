@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q18019330",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Die Höhle (Wien)"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0018-3091"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0018-3091"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Die Höhle (Wien)"
+  } ]
+} ]

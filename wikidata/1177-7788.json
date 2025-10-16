@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7015461",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "N.Z. Journal of Ecology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "326346"
+  }, {
+    "@value" : "302688"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://newzealandecology.org/nzje/issues"
+  }, {
+    "@id" : "https://newzealandecology.org/nzje"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0110-6465"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "newzealjecol"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S194652459"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0110-6465"
+  }, {
+    "@value" : "1177-7788"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "New Zealand Journal of Ecology"
+  } ]
+} ]

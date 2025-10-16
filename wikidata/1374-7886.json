@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714616",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1374-7886"
+  }, {
+    "@language" : "en",
+    "@value" : "Syst. Geogr. Plants"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "62931"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstor.org/journal/systgeogplan"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1374-7886"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "systgeogplan"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210213352"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2796-1613"
+  }, {
+    "@value" : "1374-7886"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Systematics and Geography of Plants"
+  }, {
+    "@language" : "en",
+    "@value" : "Systematics and geography of plants"
+  } ]
+} ]

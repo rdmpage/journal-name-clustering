@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q89408367",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "New World Orchid. Nomencl. Notes"
+  }, {
+    "@language" : "en",
+    "@value" : "New World Orchid. Nomencl. Notes"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rsauleda.tripod.com/newworldorchidaceae.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2325-4785"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2325-4785"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "New World Orchidaceae"
+  } ]
+} ]

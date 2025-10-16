@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2025724",
+  "http://example.com/crossref" : [ {
+    "@value" : "15817"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1945"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0006-341x;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.jstor.org/journals/0006341X.html"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/journal/118538342/home"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/15410420"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-341X"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "biometrics"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S8265502"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0006-341X"
+  }, {
+    "@value" : "1541-0420"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biometrics"
+  } ]
+} ]

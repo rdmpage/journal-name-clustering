@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16735752",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Atti Soc. Ital. Sci. Nat."
+  }, {
+    "@language" : "es",
+    "@value" : "Atti della Società italiana di scienze naturali"
+  }, {
+    "@language" : "es",
+    "@value" : "Atti della Societa Italiana di scienze naturali."
+  }, {
+    "@language" : "es",
+    "@value" : "Atti della Società Italiana di scienze naturali."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "60455"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1859"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1124-3643"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1895"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1124-3643"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Atti della Società italiana di scienze naturali"
+  } ]
+} ]

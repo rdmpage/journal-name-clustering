@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5509162",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Fungal Genet. Biol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "532"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1977"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=1087-1845;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.elsevier.com/wps/find/journaldescription.cws_home/622835/description#description"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/10871845"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1087-1845"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S51923826"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1096-0937"
+  }, {
+    "@value" : "1087-1845"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fungal Genetics and Biology"
+  } ]
+} ]

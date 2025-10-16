@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q220370",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Zootaxa"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "197265"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.mapress.com/zt/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1175-5326"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S171471881"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://www.mapress.com/zt/gateway/plugin/WebFeedGatewayPlugin/atom"
+  }, {
+    "@id" : "https://www.mapress.com/zt/gateway/plugin/WebFeedGatewayPlugin/rss"
+  }, {
+    "@id" : "https://www.mapress.com/zt/gateway/plugin/WebFeedGatewayPlugin/rss2"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "78F99150-21C2-4639-B359-F3E2302DF0B7"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1175-5334"
+  }, {
+    "@value" : "1175-5326"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zootaxa"
+  } ]
+} ]

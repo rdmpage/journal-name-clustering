@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96701078",
+  "http://example.com/crossref" : [ {
+    "@value" : "249957"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibliotecavirtual.unl.edu.ar:8180/publicaciones/handle/11185/711"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0329-5559"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210173679"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0329-5559"
+  }, {
+    "@value" : "2362-5546"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "FABICIB"
+  } ]
+} ]

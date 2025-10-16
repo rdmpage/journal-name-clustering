@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2258281",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Mater. Chem."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "JMC"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Mater. Chem."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3462"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1991"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://pubs.rsc.org/en/journals/journalissues/jm#!issueid=jm022048&type=archive&issnprint=0959-9428"
+  }, {
+    "@id" : "http://www.rsc.org/Publishing/Journals/jm/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0959-9428"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S45305740"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0959-9428"
+  }, {
+    "@value" : "1364-5501"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Materials Chemistry"
+  } ]
+} ]

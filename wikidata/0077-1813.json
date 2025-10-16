@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q11693922",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Muelleria"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Muelleria : An Australian Journal of Botany"
+  }, {
+    "@language" : "es",
+    "@value" : "Muelleria : An Australian Journal of Botany"
+  }, {
+    "@language" : "fr",
+    "@value" : "Muelleria : An Australian Journal of Botany"
+  }, {
+    "@language" : "pt",
+    "@value" : "Muelleria : An Australian Journal of Botany"
+  }, {
+    "@language" : "en",
+    "@value" : "Muelleria : An Australian Journal of Botany"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "112965"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "469482"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1955"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.rbg.vic.gov.au/science/journal/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0077-1813"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306520314"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0077-1813"
+  }, {
+    "@value" : "2204-2032"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Muelleria"
+  } ]
+} ]

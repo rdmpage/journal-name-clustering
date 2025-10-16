@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386185",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://kawamo.co.jp/roppon-ashi/sub144.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1214-0066"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "6294BD45-FEC4-42D6-A851-86481CA42C89"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1214-0066"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "cs",
+    "@value" : "animma.x"
+  }, {
+    "@language" : "en",
+    "@value" : "Animma.x"
+  } ]
+} ]

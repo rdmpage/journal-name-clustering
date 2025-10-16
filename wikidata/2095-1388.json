@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724860",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Dalian Hai Yang Da Xue Xue Bao"
+  }, {
+    "@language" : "en",
+    "@value" : "Dalian Haiyang Daxue xuebao"
+  }, {
+    "@language" : "fr",
+    "@value" : "Dalian Haiyang Daxue xuebao"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2095-1388"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2095-1388"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Dalian hai yang da xue xue bao"
+  }, {
+    "@language" : "en",
+    "@value" : "Dalian Haiyang Daxue xuebao"
+  }, {
+    "@language" : "mul",
+    "@value" : "Dalian Haiyang Daxue xuebao"
+  } ]
+} ]

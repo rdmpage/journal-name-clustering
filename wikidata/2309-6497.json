@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386354",
+  "http://example.com/crossref" : [ {
+    "@value" : "422565"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2309-6497"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210186370"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "http://skvortsovia.uran.ru/rss/rss.xml"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2309-6500"
+  }, {
+    "@value" : "2309-6497"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Skvortsovia"
+  }, {
+    "@language" : "ru",
+    "@value" : "Skvortsovia"
+  } ]
+} ]

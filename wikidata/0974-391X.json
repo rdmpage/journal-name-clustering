@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96327093",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jbiopest.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0974-391X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765029444"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0974-391X"
+  }, {
+    "@value" : "2230-8385"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of biopesticides"
+  } ]
+} ]

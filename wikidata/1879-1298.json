@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q749724",
+  "http://example.com/crossref" : [ {
+    "@value" : "2335"
+  }, {
+    "@value" : "1224"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.elsevier.com/locate/chemosphere"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S203465130"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0045-6535"
+  }, {
+    "@value" : "1465-9972"
+  }, {
+    "@value" : "1879-1298"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Chemosphere"
+  } ]
+} ]

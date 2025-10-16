@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7127130",
+  "http://example.com/crossref" : [ {
+    "@value" : "48518"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://journals.cambridge.org/action/displayBackIssues?jid=PAB"
+  }, {
+    "@id" : "http://journals.cambridge.org/PAB"
+  }, {
+    "@id" : "http://paleobiol.geoscienceworld.org/"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=0094-8373"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0094-8373"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "paleobiology"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S173708173"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1938-5331"
+  }, {
+    "@value" : "0094-8373"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Paleobiology"
+  } ]
+} ]

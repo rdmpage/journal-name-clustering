@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2286060",
+  "http://example.com/crossref" : [ {
+    "@value" : "42940"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://palynology.geoscienceworld.org/"
+  }, {
+    "@id" : "http://www.bioone.org/?request=get-archive&issn=0191-6122"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=0191-6122"
+  }, {
+    "@id" : "http://www.jstor.org/journals/01916122.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0191-6122"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "palynology"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S80110507"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0191-6122"
+  }, {
+    "@value" : "1558-9188"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Palynology"
+  } ]
+} ]

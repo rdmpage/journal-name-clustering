@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q52265197",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Alp. Entomol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Alpine Entomology: The Journal of the Swiss Entomological Society"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "311041"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2535-0889"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2017"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://alpineentomology.pensoft.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2535-0889"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210217666"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://alpineentomology.pensoft.net/rss.php"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "0535FF1B-CC50-4DC5-A25D-FE8188C9D477"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2535-0889"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Alpine Entomology"
+  } ]
+} ]

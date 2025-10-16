@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765897",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Leadership Quarterly"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1947"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/10489843"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/the-leadership-quarterly/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1048-9843"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S152304618"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1048-9843"
+  }, {
+    "@value" : "1873-3409"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Leadership quarterly"
+  }, {
+    "@language" : "en",
+    "@value" : "Leadership Quarterly"
+  } ]
+} ]

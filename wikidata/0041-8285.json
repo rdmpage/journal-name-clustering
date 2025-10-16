@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q46991663",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Revista de la Facultad de Agronomia UCV"
+  }, {
+    "@language" : "en",
+    "@value" : "Revista Fac. Agron. (Maracay)"
+  }, {
+    "@language" : "en",
+    "@value" : "Revista de la Facultad de Agronomía"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1957"
+  }, {
+    "@value" : "1956"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://saber.ucv.ve/ojs/index.php/rev_agro/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0041-8285"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3C04AD47-EB9F-485E-A858-F3C96813C9FC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0041-8285"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista de la Facultad de Agronomía, Universidad Central de Venezuela"
+  } ]
+} ]

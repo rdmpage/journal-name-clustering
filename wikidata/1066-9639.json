@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51442450",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Annu. rep. Trustees State Mus. Nat. Hist."
+  }, {
+    "@language" : "en",
+    "@value" : "Annual report of the Trustees of the State Museum of Natural History for the year ..."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "51619"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1885"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1066-9639"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1888"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1066-9639"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annual report of the Trustees of the State Museum of Natural History"
+  }, {
+    "@language" : "en",
+    "@value" : "Annual report of the Trustees of the State Museum of Natural History .."
+  } ]
+} ]

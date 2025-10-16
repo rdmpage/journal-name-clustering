@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4806718",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Asian Perspect."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Asian Perspectives: The Journal of Archaeology for Asia and the Pacific"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "46399"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1957"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=dqriAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=eoviAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=p6riAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=xqDiAAAAMAAJ"
+  }, {
+    "@id" : "http://www.uhpress.hawaii.edu/journals/ap/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0066-8435"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "asianperspect"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S96320682"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1535-8283"
+  }, {
+    "@value" : "0066-8435"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Asian Perspectives"
+  } ]
+} ]

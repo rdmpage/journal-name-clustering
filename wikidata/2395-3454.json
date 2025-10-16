@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96325449",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nature, Environment and Pollution Technology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "391745"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2395-3454"
+  }, {
+    "@value" : "0972-6268"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://neptjournal.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0972-6268"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764514638"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2395-3454"
+  }, {
+    "@value" : "0972-6268"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nature, Environment and Pollution Technology"
+  } ]
+} ]

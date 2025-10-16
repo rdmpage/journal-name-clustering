@@ -1,0 +1,66 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50815356",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Ring"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297425"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2083-3520"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://versita.com/r"
+  }, {
+    "@id" : "http://www.degruyter.com/view/j/ring"
+  }, {
+    "@id" : "http://www.wbwp-fund.eu/ring"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0035-5429"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S117352575"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2083-3520"
+  }, {
+    "@value" : "0035-5429"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Ring"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q53952502",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Ring"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "81380"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://versita.com/r"
+  }, {
+    "@id" : "http://www.degruyter.com/view/j/ring"
+  }, {
+    "@id" : "http://www.wbwp-fund.eu/ring"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0035-5429"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S117352575"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2083-3520"
+  }, {
+    "@value" : "0035-5429"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Ring"
+  } ]
+} ]

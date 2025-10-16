@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385309",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Quarterly journal of the Geological Society of London"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "51125"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "89925"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1845"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jgslegacy.lyellcollection.org/content/by/year"
+  }, {
+    "@id" : "https://www.lyellcollection.org/journal/jgs"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-291X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210169694"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-291X"
+  }, {
+    "@value" : "2058-105X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Quarterly journal of the Geological Society of London"
+  } ]
+} ]

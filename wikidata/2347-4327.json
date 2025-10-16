@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15716556",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Earth. Syst. Sci."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "J. Earth Syst. Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Indian Academy of Sciences. Earth and planetary sciences"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "64221"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2005"
+  }, {
+    "@value" : "1978"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rd.springer.com/journal/12040"
+  }, {
+    "@id" : "http://www.ias.ac.in/jess/index_body.html"
+  }, {
+    "@id" : "http://www.springer.com/earth+sciences+and+geography/journal/12040"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0253-4126"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S157804282"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0253-4126"
+  }, {
+    "@value" : "0973-774X"
+  }, {
+    "@value" : "2347-4327"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Indian Academy of Sciences. Earth and planetary sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Earth System Science"
+  } ]
+} ]

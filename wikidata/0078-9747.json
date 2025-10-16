@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385111",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mém. Mus. Hist. nat. Paris,  N. S., A. Zoologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Mémoires du Muséum national d'histoire Naturelle. Nouvelle série. Série A, Zoologie."
+  }, {
+    "@language" : "en",
+    "@value" : "Mémoires du Muséum national d'histoire naturelle. Série A, Zoologie."
+  }, {
+    "@language" : "pt",
+    "@value" : "Mém. Mus. Hist. nat. Paris,  N. S., A. Zoologie"
+  }, {
+    "@language" : "de",
+    "@value" : "Mém. Mus. Hist. nat. Paris,  N. S., A. Zoologie"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mém. Mus. Hist. nat. Paris,  N. S., A. Zoologie"
+  }, {
+    "@language" : "es",
+    "@value" : "Mém. Mus. Hist. nat. Paris,  N. S., A. Zoologie"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mémoires du Museum national d'histoire naturelle. Série A, Zoologie"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mémoires du Muséum national d'histoire naturelle. Série A. Zoologie"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1950"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-9747"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4363607480"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0078-9747"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Mémoires du Muséum national d'histoire Naturelle. Nouvelle série. Série A, Zoologie."
+  }, {
+    "@language" : "fr",
+    "@value" : "Mémoires du Museum national d'histoire naturelle. Série A, Zoologie"
+  } ]
+} ]

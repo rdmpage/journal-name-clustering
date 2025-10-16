@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4170994",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Bull. B. O. C."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. B.O.C."
+  }, {
+    "@language" : "en",
+    "@value" : "BOC Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Brit. Orn. Club"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "46639"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "312000"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1892"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://boc-online.org/bulletin"
+  }, {
+    "@id" : "https://boc-online.org/bulletin"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0007-1595"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764911291"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "4DC4D0E8-6DBD-46BB-BD7F-7D435C924E8B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2513-9894"
+  }, {
+    "@value" : "0007-1595"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Ornithologists' Club"
+  } ]
+} ]

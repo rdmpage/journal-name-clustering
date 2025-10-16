@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751208",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Pap. & Proc. Roy. Soc. Tasmania"
+  }, {
+    "@language" : "en",
+    "@value" : "Papers and proceedings of the Royal Society of Tasmania"
+  }, {
+    "@language" : "en",
+    "@value" : "Pap. proc. R. Soc. Tasmania"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "9494"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297275"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1863"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0080-4703"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210206909"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "0FB636A7-9B1F-4F97-AF78-03B3FC7E916D"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0080-4703"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Papers and Proceedings of the Royal Society of Tasmania"
+  } ]
+} ]

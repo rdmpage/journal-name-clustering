@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q126171435",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0971-2844"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0971-2844"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Palaeontologia Indica"
+  }, {
+    "@language" : "la",
+    "@value" : "Palaeontologia Indica"
+  } ]
+} ]

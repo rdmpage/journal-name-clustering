@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q110755734",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "NHM"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1912"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0028-1107"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306520603"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0028-1107"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Natuurhistorisch Maandblad"
+  } ]
+} ]

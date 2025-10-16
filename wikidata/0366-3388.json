@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5735491",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0366-3388"
+  }, {
+    "@language" : "es",
+    "@value" : "Bulletin de la Societe Linneenne de Normandie"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin de la Societe Linneenne de Normandie"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Societe Linneenne de Normandie"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Soc. Linn. Normandie"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6219"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297348"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1855"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://catalog.hathitrust.org/Record/000642215"
+  }, {
+    "@id" : "https://catalog.hathitrust.org/Record/009267010"
+  }, {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/cb34378172z/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-3388"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210215598"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0366-3388"
+  }, {
+    "@value" : "2391-1298"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Societe Linneenne de Normandie"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société Linnéenne de Normandie"
+  } ]
+} ]

@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q10418043",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ark. Zool."
+  }, {
+    "@language" : "en",
+    "@value" : "Ark. zool."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6919"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297256"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1903"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0004-2110"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210221942"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "441E2294-0127-40FA-8754-3F108B0E284C"
+  }, {
+    "@value" : "5EBA011C-0E5A-45C4-BD9D-96B4BE64FD2D"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0004-2110"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "sv",
+    "@value" : "Arkiv för zoologi"
+  }, {
+    "@language" : "mul",
+    "@value" : "Arkiv för Zoologi"
+  } ]
+} ]

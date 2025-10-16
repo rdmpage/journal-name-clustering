@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767500",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.environment.gov.au/node/23702"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1325-1554"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1325-1554"
+  }, {
+    "@value" : "2204-0676"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Supervising Scientist Report"
+  } ]
+} ]

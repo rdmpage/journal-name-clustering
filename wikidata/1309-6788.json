@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q59491713",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://cujse.cankaya.edu.tr/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1309-6788"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2564-7954"
+  }, {
+    "@value" : "1309-6788"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Çankaya university journal of science and engineering"
+  } ]
+} ]

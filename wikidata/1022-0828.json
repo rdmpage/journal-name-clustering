@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q47087431",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. South Asian Nat. Hist."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1022-0828"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1022-0828"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of South Asian Natural History"
+  } ]
+} ]

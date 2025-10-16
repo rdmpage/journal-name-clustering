@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13548532",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bihang till Kongl. Svenska vetenskaps-akademiens handlingar"
+  }, {
+    "@language" : "de",
+    "@value" : "Bih. Kongl. Svenska Vetensk.-Akad. Handl."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "13353"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297313"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1872"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0284-7280"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210213401"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1903"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "6688ED76-9559-48BF-8278-5D16720D22B5"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0284-7280"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "sv",
+    "@value" : "Bihang till Kongliga Svenska Vetenskaps-Akademiens Handlingar"
+  }, {
+    "@language" : "mul",
+    "@value" : "Bihang till Kongl. Svenska Vetenskaps-akademiens handlingar"
+  } ]
+} ]

@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765869",
+  "http://example.com/crossref" : [ {
+    "@value" : "373213"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0036-8156"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764484342"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0036-8156"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Science and Culture"
+  }, {
+    "@language" : "en",
+    "@value" : "Science and Culture: a bi-monthly journal of natural and cultural sciences"
+  } ]
+} ]

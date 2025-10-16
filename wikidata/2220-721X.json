@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50816180",
+  "http://example.com/doaj" : [ {
+    "@value" : "2220-721X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.iaees.org/publications/journals/ces/online-version.asp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2220-721X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737056830"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2220-721X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Computational ecology and software"
+  } ]
+} ]

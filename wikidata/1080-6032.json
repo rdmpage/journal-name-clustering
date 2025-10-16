@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761056",
+  "http://example.com/crossref" : [ {
+    "@value" : "119925"
+  }, {
+    "@value" : "60780"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.journals.elsevier.com/wilderness-and-environmental-medicine"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1080-6032"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S131078631"
+  }, {
+    "@value" : "S2764778852"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0953-9859"
+  }, {
+    "@value" : "1080-6032"
+  }, {
+    "@value" : "1545-1534"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Wilderness and Environmental Medicine"
+  } ]
+} ]

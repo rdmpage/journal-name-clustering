@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750004",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Great Lakes Entomologist"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/85256"
+  }, {
+    "@id" : "http://michentsoc.org/gle-pdfs/index.html"
+  }, {
+    "@id" : "https://scholar.valpo.edu/tgle/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0090-0222"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S156430482"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0090-0222"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Great Lakes entomologist"
+  } ]
+} ]

@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385823",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Boletín del Centro de Investigaciones Biológicas Universidad del Zulia"
+  }, {
+    "@language" : "en",
+    "@value" : "Bol. Centro Invest. Biol. Univ. Zulia"
+  }, {
+    "@language" : "en",
+    "@value" : "Boletín del Centro de Investigaciones Biológicas, Universidad de Zulia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-538X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306504726"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "1DB4ACDE-9DE8-4C8B-9602-27CC7FA67A37"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2477-9458"
+  }, {
+    "@value" : "0375-538X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletín del Centro de Investigaciones Biológicas"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletín del Centro de Investigaciones Biológicas Universidad del Zulia"
+  } ]
+} ]

@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385655",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Russkij teriologičeskij žurnal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "299988"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://zmmu.msu.ru/rjt/index.htm"
+  }, {
+    "@id" : "https://zmmu.msu.ru/rjt/rus/index.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1682-3559"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764563171"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1682-3559"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Русский Териологический Журнал"
+  }, {
+    "@language" : "en",
+    "@value" : "Russian journal of theriology"
+  } ]
+} ]

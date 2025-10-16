@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726798",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Scientiarum: Animal Sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Sci"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "79399"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1807-8672"
+  }, {
+    "@value" : "1806-2636"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://periodicos.uem.br/ojs/index.php/ActaSciAnimSci"
+  }, {
+    "@id" : "http://www.scielo.br/scielo.php?script=sci_serial&pid=1807-8672&lng=pt&nrm=iso"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1806-2636"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S22488760"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1806-2636"
+  }, {
+    "@value" : "1807-8672"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta scientiarum. Animal sciences"
+  }, {
+    "@language" : "mul",
+    "@value" : "Acta Scientiarum. Animal Sciences"
+  } ]
+} ]

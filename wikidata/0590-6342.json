@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q100891047",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Cimbebasia. Ser. A"
+  }, {
+    "@language" : "en",
+    "@value" : "Cimbebasia. Series A, Natuurwetenskappe"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0590-6342"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0590-6342"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Cimbebasia. Series A, Natuurwetenskappe"
+  } ]
+} ]

@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q9022732",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Lindleyana; Scientific Journal of the American Orchid Society"
+  }, {
+    "@language" : "fr",
+    "@value" : "Lindleyana : the scientific journal of the American Orchid Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Lindleyana"
+  }, {
+    "@language" : "en",
+    "@value" : "Lindleyana : the scientific journal of the American Orchid Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Lindleyana Magazine"
+  }, {
+    "@language" : "en",
+    "@value" : "Lindleyana; Scientific Journal of the American Orchid Society"
+  }, {
+    "@language" : "es",
+    "@value" : "Lindleyana; Scientific Journal of the American Orchid Society"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1986"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.aos.org/about-us/lindleyana-magazine.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0889-258X"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2002"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0889-258X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Lindleyana"
+  } ]
+} ]

@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766511",
+  "http://example.com/crossref" : [ {
+    "@value" : "65229"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jsnm.org/english/publications/20070406-0"
+  }, {
+    "@id" : "http://www.springerlink.com/content/120732"
+  }, {
+    "@id" : "https://link.springer.com/journal/12149"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0914-7187"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S175338805"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1864-6433"
+  }, {
+    "@value" : "0914-7187"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of Nuclear Medicine"
+  } ]
+} ]

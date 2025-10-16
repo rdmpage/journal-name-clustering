@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q130233409",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0065-6364"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0065-6364"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Allan Hancock Monographs in Marine Biology"
+  } ]
+} ]

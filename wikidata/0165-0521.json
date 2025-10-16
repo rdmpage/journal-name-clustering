@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750962",
+  "http://example.com/crossref" : [ {
+    "@value" : "12581"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1976"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0165-0521;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/nnfe20"
+  }, {
+    "@id" : "https://www.tandfonline.com/toc/nnfe20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0165-0521"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S136898295"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B73A36D7-BD9E-48C4-AF9B-A84D810BC11D"
+  }, {
+    "@value" : "FF337215-05E7-4D87-BCF4-242F214ABDA3"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0165-0521"
+  }, {
+    "@value" : "1744-5140"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Studies on Neotropical Fauna and Environment"
+  } ]
+} ]

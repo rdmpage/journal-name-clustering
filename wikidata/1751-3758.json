@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15817698",
+  "http://example.com/crossref" : [ {
+    "@value" : "63674"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1751-3766"
+  }, {
+    "@value" : "1751-3758"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.informaworld.com/1751-3766"
+  }, {
+    "@id" : "http://www.tandfonline.com/toc/tjbd20/current"
+  }, {
+    "@id" : "https://www.tandfonline.com/toc/tjbd20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1751-3758"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S156936584"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1751-3758"
+  }, {
+    "@value" : "1751-3766"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Biological Dynamics"
+  } ]
+} ]

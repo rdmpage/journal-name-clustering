@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15777827",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Shengtai Xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Shengtai xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Sheng Tai Xue Bao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "STXB"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "165086"
+  }, {
+    "@value" : "55741"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.ecologica.cn/stxb/home"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/acta-ecologica-sinica"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-0933"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S60589374"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1872-2032"
+  }, {
+    "@value" : "1000-0933"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta Ecologica Sinica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Shengtai xuebao"
+  }, {
+    "@language" : "zh-hans",
+    "@value" : "生态学报"
+  } ]
+} ]

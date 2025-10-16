@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q54360034",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://lashf.org/presentation-bulletins/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0754-9962"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306505097"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2724-9557"
+  }, {
+    "@value" : "0754-9962"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société Herpétologique de France"
+  } ]
+} ]

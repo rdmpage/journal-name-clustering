@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385753",
+  "http://example.com/doaj" : [ {
+    "@value" : "2410-7492"
+  }, {
+    "@value" : "0138-6476"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://revistas.geotech.cu/index.php/poey"
+  }, {
+    "@id" : "https://www.revistasgeotech.com/index.php/poey/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0138-6476"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306522690"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0138-6476"
+  }, {
+    "@value" : "2410-7492"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Poeyana"
+  }, {
+    "@language" : "mul",
+    "@value" : "Poeyana"
+  } ]
+} ]

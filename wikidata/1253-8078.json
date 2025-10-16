@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q14637502",
+  "http://example.com/crossref" : [ {
+    "@value" : "183126"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.biusante.parisdescartes.fr/sbf/pub_abg.htm"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/tabg20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1253-8078"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S174470695"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1253-8078"
+  }, {
+    "@value" : "2166-3408"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Botanica Gallica"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta botanica Gallica"
+  } ]
+} ]

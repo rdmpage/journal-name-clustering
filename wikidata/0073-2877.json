@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q9004406",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Hoehnea"
+  }, {
+    "@language" : "en",
+    "@value" : "Hoehnea"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "173805"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0073-2877"
+  }, {
+    "@value" : "2236-8906"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.infraestruturameioambiente.sp.gov.br/hoehnea/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0073-2877"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210207672"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0073-2877"
+  }, {
+    "@value" : "2236-8906"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Hoehnea"
+  }, {
+    "@language" : "mul",
+    "@value" : "Hoehnea"
+  } ]
+} ]

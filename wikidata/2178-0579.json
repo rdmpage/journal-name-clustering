@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96720775",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Revista de Biologia Neotropical"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "100141"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1807-9652"
+  }, {
+    "@value" : "2178-0579"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.revistas.ufg.br/index.php/RBN"
+  }, {
+    "@id" : "https://www.revistas.ufg.br/RBN/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1807-9652"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210234157"
+  }, {
+    "@value" : "S4306526574"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2178-0579"
+  }, {
+    "@value" : "1807-9652"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista de Biologia Neotropical"
+  }, {
+    "@language" : "pt",
+    "@value" : "Revista de Biologia Neotropical"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Neotropical Biology"
+  } ]
+} ]

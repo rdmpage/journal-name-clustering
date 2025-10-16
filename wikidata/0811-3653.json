@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756084",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Beagle"
+  }, {
+    "@language" : "en",
+    "@value" : "The Beagle: Occasional Papers of the Northern Territory Museum of Arts and Sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "The Beagle: Records of the Museums and Art Galleries of the Northern Territory"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "144396"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0811-3653"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210203966"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "09BA898D-42EC-4A68-951A-84C1FE40226E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0811-3653"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Beagle"
+  } ]
+} ]

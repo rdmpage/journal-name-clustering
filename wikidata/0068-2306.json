@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27715611",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum (Natural History). Historical"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Br. Mus. nat. Hist. hist."
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum. Natural History. Historical Series"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "5067"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1953"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0068-2306"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210187711"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "8C4496D4-D5B1-4910-9CF7-1C741E564719"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0068-2306"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum. Natural History. Historical Series"
+  } ]
+} ]

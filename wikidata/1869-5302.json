@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q122751225",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1869-5302"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1869-5302"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Conchylia"
+  }, {
+    "@language" : "mul",
+    "@value" : "Conchylia"
+  } ]
+} ]

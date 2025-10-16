@@ -1,0 +1,57 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q14624632",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Revista Mex. Biodivers."
+  }, {
+    "@language" : "es",
+    "@value" : "RMB"
+  }, {
+    "@language" : "en",
+    "@value" : "RMB"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "185265"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "7089"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1870-3453"
+  }, {
+    "@value" : "2007-8706"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ejournal.unam.mx/cuadros2.php?r=28"
+  }, {
+    "@id" : "http://www.ib.unam.mx/revista/articulo/765"
+  }, {
+    "@id" : "http://www.revista.ib.unam.mx/index.php/bio/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/18703453?sdc=1"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1870-3453"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S7429653"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B73E4F32-B8D5-4383-8D3C-E2CC40150003"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1870-3453"
+  }, {
+    "@value" : "2007-8706"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista mexicana de biodiversidad"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista Mexicana de Biodiversidad"
+  } ]
+} ]

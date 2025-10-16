@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15631695",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "ABM"
+  }, {
+    "@language" : "de",
+    "@value" : "Acta Bot. Malac."
+  }, {
+    "@language" : "es",
+    "@value" : "Acta Botanica Malacitana (título en latín, sin acentos)"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Bot. Malac."
+  }, {
+    "@language" : "es",
+    "@value" : "Acta Bot. Malac."
+  }, {
+    "@language" : "en",
+    "@value" : "ABM"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "306411"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "12"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.revistas.uma.es/index.php/abm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0210-9506"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210215729"
+  }, {
+    "@value" : "S4306500289"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0210-9506"
+  }, {
+    "@value" : "2340-5074"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta Botanica Malacitana"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Botanica Malacitana"
+  } ]
+} ]

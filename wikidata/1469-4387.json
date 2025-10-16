@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1345887",
+  "http://example.com/crossref" : [ {
+    "@value" : "6048"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=ENC"
+  }, {
+    "@id" : "http://www.ncl.ac.uk/icef/journal.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0376-8929"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "envicons"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S122509743"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0376-8929"
+  }, {
+    "@value" : "1469-4387"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environmental Conservation"
+  } ]
+} ]

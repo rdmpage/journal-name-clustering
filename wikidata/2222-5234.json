@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725476",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "IJB"
+  }, {
+    "@language" : "en",
+    "@value" : "Int J Biosci"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "204445"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.innspub.net/International-Journal-of-Biosciences-%28IJB%29.php"
+  }, {
+    "@id" : "https://innspub.net/international-journal-of-biosciences-ijb/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2220-6655"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764578685"
+  }, {
+    "@value" : "S4210228880"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2222-5234"
+  }, {
+    "@value" : "2220-6655"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International journal of biosciences"
+  } ]
+} ]

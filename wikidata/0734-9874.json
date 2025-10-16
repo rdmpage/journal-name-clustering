@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386344",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Entomography: An annual review for biosystematics"
+  }, {
+    "@language" : "de",
+    "@value" : "ISSN 0734-9874"
+  }, {
+    "@language" : "en",
+    "@value" : "Entomography: An annual review for biosystematics"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0734-9874"
+  }, {
+    "@language" : "es",
+    "@value" : "Entomography: An annual review for biosystematics"
+  }, {
+    "@language" : "es",
+    "@value" : "ISSN 0734-9874"
+  }, {
+    "@language" : "fr",
+    "@value" : "Entomography: An annual review for biosystematics"
+  }, {
+    "@language" : "fr",
+    "@value" : "ISSN 0734-9874"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0734-9874"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D89AD708-AF4C-4E11-B52F-D05655C65E71"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0734-9874"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Entomography"
+  } ]
+} ]

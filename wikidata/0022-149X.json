@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767150",
+  "http://example.com/crossref" : [ {
+    "@value" : "13862"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=JHL"
+  }, {
+    "@id" : "http://www.ingentaconnect.com/content/cabi/joh"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-149X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S8555896"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "4B40C28F-F82B-46EB-BE13-156727F49617"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1475-2697"
+  }, {
+    "@value" : "0022-149X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Helminthology"
+  } ]
+} ]

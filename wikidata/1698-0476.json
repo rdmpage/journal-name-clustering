@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727222",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Arx Misc Zool"
+  }, {
+    "@language" : "en",
+    "@value" : "Arxius de Miscel-lània Zoològica"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "326551"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1698-0476"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bcn.es/arxiusMZ"
+  }, {
+    "@id" : "https://dialnet.unirioja.es/servlet/revista?codigo=26388"
+  }, {
+    "@id" : "https://museucienciesjournals.cat/amz"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1698-0476"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210186246"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1698-0476"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ca",
+    "@value" : "Arxius de miscel·lània zoològica"
+  }, {
+    "@language" : "en",
+    "@value" : "Arxius de miscel.lania zoologica"
+  } ]
+} ]

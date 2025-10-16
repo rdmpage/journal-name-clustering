@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754103",
+  "http://example.com/crossref" : [ {
+    "@value" : "2235"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/11645563"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/european-journal-of-soil-biology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1164-5563"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S126894729"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1778-3615"
+  }, {
+    "@value" : "1164-5563"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "European Journal of Soil Biology"
+  } ]
+} ]

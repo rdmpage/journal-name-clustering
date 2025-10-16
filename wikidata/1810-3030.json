@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q73908359",
+  "http://example.com/crossref" : [ {
+    "@value" : "97965"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1810-3030"
+  }, {
+    "@value" : "2408-8684"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.banglajol.info/index.php/JBAU"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1810-3030"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210190542"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2408-8684"
+  }, {
+    "@value" : "1810-3030"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Bangladesh Agricultural University"
+  } ]
+} ]

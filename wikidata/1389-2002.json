@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15724618",
+  "http://example.com/crossref" : [ {
+    "@value" : "43082"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://benthamscience.com/journal/index.php?journalID=cdm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1389-2002"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S195680726"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1875-5453"
+  }, {
+    "@value" : "1389-2002"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Current Drug Metabolism"
+  } ]
+} ]

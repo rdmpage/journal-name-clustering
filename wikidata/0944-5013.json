@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q19361570",
+  "http://example.com/crossref" : [ {
+    "@value" : "30563"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/microbiological-research/"
+  }, {
+    "@id" : "http://www.urbanfischer.de/journals/microbiolres/microbio.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0944-5013"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S106450229"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0944-5013"
+  }, {
+    "@value" : "1618-0623"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Microbiological research"
+  } ]
+} ]

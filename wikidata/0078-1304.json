@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q24613568",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "North Am. fauna"
+  }, {
+    "@language" : "es",
+    "@value" : "North American fauna"
+  }, {
+    "@language" : "en",
+    "@value" : "Nafa"
+  }, {
+    "@language" : "en",
+    "@value" : "North American fauna"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "48540"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "102306"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1889"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=0vXRAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=E_XRAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=gfXRAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=kwwTAAAAMAAJ"
+  }, {
+    "@id" : "https://fwspubs.org/loi/nafa"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-1304"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S184640723"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1944-4575"
+  }, {
+    "@value" : "0078-1304"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "North American Fauna"
+  } ]
+} ]

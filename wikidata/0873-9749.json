@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13428260",
+  "http://example.com/crossref" : [ {
+    "@value" : "10225"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springer.com/life+sciences/behavioural/journal/10211"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S168533230"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0873-9749"
+  }, {
+    "@value" : "1130-3204"
+  }, {
+    "@value" : "1437-9546"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Acta Ethologica"
+  } ]
+} ]

@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50552824",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca Agriculture"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca. Agriculture"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "265127"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1843-5246"
+  }, {
+    "@value" : "1843-5386"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.usamvcluj.ro/index.php/agriculture"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1843-5246"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1843-5246"
+  }, {
+    "@value" : "2457-1385"
+  }, {
+    "@value" : "1843-5386"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca. Agriculture"
+  } ]
+} ]

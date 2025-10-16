@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113478303",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ir.lib.hiroshima-u.ac.jp/ja/journal/JFacApplBiolSci"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0387-7647"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0387-7647"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Hiroshima Daigaku Seibutsu Seisan Gakubu kiyō"
+  } ]
+} ]

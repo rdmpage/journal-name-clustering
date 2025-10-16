@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757597",
+  "http://example.com/crossref" : [ {
+    "@value" : "9201"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-100118"
+  }, {
+    "@id" : "http://www.karger.com?ISSN=1421-9743"
+  }, {
+    "@id" : "https://nbn-resolving.org/urn/resolver.pl?urn=urn:nbn:ch:bel-100118"
+  }, {
+    "@id" : "https://www.karger.com/Journal/Home/223831"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-8977"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S141720782"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1421-9743"
+  }, {
+    "@value" : "0006-8977"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Brain, Behavior and Evolution"
+  } ]
+} ]

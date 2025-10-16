@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3669308",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Irish Naturalists' Journal"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1925"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://irishnaturalistsjournal.org/"
+  }, {
+    "@id" : "https://irishnaturalistsjournal.org/"
+  }, {
+    "@id" : "https://www.jstor.org/journal/irisnatuj"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-1311"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "irisnatuj"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S127504645"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "558D30BE-8521-4E3D-9F2F-9D37735EB03D"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2633-9404"
+  }, {
+    "@value" : "0021-1311"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Irish Naturalists' Journal"
+  } ]
+} ]

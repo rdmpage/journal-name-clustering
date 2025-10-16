@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3772021",
+  "http://example.com/from_year" : [ {
+    "@value" : "1976"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.soi-udi.it/gli-uccelli-ditalia-rivista-della-societa-ornitologica-italiana/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0393-1218"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0393-1218"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Gli Uccelli d'Italia"
+  } ]
+} ]

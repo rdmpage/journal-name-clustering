@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27720934",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. Trimest. Soc. Mycol. Fr."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0395-7527"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. trimest. soc. mycol. Fr."
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin trimestriel de la Société mycologique de France"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "50444"
+  }, {
+    "@value" : "50437"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1924"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://catalog.hathitrust.org/Record/012291432"
+  }, {
+    "@id" : "https://catalog.hathitrust.org/Record/100625509"
+  }, {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/cb343792238/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0395-7527"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306505269"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0395-7527"
+  }, {
+    "@value" : "2592-3668"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin trimestriel de la Société mycologique de France"
+  } ]
+} ]

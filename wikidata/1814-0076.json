@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50552654",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Raptors Conservation"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "296506"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1814-0076"
+  }, {
+    "@value" : "1814-8654"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ecoclub.nsu.ru/raptors/RC/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1814-0076"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737255440"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1814-8654"
+  }, {
+    "@value" : "1814-0076"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Pernatye hiŝniki i ih ohrana"
+  } ]
+} ]

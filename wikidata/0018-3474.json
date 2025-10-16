@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108872924",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "北海道大學理學部紀要"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://eprints.lib.hokudai.ac.jp/journals/index.php?jname=269"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0018-3474"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0018-3474"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Journal of the Faculty of Science, Hokkaido University, Series 4: Geology and Mineralogy"
+  } ]
+} ]

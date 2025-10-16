@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2153724",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Theor. Biol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "J. Theor. Biol."
+  }, {
+    "@language" : "fr",
+    "@value" : "J. Theor. Biol."
+  }, {
+    "@language" : "en",
+    "@value" : "J. Theor. Biol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "567"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1961"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=2RhGq6Hg_jEC"
+  }, {
+    "@id" : "http://books.google.com/books?id=AfiCo_KkXPQC"
+  }, {
+    "@id" : "http://books.google.com/books?id=NeGb6MiKKMwC"
+  }, {
+    "@id" : "http://books.google.com/books?id=q1cCntEAF0gC"
+  }, {
+    "@id" : "http://www.journals.elsevier.com/journal-of-theoretical-biology/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-5193"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S109682412"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1095-8541"
+  }, {
+    "@value" : "0022-5193"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Theoretical Biology"
+  } ]
+} ]

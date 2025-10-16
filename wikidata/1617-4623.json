@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753424",
+  "http://example.com/crossref" : [ {
+    "@value" : "714"
+  }, {
+    "@value" : "920"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://link.springer.com/journal/438"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S129324922"
+  }, {
+    "@value" : "S4210168070"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0026-8925"
+  }, {
+    "@value" : "1432-1874"
+  }, {
+    "@value" : "1617-4615"
+  }, {
+    "@value" : "1617-4623"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Molecular Genetics and Genomics: an international journal"
+  } ]
+} ]

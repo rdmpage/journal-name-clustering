@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385672",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journal.nsm.or.th/en/journalthnhm/home"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1686-770X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1686-770X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "th",
+    "@value" : "The Thailand Natural History Museum Journal"
+  } ]
+} ]

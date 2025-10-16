@@ -1,0 +1,62 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28841177",
+  "http://example.com/doaj" : [ {
+    "@value" : "1314-2488"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://neobiota.pensoft.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1314-2488"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210189550"
+  }, {
+    "@value" : "S4210215112"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1314-2488"
+  }, {
+    "@value" : "1619-0033"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "NeoBiota"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q28841178",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "NeoBiota"
+  }, {
+    "@language" : "de",
+    "@value" : "NEOBIOTA"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1314-2488"
+  }, {
+    "@value" : "1619-0033"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.neobiota.eu/publications/conference-proceedings-2000-2008/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1619-0033"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2008"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1619-0033"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "NEOBIOTA"
+  }, {
+    "@language" : "mul",
+    "@value" : "Neobiota"
+  } ]
+} ]

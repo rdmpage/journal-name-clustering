@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6158243",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Tropical Medicine and Hygiene"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "35138"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1349-4147"
+  }, {
+    "@value" : "1348-8945"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/tmh/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1348-8945"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "tmh"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S166421451"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1349-4147"
+  }, {
+    "@value" : "1348-8945"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Tropical Medicine and Health"
+  } ]
+} ]

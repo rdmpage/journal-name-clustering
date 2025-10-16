@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385592",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1656-4650"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1656-4650"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Visaya"
+  } ]
+} ]

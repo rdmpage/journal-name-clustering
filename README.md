@@ -32,11 +32,19 @@ To cluster the journals run:
 php cluster.php > <output filename>
 ```
 
-which output the SQL commands to update the `clusters` table.
+which outputs the SQL commands to update the `clusters` table.
 
 ### Output
 
 The query `SELECT * FROM clusters ORDER BY sort key, cluster_id;` generates a list of clustered journal names. This list has been used to create a Google Sheet, with an additional column that, together with conditional formatting, makes any additional names in a cluster a different colour, making the clustering more visible.
 
 The Google Sheet is https://docs.google.com/spreadsheets/d/1130fgDii0WodZIookBOg-KICZAdlk6lBVb1iTENPcr4/edit?usp=sharing
+
+
+## Reference datasets for comparison
+
+### Zoological Record
+
+https://www.webofscience.com/wos/mjl/collection-list-downloads
+
 

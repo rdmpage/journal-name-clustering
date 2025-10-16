@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714987",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Chiba Kenritsu Chuo Hakubutsukan shizenshi kenkyu hokoku"
+  }, {
+    "@language" : "en",
+    "@value" : "Chiba Kenritsu Chūō Hakubutsukan shizenshi kenkyū hōkoku"
+  }, {
+    "@language" : "en",
+    "@value" : "J Nat Hist Mus Inst Chiba"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1990"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0915-9452"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2019"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0915-9452"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "千葉県立中央博物館自然誌研究報告"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Natural History Museum and Institute, Chiba"
+  } ]
+} ]

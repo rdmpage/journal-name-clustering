@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q53996464",
+  "http://example.com/crossref" : [ {
+    "@value" : "73106"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1736-6046"
+  }, {
+    "@value" : "1736-7530"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://digar.nlib.ee/show/nlib-digar:36310"
+  }, {
+    "@id" : "http://www.eap.ee/?id=13213"
+  }, {
+    "@id" : "http://www.eap.ee/proceedings"
+  }, {
+    "@id" : "http://www.kirj.ee/proceedings"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1736-6046"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210199535"
+  }, {
+    "@value" : "S4210205315"
+  }, {
+    "@value" : "S4210233007"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1736-7530"
+  }, {
+    "@value" : "1736-6046"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Estonian Academy of Sciences"
+  } ]
+} ]

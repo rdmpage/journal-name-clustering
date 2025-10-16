@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386274",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Israel journal of ecology & evolution"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "79098"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.israelsciencejournals.com/eco.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1565-9801"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S8097916"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2224-4662"
+  }, {
+    "@value" : "1565-9801"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Israel Journal of Ecology and Evolution"
+  }, {
+    "@language" : "en",
+    "@value" : "Israel journal of ecology & evolution"
+  } ]
+} ]

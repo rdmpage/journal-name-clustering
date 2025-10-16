@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q17621119",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0150-9314"
+  }, {
+    "@language" : "fr",
+    "@value" : "Annales des sciences naturelles. Botanique"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "5010"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1834"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/cb34350424k/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0150-9314"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1959"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2437-3540"
+  }, {
+    "@value" : "0150-9314"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Annales des sciences naturelles. Botanique"
+  }, {
+    "@language" : "fr",
+    "@value" : "Annales des sciences naturelles... Botanique"
+  } ]
+} ]

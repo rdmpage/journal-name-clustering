@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766645",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Žurnal obŝej biologii"
+  }, {
+    "@language" : "ru",
+    "@value" : "Žurnal obŝej biologii"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhurnal Obshchey Biologii"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of General Biology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "315746"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1940"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://genbioras.ru/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0044-4596"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S81371064"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "3034-5685"
+  }, {
+    "@value" : "0044-4596"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Журнал общей биологии"
+  } ]
+} ]

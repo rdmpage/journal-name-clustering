@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96700094",
+  "http://example.com/crossref" : [ {
+    "@value" : "243586"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://eurasianjvetsci.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1309-6958"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764653934"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2146-1953"
+  }, {
+    "@value" : "1309-6958"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Eurasian journal of veterinary sciences"
+  } ]
+} ]

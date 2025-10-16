@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766304",
+  "http://example.com/crossref" : [ {
+    "@value" : "180206"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://phyto.erudit.org/"
+  }, {
+    "@id" : "http://www.phytoprotection.ca/index.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0031-9511"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S149675510"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1710-1603"
+  }, {
+    "@value" : "0031-9511"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Phytoprotection"
+  }, {
+    "@language" : "mul",
+    "@value" : "Phytoprotection"
+  } ]
+} ]

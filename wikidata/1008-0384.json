@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722363",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Fujian Nong Ye Xue Bao"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.fjnyxb.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1008-0384"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765051039"
+  }, {
+    "@value" : "S4306556100"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1008-0384"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fujian journal of agricultural sciences"
+  }, {
+    "@language" : "zh",
+    "@value" : "福建农业学报"
+  } ]
+} ]

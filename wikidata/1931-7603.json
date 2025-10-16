@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759218",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Herpetol. Conserv. Biol."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/22773"
+  }, {
+    "@id" : "http://www.herpconbio.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1931-7603"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2503668375"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2151-0733"
+  }, {
+    "@value" : "1931-7603"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Herpetological Conservation and Biology"
+  } ]
+} ]

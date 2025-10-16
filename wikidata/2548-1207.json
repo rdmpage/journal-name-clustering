@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q73908778",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Agriculture Faculty of Ege University"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "296957"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2548-1207"
+  }, {
+    "@value" : "1018-8851"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.agr.ege.edu.tr"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1018-8851"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210184256"
+  }, {
+    "@value" : "S4306508930"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2548-1207"
+  }, {
+    "@value" : "1018-8851"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "tr",
+    "@value" : "Ege Üniversitesi Ziraat fakültesi dergisi"
+  } ]
+} ]

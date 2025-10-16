@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761299",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Medical & Veterinary Entomology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3739"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=mve"
+  }, {
+    "@id" : "http://www.royensoc.co.uk/publications/medical_and_veterinary_entomology.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0269-283X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S207638786"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1365-2915"
+  }, {
+    "@value" : "0269-283X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Medical and Veterinary Entomology"
+  } ]
+} ]

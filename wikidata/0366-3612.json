@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6396535",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0366-3612"
+  }, {
+    "@language" : "fr",
+    "@value" : "Biologiske skrifter / Det Kongelige Danske Videnskabernes Selskab"
+  }, {
+    "@language" : "en",
+    "@value" : "Biol. Skr."
+  }, {
+    "@language" : "de",
+    "@value" : "Biol. Skr."
+  }, {
+    "@language" : "de",
+    "@value" : "Biologiske skrifter"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://publ.royalacademy.dk/?lang=da"
+  }, {
+    "@id" : "http://publ.royalacademy.dk/?lang=en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-3612"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "9624605C-D129-44CA-936F-63D8D8F5FEA7"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0366-3612"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "da",
+    "@value" : "Biologiske skrifter"
+  }, {
+    "@language" : "en",
+    "@value" : "Biologiske skrifter"
+  } ]
+} ]

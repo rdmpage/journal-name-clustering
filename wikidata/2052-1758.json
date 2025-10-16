@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386093",
+  "http://example.com/crossref" : [ {
+    "@value" : "236054"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2014"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2052-1758"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2052-174X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210180117"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "0B6DBAD8-BA9A-49C7-BFF5-4CD3392B70F3"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2052-1758"
+  }, {
+    "@value" : "2052-174X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Austral Entomology"
+  } ]
+} ]

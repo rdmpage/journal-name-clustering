@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2076928",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Austral. J. Bot."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Austral. J. Bot."
+  }, {
+    "@language" : "de",
+    "@value" : "Austral. J. Bot."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5958"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1953"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.publish.csiro.au/journals/ajb/"
+  }, {
+    "@id" : "http://www.publish.csiro.au/journals/ajb/electronic.html"
+  }, {
+    "@id" : "http://www.publish.csiro.au/nid/65.htm"
+  }, {
+    "@id" : "https://www.publish.csiro.au/bt"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0067-1924"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S137870640"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B8BF5102-9693-4AA1-86E5-2573B24437FB"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1444-9862"
+  }, {
+    "@value" : "0067-1924"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australian Journal of Botany"
+  } ]
+} ]

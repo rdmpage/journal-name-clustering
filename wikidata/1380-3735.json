@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q110755796",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1380-3735"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4363606211"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1380-3735"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "De Takkeling"
+  } ]
+} ]

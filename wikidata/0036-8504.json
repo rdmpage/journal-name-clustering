@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755412",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Science progress"
+  }, {
+    "@language" : "en",
+    "@value" : "Sci. prog. (1916)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6925"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "69396"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2047-7163"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1916"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://stl.publisher.ingentaconnect.com/content/stl/sciprg"
+  }, {
+    "@id" : "http://www.jstor.org/journal/scienceprog"
+  }, {
+    "@id" : "http://www.jstor.org/journal/scienceprogress"
+  }, {
+    "@id" : "http://www.jstor.org/journal/scienceprogtwenc"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0036-8504"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S9683234"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0036-8504"
+  }, {
+    "@value" : "2047-7163"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Science Progress"
+  } ]
+} ]

@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q30058443",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0018-9634"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1966"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0018-9634"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0018-9634"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de l'Institut Fondamental d'Afrique Noire. Série A: Sciences naturelles"
+  } ]
+} ]

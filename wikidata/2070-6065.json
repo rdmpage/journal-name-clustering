@@ -1,0 +1,10 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q135431219",
+  "http://schema.org/issn" : [ {
+    "@value" : "2070-6065"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "FAO fisheries and aquaculture circular"
+  } ]
+} ]

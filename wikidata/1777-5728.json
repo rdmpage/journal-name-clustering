@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q210015",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "Геобиос"
+  }, {
+    "@language" : "en",
+    "@value" : "Géobios"
+  }, {
+    "@language" : "fr",
+    "@value" : "Géobios"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "9323"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1968"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.sciencedirect.com/journal/geobios"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0016-6995"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S19370311"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0016-6995"
+  }, {
+    "@value" : "1777-5728"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Geobios"
+  } ]
+} ]

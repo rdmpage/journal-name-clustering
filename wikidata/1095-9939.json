@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765906",
+  "http://example.com/crossref" : [ {
+    "@value" : "660"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0048-3575;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.apnet.com/www/journal/pb.htm"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00483575"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/pesticide-biochemistry-and-physiology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0048-3575"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S9324707"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0048-3575"
+  }, {
+    "@value" : "1095-9939"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Pesticide Biochemistry and Physiology"
+  } ]
+} ]

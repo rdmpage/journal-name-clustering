@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51502874",
+  "http://example.com/bhl" : [ {
+    "@value" : "73011"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0210-5004"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Mediterránea. Serie de estudios biológicos"
+  } ]
+} ]

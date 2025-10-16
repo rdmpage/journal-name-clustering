@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386110",
+  "http://example.com/from_year" : [ {
+    "@value" : "1975"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.e-periodica.ch/digbib/volumes?UID=enc-001"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0253-2484"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D11AFF6A-30F3-412C-9E68-071BEFE206DF"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0253-2484"
+  }, {
+    "@value" : "2813-9712"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Entomologica Basiliensia"
+  }, {
+    "@language" : "la",
+    "@value" : "Entomologica Basiliensia"
+  } ]
+} ]

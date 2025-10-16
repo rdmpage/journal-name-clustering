@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28379731",
+  "http://example.com/crossref" : [ {
+    "@value" : "296944"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1339-8474"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2015"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.degruyter.com/view/j/eje"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1339-8474"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737068594"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1339-8474"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "European Journal of Ecology"
+  } ]
+} ]

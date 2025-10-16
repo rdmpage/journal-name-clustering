@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385933",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0041-4018"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765014876"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0041-4018"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Tulane studies in geology and paleontology"
+  } ]
+} ]

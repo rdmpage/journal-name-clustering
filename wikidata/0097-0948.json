@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51399838",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Annual report - New York State Agricultural Experiment Station"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "12318"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1882"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0097-0948"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0097-0948"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annual report - New York State Agricultural Experiment Station"
+  } ]
+} ]

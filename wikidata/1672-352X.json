@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722646",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Anhui nong ye da xue xue bao"
+  }, {
+    "@language" : "en",
+    "@value" : "Anhui Nong Ye Da Xue Xue Bao"
+  }, {
+    "@language" : "en",
+    "@value" : "Anhui Nongye Daxue xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Anhui Agric. Univ."
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "ANHU"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ahnydxxb.ahau.edu.cn/ch/index.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1672-352X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764439992"
+  }, {
+    "@value" : "S4306547410"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1672-352X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "安徽农业大学学报"
+  } ]
+} ]

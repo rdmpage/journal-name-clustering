@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7830412",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Toxicon"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0041-0101"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1484"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1962"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.elsevier.com/wps/find/journaldescription.cws_home/259/description"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00410101"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0041-0101"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S42803210"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1879-3150"
+  }, {
+    "@value" : "0041-0101"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Toxicon"
+  }, {
+    "@language" : "en",
+    "@value" : "Toxicon"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714082",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc Jpn Acad"
+  }, {
+    "@language" : "en",
+    "@value" : "Proc. Jpn. Acad."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "82038"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-4280"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "pjab1945"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210192155"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0021-4280"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Japan Academy"
+  } ]
+} ]

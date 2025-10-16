@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765956",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Corporate Communications: An International Journal"
+  }, {
+    "@language" : "en",
+    "@value" : "Corporate Communications: An International Journal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "6290"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "20785"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://info.emeraldinsight.com/products/journals/journals.htm?id=ccij"
+  }, {
+    "@id" : "http://www.emeraldinsight.com/1356-3289.htm"
+  }, {
+    "@id" : "http://www.emeraldinsight.com/ccij.htm"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1356-3289"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S193408319"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1356-3289"
+  }, {
+    "@value" : "1758-6046"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Corporate communications"
+  }, {
+    "@language" : "en",
+    "@value" : "Corporate Communications: an international journal"
+  } ]
+} ]

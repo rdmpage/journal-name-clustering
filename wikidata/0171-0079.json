@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385843",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Atalanta: Zeitschrift der Deutschen Forschungszentrale für Schmetterlingswanderungen"
+  }, {
+    "@language" : "en",
+    "@value" : "Atalanta: Zeitschrift der Deutschen Forschungszentrale für Schmetterlingswanderungen"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0171-0079"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "0E892B29-F1EF-4224-8971-6A396DEB721C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0171-0079"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Atalanta"
+  }, {
+    "@language" : "mul",
+    "@value" : "Atalanta"
+  } ]
+} ]

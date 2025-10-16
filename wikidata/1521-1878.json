@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4914614",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "BioEssays"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "173"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1984"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioessays-journal.com"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/109911273"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jtoc/34201/"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/15211878"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0265-9247"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S27819959"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1521-1878"
+  }, {
+    "@value" : "0265-9247"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "BioEssays"
+  } ]
+} ]

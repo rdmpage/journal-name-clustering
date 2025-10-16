@@ -1,0 +1,10 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q101856998",
+  "http://schema.org/issn" : [ {
+    "@value" : "1363-5700"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Birds and Wildlife in Cumbria"
+  } ]
+} ]

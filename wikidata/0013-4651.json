@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3186957",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Journal of The Electrochemical Society"
+  }, {
+    "@language" : "en",
+    "@value" : "J Electrochem Soc"
+  }, {
+    "@language" : "de",
+    "@value" : "J Electrochem Soc"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4154"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jes.ecsdl.org/"
+  }, {
+    "@id" : "https://iopscience.iop.org/journal/1945-7111?gclid=EAIaIQobChMI4Y-UmqGC7wIVFeDtCh0VQAo7EAAYASAAEgLW8_D_BwE"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-4651"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S138759888"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1945-7111"
+  }, {
+    "@value" : "0013-4651"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Electrochemical Society"
+  } ]
+} ]

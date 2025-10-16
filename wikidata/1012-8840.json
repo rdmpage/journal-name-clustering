@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328386",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Faculty of Marine Science"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "85832"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1012-8840"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210175182"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1012-8840"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Faculty of Marine Science"
+  } ]
+} ]

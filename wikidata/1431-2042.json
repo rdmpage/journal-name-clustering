@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q110836795",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Mycologia Bavarica"
+  }, {
+    "@language" : "en",
+    "@value" : "Bavarian Journal of Mycology"
+  }, {
+    "@language" : "en",
+    "@value" : "Mycol. bavarica"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.mycologia-bavarica.de/"
+  }, {
+    "@id" : "http://www.mycologia-bavarica.de/eng/index.htm"
+  }, {
+    "@id" : "http://www.mycologia-bavarica.de/index.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1431-2042"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1431-2042"
+  }, {
+    "@value" : "2940-8342"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Mycologia Bavarica"
+  }, {
+    "@language" : "la",
+    "@value" : "Mycologia Bavarica"
+  } ]
+} ]

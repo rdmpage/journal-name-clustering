@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113961651",
+  "http://example.com/from_year" : [ {
+    "@value" : "1928"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2432-9975"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "venusomsj"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306493914"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1942"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2432-9975"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Venus"
+  }, {
+    "@language" : "ja",
+    "@value" : "ヴヰナス"
+  } ]
+} ]

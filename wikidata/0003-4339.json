@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q25653891",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "pt",
+    "@value" : "Ann. sci. nat., Zool. biol. anim."
+  }, {
+    "@language" : "en",
+    "@value" : "Ann. sci. nat., Zool. biol. anim."
+  }, {
+    "@language" : "fr",
+    "@value" : "Ann. sci. nat., Zool. biol. anim."
+  }, {
+    "@language" : "de",
+    "@value" : "Ann. sci. nat., Zool. biol. anim."
+  }, {
+    "@language" : "es",
+    "@value" : "Ann. sci. nat., Zool. biol. anim."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2290"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/00034339"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-4339"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210219808"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0003-4339"
+  }, {
+    "@value" : "1879-1840"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Annales des sciences naturelles. Zoologie et biologie animale"
+  } ]
+} ]

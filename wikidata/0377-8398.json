@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2068252",
+  "http://example.com/crossref" : [ {
+    "@value" : "1399"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/03778398"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/marine-micropaleontology/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0377-8398"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S49668954"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1872-6186"
+  }, {
+    "@value" : "0377-8398"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Marine Micropaleontology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Marine micropaleontology"
+  } ]
+} ]

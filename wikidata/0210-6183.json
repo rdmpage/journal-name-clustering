@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q17300784",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0210-6183"
+  }, {
+    "@language" : "en",
+    "@value" : "Butll. Inst. Catalana Hist. Nat."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "43781"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "8156"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1901"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.raco.cat/index.php/ButlletiICHN"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0210-6183"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306505316"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1949"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0210-6183"
+  }, {
+    "@value" : "2385-3093"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ca",
+    "@value" : "Butlletí de la Institució Catalana d'Història Natural"
+  }, {
+    "@language" : "ca",
+    "@value" : "Butlletí de la Institució Catalana d'Historia Natural"
+  } ]
+} ]

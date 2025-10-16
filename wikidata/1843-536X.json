@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722055",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca Animal Science and Biotechnologies"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca. Animal Science and Biotechnologies"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull Univ Agric Sci Vet Med Cluj Napoca"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca. Animal Breeding and Biotechnology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "265129"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1843-536X"
+  }, {
+    "@value" : "1843-5262"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.usamvcluj.ro/index.php/zootehnie"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1843-5262"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210172275"
+  }, {
+    "@value" : "S2764444849"
+  }, {
+    "@value" : "S2764942120"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2457-1423"
+  }, {
+    "@value" : "1843-536X"
+  }, {
+    "@value" : "1843-5262"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca. Animal Science and Biotechnologies"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca"
+  } ]
+} ]

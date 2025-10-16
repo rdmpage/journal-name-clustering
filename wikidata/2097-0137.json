@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q112261466",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Zhongshan Daxue xuebao. Ziran kexue ban (Zhong-yingwen ban)"
+  }, {
+    "@language" : "zh",
+    "@value" : "中山大学学报（自然科学版）"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "ZSDZ"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1955"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://xuebaozr.sysu.edu.cn/"
+  }, {
+    "@id" : "https://xuebaozr.sysu.edu.cn/homeNav?lang=en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2097-0137"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2097-0137"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "中山大学学报（自然科学版）（中英文）"
+  } ]
+} ]

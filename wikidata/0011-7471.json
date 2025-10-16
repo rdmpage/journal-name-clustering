@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96332539",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Deep-sea research and oceanographic abstracts"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "15636"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/00117471"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0011-7471"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S8431725"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0011-7471"
+  }, {
+    "@value" : "1878-2493"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Deep-sea research and oceanographic abstracts"
+  } ]
+} ]

@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q81268604",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1075-3524"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1075-3524"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1075-3524"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the International Conifer Preservation Society"
+  } ]
+} ]

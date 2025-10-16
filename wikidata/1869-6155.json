@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15816569",
+  "http://example.com/crossref" : [ {
+    "@value" : "106846"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.schweizerbart.de/journals/pde?I=DE"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1869-6155"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210171315"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1869-6155"
+  }, {
+    "@value" : "2363-7129"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Plant diversity and evolution"
+  }, {
+    "@language" : "en",
+    "@value" : "Plant Diversity and Evolution: phylogeny, biogeography, structure and function"
+  } ]
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754029",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Exp. Parasitol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "573"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1951"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0014-4894;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.journals.elsevier.com/experimental-parasitology/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00144894"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0014-4894"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S102868315"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0014-4894"
+  }, {
+    "@value" : "1090-2449"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Experimental Parasitology"
+  } ]
+} ]

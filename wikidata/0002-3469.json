@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16557846",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Dokl. Akad. Nauk Tadzhiksk. S.S.R."
+  }, {
+    "@language" : "en",
+    "@value" : "Doklady Akademii Nauk Tadzhikistan SSR"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0002-3469"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0002-3469"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Dokladhoi Akademiâi fanhoi RSS točikistoi"
+  }, {
+    "@language" : "tg-latn",
+    "@value" : "Doklady Akademii Nauk Tadzhikskoi"
+  } ]
+} ]

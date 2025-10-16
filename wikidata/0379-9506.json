@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5875295",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Garcia de Orta, Ser. Bot."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0379-9506"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0379-9506"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Garcia de Orta. Série de botânica"
+  } ]
+} ]

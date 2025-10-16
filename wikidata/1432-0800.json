@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15724436",
+  "http://example.com/crossref" : [ {
+    "@value" : "987"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1966"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/128"
+  }, {
+    "@id" : "http://www.springerlink.com/content/101156"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0007-4861"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S106502101"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0007-4861"
+  }, {
+    "@value" : "1432-0800"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of Environmental Contamination and Toxicology"
+  } ]
+} ]

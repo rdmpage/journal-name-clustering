@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15716623",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Strombus"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1998"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.conchasbrasil.org.br/strombus/"
+  }, {
+    "@id" : "http://www.conchasbrasil.org.br/strombus/default.asp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1415-2827"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S946695807"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1983-2214"
+  }, {
+    "@value" : "1415-2827"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Strombus"
+  } ]
+} ]

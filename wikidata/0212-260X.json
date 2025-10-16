@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328685",
+  "http://example.com/dialnet" : [ {
+    "@value" : "6914"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.raco.cat/index.php/BolletiSHNBalears/index"
+  }, {
+    "@id" : "https://dialnet.unirioja.es/servlet/revista?codigo=6914"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0212-260X"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://raco.cat/index.php/BolletiSHNBalears/gateway/plugin/WebFeedGatewayPlugin/atom"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0212-260X"
+  }, {
+    "@value" : "2444-8192"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bolletí de la Societat d'Història Natural de les Balears"
+  } ]
+} ]

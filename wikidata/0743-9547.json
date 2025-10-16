@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719491",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Southeast Asian Earth Sci"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1569"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/07439547"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0743-9547"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S129998553"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0743-9547"
+  }, {
+    "@value" : "1879-1832"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Southeast Asian earth sciences"
+  } ]
+} ]

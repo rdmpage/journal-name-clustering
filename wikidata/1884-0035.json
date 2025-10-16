@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719502",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "Kyūshū Byōgaichu Kenkyūkaihō"
+  }, {
+    "@language" : "en",
+    "@value" : "Kyushu Byogaichu Kenkyukai Ho"
+  }, {
+    "@language" : "en",
+    "@value" : "Ho Kyushu Byogaichu Kenkyukai"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "89705"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0385-6410"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "kyubyochu"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306542835"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0385-6410"
+  }, {
+    "@value" : "1884-0035"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceeding of the Association for Plant Protection of Kyushu"
+  }, {
+    "@language" : "ja",
+    "@value" : "Kyūshū Byōgaichu Kenkyūkaihō"
+  } ]
+} ]

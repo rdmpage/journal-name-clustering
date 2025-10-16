@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385168",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "バイオジオグラフィー"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/biogeo/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1345-0662"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "biogeo"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764397283"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1345-0662"
+  }, {
+    "@value" : "1880-8085"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biogeography"
+  } ]
+} ]

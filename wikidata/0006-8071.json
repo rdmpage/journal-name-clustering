@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q894627",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Bot. Gaz."
+  }, {
+    "@language" : "en",
+    "@value" : "Bot. gaz. (Chic. Ill.)"
+  }, {
+    "@language" : "en",
+    "@value" : "Bot. Gaz."
+  }, {
+    "@language" : "de",
+    "@value" : "Botanical Bulletin"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "9540"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4891"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1876"
+  }, {
+    "@value" : "1875"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/journals/00068071.html"
+  }, {
+    "@id" : "https://www.jstor.org/journal/botanicalgazette"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-8071"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "botanicalgazette"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S192124398"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "CA7ACA3B-C1E6-45AE-BB6D-DA069854A841"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1940-1205"
+  }, {
+    "@value" : "0006-8071"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Botanical Gazette"
+  } ]
+} ]

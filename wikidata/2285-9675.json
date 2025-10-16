@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96332280",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.rjgeo.ro/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1220-5311"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1220-5311"
+  }, {
+    "@value" : "2285-9675"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revue roumaine de géographie"
+  } ]
+} ]

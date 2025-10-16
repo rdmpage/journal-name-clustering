@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3620949",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Canadian Journal of Zoology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5604"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1951"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://collection.nlc-bnc.ca/101/201/301/cdn%5Fjrn%5Fzoo/index.html"
+  }, {
+    "@id" : "http://www.nrc.ca/cgi-bin/cisti/journals/rp/rp2%5Fdesc%5Fe?cjz"
+  }, {
+    "@id" : "http://www.nrc.ca/cgi-bin/cisti/journals/rp/rp2%5Fdesc%5Ff?cjz"
+  }, {
+    "@id" : "http://www.nrcresearchpress.com/journal/cjz"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0008-4301"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S146329739"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "87CEA2F1-4571-4E37-8393-DC8F289A75D8"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0008-4301"
+  }, {
+    "@value" : "1480-3283"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Canadian journal of zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "Canadian Journal of Zoology"
+  } ]
+} ]

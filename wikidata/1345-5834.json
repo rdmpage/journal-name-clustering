@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385173",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Current herpetology"
+  }, {
+    "@language" : "en",
+    "@value" : "Japanese journal of herpetology"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "66716"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60875"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://zoo.zool.kyoto-u.ac.jp/herp/CurrHerp/"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/hsj/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1345-5834"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "hsj"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4950362"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1345-5834"
+  }, {
+    "@value" : "1881-1019"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Current Herpetology"
+  } ]
+} ]

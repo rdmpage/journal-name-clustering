@@ -1,0 +1,59 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385151",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Arq. Mus. Nac. Rio de Janeiro"
+  }, {
+    "@language" : "en",
+    "@value" : "Arch. Mus. Nac. (Rio de J.)"
+  }, {
+    "@language" : "de",
+    "@value" : "Arq. Mus. Nac. Rio de Janeiro"
+  }, {
+    "@language" : "de",
+    "@value" : "ISSN 0365-4508"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0365-4508"
+  }, {
+    "@language" : "en",
+    "@value" : "Arquivos do Museu Nacional"
+  }, {
+    "@language" : "en",
+    "@value" : "Archivos do Museu Nacional"
+  }, {
+    "@language" : "pt",
+    "@value" : "Archivos do Museu Nacional"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6524"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1876"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://museunacional.ufrj.br/publicacoes/?page_id=156"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0365-4508"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1926"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "AC6A1C19-2B03-403E-BC2B-E3FBB46E31E7"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0365-4508"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Arquivos do Museu Nacional"
+  }, {
+    "@language" : "pt",
+    "@value" : "Archivos do Museu Nacional do Rio de Janeiro"
+  }, {
+    "@language" : "pt",
+    "@value" : "Archivos do Museu Nacional"
+  } ]
+} ]

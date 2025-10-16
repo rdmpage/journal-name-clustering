@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764932",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://web.archive.org/web/*/https://wwwphp.obs-banyuls.fr/Viemilieu/"
+  }, {
+    "@id" : "https://wwwphp.obs-banyuls.fr/Viemilieu/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0240-8759"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306534268"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0240-8759"
+  }, {
+    "@value" : "2402-6689"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Vie et Milieu : periodique d’écologie générale"
+  }, {
+    "@language" : "mul",
+    "@value" : "Vie et milieu"
+  } ]
+} ]

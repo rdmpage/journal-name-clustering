@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q19705290",
+  "http://example.com/crossref" : [ {
+    "@value" : "223345"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1991"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.proceedings.bas.bg/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1310-1331"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210187564"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2367-5535"
+  }, {
+    "@value" : "1310-1331"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "bg",
+    "@value" : "Доклади на Българската академия на науките"
+  }, {
+    "@language" : "mul",
+    "@value" : "Dokladi na Bʺlgarskata akademiâ na naukite"
+  } ]
+} ]

@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51458562",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "C. r. séances Soc. biol. ses. fil."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0037-9026"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes rendus des séances de la Société de Biologie et de ses filiales ..."
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes rendus des séances de la Société de biologie et de ses filiales"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "169512"
+  }, {
+    "@value" : "169513"
+  }, {
+    "@value" : "169514"
+  }, {
+    "@value" : "8070"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1849"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://gallica.bnf.fr/ark:/12148/cb34349272v/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0037-9026"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2752809233"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1998"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0037-9026"
+  }, {
+    "@value" : "2437-3532"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Comptes rendus des séances de la Société de Biologie et de ses filiales ..."
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes rendus des séances de la Société de biologie et de ses filiales"
+  } ]
+} ]

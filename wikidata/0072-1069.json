@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q29043976",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Memoir - Geological Society of America"
+  }, {
+    "@language" : "en",
+    "@value" : "GSA Memoir"
+  }, {
+    "@language" : "en",
+    "@value" : "Memoir"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.gsajournals.org/perlserv/?request=get-collection&coll_title=Memoirs"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0072-1069"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S97073192"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0072-1069"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoir - Geological Society of America"
+  }, {
+    "@language" : "en",
+    "@value" : "Memoir / Geological Society of America"
+  } ]
+} ]

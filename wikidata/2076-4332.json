@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727016",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Freshw Crayfish"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "156625"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://iz.carnegiemnh.org/crayfish/IAA/publications.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2076-4324"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210209324"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2076-4324"
+  }, {
+    "@value" : "2076-4340"
+  }, {
+    "@value" : "2076-4332"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Freshwater crayfish"
+  } ]
+} ]

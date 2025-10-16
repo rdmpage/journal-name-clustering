@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21384980",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0076-3004"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765010060"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0076-3004"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Malacological Review"
+  } ]
+} ]

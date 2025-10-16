@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q110050951",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ichthyol. Herpetol."
+  }, {
+    "@language" : "zh",
+    "@value" : "科普属"
+  }, {
+    "@language" : "en",
+    "@value" : "Ichthyology and Herpetology"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ichthyologyandherpetology.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2766-1512"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "ichtherp"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210232600"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2766-1512"
+  }, {
+    "@value" : "2766-1520"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ichthyology & Herpetology"
+  } ]
+} ]

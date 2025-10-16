@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755650",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0024-7634"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0024-7634"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Lutra"
+  }, {
+    "@language" : "und",
+    "@value" : "Lutra"
+  } ]
+} ]

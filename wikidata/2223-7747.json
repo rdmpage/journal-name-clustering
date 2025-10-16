@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724544",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Plants (Basel)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "162325"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2223-7747"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-247598"
+  }, {
+    "@id" : "https://nbn-resolving.org/urn/resolver.pl?urn=urn:nbn:ch:bel-247598"
+  }, {
+    "@id" : "https://www.mdpi.com/journal/plants"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2223-7747"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210230202"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2223-7747"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Plants"
+  }, {
+    "@language" : "en",
+    "@value" : "Plants (Basel, Switzerland)"
+  } ]
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762940",
+  "http://example.com/crossref" : [ {
+    "@value" : "91745"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1590-4261"
+  }, {
+    "@value" : "1869-2044"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S110711237"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0003-4649"
+  }, {
+    "@value" : "1590-4261"
+  }, {
+    "@value" : "1869-2044"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of Microbiology"
+  } ]
+} ]

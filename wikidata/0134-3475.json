@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328414",
+  "http://example.com/crossref" : [ {
+    "@value" : "325385"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://biomorras.ru/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0134-3475"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210225645"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "3034-526X"
+  }, {
+    "@value" : "0134-3475"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Biologiâ morâ"
+  } ]
+} ]

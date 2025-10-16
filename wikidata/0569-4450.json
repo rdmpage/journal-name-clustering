@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386228",
+  "http://example.com/bhl" : [ {
+    "@value" : "206514"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0569-4450"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764421063"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2010"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0569-4450"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Contributions of the American Entomological Institute"
+  } ]
+} ]

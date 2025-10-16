@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q24255705",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Indian Birds. Journal of South Asian Ornithology"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://indianbirds.in/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0973-1407"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0973-1407"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Indian Birds"
+  } ]
+} ]

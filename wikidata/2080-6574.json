@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50815366",
+  "http://example.com/crossref" : [ {
+    "@value" : "93205"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2080-6574"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.geologos.com.pl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1426-8981"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S161819704"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1426-8981"
+  }, {
+    "@value" : "2080-6574"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Geologos"
+  } ]
+} ]

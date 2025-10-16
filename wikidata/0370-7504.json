@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6102874",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Recueil des Travaux Botaniques Neerlandais"
+  }, {
+    "@language" : "en",
+    "@value" : "Recueil des Travaux Botaniques Neerlandais"
+  }, {
+    "@language" : "en",
+    "@value" : "Recueil des travaux botaniques néerlandais."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "14679"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1904"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-7504"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1950"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-7504"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Recueil des Travaux Botaniques Néerlandais"
+  } ]
+} ]

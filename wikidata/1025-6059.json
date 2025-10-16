@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5533886",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "GeoArabia"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.gulfpetrolink.com"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S189311251"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1025-6059"
+  }, {
+    "@value" : "1819-169X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "GeoArabia"
+  } ]
+} ]

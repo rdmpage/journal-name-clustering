@@ -1,0 +1,10 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124659078",
+  "http://schema.org/issn" : [ {
+    "@value" : "0378-6870"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de-at",
+    "@value" : "Geologisch-Paläontologische Mitteilungen Innsbruck"
+  } ]
+} ]

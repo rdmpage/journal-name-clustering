@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385932",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "Gekkan mushi"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0388-418X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.fujisan.co.jp/product/800/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0388-418X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306552024"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "385AA5B7-EA00-4F5A-A7B4-71769FF2B9FE"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0388-418X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "月刊むし"
+  } ]
+} ]

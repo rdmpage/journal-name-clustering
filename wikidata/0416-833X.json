@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q29310545",
+  "http://example.com/from_year" : [ {
+    "@value" : "1844"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.naturhistorischerverein.de/_publikationen/publikation_katalog-der-nhv-reihen.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0416-833X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0416-833X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Decheniana. Beihefte"
+  } ]
+} ]

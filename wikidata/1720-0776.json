@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764741",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Accademia Nazionale dei Lincei. Atti. Scienze Fisiche e Naturali. Rendiconti"
+  }, {
+    "@language" : "en",
+    "@value" : "Accademia Nazionale dei Lincei. Atti. Scienze Fisiche e Naturali. Rendiconti"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "74139"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1990"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.lincei.it/pubblicazioni"
+  }, {
+    "@id" : "http://www.springer.com/environment/journal/12210"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1120-6349"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210224264"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2007"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1720-0776"
+  }, {
+    "@value" : "0392-7881"
+  }, {
+    "@value" : "1120-6349"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Atti della Accademia Nazionale dei Lincei. Rendiconti Lincei. Scienze fisiche e naturali"
+  }, {
+    "@language" : "und",
+    "@value" : "Accademia Nazionale dei Lincei. Atti. Scienze Fisiche e Naturali. Rendiconti"
+  } ]
+} ]

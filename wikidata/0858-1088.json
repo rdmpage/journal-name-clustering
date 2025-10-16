@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27720805",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Phuket Marine Biological Center Research Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "PMBC Research Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Res. Bull. (Sun Chiwawitthaya thang Thale Phuket)"
+  }, {
+    "@language" : "en",
+    "@value" : "Research bulletin - Phuket Marine Biological Center"
+  }, {
+    "@language" : "en",
+    "@value" : "Research Bulletin (Sun Chiwawitthaya thang Thale Phuket)"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0858-1088"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0858-1088"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Research bulletin - Phuket Marine Biological Center"
+  }, {
+    "@language" : "en",
+    "@value" : "Research bulletin (Sun Chiwawitthaya thang Thale Phuket)"
+  } ]
+} ]

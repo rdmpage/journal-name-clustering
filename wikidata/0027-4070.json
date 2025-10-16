@@ -1,0 +1,72 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5735526",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Bull. Mus. Hist. Nat."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin du Muséum d'histoire naturelle Paris"
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. Mus. Hist. Nat. (Paris)"
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. Mus. Hist. Nat."
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin du Muséum d'histoire naturelle Paris"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bull. Mus. Hist. Nat. (Paris)"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bull. Mus. Hist. Nat."
+  }, {
+    "@language" : "es",
+    "@value" : "Bull. Mus. Hist. Nat. (Paris)"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin du Museum d'histoire naturelle"
+  }, {
+    "@language" : "es",
+    "@value" : "Bull. Mus. Hist. Nat."
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Mus. Hist. Nat. (Paris)"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Mus. Hist. Nat."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "68686"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1895"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/cb34348915q/date"
+  }, {
+    "@id" : "https://catalog.hathitrust.org/Record/007220347"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0027-4070"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210202561"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1906"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "F1E9BC6B-7FB7-46F2-A09E-3ABE0C0C7F68"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2419-6452"
+  }, {
+    "@value" : "0027-4070"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin du Muséum d'histoire naturelle"
+  } ]
+} ]

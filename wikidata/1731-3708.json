@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96733036",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Tomy Jurajskie"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "304045"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1731-3708"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210221857"
+  }, {
+    "@value" : "S4306534548"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1731-3708"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Volumina Jurassica"
+  }, {
+    "@language" : "pl",
+    "@value" : "Tomy Jurajskie"
+  } ]
+} ]

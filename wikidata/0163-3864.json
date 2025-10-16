@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q165584",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Nat. Prod."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Journal of Natural Products (Lloydia)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2488"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://pubs.acs.org/journal/jnprdf"
+  }, {
+    "@id" : "http://pubs.acs.org/journals/jnprdf/index.html"
+  }, {
+    "@id" : "http://pubs3.acs.org/acs/journals/toc.page?incoden=jnprdf"
+  }, {
+    "@id" : "https://pubs.acs.org/journal/jnprdf"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0163-3864"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S166799026"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jnprdf"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0163-3864"
+  }, {
+    "@value" : "1520-6025"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Natural Products"
+  } ]
+} ]

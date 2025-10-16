@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q17354185",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Tierärztliche Praxis. Ausgabe Grosstiere, Nutztiere"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "258546"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://tpg.schattauer.de/de/startseite.html"
+  }, {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2178387"
+  }, {
+    "@id" : "https://www.thieme-connect.de/products/ejournals/journal/10.1055/s-00034912"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1434-1220"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210215926"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2567-5834"
+  }, {
+    "@value" : "1434-1220"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Tierärztliche Praxis. Ausgabe Grosstiere, Nutztiere"
+  } ]
+} ]

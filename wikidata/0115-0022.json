@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q54359620",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Sylvatrop, the Philippine Forest Research Journal"
+  }, {
+    "@language" : "en",
+    "@value" : "Sylvatrop, The Technical Journal of the Philippine Ecosystems and Natural Resources"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0115-0022"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0115-0022"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Sylvatrop"
+  }, {
+    "@language" : "en",
+    "@value" : "Sylvatrop, the Philippine Forest Research Journal"
+  } ]
+} ]

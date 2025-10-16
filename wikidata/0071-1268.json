@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386314",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0071-1268"
+  }, {
+    "@language" : "ja",
+    "@value" : "Esakia : occasional papers of the Hikosan Biological Laboratory in Entomology"
+  }, {
+    "@language" : "ja",
+    "@value" : "ESAKIA, Kyushu University Publications in Entomology"
+  }, {
+    "@language" : "en",
+    "@value" : "ESAKIA"
+  }, {
+    "@language" : "en",
+    "@value" : "ESAKIA, Kyushu University Publications in Entomology"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1960"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.lib.kyushu-u.ac.jp/publications_kyushu/esakia"
+  }, {
+    "@id" : "https://www.lib.kyushu-u.ac.jp/en/publications_kyushu/esakia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0071-1268"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210188346"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2014"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "02FD6515-23ED-4746-AFF4-D31508BC83A0"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2436-6455"
+  }, {
+    "@value" : "0071-1268"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Esakia"
+  } ]
+} ]

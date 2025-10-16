@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758702",
+  "http://example.com/crossref" : [ {
+    "@value" : "3105"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dx.doi.org/10.1007/11160.1573-5184"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0960-3166"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S140103977"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1573-5184"
+  }, {
+    "@value" : "0960-3166"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Reviews in Fish Biology and Fisheries"
+  } ]
+} ]

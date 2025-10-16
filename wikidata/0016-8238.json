@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385383",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0016-8238"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0016-8238"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Georgia Entomological Society"
+  } ]
+} ]

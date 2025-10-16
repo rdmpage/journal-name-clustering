@@ -1,0 +1,83 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q19881044",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Sci. Adv."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Science advances"
+  }, {
+    "@language" : "ja",
+    "@value" : "サイエンス・アドヴァンシズ"
+  }, {
+    "@language" : "ja",
+    "@value" : "サイエンス・アドバンシズ"
+  }, {
+    "@language" : "fr",
+    "@value" : "Sci. Adv."
+  }, {
+    "@language" : "es",
+    "@value" : "Sci Adv"
+  }, {
+    "@language" : "zh",
+    "@value" : "科學進展"
+  }, {
+    "@language" : "en",
+    "@value" : "Sci. Adv."
+  }, {
+    "@language" : "es",
+    "@value" : "Science advances"
+  }, {
+    "@language" : "ru",
+    "@value" : "Sci. Adv."
+  }, {
+    "@language" : "es",
+    "@value" : "ScienceAdvances"
+  }, {
+    "@language" : "en",
+    "@value" : "ScienceAdvances"
+  }, {
+    "@language" : "de",
+    "@value" : "Sci. Adv."
+  }, {
+    "@language" : "en",
+    "@value" : "Sci Adv"
+  }, {
+    "@language" : "ru",
+    "@value" : "Научные Успехи"
+  }, {
+    "@language" : "es",
+    "@value" : "Sci. Adv."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "267393"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2375-2548"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2015"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://advances.sciencemag.org/"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/74228"
+  }, {
+    "@id" : "http://news.sciencemag.org/people-events/2014/02/aaas-launches-open-access-journal"
+  }, {
+    "@id" : "https://www.science.org/journal/sciadv"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2375-2548"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737427234"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2375-2548"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Science advances"
+  } ]
+} ]

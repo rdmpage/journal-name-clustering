@@ -1,0 +1,64 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15315076",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bol. Mus. Munic. Funchal"
+  }, {
+    "@language" : "en",
+    "@value" : "Bol. Mus. Municip. Funchal"
+  }, {
+    "@language" : "en",
+    "@value" : "Boletim do Museu Municipal do Funchal"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bol. Mus. Munic. Funchal"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bol. Mus. Municip. Funchal"
+  }, {
+    "@language" : "fr",
+    "@value" : "Boletim do Museu Municipal do Funchal"
+  }, {
+    "@language" : "pt",
+    "@value" : "Bol. Mus. Munic. Funchal"
+  }, {
+    "@language" : "pt",
+    "@value" : "Bol. Mus. Municip. Funchal"
+  }, {
+    "@language" : "pt",
+    "@value" : "Boletim do Museu Municipal do Funchal"
+  }, {
+    "@language" : "de",
+    "@value" : "Bol. Mus. Munic. Funchal"
+  }, {
+    "@language" : "de",
+    "@value" : "Bol. Mus. Municip. Funchal"
+  }, {
+    "@language" : "de",
+    "@value" : "Boletim do Museu Municipal do Funchal"
+  }, {
+    "@language" : "es",
+    "@value" : "Bol. Mus. Munic. Funchal"
+  }, {
+    "@language" : "es",
+    "@value" : "Bol. Mus. Municip. Funchal"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://publications.cm-funchal.pt/publicacoes/boletimBMMF.jsp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0870-3876"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "189AA979-BE89-4196-A499-CFBC517BB139"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2183-279X"
+  }, {
+    "@value" : "0870-3876"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletim do Museu de História Natural do Funchal"
+  } ]
+} ]

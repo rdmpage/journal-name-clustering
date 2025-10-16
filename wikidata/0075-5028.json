@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51505379",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Misc. publ. Univ. Kans. Mus. Nat. Hist."
+  }, {
+    "@language" : "en",
+    "@value" : "Miscellaneous publication"
+  }, {
+    "@language" : "en",
+    "@value" : "Miscellaneous publication - University of Kansas, Museum of Natural History"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0075-5028"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "4050"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297337"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1946"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0075-5028"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210221568"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0075-5028"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Miscellaneous publication - University of Kansas, Museum of Natural History"
+  } ]
+} ]

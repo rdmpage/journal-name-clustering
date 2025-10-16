@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51380078",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Abhandlungen der Schweizerischen Paläontologischen Gesellschaft"
+  }, {
+    "@language" : "de",
+    "@value" : "Abhandlungen der Schweizerischen Paläontologischen Gesellschaft"
+  }, {
+    "@language" : "en",
+    "@value" : "Mémoires de la société paléontologique suisse"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "105124"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1874"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1421-3311"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1939"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1421-3311"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Mémoires de la société paléontologique suisse"
+  }, {
+    "@language" : "de",
+    "@value" : "Abhandlungen der Schweizerischen Paläontologischen Gesellschaft"
+  }, {
+    "@language" : "de",
+    "@value" : "Abhandlungen der Schweizerischen Paläontologischen Gesellschaft."
+  } ]
+} ]

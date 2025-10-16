@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749439",
+  "http://example.com/crossref" : [ {
+    "@value" : "412"
+  }, {
+    "@value" : "242"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1535-1459"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S133770025"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0886-9375"
+  }, {
+    "@value" : "1099-1646"
+  }, {
+    "@value" : "1535-1459"
+  }, {
+    "@value" : "1535-1467"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "River Research and Applications"
+  } ]
+} ]

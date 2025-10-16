@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754726",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Revista científica"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0798-2259"
+  }, {
+    "@value" : "2521-9715"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.produccioncientificaluz.org/index.php/cientifica/instrucciones"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0798-2259"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210195103"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0798-2259"
+  }, {
+    "@value" : "2521-9715"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista científica"
+  }, {
+    "@language" : "es",
+    "@value" : "Universidad del Zulia. Facultad de Ciencias Veterinarias. Revista Científica"
+  } ]
+} ]

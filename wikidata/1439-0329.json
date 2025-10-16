@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5469074",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Forest Pathol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1437-4781"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3737"
+  }, {
+    "@value" : "239289"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0329"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210218869"
+  }, {
+    "@value" : "S51065943"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1437-4781"
+  }, {
+    "@value" : "1439-0329"
+  }, {
+    "@value" : "0300-1237"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Forest Pathology"
+  } ]
+} ]

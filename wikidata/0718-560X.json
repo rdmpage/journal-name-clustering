@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723975",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "LAJAR"
+  }, {
+    "@language" : "en",
+    "@value" : "Latin American Journal of Aquatic Research"
+  }, {
+    "@language" : "en",
+    "@value" : "Lat Am J Aquat Res"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "83067"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0718-560X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.lajar.cl"
+  }, {
+    "@id" : "http://www.scielo.cl/lajar.htm"
+  }, {
+    "@id" : "mailto:lajar@ucv.cl"
+  }, {
+    "@id" : "mailto:spalma@ucv.cl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0718-560X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S164034821"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0718-560X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Latin American journal of aquatic research"
+  } ]
+} ]

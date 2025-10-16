@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21034204",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Fac. Agric. Hokkaido Univ."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Hokkaido Daigaku Nogakubu kiyo"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Fac. Agric. Hokkaido Univ."
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Faculty of Agriculture, Hokkaido University"
+  }, {
+    "@language" : "es",
+    "@value" : "Journal of the Faculty of Agriculture, Hokkaido University"
+  }, {
+    "@language" : "ja",
+    "@value" : "北海道大学農学部紀要"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://eprints.lib.hokudai.ac.jp/journals/index.php?jname=161"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0018-344X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0018-344X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "北海道大學農學部紀要"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Faculty of Agriculture of the Hokaido University"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Faculty of Agriculture, Hokkaido University"
+  } ]
+} ]

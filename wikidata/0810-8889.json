@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755075",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Memoir ... of the Association of Australasian Palaeontologists"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0810-8889"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765015952"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0810-8889"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoir ... of the Association of Australasian Palaeontologists"
+  }, {
+    "@language" : "en",
+    "@value" : "Memoirs of the Association of Australasian Palaeontologists"
+  } ]
+} ]

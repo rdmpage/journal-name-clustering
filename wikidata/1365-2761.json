@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756308",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "J. Fish Dis."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3554"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2761"
+  }, {
+    "@id" : "http://www.blacksci.co.uk/%7Ecgilib/jnlpage.bin?Journal=jfd&File=jfd&Page=aims"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0140-7775"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S25518365"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1365-2761"
+  }, {
+    "@value" : "0140-7775"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Fish Diseases"
+  } ]
+} ]

@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386317",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Persian journal of acarology"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 2251-8169"
+  }, {
+    "@language" : "en",
+    "@value" : "Persian journal of acarology"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2251-8169"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.acarology.ir/journal.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2251-8169"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764911371"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "52350A28-CB03-46D6-AF75-329B8AC2A8EB"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2251-8169"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Persian journal of acarology"
+  } ]
+} ]

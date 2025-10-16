@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723996",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2544-3941"
+  }, {
+    "@language" : "en",
+    "@value" : "Nat J (Opole)"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://nature-journal.uni.opole.pl/journal-contents"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0474-2931"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0474-2931"
+  }, {
+    "@value" : "2544-3941"
+  }, {
+    "@value" : "2082-0887"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Zeszyty Przyrodnicze"
+  }, {
+    "@language" : "en",
+    "@value" : "Nature Journal (Opole)"
+  } ]
+} ]

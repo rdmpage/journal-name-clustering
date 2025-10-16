@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719760",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Revue générale des sciences pures et appliquées."
+  }, {
+    "@language" : "en",
+    "@value" : "Rev Gen Sci Pures Appl Bull Assoc Fr Av Sci"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "10541"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1890"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/cb343784049/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-5196"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1947"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-5196"
+  }, {
+    "@value" : "2419-8056"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Revue générale des sciences pures et appliquées"
+  }, {
+    "@language" : "en",
+    "@value" : "Revue générale des sciences pures et appliquées."
+  } ]
+} ]

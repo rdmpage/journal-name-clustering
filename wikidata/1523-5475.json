@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766702",
+  "http://example.com/crossref" : [ {
+    "@value" : "86405"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S198131128"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0735-939X"
+  }, {
+    "@value" : "1523-5475"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Agricultural and Urban Entomology"
+  } ]
+} ]

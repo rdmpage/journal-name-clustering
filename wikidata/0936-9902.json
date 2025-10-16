@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385247",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Ichthyol. Explor. Freshwat."
+  }, {
+    "@language" : "de",
+    "@value" : "Ichthyol. Explor. Freshwat."
+  }, {
+    "@language" : "fr",
+    "@value" : "Ichthyol. Explor. Freshwaters"
+  }, {
+    "@language" : "en",
+    "@value" : "Ichthyol. Explor. Freshwat."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0936-9902"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S139957811"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "57024404-FC5E-436F-91A8-D08C80D3D09B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0936-9902"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Ichthyological exploration of freshwaters"
+  }, {
+    "@language" : "en",
+    "@value" : "Ichthyological exploration of freshwaters"
+  } ]
+} ]

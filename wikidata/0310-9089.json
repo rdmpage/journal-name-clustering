@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21384951",
+  "http://example.com/crossref" : [ {
+    "@value" : "95366"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0310-9089"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S195557966"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "1E3B6A0F-9D29-4CF7-A385-955C22B1C657"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0310-9089"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australian Journal of Zoology. Supplementary Series"
+  } ]
+} ]

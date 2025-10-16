@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96696123",
+  "http://example.com/crossref" : [ {
+    "@value" : "337597"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2651-5474"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dergipark.gov.tr/actaquatr"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2651-5474"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210224161"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2651-5474"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta aquatica turcica"
+  } ]
+} ]

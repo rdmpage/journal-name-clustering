@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752001",
+  "http://example.com/crossref" : [ {
+    "@value" : "59928"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://actavet.vfu.cz/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-7213"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S149074594"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-7213"
+  }, {
+    "@value" : "1801-7576"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Acta Veterinaria Brno"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta veterinaria Brno"
+  } ]
+} ]

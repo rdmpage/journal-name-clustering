@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q101246283",
+  "http://example.com/doaj" : [ {
+    "@value" : "2673-6004"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.mdpi.com/journal/birds"
+  }, {
+    "@id" : "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:ch:bel-1822298"
+  }, {
+    "@id" : "http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-1822298"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2673-6004"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210237514"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2673-6004"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Birds"
+  } ]
+} ]

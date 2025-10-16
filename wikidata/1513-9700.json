@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385444",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nat. Hist. J. Chulalongkorn Univ."
+  }, {
+    "@language" : "en",
+    "@value" : "Natural History Journal of Chulalongkorn University"
+  }, {
+    "@language" : "en",
+    "@value" : "Warasan Thammachat Witthaya haeng Chulalongkorn Mahawitthayalai"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1513-9700"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1513-9700"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2009"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1513-9700"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Natural History Journal of Chulalongkorn University"
+  } ]
+} ]

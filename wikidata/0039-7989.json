@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27713573",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Syst Zool"
+  }, {
+    "@language" : "en",
+    "@value" : "Syst. Zool."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "56068"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/journals/00397989.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0039-7989"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "systzool"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210184911"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2330-1198"
+  }, {
+    "@value" : "0039-7989"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Systematic zoology"
+  } ]
+} ]

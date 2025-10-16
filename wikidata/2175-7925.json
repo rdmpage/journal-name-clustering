@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50426340",
+  "http://example.com/crossref" : [ {
+    "@value" : "117725"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "26380"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2175-7925"
+  }, {
+    "@value" : "0103-1643"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.biotemas.ufsc.br/index.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0103-1643"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2736568604"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0103-1643"
+  }, {
+    "@value" : "2175-7925"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Biotemas"
+  } ]
+} ]

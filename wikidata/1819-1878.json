@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761545",
+  "http://example.com/crossref" : [ {
+    "@value" : "83449"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1819-1878"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S58729077"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1819-1878"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Asian Journal of Animal Sciences"
+  } ]
+} ]

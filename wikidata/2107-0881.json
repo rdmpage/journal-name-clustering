@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757779",
+  "http://example.com/crossref" : [ {
+    "@value" : "118806"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sciencepress.mnhn.fr/fr/periodiques/anthropozoologica"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0761-3032"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210233383"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0761-3032"
+  }, {
+    "@value" : "2107-0881"
+  }, {
+    "@value" : "0994-7213"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Anthropozoologica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Anthropozoologica"
+  } ]
+} ]

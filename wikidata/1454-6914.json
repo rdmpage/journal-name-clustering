@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q127425846",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://olteniastudii.3x.ro/cont.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1454-6914"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2068-0139"
+  }, {
+    "@value" : "1454-6914"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ro",
+    "@value" : "Oltenia-Studii şi comunicări Ştiinţele naturii.ro"
+  }, {
+    "@language" : "ro",
+    "@value" : "Oltenia-Studii şi comunicări. Ştiinţele naturii"
+  }, {
+    "@language" : "en",
+    "@value" : "Oltenia Journal for Studies in Natural Sciences"
+  } ]
+} ]

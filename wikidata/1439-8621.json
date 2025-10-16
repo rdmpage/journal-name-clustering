@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723511",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Limnology (Tokyo)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "10223"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springerlink.com/content/1439-863X"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1439-8621"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S148760032"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1439-8621"
+  }, {
+    "@value" : "1439-863X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Limnology"
+  } ]
+} ]

@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759269",
+  "http://example.com/crossref" : [ {
+    "@value" : "174525"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0394-6975"
+  }, {
+    "@value" : "1970-9528"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1988"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://pagepress.org/biology/tz/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0394-6975"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S142706260"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://www.tandfonline.com/feed/rss/ttzo20"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1970-9528"
+  }, {
+    "@value" : "0394-6975"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Tropical Zoology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Tropical zoology"
+  } ]
+} ]

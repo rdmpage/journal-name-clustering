@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763816",
+  "http://example.com/crossref" : [ {
+    "@value" : "627"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=1049-9644;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.academicpress.com/biocon"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/10499644"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/biological-control"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1049-9644"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S161676133"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1049-9644"
+  }, {
+    "@value" : "1090-2112"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biological Control"
+  } ]
+} ]

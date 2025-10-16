@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22110434",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://clade.acnatsci.org/lendemer/opus.html"
+  }, {
+    "@id" : "http://clade.ansp.org/botany/people/lendemer/opus.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1941-7519"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1941-7527"
+  }, {
+    "@value" : "1941-7519"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Opuscula philolichenum"
+  }, {
+    "@language" : "und",
+    "@value" : "Opuscula Philolichenum"
+  } ]
+} ]

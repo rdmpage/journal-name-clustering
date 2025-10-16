@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725749",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Universitas Scientiarum"
+  }, {
+    "@language" : "en",
+    "@value" : "Univ Sci (Bogota)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "225748"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2027-1352"
+  }, {
+    "@value" : "0122-7483"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0122-7483"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210180477"
+  }, {
+    "@value" : "S4306533875"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0122-7483"
+  }, {
+    "@value" : "2027-1352"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Universitas scientiarum"
+  }, {
+    "@language" : "en",
+    "@value" : "Universitas scientiarum"
+  } ]
+} ]

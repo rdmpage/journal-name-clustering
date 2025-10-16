@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750742",
+  "http://example.com/doaj" : [ {
+    "@value" : "0022-4456"
+  }, {
+    "@value" : "0975-1084"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://nopr.niscair.res.in/handle/123456789/46"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-4456"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S20781845"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-4456"
+  }, {
+    "@value" : "0975-1084"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Scientific and Industrial Research"
+  } ]
+} ]

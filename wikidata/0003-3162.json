@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27708993",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Angew Parasitol"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-3162"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2754400875"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0003-3162"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Angewandte Parasitologie"
+  }, {
+    "@language" : "mul",
+    "@value" : "Angewandte Parasitologie"
+  } ]
+} ]

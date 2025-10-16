@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27712071",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "pt",
+    "@value" : "Memórias do Instituto de Butantan"
+  }, {
+    "@language" : "fr",
+    "@value" : "Memórias do Instituto de Butantan"
+  }, {
+    "@language" : "en",
+    "@value" : "Mem Inst Butantan"
+  }, {
+    "@language" : "en",
+    "@value" : "Mem. Inst. Butantan (São Paulo)"
+  }, {
+    "@language" : "en",
+    "@value" : "Memórias do Instituto de Butantan"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "97055"
+  }, {
+    "@value" : "122512"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1918"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0073-9901"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306519731"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0073-9901"
+  }, {
+    "@value" : "1982-3045"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Memórias do Instituto Butantan"
+  }, {
+    "@language" : "mul",
+    "@value" : "Memórias do Instituto Butantan"
+  } ]
+} ]

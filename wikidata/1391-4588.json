@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725094",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the National Science Foundation"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Natl. Sci. Found. Sri Lanka"
+  }, {
+    "@language" : "en",
+    "@value" : "J Natl Sci Found"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "81025"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1391-4588"
+  }, {
+    "@value" : "2362-0161"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://jnsfsl.sljol.info/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1391-4588"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S201081534"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1391-4588"
+  }, {
+    "@value" : "2362-0161"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the National Science Foundation of Sri Lanka"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the National Science Foundation"
+  } ]
+} ]

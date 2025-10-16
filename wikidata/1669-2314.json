@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50435013",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Revista Investigaciones Agropecuarias"
+  }, {
+    "@language" : "en",
+    "@value" : "Revista de Investigaciones Agropecuarias"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0325-8718"
+  }, {
+    "@value" : "1669-2314"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ria.inta.gob.ar/"
+  }, {
+    "@id" : "http://www.redalyc.org/revista.oa?id=864"
+  }, {
+    "@id" : "http://www.scielo.org.ar/scielo.php?script=sci_serial&pid=1669-2314&lng=es&nrm=iso"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0325-8718"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2738259653"
+  }, {
+    "@value" : "S4306526833"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2250-415X"
+  }, {
+    "@value" : "1669-2314"
+  }, {
+    "@value" : "0325-8718"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "RIA: Revista Investigaciones Agropecuarias"
+  }, {
+    "@language" : "mul",
+    "@value" : "RIA. Revista de investigaciones agropecuarias"
+  } ]
+} ]

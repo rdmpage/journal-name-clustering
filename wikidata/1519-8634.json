@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96706646",
+  "http://example.com/crossref" : [ {
+    "@value" : "304686"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.periodicos.rc.biblioteca.unesp.br/index.php/holos"
+  }, {
+    "@id" : "https://www.cea-unesp.org.br/holos/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1519-8421"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764557490"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1519-8421"
+  }, {
+    "@value" : "1519-8634"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Holos environment"
+  } ]
+} ]

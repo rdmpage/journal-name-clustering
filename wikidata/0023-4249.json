@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q11744027",
+  "http://example.com/crossref" : [ {
+    "@value" : "376144"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1876"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://kosmos.icm.edu.pl/"
+  }, {
+    "@id" : "https://kosmos.ptpk.org/index.php/Kosmos"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0023-4249"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210181051"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2658-1132"
+  }, {
+    "@value" : "0023-4249"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Kosmos"
+  }, {
+    "@language" : "und",
+    "@value" : "Kosmos"
+  } ]
+} ]

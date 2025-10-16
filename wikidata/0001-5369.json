@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756567",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Acta Bot. Fenn."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Acta Bot. Fenn."
+  }, {
+    "@language" : "es",
+    "@value" : "Acta Bot. Fenn."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-5369"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-5369"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta botanica Fennica"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Botanica Fennica"
+  } ]
+} ]

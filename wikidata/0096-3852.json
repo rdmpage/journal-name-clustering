@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q10987448",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Academy of Science of Saint Louis"
+  }, {
+    "@language" : "de",
+    "@value" : "Trans. Acad. Sci. St. Louis"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "42204"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297351"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1860"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.biodiversitylibrary.org/bibliography/42204#/summary"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0096-3852"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210209646"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0096-3852"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Academy of Science of St. Louis"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Academy of Science of Saint Louis"
+  } ]
+} ]

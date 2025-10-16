@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27716121",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc Dorset Nat Hist Archeol Soc"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings - Dorset Natural History & Archaeological Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings - Dorset Natural History and Archaeological Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Dorset Natural History and Antiquarian Field Club"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "17468"
+  }, {
+    "@value" : "82474"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1877"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0070-7112"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0070-7112"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Dorset Natural History and Antiquarian Field Club"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings - Dorset Natural History & Archaeological Society"
+  } ]
+} ]

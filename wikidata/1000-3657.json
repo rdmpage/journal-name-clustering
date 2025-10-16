@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328513",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Zhongguo dizhi"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "DIZI"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://geochina.cgs.gov.cn/geochina/home"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-3657"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764498872"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-3657"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh-hans",
+    "@value" : "中国地质"
+  }, {
+    "@language" : "zh",
+    "@value" : "Zhongguo dizhi"
+  } ]
+} ]

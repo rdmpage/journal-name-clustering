@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15716505",
+  "http://example.com/crossref" : [ {
+    "@value" : "3599"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1984"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://web.a.ebscohost.com/ehost/command/detail?sid=36879134-e625-444f-9bd1-6ad6f7beca4a%40sessionmgr4001&vid=0&hid=4114&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#db=a9h&jid=7ZV"
+  }, {
+    "@id" : "https://gsa.org.au"
+  }, {
+    "@id" : "https://www.tandfonline.com/action/journalInformation?journalCode=taje20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0812-0099"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S55736957"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1440-0952"
+  }, {
+    "@value" : "0812-0099"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australian Journal of Earth Sciences"
+  } ]
+} ]

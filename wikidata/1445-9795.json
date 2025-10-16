@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749949",
+  "http://example.com/crossref" : [ {
+    "@value" : "20918"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journalsonline.tandf.co.uk/app/home/journal.asp?wasp=3e83c3wxwh4jnmfydad3&referrer=parent&backto=searchpublicationsresults,1,1;homemain,1,1;"
+  }, {
+    "@id" : "http://www.tandfonline.com/toc/rigs20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1445-9795"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S97556332"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1445-9809"
+  }, {
+    "@value" : "1479-4276"
+  }, {
+    "@value" : "1445-9795"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Gambling Studies"
+  } ]
+} ]

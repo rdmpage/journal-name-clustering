@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15772734",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Verh. Zool.-Bot. Ges. Wien"
+  }, {
+    "@language" : "en",
+    "@value" : "Verh. Zool.-Bot. Ges. Wien"
+  }, {
+    "@language" : "de",
+    "@value" : "Verh. Zool.-Bot. Ges. Wien"
+  }, {
+    "@language" : "fr",
+    "@value" : "Verh. Zool.-Bot. Ges. Wien"
+  }, {
+    "@language" : "pt",
+    "@value" : "Verh. Zool.-Bot. Ges. Wien"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "44800"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297265"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1918"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0084-5647"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210226896"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1976"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0084-5647"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien"
+  } ]
+} ]

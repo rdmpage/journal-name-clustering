@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719250",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nanjing Nong Ye Da Xue Xue Bao"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-2030"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764579053"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-2030"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Nanjing nong ye da xue xue bao"
+  }, {
+    "@language" : "zh",
+    "@value" : "Nanjing Nongye Daxue xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Nanjing Agricultural University"
+  } ]
+} ]

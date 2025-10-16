@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721697",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Web Ecol"
+  }, {
+    "@language" : "en",
+    "@value" : "Web Ecology"
+  }, {
+    "@language" : "en",
+    "@value" : "WE"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "225866"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1399-1183"
+  }, {
+    "@value" : "2193-3081"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1399-1183"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764388058"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2193-3081"
+  }, {
+    "@value" : "1399-1183"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Web ecology"
+  } ]
+} ]

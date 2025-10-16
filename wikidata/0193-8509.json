@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q43617248",
+  "http://example.com/crossref" : [ {
+    "@value" : "46038"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=1533-6085"
+  }, {
+    "@id" : "http://www.jstor.org/journals/01938509.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1533-6085"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jariznevaacadsci"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S119939250"
+  }, {
+    "@value" : "S4210184181"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1533-6085"
+  }, {
+    "@value" : "0193-8509"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Arizona-Nevada Academy of Science"
+  } ]
+} ]

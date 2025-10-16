@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96324789",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Dixue qianyuan"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "DXQY"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.earthsciencefrontiers.net.cn/CN/1005-2321/current.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1005-2321"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S3181763"
+  }, {
+    "@value" : "S4306508194"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1005-2321"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Dixue qianyuan"
+  } ]
+} ]

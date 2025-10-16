@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727087",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Iran J Ichthyol"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2383-1561"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765058387"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "83C9CDDF-3EF0-4EF5-A9FA-46ECA04D48F7"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2383-1561"
+  }, {
+    "@value" : "2383-0964"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Iranian journal of ichthyology"
+  } ]
+} ]

@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723740",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Trop Life Sci Res"
+  }, {
+    "@language" : "en",
+    "@value" : "Tropical Life Sciences Research"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "301748"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2180-4249"
+  }, {
+    "@value" : "1985-3718"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.usm.my/bio/bioscience/Home/Home.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1985-3718"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764848098"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2180-4249"
+  }, {
+    "@value" : "1985-3718"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Tropical life sciences research"
+  } ]
+} ]

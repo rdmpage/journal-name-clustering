@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q100701262",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0376-1444"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Institute of Paleontology"
+  }, {
+    "@language" : "en",
+    "@value" : "Travaux de l'Institut Paléontologique"
+  }, {
+    "@language" : "en",
+    "@value" : "Trudy Paleontologičeskogo Instituta"
+  }, {
+    "@language" : "en",
+    "@value" : "Trudy Paleontologicheskogo Instituta"
+  }, {
+    "@language" : "ru",
+    "@value" : "Труды Палеонтологического института Академии наук СССР"
+  }, {
+    "@language" : "ru",
+    "@value" : "Труды Палеонтологического института Российской Академии наук"
+  }, {
+    "@language" : "ru",
+    "@value" : "Труды ПИН"
+  }, {
+    "@language" : "ru",
+    "@value" : "Труды ПИН АН СССР"
+  }, {
+    "@language" : "ru",
+    "@value" : "Труды ПИН РАН"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1938"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0376-1444"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0376-1444"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Труды Палеонтологического Института"
+  } ]
+} ]

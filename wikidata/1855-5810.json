@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385830",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1855-5810"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "306959"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://illiesia.speciesfile.org/"
+  }, {
+    "@id" : "http://www2.pms-lj.si/illiesia/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1854-0392"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210189945"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1854-0392"
+  }, {
+    "@value" : "1855-5810"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Illiesia"
+  } ]
+} ]

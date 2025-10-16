@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386206",
+  "http://example.com/crossref" : [ {
+    "@value" : "170046"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandfonline.com/loi/tzec20"
+  }, {
+    "@id" : "http://www.tandfonline.com/tzec"
+  }, {
+    "@id" : "https://libcongressdc.library.ingentaconnect.com/content/2165-8005"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2165-8005"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764477545"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2165-8013"
+  }, {
+    "@value" : "2165-8005"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zoology and Ecology"
+  } ]
+} ]

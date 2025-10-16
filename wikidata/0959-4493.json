@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752609",
+  "http://example.com/crossref" : [ {
+    "@value" : "3705"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/%28issn%291365-3164/issues"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=vde"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0959-4493"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S79187626"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0959-4493"
+  }, {
+    "@value" : "1365-3164"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Veterinary dermatology"
+  }, {
+    "@language" : "en",
+    "@value" : "Veterinary Dermatology: an international journal"
+  } ]
+} ]

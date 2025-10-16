@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766444",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "WJZ"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1817-3098"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.idosi.org/wjz/zoology.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1817-3098"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306534945"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1817-3098"
+  }, {
+    "@value" : "1991-6442"
+  }, {
+    "@value" : "1817-3144"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "World Journal of Zoology"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4744260",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "AJBA"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2022"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://onlinelibrary.wiley.com/journal/26927691"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2692-7691"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2692-7691"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "American Journal of Biological Anthropology"
+  } ]
+} ]

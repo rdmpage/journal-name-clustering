@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q131300409",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Insect Biodivers. Syst."
+  }, {
+    "@language" : "en",
+    "@value" : "JIBS"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2015"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://jibs.modares.ac.ir"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2423-8112"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Insect Biodiversity and Systematics"
+  } ]
+} ]

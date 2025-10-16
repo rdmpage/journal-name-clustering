@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q9372392",
+  "http://example.com/from_year" : [ {
+    "@value" : "1969"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://pte.au.poznan.pl/we/index.html"
+  }, {
+    "@id" : "http://www.pte.up.poznan.pl/we/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0138-0737"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306534744"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0138-0737"
+  }, {
+    "@value" : "2544-7882"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Wiadomości Entomologiczne"
+  }, {
+    "@language" : "mul",
+    "@value" : "Wiadomości Entomologiczne"
+  } ]
+} ]

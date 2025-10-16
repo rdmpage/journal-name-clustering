@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386146",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2079-178X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://hkentsoc.org/publications/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2079-178X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2226-2865"
+  }, {
+    "@value" : "2079-178X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Hong Kong entomological bulletin"
+  }, {
+    "@language" : "zh-hant",
+    "@value" : "香港昆蟲報"
+  } ]
+} ]

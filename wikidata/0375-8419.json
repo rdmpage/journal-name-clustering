@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q25653961",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Institute of Oceanology"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the P.P. Shirshov Institute of Oceanology"
+  }, {
+    "@language" : "ru",
+    "@value" : "Труды Института океанологии им. П.П. Ширшова"
+  }, {
+    "@language" : "en",
+    "@value" : "Trudy Instituta okeanologii im. P.P. Širšova"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1946"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-8419"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "984898D9-FB1E-427B-BAEB-A435700D8910"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0375-8419"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Труды Института океанологии"
+  }, {
+    "@language" : "ru",
+    "@value" : "Труды Института океанологии им. П.П. Ширшова"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of Institute of Oceanology"
+  } ]
+} ]

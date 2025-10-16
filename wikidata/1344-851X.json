@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385164",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1344-851X"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "FD358446-7B67-41B3-B6D8-01C19EF018EC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1344-851X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of the Myrmecological Society of Japan"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5694357",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Anales del Instituto de Biologia de la Universidad Nacional Autonoma de Mexico"
+  }, {
+    "@language" : "es",
+    "@value" : "Anales del Instituto de Biología, Universidad Nacional Autónoma de México. Serie botánica"
+  }, {
+    "@language" : "en",
+    "@value" : "Anales del Instituto de Biologia de la Universidad Nacional Autonoma de Mexico"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.revistas.unam.mx/index.php/bot"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0185-254X"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0185-254X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Anales del Instituto de Biología, Universidad Nacional Autónoma de México. Serie botánica"
+  } ]
+} ]

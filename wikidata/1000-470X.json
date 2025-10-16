@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q102080099",
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-470X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Wuhan Botanical Research"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q27719515",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Wuhan Zhi Wu Xue Yan Jiu"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "99345"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-470X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S172281793"
+  }, {
+    "@value" : "S4306534998"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-470X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Wuhan zhi wu xue yan jiu = Wuhan botanical research"
+  }, {
+    "@language" : "zh",
+    "@value" : "Wuhan zhiwuxue yanjiu"
+  } ]
+} ]

@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7170651",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Personality & social psychology bulletin"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "15250"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.sagepub.com/home/psp"
+  }, {
+    "@id" : "http://psp.sagepub.com/"
+  }, {
+    "@id" : "http://PSP.sagepub.com/"
+  }, {
+    "@id" : "http://search.epnet.com/login.asp?profile=web"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0146-1672"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S187348256"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0146-1672"
+  }, {
+    "@value" : "1552-7433"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Personality & social psychology bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Personality and Social Psychology Bulletin"
+  } ]
+} ]

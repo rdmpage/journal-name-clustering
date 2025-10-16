@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723614",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Suisan Zoshoku"
+  }, {
+    "@language" : "ja",
+    "@value" : "Suisan Zoshoku"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/aquaculturesci/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0371-4217"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "aquaculturesci"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2185-0194"
+  }, {
+    "@value" : "0371-4217"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Suisan zoshoku"
+  }, {
+    "@language" : "ja",
+    "@value" : "Suisan Zoshoku"
+  } ]
+} ]

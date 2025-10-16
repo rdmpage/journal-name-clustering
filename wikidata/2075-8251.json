@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723435",
+  "http://example.com/crossref" : [ {
+    "@value" : "325039"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://actanaturae.ru/2075-8251/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2075-8251"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2491839190"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2075-8251"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta naturae"
+  } ]
+} ]

@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q95892623",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin - Utah Geological and Mineral Survey"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin - Utah Geological Survey"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the Utah Geological and Mineral Survey"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the Utah Geological Survey"
+  }, {
+    "@language" : "en",
+    "@value" : "Utah Geological and Mineral Survey Bulletin"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0096-9605"
+  }, {
+    "@value" : "0098-4825"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Utah Geological Survey Bulletin"
+  } ]
+} ]

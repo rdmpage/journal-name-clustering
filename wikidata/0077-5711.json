@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51431664",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc. Natl. Shellfish. Ass."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "2187"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297403"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1954"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0077-5711"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210188254"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1980"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0077-5711"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the National Shellfisheries Association"
+  } ]
+} ]

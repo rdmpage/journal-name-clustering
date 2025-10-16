@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50534329",
+  "http://example.com/crossref" : [ {
+    "@value" : "303338"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2255-9582"
+  }, {
+    "@value" : "1691-8088"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://eeb.lu.lv"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1691-8088"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210190225"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1691-8088"
+  }, {
+    "@value" : "2255-9582"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environmental and Experimental Biology"
+  } ]
+} ]

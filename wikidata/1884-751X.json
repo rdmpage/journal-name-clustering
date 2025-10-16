@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96723492",
+  "http://example.com/crossref" : [ {
+    "@value" : "311878"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1884-751X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210177414"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1884-751X"
+  }, {
+    "@value" : "1884-7528"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Pan Africa news"
+  } ]
+} ]

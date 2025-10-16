@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96701796",
+  "http://example.com/crossref" : [ {
+    "@value" : "153778"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1597-3115"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764605548"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1597-3115"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Animal Research international"
+  } ]
+} ]

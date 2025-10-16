@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q59345716",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "USGS SIR"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=xSbwAAAAMAAJ"
+  }, {
+    "@id" : "http://pubs.er.usgs.gov/#search:advance/page=1/page_size=100/report_series=Scientific%20Investigations%20Report/pub_type=USGS%20Numbered%20Series:0"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2328-0328"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764832999"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2328-0328"
+  }, {
+    "@value" : "2328-031X"
+  }, {
+    "@value" : "2332-5607"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Scientific Investigations Report"
+  } ]
+} ]

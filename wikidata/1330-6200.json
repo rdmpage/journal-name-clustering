@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28469660",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://haw.nsk.hr/arhiva/vol6/5086/43114/image-thumb.jpg"
+  }, {
+    "@id" : "http://haw.nsk.hr/publikacija/5086/entomologia-croatica"
+  }, {
+    "@id" : "http://hrcak.srce.hr/entomologia-croatica"
+  }, {
+    "@id" : "http://urn.nsk.hr/urn:nbn:hr:238:793308"
+  }, {
+    "@id" : "https://hrcak.srce.hr/entomologia-croatica"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1330-6200"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210232737"
+  }, {
+    "@value" : "S4306509520"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1849-0441"
+  }, {
+    "@value" : "1330-6200"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "hr",
+    "@value" : "Entomologia Croatica"
+  }, {
+    "@language" : "hr",
+    "@value" : "Entomologia Croatica :"
+  } ]
+} ]

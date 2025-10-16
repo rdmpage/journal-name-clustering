@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328777",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://publikationsserver.tu-braunschweig.de/receive/dbbs_mods_69151"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0174-3384"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0174-3384"
+  }, {
+    "@value" : "2702-6760"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Braunschweiger naturkundliche Schriften"
+  } ]
+} ]

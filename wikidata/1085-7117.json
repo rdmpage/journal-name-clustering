@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4357509",
+  "http://example.com/crossref" : [ {
+    "@value" : "55685"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.catchword.com/titles/10857117.htm"
+  }, {
+    "@id" : "http://pubs.amstat.org/loi/jabes"
+  }, {
+    "@id" : "http://www.amstat.org/publications/jabes/"
+  }, {
+    "@id" : "http://www.jstor.org/journals/10857117.html"
+  }, {
+    "@id" : "https://link.springer.com/journal/volumesAndIssues/13253"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1085-7117"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jagribiolenvista"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S185969502"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1085-7117"
+  }, {
+    "@value" : "1537-2693"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Agricultural, Biological, and Environmental Statistics"
+  } ]
+} ]

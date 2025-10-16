@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16888317",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Bol. Mus. Bot. Munic."
+  }, {
+    "@language" : "pt",
+    "@value" : "Boletim do Museu Botânico Municipal"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0100-008X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0100-008X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Boletim do Museu Botanico Municipal"
+  }, {
+    "@language" : "pt",
+    "@value" : "Boletim do Museu Botânico Municipal"
+  } ]
+} ]

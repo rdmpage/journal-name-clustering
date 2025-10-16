@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96729125",
+  "http://example.com/crossref" : [ {
+    "@value" : "239846"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://publicaciones.ua.es/publica/fichareel.aspx?Cod.02105004RD1"
+  }, {
+    "@id" : "http://rua.ua.es/dspace/handle/10045/6454"
+  }, {
+    "@id" : "https://dialnet.unirioja.es/servlet/revista?codigo=7571"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1130-6203"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210170948"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1988-6624"
+  }, {
+    "@value" : "2255-2847"
+  }, {
+    "@value" : "1130-6203"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Mediterránea. Serie de estudios biológicos"
+  } ]
+} ]

@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113476288",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://rakuno.repo.nii.ac.jp/search?search_type=2&q=51"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0069-570X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0069-570X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Rakunō Gakuen Daigaku kiyō"
+  } ]
+} ]

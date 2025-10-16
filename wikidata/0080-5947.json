@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385192",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Trans. San Diego Soc. Nat. Hist."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "3144"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297325"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1905"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0080-5947"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764585657"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1989"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0080-5947"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the San Diego Society of Natural History"
+  } ]
+} ]

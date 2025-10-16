@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96331443",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.nou.nu/limosa/index.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0024-3620"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0024-3620"
+  }, {
+    "@value" : "2543-1552"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Limosa"
+  } ]
+} ]

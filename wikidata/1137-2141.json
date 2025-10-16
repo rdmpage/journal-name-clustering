@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15278696",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Revista Real Acad. Ci. Madrid"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "2997"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.rac.es/4/4_2_1.php"
+  }, {
+    "@id" : "https://dialnet.unirioja.es/servlet/revista?codigo=2997"
+  }, {
+    "@id" : "mailto:biblioteca@rac.es"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1137-2141"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306526908"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1137-2141"
+  }, {
+    "@value" : "2659-4242"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista de la Real Academia de Ciencias Exactas, Físicas y Naturales"
+  } ]
+} ]

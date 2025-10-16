@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50817046",
+  "http://example.com/crossref" : [ {
+    "@value" : "231646"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2344-3219"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://stiinte.ulbsibiu.ro/trser/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1841-7051"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2739033019"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1841-7051"
+  }, {
+    "@value" : "2344-3219"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transylvanian Review of Systematical and Ecological Research"
+  } ]
+} ]

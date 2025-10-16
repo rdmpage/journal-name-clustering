@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q46993478",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ciencia y Tecnología Agropecuaria"
+  }, {
+    "@language" : "en",
+    "@value" : "Cienc. Tecnol. Agropecuaria (Bogotá)"
+  }, {
+    "@language" : "es",
+    "@value" : "Ciencia y Tecnología Agropecuaria"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "301577"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0122-8706"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://revistacta.agrosavia.co/index.php/revista"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0122-8706"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737097028"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0122-8706"
+  }, {
+    "@value" : "2500-5308"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Ciencia y Tecnología Agropecuaria"
+  } ]
+} ]

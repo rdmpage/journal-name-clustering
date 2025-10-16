@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27709128",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Arch Inst Pasteur Madagascar"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.pasteur.mg/aipm.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0020-2495"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306502813"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0020-2495"
+  }, {
+    "@value" : "1728-5348"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Archives de l'Institut Pasteur de Madagascar"
+  }, {
+    "@language" : "en",
+    "@value" : "Archives de l'Institut Pasteur de Madagascar"
+  } ]
+} ]

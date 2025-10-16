@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51451424",
+  "http://example.com/bhl" : [ {
+    "@value" : "62642"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "6347"
+  }, {
+    "@value" : "11097"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=BZO"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0968-0470"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S165960630"
+  }, {
+    "@value" : "S4210196061"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0968-0470"
+  }, {
+    "@value" : "1475-2980"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Natural History Museum. Zoology series"
+  } ]
+} ]

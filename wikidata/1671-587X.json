@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328369",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1671-587X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764935964"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1671-587X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Jilin Daxue xuebao. Yixue ban"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750330",
+  "http://example.com/crossref" : [ {
+    "@value" : "3704"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.acvo.org/new/diplomates/pub/journal/ophtho_journal.shtml"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=vop"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1463-5216"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S42581992"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1463-5224"
+  }, {
+    "@value" : "1463-5216"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Veterinary Ophthalmology"
+  } ]
+} ]

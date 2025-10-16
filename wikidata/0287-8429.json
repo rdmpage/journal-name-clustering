@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27709432",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ann Physiol Anthropol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "163005"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0287-8429"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "ahs1983"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764788607"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0287-8429"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Annals of physiological anthropology"
+  }, {
+    "@language" : "en",
+    "@value" : "The Annals of Physiological Anthropology"
+  } ]
+} ]

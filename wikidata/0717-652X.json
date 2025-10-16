@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15731319",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Gayana"
+  }, {
+    "@language" : "es",
+    "@value" : "Gayana (Concepción)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "39988"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "87497"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0717-6538"
+  }, {
+    "@value" : "0717-652X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.gayana.cl/"
+  }, {
+    "@id" : "http://www.scielo.cl/gayana.htm"
+  }, {
+    "@id" : "mailto:gayana@udec.cl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0717-652X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S116585955"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0717-6538"
+  }, {
+    "@value" : "0717-652X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Gayana (Concepción)"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51422801",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ann. soc. R. zool. Belg."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "16350"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1922"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0049-1136"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306502183"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1989"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0049-1136"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Annales de la Société royale zoologique de Belgique"
+  }, {
+    "@language" : "fr",
+    "@value" : "Annales de la Société royale zoologique de Belgique."
+  } ]
+} ]

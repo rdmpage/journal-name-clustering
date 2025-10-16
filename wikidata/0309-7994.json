@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27715963",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Devon Assoc Adv Sci"
+  }, {
+    "@language" : "en",
+    "@value" : "Rep. Trans. Devon. Ass. Advmt Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "Report and transactions - Devonshire Association for the Advancement of Science, Literature and Art"
+  }, {
+    "@language" : "en",
+    "@value" : "Report and transactions - The Devonshire Association for the Advancement of Science, Literature and Art. Devonshire Association for the Advancement of Science, Literature and Art"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0309-7994"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0309-7994"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Report and transactions - Devonshire Association for the Advancement of Science, Literature and Art"
+  }, {
+    "@language" : "en",
+    "@value" : "Report and transactions - The Devonshire Association for the Advancement of Science, Literature and Art. Devonshire Association for the Advancement of Science, Literature and Art"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Devonshire Association"
+  } ]
+} ]

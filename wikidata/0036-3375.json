@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2213845",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "German journal of herpetology"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1965"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.salamandra-journal.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0036-3375"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S95468716"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E2633DF4-45F7-45AD-98B4-881849EAF6E1"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0036-3375"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Salamandra"
+  } ]
+} ]

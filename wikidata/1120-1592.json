@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6010105",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mem. Reale Accad. Sci. Torino"
+  }, {
+    "@language" : "en",
+    "@value" : "Memorie Accad. Sci. Torino"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6366"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1120-1592"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1120-1592"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Memorie della Reale Accademia delle scienze di Torino"
+  }, {
+    "@language" : "it",
+    "@value" : "Memorie della Reale Accademia delle scienze di Torino"
+  } ]
+} ]

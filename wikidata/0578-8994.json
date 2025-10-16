@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27718175",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull Res Counc Isr"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0578-8994"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0578-8994"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Research Council of Israel"
+  } ]
+} ]

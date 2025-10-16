@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759745",
+  "http://example.com/bhl" : [ {
+    "@value" : "142573"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0155-4093"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306520996"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0155-4093"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Northern Territory Naturalist"
+  } ]
+} ]

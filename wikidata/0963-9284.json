@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749155",
+  "http://example.com/crossref" : [ {
+    "@value" : "4535"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://laser.minerva.at:81/deutsch/d/data/CW/308001.html"
+  }, {
+    "@id" : "http://www.tandfonline.com/toc/raed20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0963-9284"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S169699294"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1468-4489"
+  }, {
+    "@value" : "0963-9284"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Accounting education"
+  }, {
+    "@language" : "und",
+    "@value" : "Accounting Education"
+  } ]
+} ]

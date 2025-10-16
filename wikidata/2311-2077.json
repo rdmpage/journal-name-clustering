@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26839466",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "880-01 Vestnik Tomskogo gosudarstvennogo universiteta. Biologii︠a︡"
+  }, {
+    "@language" : "ru",
+    "@value" : "Vestnik Tomskogo gosudarstvennogo universiteta. Biologiâ"
+  }, {
+    "@language" : "ru",
+    "@value" : "Вестн. Том. гос. ун-та. Биология"
+  }, {
+    "@language" : "en",
+    "@value" : "Vestnik Tomskogo gosudarstvennogo universiteta. Biologiya"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "295407"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.tsu.ru/biology"
+  }, {
+    "@id" : "http://journals.tsu.ru/biology/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1998-8591"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2311-2077"
+  }, {
+    "@value" : "1998-8591"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Vestnik Tomskogo gosudarstvennogo universiteta. Biologiâ"
+  }, {
+    "@language" : "und",
+    "@value" : "Vestnik Tomskogo gosudarstvennogo universiteta. Biologiâ"
+  } ]
+} ]

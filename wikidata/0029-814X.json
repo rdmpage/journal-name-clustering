@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385692",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Haiyang yu huzhao"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0029-814X"
+  }, {
+    "@language" : "zh",
+    "@value" : "Haiyang yu huzhao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "HYFZ"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1957"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ols.iocasjournals.cn/homeNav?lang=en"
+  }, {
+    "@id" : "https://ols.iocasjournals.cn/homeNav?lang=zh"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0029-814X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306511859"
+  }, {
+    "@value" : "S4306521320"
+  }, {
+    "@value" : "S4306553962"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0029-814X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "海洋与湖沼"
+  } ]
+} ]

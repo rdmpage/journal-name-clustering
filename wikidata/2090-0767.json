@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96696941",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Egypt. Acad. J. Biol. Sci., C Physiol. Mol. Biol."
+  }, {
+    "@language" : "en",
+    "@value" : "Egyptian Academic Journal of Biological Sciences. C, Physiology &  Molecular Biology"
+  }, {
+    "@language" : "en",
+    "@value" : "Egyptian Academic Journal of Biological Sciences. C, Physiology and  Molecular Biology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "324802"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2090-0767"
+  }, {
+    "@value" : "2090-083X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://eajbsc.journals.ekb.eg"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2090-0767"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210232938"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2090-0767"
+  }, {
+    "@value" : "2090-083X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Egyptian Academic Journal of Biological Sciences. C, Physiology and  Molecular Biology"
+  } ]
+} ]

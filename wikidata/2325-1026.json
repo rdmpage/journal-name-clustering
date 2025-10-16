@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726827",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Elementa (Washington, D.C.)"
+  }, {
+    "@language" : "en",
+    "@value" : "Elementa"
+  }, {
+    "@language" : "es",
+    "@value" : "Elementa (Washington, D.C.)"
+  }, {
+    "@language" : "en",
+    "@value" : "Elementa (Wash D C)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "233308"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2325-1026"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2013"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://online.ucpress.edu/elementa"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2325-1026"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210174983"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2325-1026"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Elementa"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2622243",
+  "http://example.com/doaj" : [ {
+    "@value" : "0975-1009"
+  }, {
+    "@value" : "0019-5189"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://nopr.niscair.res.in/handle/123456789/39"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0019-5189"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S188457412"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0975-1009"
+  }, {
+    "@value" : "0019-5189"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Indian Journal of Experimental Biology"
+  } ]
+} ]

@@ -1,0 +1,58 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1092259",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Gen. Physiol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. gen. physiol."
+  }, {
+    "@language" : "de",
+    "@value" : "Journal of General Physiology"
+  }, {
+    "@language" : "en",
+    "@value" : "J Gen Physiol"
+  }, {
+    "@language" : "de",
+    "@value" : "J Gen Physiol"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of General Physiology"
+  }, {
+    "@language" : "fr",
+    "@value" : "Journal of General Physiology"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "9047"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4870"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1918"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/21865"
+  }, {
+    "@id" : "http://jgp.rupress.org/"
+  }, {
+    "@id" : "http://www.jgp.org/"
+  }, {
+    "@id" : "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=484&action=archive"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-1295"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S168548653"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1540-7748"
+  }, {
+    "@value" : "0022-1295"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of General Physiology"
+  } ]
+} ]

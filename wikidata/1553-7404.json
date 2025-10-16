@@ -1,0 +1,54 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1893441",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "PLoS Genet"
+  }, {
+    "@language" : "en",
+    "@value" : "PLoS Genetics"
+  }, {
+    "@language" : "zh",
+    "@value" : "遗传学"
+  }, {
+    "@language" : "zh",
+    "@value" : "《公共科学图书馆：遗传学》"
+  }, {
+    "@language" : "ru",
+    "@value" : "PLoS Genet."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "49860"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1553-7404"
+  }, {
+    "@value" : "1553-7390"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/10920"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/11449"
+  }, {
+    "@id" : "http://genetics.plosjournals.org/perlserv/?request=get-archive&issn=1553-7404"
+  }, {
+    "@id" : "http://www.plosgenetics.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1553-7390"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S103870658"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1553-7390"
+  }, {
+    "@value" : "1553-7404"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "PLOS Genetics"
+  } ]
+} ]

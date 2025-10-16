@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6051378",
+  "http://example.com/crossref" : [ {
+    "@value" : "867"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.de/link/service/journals/00531/index.htm"
+  }, {
+    "@id" : "http://www.springer.com/earth+sciences/geology/journal/531"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1437-3254"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S94429145"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1437-3254"
+  }, {
+    "@value" : "1437-3262"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "International journal of earth sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "International Journal of Earth Sciences"
+  } ]
+} ]

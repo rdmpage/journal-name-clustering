@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q119480438",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Astarte : journal of arctic biology"
+  }, {
+    "@language" : "en",
+    "@value" : "Astarte (Tromsø)"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1951"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0044-9768"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0044-9768"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Astarte"
+  }, {
+    "@language" : "und",
+    "@value" : "Astarte"
+  } ]
+} ]

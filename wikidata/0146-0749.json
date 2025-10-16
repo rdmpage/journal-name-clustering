@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842868",
+  "http://example.com/crossref" : [ {
+    "@value" : "377659"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/8014"
+  }, {
+    "@id" : "http://mmbr.asm.org"
+  }, {
+    "@id" : "http://pubmedcentral.com/tocrender.fcgi?action=archive&journal=146"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0146-0749"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210177515"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0146-0749"
+  }, {
+    "@value" : "1070-6275"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Microbiological reviews"
+  } ]
+} ]

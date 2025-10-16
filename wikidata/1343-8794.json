@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385159",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "昆蟲．ニューシリーズ"
+  }, {
+    "@language" : "ja",
+    "@value" : "こんちゅう"
+  }, {
+    "@language" : "en",
+    "@value" : "Konchū (Tokyo. 1998)"
+  }, {
+    "@language" : "ja",
+    "@value" : "昆虫"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1998"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/kontyu/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1343-8794"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "kontyu"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306551872"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2432-0269"
+  }, {
+    "@value" : "1343-8794"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Japanese Journal of Entomology"
+  }, {
+    "@language" : "ja",
+    "@value" : "昆蟲"
+  } ]
+} ]

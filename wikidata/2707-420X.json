@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q94378127",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Izvestiâ Harʹkovskogo èntomologičeskogo obŝestva"
+  }, {
+    "@language" : "en",
+    "@value" : "Vìstì Harkìvsʹkogo entomologìčnogo tovaristva"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1726-8028"
+  }, {
+    "@language" : "en",
+    "@value" : "Kharkov Entomological Society Gazette"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "374317"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://entomology.kharkiv.ua"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1726-8028"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210207703"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2707-420X"
+  }, {
+    "@value" : "1726-8028"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Kharkov Entomological Society Gazette"
+  }, {
+    "@language" : "uk",
+    "@value" : "Вісті Харківського ентомологічного товариства"
+  }, {
+    "@language" : "mul",
+    "@value" : "Известия Харьковского энтомологического общества"
+  } ]
+} ]

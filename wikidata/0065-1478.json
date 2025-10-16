@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386024",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0065-1478"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500459"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "689FB124-F0AF-4516-A821-B97306C82E69"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0065-1478"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta Parasitologica Polonica"
+  } ]
+} ]

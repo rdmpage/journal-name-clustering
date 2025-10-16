@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1975106",
+  "http://example.com/crossref" : [ {
+    "@value" : "266575"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ias.is/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1670-567X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S151078323"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1670-567X"
+  }, {
+    "@value" : "2298-786X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Icelandic Agricultural Sciences"
+  } ]
+} ]

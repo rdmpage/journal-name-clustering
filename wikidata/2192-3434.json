@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124326209",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Semana (Schleusingen)"
+  }, {
+    "@language" : "de",
+    "@value" : "Semana: Naturwissenschaftliche Veröffentlichungen des Naturhistorischen Museums Schloss Bertholdsburg Schleusingen"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2192-3434"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2192-3434"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Semana"
+  } ]
+} ]

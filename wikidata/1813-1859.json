@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q53952697",
+  "http://example.com/crossref" : [ {
+    "@value" : "60591"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journal.nafo.int/dnn/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0250-6408"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S196187169"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1813-1859"
+  }, {
+    "@value" : "1682-9786"
+  }, {
+    "@value" : "1811-8224"
+  }, {
+    "@value" : "0250-6408"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Northwest Atlantic fishery science"
+  } ]
+} ]

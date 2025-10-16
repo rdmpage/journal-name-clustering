@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2677606",
+  "http://example.com/crossref" : [ {
+    "@value" : "298396"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1983-2125"
+  }, {
+    "@value" : "0100-316X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://periodicos.ufersa.edu.br/index.php/sistema"
+  }, {
+    "@id" : "https://periodicos.ufersa.edu.br/index.php/caatinga/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0100-316X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S200215768"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1983-2125"
+  }, {
+    "@value" : "0100-316X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Revista Caatinga"
+  }, {
+    "@language" : "mul",
+    "@value" : "Revista Caatinga"
+  } ]
+} ]

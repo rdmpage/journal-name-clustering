@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108080641",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nova Guinea, Zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0165-1609"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0546-7675"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1960"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0165-1609"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0165-1609"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nova Guinea. Zoology"
+  } ]
+} ]

@@ -1,0 +1,58 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q948624",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Nat. Can."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Naturaliste Canadien, Le"
+  }, {
+    "@language" : "fr",
+    "@value" : "Naturaliste Canadien, Le"
+  }, {
+    "@language" : "en",
+    "@value" : "CANADIAN NATURALIST"
+  }, {
+    "@language" : "pt",
+    "@value" : "Naturaliste Canadien, Le"
+  }, {
+    "@language" : "en",
+    "@value" : "Nat. can."
+  }, {
+    "@language" : "es",
+    "@value" : "Naturaliste Canadien, Le"
+  }, {
+    "@language" : "en",
+    "@value" : "Naturaliste Canadien, Le"
+  }, {
+    "@language" : "en",
+    "@value" : "Canadian Naturalist"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7826"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "180389"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1868"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.provancher.org/le-naturaliste-canadien/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0028-0798"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S5348427"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1929-3208"
+  }, {
+    "@value" : "0028-0798"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Naturaliste canadien"
+  } ]
+} ]

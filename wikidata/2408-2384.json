@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50521833",
+  "http://example.com/crossref" : [ {
+    "@value" : "326827"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2408-2384"
+  }, {
+    "@value" : "1686-5456"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ennrjournal.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1686-5456"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764901502"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2408-2384"
+  }, {
+    "@value" : "1686-5456"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Warasan Singwaetlom lae Sappayakon Tammachat"
+  } ]
+} ]

@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q111512724",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Perla: Annual Newsletter and Bibliography of The International Society of Plecopterologists"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1054-4429"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1054-4429"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Perla"
+  } ]
+} ]

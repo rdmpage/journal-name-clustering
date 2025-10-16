@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113475097",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/186427"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0454-7810"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764797703"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0454-7810"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of the Faculty of Science. Kyoto University. Series of Geology and Mineralogy"
+  } ]
+} ]

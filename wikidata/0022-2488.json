@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2194884",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Math. Phys."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Math. Phys."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4134"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "4665"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1960"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=3f9umTNE-84C"
+  }, {
+    "@id" : "http://books.google.com/books?id=lVlWt2xeCWoC"
+  }, {
+    "@id" : "http://books.google.com/books?id=qrcdPX8IPZsC"
+  }, {
+    "@id" : "http://ojps.aip.org/jmp"
+  }, {
+    "@id" : "http://scitation.aip.org/content/aip/journal/jmp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-2488"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S158241587"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1527-2427"
+  }, {
+    "@value" : "0022-2488"
+  }, {
+    "@value" : "1089-7658"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Mathematical Physics"
+  } ]
+} ]

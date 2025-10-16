@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749448",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Transactions"
+  }, {
+    "@language" : "en",
+    "@value" : "Trans. Ill. State Acad. Sci."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "15333"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1908"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://search.proquest.com/publication/2028696"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0019-2252"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764350632"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0019-2252"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Illinois State Academy of Science"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions"
+  } ]
+} ]

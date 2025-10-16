@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6940577",
+  "http://example.com/from_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://annali.unife.it/museologia"
+  }, {
+    "@id" : "http://annali.unife.it/museologia/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1824-2707"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S1018280759"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1824-2707"
+  }, {
+    "@value" : "2283-561X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Museologia Scientifica e Naturalistica"
+  }, {
+    "@language" : "it",
+    "@value" : "Annali dell'Università di Ferrara. Sezione: Museologia scientifica e naturalistica"
+  } ]
+} ]

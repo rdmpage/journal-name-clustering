@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50817734",
+  "http://example.com/crossref" : [ {
+    "@value" : "296836"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2469-0228"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.peapaleontologica.org.ar/index.php/peapa/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2469-0228"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210173901"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2469-0228"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Publicación electrónica de la Asociación Paleontológica Argentina"
+  } ]
+} ]

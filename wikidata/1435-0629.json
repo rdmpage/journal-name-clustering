@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754480",
+  "http://example.com/crossref" : [ {
+    "@value" : "1110"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer-ny.com/link/service/journals/10021/index.htm"
+  }, {
+    "@id" : "http://link.springer.de/link/service/journals/10021/index.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1432-9840"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "ecosystems"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S83499872"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1435-0629"
+  }, {
+    "@value" : "1432-9840"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecosystems"
+  } ]
+} ]

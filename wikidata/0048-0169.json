@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753255",
+  "http://example.com/crossref" : [ {
+    "@value" : "122205"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ingentaconnect.com/content/nzva/nzvj"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/tnzv20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0048-0169"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S23243783"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0048-0169"
+  }, {
+    "@value" : "1176-0702"
+  }, {
+    "@value" : "1176-0710"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "New Zealand Veterinary Journal"
+  } ]
+} ]

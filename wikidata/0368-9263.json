@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q75236561",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0368-9263"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://catalog.hathitrust.org/Record/003913743"
+  }, {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/cb343783130/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0368-9263"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2419-8005"
+  }, {
+    "@value" : "0368-9263"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Mémoires de l'Académie des sciences de l'Institut de France"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mémoires de l'Académie des sciences de l'Institut impérial de France"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mémoires de l'Académie royale des sciences de l'Institut de France"
+  } ]
+} ]

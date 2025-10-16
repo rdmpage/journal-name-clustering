@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96324383",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Abhandlungen der Senckenberg-Gesellschaft für Naturforschung"
+  }, {
+    "@language" : "de",
+    "@value" : "Abhandlungen der Senckenberg-Gesellschaft für Naturforschung"
+  }, {
+    "@language" : "de",
+    "@value" : "Abhandlungen der SGN"
+  }, {
+    "@language" : "en",
+    "@value" : "Abhandlungen der Senckenberg-Gesellschaft für Naturforschung"
+  }, {
+    "@language" : "en",
+    "@value" : "Abhandlungen der SGN"
+  }, {
+    "@language" : "es",
+    "@value" : "Abhandlungen der Senckenberg-Gesellschaft für Naturforschung"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2009"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.senckenberg.de/en/science/senckenberg-publications/mono-biblio/sgn-abhandlungen/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1868-0356"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1868-0356"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Abhandlungen der Senckenberg Gesellschaft für Naturforschung"
+  }, {
+    "@language" : "de",
+    "@value" : "Abhandlungen der Senckenberg-Gesellschaft für Naturforschung"
+  } ]
+} ]

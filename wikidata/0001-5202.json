@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751590",
+  "http://example.com/crossref" : [ {
+    "@value" : "54499"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1936"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/asjaa/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-5202"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "asjaa"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S199789556"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "0F60CAC3-EAE1-4C55-815E-E58C981E717A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1880-7852"
+  }, {
+    "@value" : "0001-5202"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta Arachnologica"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Arachnologica"
+  } ]
+} ]

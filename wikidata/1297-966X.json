@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759298",
+  "http://example.com/crossref" : [ {
+    "@value" : "15939"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1297-966X"
+  }, {
+    "@value" : "1286-4560"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.edpsciences.org/journal/index.cfm?edpsname=forest"
+  }, {
+    "@id" : "http://www.springerlink.com/content/1286-4560/"
+  }, {
+    "@id" : "https://annforsci.biomedcentral.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1286-4560"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S144119614"
+  }, {
+    "@value" : "S4210186482"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1286-4560"
+  }, {
+    "@value" : "1297-966X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of Forest Science"
+  }, {
+    "@language" : "mul",
+    "@value" : "Annals of forest science"
+  } ]
+} ]

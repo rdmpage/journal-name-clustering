@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726362",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of experimental zoology India"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0972-0030"
+  }, {
+    "@language" : "en",
+    "@value" : "J Exp Zoology India"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.connectjournals.com/jez"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0972-0030"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764906646"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0972-0030"
+  }, {
+    "@value" : "0976-1780"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of experimental zoology India"
+  } ]
+} ]

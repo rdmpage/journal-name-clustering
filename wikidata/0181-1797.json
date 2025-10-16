@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q55332436",
+  "http://example.com/crossref" : [ {
+    "@value" : "250107"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0181-1797"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210177914"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0181-1797"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bulletin de la Société botanique de France. Lettres botaniques"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société Botanique de France. Lettres Botaniques"
+  } ]
+} ]

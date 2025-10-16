@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107018940",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zhongguo ke xue"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhongguo kexue"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhongguo kexue (Engl. ed.)"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0250-7870"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0250-7870"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306529302"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0250-7870"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "中國科學"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhongguo kexue"
+  }, {
+    "@language" : "en",
+    "@value" : "Scientia sinica"
+  } ]
+} ]

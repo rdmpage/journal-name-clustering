@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765986",
+  "http://example.com/crossref" : [ {
+    "@value" : "13919"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer-ny.com/link/service/journals/00709/index.htm"
+  }, {
+    "@id" : "http://link.springer.de/link/service/journals/00709/index.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0033-183X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S201230245"
+  }, {
+    "@value" : "S4210222930"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0033-183X"
+  }, {
+    "@value" : "1615-6102"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Protoplasma"
+  }, {
+    "@language" : "en",
+    "@value" : "Protoplasma: an international journal of cell biology"
+  } ]
+} ]

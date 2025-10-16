@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767381",
+  "http://example.com/crossref" : [ {
+    "@value" : "66326"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/11692"
+  }, {
+    "@id" : "http://www.springerlink.com/content/1934-2845"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0071-3260"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S198828251"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0071-3260"
+  }, {
+    "@value" : "1934-2845"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Evolutionary Biology"
+  } ]
+} ]

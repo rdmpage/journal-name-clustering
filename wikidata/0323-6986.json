@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q123290411",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Palaontologische Abhandlungen. Abteilung A, Palaozoologie"
+  }, {
+    "@language" : "de",
+    "@value" : "Paläontologische Abhandlungen. Abteilung A, Paläozoologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Palaontologische Abhandlungen. Abteilung A, Palaozoologie"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0323-6986"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0323-6986"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Paläontologische Abhandlungen / Abt. A Paläozoologie"
+  }, {
+    "@language" : "de",
+    "@value" : "Paläontologische Abhandlungen. Abteilung A, Paläozoologie"
+  } ]
+} ]

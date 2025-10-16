@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21384986",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0760-0216"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0760-0216"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Entomologica gallica"
+  }, {
+    "@language" : "la",
+    "@value" : "Entomologica Gallica"
+  } ]
+} ]

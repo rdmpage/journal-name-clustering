@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385073",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Acta Biol. Siles."
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Biol. Siles."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1985"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0860-2441"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500270"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0860-2441"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta Biologica Silesiana"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Biologica Silesiana"
+  } ]
+} ]

@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28807280",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Trans. Am. Philos. Soc."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "41515"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "55483"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1771"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://resolver.scholarsportal.info/resolve/00659746"
+  }, {
+    "@id" : "https://listview.lib.harvard.edu/lists/drs-13601178"
+  }, {
+    "@id" : "https://www.jstor.org/journal/tranamerphilsoci"
+  }, {
+    "@id" : "https://www.pennpress.org/journals/journal/transactions-of-the-american-philosophical-society/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0065-9746"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "tranamerphilsoci"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S93118124"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0065-9746"
+  }, {
+    "@value" : "2325-9264"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the American Philosophical Society"
+  } ]
+} ]

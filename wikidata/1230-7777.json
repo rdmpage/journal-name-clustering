@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q86684149",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1230-7777"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ste.bytom.pl/acta-entomologica-silesiana/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1230-7777"
+  }, {
+    "@value" : "2353-1703"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500325"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1230-7777"
+  }, {
+    "@value" : "2353-1703"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta Entomologica Silesiana"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Entomologica Silesiana"
+  } ]
+} ]

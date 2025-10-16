@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q29043714",
+  "http://example.com/crossref" : [ {
+    "@value" : "85006"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.springer.com/journal/12549"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1867-1594"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S148688756"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=12549&channel-name=Palaeobiodiversity+and+Palaeoenvironments"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1867-1594"
+  }, {
+    "@value" : "1867-1608"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Palaeobiodiversity and Palaeoenvironments"
+  } ]
+} ]

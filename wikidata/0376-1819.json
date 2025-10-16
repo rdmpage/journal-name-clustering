@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107618677",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0376-1819"
+  }, {
+    "@language" : "en",
+    "@value" : "Mémoires Office de la recherche scientifique et technique Outre-Mer"
+  }, {
+    "@language" : "en",
+    "@value" : "Mémoires Office de la recherche scientifique et technique Outre-Mer (Bondy)"
+  }, {
+    "@language" : "en",
+    "@value" : "Mémoires ORSTOM"
+  }, {
+    "@language" : "en",
+    "@value" : "Mémoires ORSTOM (Bondy)"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1961"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0376-1819"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0376-1819"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Mémoires ORSTOM"
+  } ]
+} ]

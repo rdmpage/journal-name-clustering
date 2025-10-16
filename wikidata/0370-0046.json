@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329701",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Indian National Science Academy"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "264206"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-0046"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210226164"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-0046"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Indian National Science Academy. Part A, Physical Sciences"
+  } ]
+} ]

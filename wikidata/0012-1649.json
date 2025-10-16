@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5266797",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Dev. Psychol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3366"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1969"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://content.apa.org/journals/dev"
+  }, {
+    "@id" : "http://www.apa.org/journals/dev.html"
+  }, {
+    "@id" : "http://www.apa.org/journals/dev/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0012-1649"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S126635229"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0012-1649"
+  }, {
+    "@value" : "1939-0599"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Developmental Psychology"
+  } ]
+} ]

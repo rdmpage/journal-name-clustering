@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96735118",
+  "http://example.com/crossref" : [ {
+    "@value" : "307022"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://revistas.unfv.edu.pe/index.php/rtb"
+  }, {
+    "@id" : "http://sisbib.unmsm.edu.pe/BVRevistas/biologist/biologist.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1816-0719"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764741614"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1816-0719"
+  }, {
+    "@value" : "1994-9081"
+  }, {
+    "@value" : "1994-9073"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "The biologist"
+  } ]
+} ]

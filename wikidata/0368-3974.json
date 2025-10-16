@@ -1,0 +1,61 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27711732",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Journal. Royal Microscopical Society (Great Britain)"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal. Royal Microscopical Society (Great Britain)"
+  }, {
+    "@language" : "de",
+    "@value" : "J R Microsc Soc"
+  }, {
+    "@language" : "es",
+    "@value" : "J R Microsc Soc"
+  }, {
+    "@language" : "fr",
+    "@value" : "Journal. Royal Microscopical Society (Great Britain)"
+  }, {
+    "@language" : "es",
+    "@value" : "Journal. Royal Microscopical Society (Great Britain)"
+  }, {
+    "@language" : "fr",
+    "@value" : "J R Microsc Soc"
+  }, {
+    "@language" : "en",
+    "@value" : "J R Microsc Soc"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7413"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "152225"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1878"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.7111/(ISSN)1365-2818/issues"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0368-3974"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210186302"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1968"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0368-3974"
+  }, {
+    "@value" : "1747-342X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal. Royal Microscopical Society (Great Britain)"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Royal Microscopical Society"
+  } ]
+} ]

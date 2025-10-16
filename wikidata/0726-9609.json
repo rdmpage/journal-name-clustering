@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7774303",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "West Australian Naturalist"
+  }, {
+    "@language" : "en",
+    "@value" : "The Naturalist"
+  }, {
+    "@language" : "en",
+    "@value" : "Western Australian Naturalist"
+  }, {
+    "@language" : "de",
+    "@value" : "The Western Australian Naturalist"
+  }, {
+    "@language" : "de",
+    "@value" : "W. Austral. Naturalist"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "163263"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1947"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.wanaturalists.org.au/about-us/publications/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0726-9609"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S178739765"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0726-9609"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Western Australian naturalist"
+  } ]
+} ]

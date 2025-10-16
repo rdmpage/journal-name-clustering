@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113475527",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ir.u-gakugei.ac.jp/citation-home?citation_id=1"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1880-4330"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2434-9380"
+  }, {
+    "@value" : "1880-4330"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Toukyou Gakugei Daigaku kiyou. Shizen kagakukei"
+  } ]
+} ]

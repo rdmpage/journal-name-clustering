@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752002",
+  "http://example.com/crossref" : [ {
+    "@value" : "56149"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1820-7448"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://sciendo.com/journal/ACVE"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0567-8315"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S86415907"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1820-7448"
+  }, {
+    "@value" : "0567-8315"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Acta Veterinaria"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta veterinaria"
+  } ]
+} ]

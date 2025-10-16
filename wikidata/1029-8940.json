@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721169",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Vestsi Natsyianalnai Akademii Navuk Belarusi"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "314366"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://vestibio.belnauka.by"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1029-8940"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210213794"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1029-8940"
+  }, {
+    "@value" : "2524-230X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Vescì Nacyânalʹnaj akadèmìì navuk Belarusì. Seryâ bìâlagìčnyh navuk"
+  }, {
+    "@language" : "ru",
+    "@value" : "Известия Национальной академии наук Беларуси. Серия биологических наук"
+  }, {
+    "@language" : "be",
+    "@value" : "Весці Нацыянальнай акадэміі навук Беларусі. Серыя біялагічных навук"
+  } ]
+} ]

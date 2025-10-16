@@ -1,0 +1,88 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q192864",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Science"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "science.org"
+  }, {
+    "@language" : "zh",
+    "@value" : "科学杂誌"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista Science"
+  }, {
+    "@language" : "zh",
+    "@value" : "《科学》期刊"
+  }, {
+    "@language" : "en",
+    "@value" : "sciencemag.org/"
+  }, {
+    "@language" : "pt",
+    "@value" : "Revista Science"
+  }, {
+    "@language" : "zh",
+    "@value" : "科学 (期刊)"
+  }, {
+    "@language" : "fr",
+    "@value" : "Revue Science"
+  }, {
+    "@language" : "zh",
+    "@value" : "科學雜誌"
+  }, {
+    "@language" : "ja",
+    "@value" : "Science"
+  }, {
+    "@language" : "en",
+    "@value" : "Sci. (N. Y., N. Y.)"
+  }, {
+    "@language" : "zh",
+    "@value" : "科學"
+  }, {
+    "@language" : "en",
+    "@value" : "Science Magazine"
+  }, {
+    "@language" : "zh",
+    "@value" : "《科学》杂志"
+  }, {
+    "@language" : "zh",
+    "@value" : "科学杂志"
+  }, {
+    "@language" : "fr",
+    "@value" : "Journal Science"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "44793"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5530"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "1330"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1880"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.science.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0036-8075"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "science"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S3880285"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0036-8075"
+  }, {
+    "@value" : "1095-9203"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Science"
+  } ]
+} ]

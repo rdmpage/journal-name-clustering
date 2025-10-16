@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q134359095",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Blumea, Suppl."
+  }, {
+    "@language" : "en",
+    "@value" : "Blumea. Supplement"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1937"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-4293"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-4293"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Blumea. Supplement"
+  } ]
+} ]

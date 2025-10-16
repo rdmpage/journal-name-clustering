@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q63882874",
+  "http://example.com/crossref" : [ {
+    "@value" : "311590"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.sciencedirect.com/journal/current-opinion-in-environmental-science-and-health"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2468-5844"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2898239524"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2468-5844"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Current Opinion in Environmental Science & Health"
+  } ]
+} ]

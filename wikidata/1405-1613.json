@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124742722",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bol. Nakari"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://sites.google.com/view/nakari/home"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1405-1613"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1405-1613"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletín Nakari"
+  } ]
+} ]

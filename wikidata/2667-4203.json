@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96699608",
+  "http://example.com/crossref" : [ {
+    "@value" : "372865"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dergipark.gov.tr/estubtdc"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2667-4203"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210198795"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2667-4203"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Eskişehir teknik Üniversitesi bilim ve teknoloji dergisi c- yaşam bilimleri ve biyoteknoloji"
+  } ]
+} ]

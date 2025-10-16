@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q17748259",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0800-1820"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0800-1820"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Agarica"
+  } ]
+} ]

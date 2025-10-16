@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q20013644",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société Linnéenne de Lyon"
+  }, {
+    "@language" : "es",
+    "@value" : "Bulletin Mensuel de la Societe Linneenne de Lyon"
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. Mens. Soc. Linn. Lyon"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin mensuel de la Société Linnéenne de Lyon"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "302753"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1922"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.persee.fr/collection/linly"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-1326"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S1018670893"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B7FC4338-9A6E-4484-BF0D-3A3615F47473"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2613-2958"
+  }, {
+    "@value" : "2554-5280"
+  }, {
+    "@value" : "0366-1326"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin mensuel de la Société linnéenne de Lyon"
+  } ]
+} ]

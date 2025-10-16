@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765496",
+  "http://example.com/crossref" : [ {
+    "@value" : "92546"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2010"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/13225"
+  }, {
+    "@id" : "http://springerlink.com/content/121704/?p=cb2b541c42bb4538aa7bfd08a371d222&pi=0"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1560-2745"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "C2778600591"
+  }, {
+    "@value" : "S150033744"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1878-9129"
+  }, {
+    "@value" : "1560-2745"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fungal Diversity"
+  } ]
+} ]

@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q23901125",
+  "http://example.com/crossref" : [ {
+    "@value" : "238132"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1560-7259"
+  }, {
+    "@value" : "1560-7267"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1998"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journal.asu.ru/index.php/tur"
+  }, {
+    "@id" : "http://turczaninowia.asu.ru/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1560-7259"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210169676"
+  }, {
+    "@value" : "S4306400332"
+  }, {
+    "@value" : "S4306533433"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1560-7267"
+  }, {
+    "@value" : "1560-7259"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Turczaninowia"
+  }, {
+    "@language" : "und",
+    "@value" : "Turczaninowia"
+  } ]
+} ]

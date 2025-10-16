@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724587",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc. Kansai Pl. Prot."
+  }, {
+    "@language" : "en",
+    "@value" : "Kansai Byochugai Kenkyukaiho"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "86368"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0387-1002"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "kapps"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210224800"
+  }, {
+    "@value" : "S4306559535"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1883-6291"
+  }, {
+    "@value" : "0387-1002"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Kansai Byōchūgai Kenkyūkaihō"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Kansai Plant Protection Society"
+  } ]
+} ]

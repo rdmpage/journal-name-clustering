@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754575",
+  "http://example.com/crossref" : [ {
+    "@value" : "3624"
+  }, {
+    "@value" : "3119"
+  }, {
+    "@value" : "24698"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://link.springer.com/journal/10393"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S27405227"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1076-2825"
+  }, {
+    "@value" : "1389-5702"
+  }, {
+    "@value" : "1526-0992"
+  }, {
+    "@value" : "1612-9202"
+  }, {
+    "@value" : "1612-9210"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecohealth"
+  } ]
+} ]

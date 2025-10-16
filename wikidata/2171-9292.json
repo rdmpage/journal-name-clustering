@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1873625",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "SJAR"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "154925"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "3366"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1695-971X"
+  }, {
+    "@value" : "2171-9292"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://revistas.inia.es/index.php/sjar/index"
+  }, {
+    "@id" : "http://www.inia.es/inia/contenidos/publicaciones/index.jsp?intranet=1&idcategoria=300"
+  }, {
+    "@id" : "http://www.inia.es/sjar"
+  }, {
+    "@id" : "http://wwwsp.inia.es/Publicaciones/Paginas/SJAR.aspx"
+  }, {
+    "@id" : "https://sjar.revistas.csic.es"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1695-971X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S125861851"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1695-971X"
+  }, {
+    "@value" : "2171-9292"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Spanish Journal of Agricultural Research"
+  } ]
+} ]

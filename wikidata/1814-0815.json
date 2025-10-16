@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385786",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zoologiâ bespozvonočnyh"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1812-9250"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "324848"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.kmkjournals.com/journals/Inv_Zool"
+  }, {
+    "@id" : "http://www.nature.ok.ru/invertebrates/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1812-9250"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210198538"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1814-0815"
+  }, {
+    "@value" : "1812-9250"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Invertebrate Zoology"
+  }, {
+    "@language" : "ru",
+    "@value" : "Зоология беспозвоночных"
+  } ]
+} ]

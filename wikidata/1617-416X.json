@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758799",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mycol. Progr."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "53998"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2002"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springer.com/life+sciences/plant+sciences/journal/11557"
+  }, {
+    "@id" : "http://www.springerlink.com/content/120015"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1617-416X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S26519103"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1617-416X"
+  }, {
+    "@value" : "1861-8952"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Mycological Progress"
+  } ]
+} ]

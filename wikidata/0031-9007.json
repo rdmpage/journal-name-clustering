@@ -1,0 +1,72 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2018386",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Phys. Rev. Lett."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Phys Rev Lett"
+  }, {
+    "@language" : "en",
+    "@value" : "Phys. Rev. Lett."
+  }, {
+    "@language" : "en",
+    "@value" : "Phys Rev Lett"
+  }, {
+    "@language" : "fr",
+    "@value" : "Phys. Rev. Lett."
+  }, {
+    "@language" : "en",
+    "@value" : "PRL"
+  }, {
+    "@language" : "zh",
+    "@value" : "物理評論快訊"
+  }, {
+    "@language" : "zh",
+    "@value" : "物理报导期刊"
+  }, {
+    "@language" : "ja",
+    "@value" : "フィジカル・レビュー・レターズ"
+  }, {
+    "@language" : "zh",
+    "@value" : "物理報導期刊"
+  }, {
+    "@language" : "de",
+    "@value" : "Phys. Rev. Lett."
+  }, {
+    "@language" : "ru",
+    "@value" : "Phys. rev. lett."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5204"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "4389"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1958"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journals.aps.org/prl/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0031-9007"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S24807848"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "http://feeds.aps.org/rss/recent/prl.xml"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0031-9007"
+  }, {
+    "@value" : "1092-0145"
+  }, {
+    "@value" : "1079-7114"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Physical Review Letters"
+  } ]
+} ]

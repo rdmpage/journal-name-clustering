@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753448",
+  "http://example.com/crossref" : [ {
+    "@value" : "12585"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandf.co.uk/journals/titles/09291016.asp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0929-1016"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S43540244"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1744-4179"
+  }, {
+    "@value" : "0929-1016"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Biological rhythm research"
+  }, {
+    "@language" : "en",
+    "@value" : "Biological Rhythm Research"
+  } ]
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51388001",
+  "http://example.com/bhl" : [ {
+    "@value" : "9030"
+  }, {
+    "@value" : "111641"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1897"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0023-9135"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0023-9135"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "A Lavoura"
+  } ]
+} ]

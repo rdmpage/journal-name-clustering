@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385481",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0373-5680"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "307245"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0373-5680"
+  }, {
+    "@value" : "1851-7471"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.biotaxa.org/RSEA"
+  }, {
+    "@id" : "http://www.redalyc.org/revista.oa?id=3220"
+  }, {
+    "@id" : "http://www.scielo.org.ar/scielo.php?script=sci_serial&pid=0373-5680&lng=es&nrm=iso"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-5680"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2736327639"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "575D76C5-9866-424D-81A5-0CFE69217EF8"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1851-7471"
+  }, {
+    "@value" : "0373-5680"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista de la Sociedad Entomológica Argentina"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista de la Sociedad Entomológica Argentina"
+  } ]
+} ]

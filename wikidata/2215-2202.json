@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50478516",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Agronomia costarricense"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "304062"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "11689"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2215-2202"
+  }, {
+    "@value" : "0377-9424"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.cia.ucr.ac.cr"
+  }, {
+    "@id" : "http://www.mag.go.cr/rev_agr/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0377-9424"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2738652600"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0377-9424"
+  }, {
+    "@value" : "2215-2202"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Agronomia costarricense"
+  } ]
+} ]

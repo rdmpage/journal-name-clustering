@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q130284829",
+  "http://example.com/from_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://nev.nl/publicaties_cat/monografieen/194-2/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0374-9215"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "CFCA0F41-8EC1-4CF4-9515-1BC86EB07700"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0374-9215"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Monografieën van de Nederlandse Entomologische Vereniging"
+  }, {
+    "@language" : "mul",
+    "@value" : "Monographieen van de Nederlandse entomologische vereniging"
+  } ]
+} ]

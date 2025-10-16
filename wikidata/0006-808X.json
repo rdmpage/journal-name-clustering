@@ -1,0 +1,60 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13548534",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Bot. Mag. (Tokyo)"
+  }, {
+    "@language" : "en",
+    "@value" : "Bot. Mag."
+  }, {
+    "@language" : "es",
+    "@value" : "Bot. Mag. (Tokyo)"
+  }, {
+    "@language" : "en",
+    "@value" : "Shokubutsugaku zasshi"
+  }, {
+    "@language" : "ja",
+    "@value" : "植物學雜誌"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "63894"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "58808"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1887"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jplantres1887/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-808X"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jplantres1887"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210237421"
+  }, {
+    "@value" : "S4306552816"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2185-3835"
+  }, {
+    "@value" : "0006-808X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Botanical magazine Tokyo"
+  }, {
+    "@language" : "en",
+    "@value" : "Botanical Magazine"
+  }, {
+    "@language" : "ja",
+    "@value" : "Shokubutsugaku zasshi"
+  } ]
+} ]

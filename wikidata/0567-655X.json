@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16550781",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "C R Seances Acad Sci D"
+  }, {
+    "@language" : "en",
+    "@value" : "C. R. Acad. Sci., D, Sci. Nat."
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes rendus hebdomadaires des séances de l'Académie des sciences. Série D, Sciences naturelles"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://gallica.bnf.fr/ark:/12148/cb34383065d/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0567-655X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306506715"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2419-8390"
+  }, {
+    "@value" : "0567-655X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Comptes rendus des seances de l'Academie des sciences. Serie D, Sciences naturelles"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes rendus hebdomadaires des séances de l'Académie des sciences. Série D, Sciences naturelles"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q27710210",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "C R Acad Sci Hebd Seances Acad Sci D"
+  }, {
+    "@language" : "en",
+    "@value" : "C.R. Hebd. Seances Acad. Sci., Ser. D, Sci. Nat."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0567-655x"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0567-655X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Comptes rendus hebdomadaires des seances de l'Academie des sciences. Serie D: Sciences naturelles"
+  } ]
+} ]

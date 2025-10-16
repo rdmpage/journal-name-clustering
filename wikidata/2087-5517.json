@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50810567",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "JTLS"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "300606"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2087-5517"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jtrolis.ub.ac.id/index.php/jtrolis"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2087-5517"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764860916"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2087-5517"
+  }, {
+    "@value" : "2527-4376"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "id",
+    "@value" : "Journal of tropical life science"
+  } ]
+} ]

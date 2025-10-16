@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1071824",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nature Reviews. Genetics"
+  }, {
+    "@language" : "de",
+    "@value" : "Nat. Rev. Genet."
+  }, {
+    "@language" : "ru",
+    "@value" : "Nat Rev Genet"
+  }, {
+    "@language" : "ru",
+    "@value" : "Nat. Rev. Genet."
+  }, {
+    "@language" : "de",
+    "@value" : "Nat Rev Genet"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3438"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.nature.com/nrg/"
+  }, {
+    "@id" : "http://www.nature.com/nrg/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1471-0056"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S8553189"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1471-0064"
+  }, {
+    "@value" : "1471-0056"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nature reviews. Genetics"
+  } ]
+} ]

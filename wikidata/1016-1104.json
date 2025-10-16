@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15746423",
+  "http://example.com/doaj" : [ {
+    "@value" : "2345-6914"
+  }, {
+    "@value" : "1016-1104"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://jsciences.ut.ac.ir/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1016-1104"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764423161"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1016-1104"
+  }, {
+    "@value" : "2345-6914"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Sciences, Islamic Republic of Iran"
+  } ]
+} ]

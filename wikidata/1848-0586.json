@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727425",
+  "http://example.com/crossref" : [ {
+    "@value" : "238121"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1848-0586"
+  }, {
+    "@value" : "1330-061X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://haw.nsk.hr/arhiva/vol3/3896/33770/image-thumb.jpg"
+  }, {
+    "@id" : "http://haw.nsk.hr/publikacija/3896/croatian-journal-of-fisheries"
+  }, {
+    "@id" : "http://hrcak.srce.hr/ribarstvo"
+  }, {
+    "@id" : "http://ribarstvo.agr.hr/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1330-061X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737398973"
+  }, {
+    "@value" : "S2764812224"
+  }, {
+    "@value" : "S4210201812"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1330-061X"
+  }, {
+    "@value" : "1848-0586"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ribarstvo"
+  }, {
+    "@language" : "hr",
+    "@value" : "Ribarstvo"
+  } ]
+} ]

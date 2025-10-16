@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q130504100",
+  "http://example.com/bhl" : [ {
+    "@value" : "8938"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1873-068X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1873-068X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Verhandelingen der Koninklijke Akademie van Wetenschappen. Afdeeling natuurkunde"
+  } ]
+} ]

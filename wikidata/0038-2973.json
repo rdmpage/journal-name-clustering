@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7566131",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "S. Austr. Ornithol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "South Aust. ornithol."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8852"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297420"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1914"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.birdssa.asn.au/publications.htm"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210210624"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0038-2973"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "South Australian Ornithologist"
+  } ]
+} ]

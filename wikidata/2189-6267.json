@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113475109",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://kindai.repo.nii.ac.jp/search?search_type=2&q=1379"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0453-8889"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306558881"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0453-8889"
+  }, {
+    "@value" : "2189-6267"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Kinki Daigaku Nōgakubu kiyō"
+  } ]
+} ]

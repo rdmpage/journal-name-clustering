@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q11690270",
+  "http://example.com/from_year" : [ {
+    "@value" : "1945"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.iop.krakow.pl/iop/iop.asp?0403"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0009-6172"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306506172"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0009-6172"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pl",
+    "@value" : "Chrońmy Przyrodę Ojczystą"
+  }, {
+    "@language" : "und",
+    "@value" : "Chrońmy Przyrodę Ojczystą"
+  } ]
+} ]

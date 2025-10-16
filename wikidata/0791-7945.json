@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765454",
+  "http://example.com/crossref" : [ {
+    "@value" : "75780"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1902"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ria.ie/publications/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0791-7945"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "biolenviprocria"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210179711"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0791-7945"
+  }, {
+    "@value" : "2009-003X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biology and environment"
+  }, {
+    "@language" : "en",
+    "@value" : "Biology and Environment: proceedings of the Royal Irish Academy"
+  } ]
+} ]

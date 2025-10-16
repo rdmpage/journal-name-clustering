@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385370",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Asian wild pig news"
+  }, {
+    "@language" : "en",
+    "@value" : "Asian Wild Pig News"
+  }, {
+    "@language" : "en",
+    "@value" : "Suiform Soundings, PPHSG newsletter"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1446-991X"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1446-9928"
+  }, {
+    "@language" : "es",
+    "@value" : "Asian Wild Pig News"
+  }, {
+    "@language" : "es",
+    "@value" : "Suiform soundings, PPHSG newsletter"
+  }, {
+    "@language" : "de",
+    "@value" : "Asian Wild Pig News"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://arts.anu.edu.au/awpn/awpn.htm"
+  }, {
+    "@id" : "https://www.iucn-wpsg.org/newsletter"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1446-9928"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1446-9928"
+  }, {
+    "@value" : "1446-991X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Asian Wild Pig News"
+  }, {
+    "@language" : "en",
+    "@value" : "Suiform Soundings"
+  } ]
+} ]

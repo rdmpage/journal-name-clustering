@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96703282",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Aquatic sciences and engineering :"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "312853"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2602-473X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://iupress.istanbul.edu.tr/en/journal/ase/home"
+  }, {
+    "@id" : "http://dergipark.gov.tr/tjas"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2602-473X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210219710"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2602-473X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Aquatic sciences and engineering :"
+  } ]
+} ]

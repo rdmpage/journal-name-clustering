@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725425",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Veterinary Research Forum"
+  }, {
+    "@language" : "en",
+    "@value" : "VRF"
+  }, {
+    "@language" : "en",
+    "@value" : "Vet Res Forum"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2322-3618"
+  }, {
+    "@value" : "2008-8140"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.urmia.ac.ir/vrf"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2008-8140"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306534208"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2008-8140"
+  }, {
+    "@value" : "2322-3618"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Veterinary research forum"
+  }, {
+    "@language" : "en",
+    "@value" : "Veterinary research forum : an international quarterly journal"
+  } ]
+} ]

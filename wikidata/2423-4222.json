@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727272",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Iran J Anim Biosyst"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2423-4222"
+  }, {
+    "@value" : "1735-434X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ijab.um.ac.ir/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1735-434X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765073336"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1735-434X"
+  }, {
+    "@value" : "2423-4222"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Iranian journal of animal biosystematics"
+  } ]
+} ]

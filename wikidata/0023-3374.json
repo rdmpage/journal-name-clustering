@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6087091",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc. Kon. Ned. Akad. Wetensch. C"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Koninklijke Nederlandse akademie van wetenschappen. Series C. Biological and medical sciences"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://catalogue.nla.gov.au/Record/1341958"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0023-3374"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0023-3374"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Koninklijke Nederlandse akademie van wetenschappen. Series C. Biological and medical sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen"
+  } ]
+} ]

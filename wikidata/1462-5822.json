@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1921948",
+  "http://example.com/crossref" : [ {
+    "@value" : "3576"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1462-5814"
+  }, {
+    "@value" : "1462-5822"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=1462-5814;screen=info;ECOIP"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1462-5822"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/issuelist.asp?journal=cmi"
+  }, {
+    "@id" : "http://www.interscience.wiley.com/jpages/1462-5814/"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1462-5814"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S113048938"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1462-5814"
+  }, {
+    "@value" : "1462-5822"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cellular Microbiology"
+  } ]
+} ]

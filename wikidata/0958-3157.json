@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757213",
+  "http://example.com/crossref" : [ {
+    "@value" : "4204"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandfonline.com/toc/cbst20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0958-3157"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S173470534"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0958-3157"
+  }, {
+    "@value" : "1360-0478"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biocontrol Science and Technology"
+  } ]
+} ]

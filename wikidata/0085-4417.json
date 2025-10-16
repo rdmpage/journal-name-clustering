@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2005798",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nuytsia : journal of the Western Australian Herbarium"
+  }, {
+    "@language" : "fr",
+    "@value" : "Nuytsia : journal of the Western Australian Herbarium"
+  }, {
+    "@language" : "de",
+    "@value" : "Nuytsia : journal of the Western Australian Herbarium"
+  }, {
+    "@language" : "es",
+    "@value" : "Nuytsia (journal)"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista Nuytsia"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "128759"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "542923"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://florabase.dec.wa.gov.au/nuytsia/"
+  }, {
+    "@id" : "https://florabase.dpaw.wa.gov.au/nuytsia/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0085-4417"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S103214341"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2200-2790"
+  }, {
+    "@value" : "0085-4417"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nuytsia"
+  } ]
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725379",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Life Excit Biol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "199585"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://blaypublishers.com"
+  }, {
+    "@id" : "http://essential.metapress.com/content/122778"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2325-081X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210184725"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2325-0828"
+  }, {
+    "@value" : "2325-081X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Life: the excitement of biology"
+  } ]
+} ]

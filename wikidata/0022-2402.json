@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764460",
+  "http://example.com/crossref" : [ {
+    "@value" : "16360"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=tbBRAQAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=WrBRAQAAIAAJ"
+  }, {
+    "@id" : "http://openurl.ingenta.com/content?genre=journal&issn=0022-2402"
+  }, {
+    "@id" : "http://www.yale.edu/jmr/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-2402"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S166958622"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-2402"
+  }, {
+    "@value" : "1543-9542"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Marine Research"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q81701524",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1025-4870"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1954"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1025-4870"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1025-4870"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Entomologisches Nachrichtenblatt"
+  } ]
+} ]

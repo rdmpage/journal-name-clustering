@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96734830",
+  "http://example.com/crossref" : [ {
+    "@value" : "377617"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1609-0691"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210188436"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1609-0691"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Vestnik Voronežskogo gosudarstvennogo universiteta. Geologiâ"
+  } ]
+} ]

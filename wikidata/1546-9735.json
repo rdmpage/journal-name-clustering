@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385473",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1546-9735"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "265966"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1546-9735"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/10886"
+  }, {
+    "@id" : "http://jbi.nhm.ku.edu/index.php"
+  }, {
+    "@id" : "https://journals.ku.edu/index.php/jbi"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1546-9735"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2738800945"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1546-9735"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biodiversity Informatics"
+  } ]
+} ]

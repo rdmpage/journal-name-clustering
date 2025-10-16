@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329755",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1018-7057"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1018-7057"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Geological Society of China"
+  } ]
+} ]

@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q55829626",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0374-6577"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210235232"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0374-6577"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Feddes repertorium specierum novarum regni vegetabilis. Beiheft"
+  }, {
+    "@language" : "mul",
+    "@value" : "Feddes repertorium specierum novarum regni vegetabilis. Beiheft"
+  } ]
+} ]

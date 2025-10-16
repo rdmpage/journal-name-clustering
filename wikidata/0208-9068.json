@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761731",
+  "http://example.com/crossref" : [ {
+    "@value" : "284036"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.asgp.pl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0208-9068"
+  }, {
+    "@value" : "0079-3663"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0079-3663"
+  }, {
+    "@value" : "0208-9068"
+  }, {
+    "@value" : "2300-8512"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Societatis Geologorum Poloniae. Annales"
+  }, {
+    "@language" : "mul",
+    "@value" : "Rocznik Polskiego Towarzystwa Geologicznego"
+  } ]
+} ]

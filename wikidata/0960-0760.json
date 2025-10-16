@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15708871",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Steroid Biochem. Mol. Biol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Steroid Biochemistry and Molecular Biology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1945"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1969"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/the-journal-of-steroid-biochemistry-and-molecular-biology"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/09600760"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0960-0760"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S104308233"
+  }, {
+    "@value" : "S168421034"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1879-1220"
+  }, {
+    "@value" : "0960-0760"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of steroid biochemistry and molecular biology"
+  } ]
+} ]

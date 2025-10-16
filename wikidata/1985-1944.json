@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385992",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.asian-myrmecology.org/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2462-2362"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2482358896"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3B1EC3EB-E3F7-4D19-9C95-C0E412167229"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1985-1944"
+  }, {
+    "@value" : "2462-2362"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Asian Myrmecology"
+  } ]
+} ]

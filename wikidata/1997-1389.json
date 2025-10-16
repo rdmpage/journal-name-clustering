@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96722887",
+  "http://example.com/crossref" : [ {
+    "@value" : "284449"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2313-5530"
+  }, {
+    "@value" : "1997-1389"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journal.sfu-kras.ru/series/biology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1997-1389"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210173362"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2313-5530"
+  }, {
+    "@value" : "1997-1389"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Žurnal Sibirskogo federalʹnogo universiteta. Biologiâ"
+  } ]
+} ]

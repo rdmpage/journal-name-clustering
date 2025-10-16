@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108455918",
+  "http://example.com/issn_l" : [ {
+    "@value" : "2061-3911"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2061-3911"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "E-acta naturalia Pannonica"
+  } ]
+} ]

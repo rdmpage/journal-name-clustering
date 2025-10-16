@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385521",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Lepid. Soc."
+  }, {
+    "@language" : "en",
+    "@value" : "The J. of the Lepidopterists' Society"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0024-0966"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "62643"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297075"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1959"
+  }, {
+    "@value" : "1947"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/76934"
+  }, {
+    "@id" : "http://images.peabody.yale.edu/lepsoc/jls/"
+  }, {
+    "@id" : "http://research.yale.edu/peabody/jls/"
+  }, {
+    "@id" : "http://www.bioone.org/loi/noat"
+  }, {
+    "@id" : "https://www.lepsoc.org/content/journal"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0024-0966"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210222011"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0024-0966"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Lepidopterists' Society"
+  } ]
+} ]

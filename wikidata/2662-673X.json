@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96722764",
+  "http://example.com/crossref" : [ {
+    "@value" : "378571"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/43388"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2662-673X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210228110"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2662-673X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ornithology research"
+  } ]
+} ]

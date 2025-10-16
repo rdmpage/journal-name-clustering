@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q47086385",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zeitschrift für wissenschaftliche Biologie. Abteilung A, Zeitschrift für Morphologie und Ökologie der Tiere"
+  }, {
+    "@language" : "de",
+    "@value" : "Z. Morph. Ökol. Tiere"
+  }, {
+    "@language" : "pt",
+    "@value" : "Z. Morph. Ökol. Tiere"
+  }, {
+    "@language" : "es",
+    "@value" : "Z. Morph. Ökol. Tiere"
+  }, {
+    "@language" : "fr",
+    "@value" : "Z. Morph. Ökol. Tiere"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "32338"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1924"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/435"
+  }, {
+    "@id" : "http://www.jstor.org/journal/zeitmorpokoltier"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0372-9389"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "zeitmorpokoltier"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210178203"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2365-0087"
+  }, {
+    "@value" : "0372-9389"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Zeitschrift für Morphologie und Ökologie der Tiere"
+  } ]
+} ]

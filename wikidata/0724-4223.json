@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q131841952",
+  "http://example.com/from_year" : [ {
+    "@value" : "1937"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0724-4223"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0724-4223"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Bombus"
+  }, {
+    "@language" : "de",
+    "@value" : "Bombus : faunistische Mitteilungen aus Nordwestdeutschland"
+  }, {
+    "@language" : "mul",
+    "@value" : "Bombus"
+  } ]
+} ]

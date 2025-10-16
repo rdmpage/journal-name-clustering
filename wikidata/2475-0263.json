@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50817801",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2475-0263"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "304787"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2475-0263"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandfonline.com/toc/tizo21/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2475-0263"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210238309"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2475-0263"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The European Zoological Journal"
+  } ]
+} ]

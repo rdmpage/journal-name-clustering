@@ -1,0 +1,54 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4034066",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Annu. Rev. Ecol. Evol. Syst."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Annual Review of Ecology, Evolution and Systematics"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "21596"
+  }, {
+    "@value" : "5705"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "93"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2003"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://arjournals.annualreviews.org/loi/ecolsys"
+  }, {
+    "@id" : "http://search.ebscohost.com/direct.asp?db=a9h&jid=%22V49%22&scope=site"
+  }, {
+    "@id" : "http://www.annualreviews.org/journal/ecolsys"
+  }, {
+    "@id" : "http://www.annualreviews.org/loi/ecolsys"
+  }, {
+    "@id" : "http://www.jstor.org/journals/1543592X.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1543-592X"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "annureviecolevol"
+  }, {
+    "@value" : "annureviecolsyst"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S119405978"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0066-4162"
+  }, {
+    "@value" : "1545-2069"
+  }, {
+    "@value" : "1543-592X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annual Review of Ecology, Evolution, and Systematics"
+  } ]
+} ]

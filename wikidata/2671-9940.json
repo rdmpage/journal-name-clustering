@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q130731261",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ksft.or.kr/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2671-9924"
+  }, {
+    "@value" : "2671-9940"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2671-9924"
+  }, {
+    "@value" : "2671-9940"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ko",
+    "@value" : "수산해양기술연구"
+  }, {
+    "@language" : "mul",
+    "@value" : "Susan haeyang gisul yeongu"
+  } ]
+} ]

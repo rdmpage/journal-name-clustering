@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q31831929",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Abh. Konigl. Ges. Wiss. Gottingen, Math.-Phys. Kl."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "98900"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0931-1963"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0931-1963"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Abhandlungen der Königlichen Gesellschaft der Wissenschaften zu Göttingen. Mathematisch-Physikalische Klasse"
+  } ]
+} ]

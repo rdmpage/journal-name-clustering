@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q130869816",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0870-0524"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0870-0524"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Arquivos do Museu Bocage"
+  } ]
+} ]

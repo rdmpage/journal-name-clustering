@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96712295",
+  "http://example.com/crossref" : [ {
+    "@value" : "53639"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jchemsoft/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0918-0761"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jchemsoft"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S160911736"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0918-0761"
+  }, {
+    "@value" : "1883-8359"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "Journal of chemical software"
+  } ]
+} ]

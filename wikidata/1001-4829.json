@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27720799",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Xi Nan Nong Ye Xue Bao"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1001-4829"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764395222"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1001-4829"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Xi'nan nongye xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Xi nan nong ye xue bao = Southwest China journal of agricultural sciences"
+  } ]
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q19689581",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0255-9587"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0255-9587"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of The Zoological Survey of India"
+  } ]
+} ]

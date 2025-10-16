@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q122933237",
+  "http://example.com/crossref" : [ {
+    "@value" : "423343"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://e-journal.biologi.lipi.go.id/index.php/zoo_indonesia"
+  }, {
+    "@id" : "https://e-journal.biologi.lipi.go.id/index.php/zoo_indonesia/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0215-191X"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://e-journal.biologi.lipi.go.id/index.php/zoo_indonesia/gateway/plugin/WebFeedGatewayPlugin/atom"
+  }, {
+    "@id" : "https://e-journal.biologi.lipi.go.id/index.php/zoo_indonesia/gateway/plugin/WebFeedGatewayPlugin/rss"
+  }, {
+    "@id" : "https://e-journal.biologi.lipi.go.id/index.php/zoo_indonesia/gateway/plugin/WebFeedGatewayPlugin/rss2"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0215-191X"
+  }, {
+    "@value" : "2527-8703"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Zoo Indonesia"
+  }, {
+    "@language" : "en",
+    "@value" : "Zoo Indonesia"
+  } ]
+} ]

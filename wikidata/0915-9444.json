@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385187",
+  "http://example.com/from_year" : [ {
+    "@value" : "1990"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0915-9444"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2015"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "7CBCD35F-8024-4216-87F8-DE59005959AD"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0915-9444"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Natural history research"
+  } ]
+} ]

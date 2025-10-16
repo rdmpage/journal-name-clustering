@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385404",
+  "http://example.com/bhl" : [ {
+    "@value" : "15675"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "326906"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1903"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-4327"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210205850"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "68C4EF71-1F1E-45F1-A272-EE8EDD68E6FF"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2035-6382"
+  }, {
+    "@value" : "0370-4327"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Redia"
+  } ]
+} ]

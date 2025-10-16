@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714061",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Plant Species Biol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3697"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=psb"
+  }, {
+    "@id" : "http://www.munksgaard-synergy.com/member/institutions/issuelist.asp?journal=psb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0913-557X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S92757419"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0913-557X"
+  }, {
+    "@value" : "1442-1984"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Plant Species Biology"
+  } ]
+} ]

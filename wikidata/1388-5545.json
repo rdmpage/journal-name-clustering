@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3638881",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Nematology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5779"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://brill.publisher.ingentaconnect.com/content/brill/nemy"
+  }, {
+    "@id" : "http://www.brill.nl/publications/journals/nematology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1388-5545"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2055470"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D33185DB-63B9-4BD9-B1A1-61FE24435C31"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1388-5545"
+  }, {
+    "@value" : "1568-5411"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nematology"
+  } ]
+} ]

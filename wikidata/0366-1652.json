@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107017831",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Boletín de la Academia de Ciencias Físicas, Matemáticas y Naturales"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-1652"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0366-1652"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletin de la Academia de Ciencias Físicas Matemáticas y Naturales"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletín de la Academia de Ciencias Físicas, Matemáticas y Naturales"
+  } ]
+} ]

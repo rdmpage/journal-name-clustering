@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385141",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ann. Mus. civ. stor. nat. Giacomo Doria"
+  }, {
+    "@language" : "de",
+    "@value" : "Ann. Mus. Civico Storia Nat. Giacomo Doria"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "43408"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297327"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1916"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0365-4389"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210172427"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E2E7EA1A-7AF2-4C08-82B1-01D7AF757CB9"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0365-4389"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Annali del Museo Civico di Storia Naturale Giacomo Doria"
+  }, {
+    "@language" : "it",
+    "@value" : "Annali del Museo Civico di Storia Naturale 'Giacomo Doria'"
+  } ]
+} ]

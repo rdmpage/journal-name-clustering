@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96701770",
+  "http://example.com/crossref" : [ {
+    "@value" : "379231"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0131-6184"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210224020"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0131-6184"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Rybnoe hozâjstvo"
+  } ]
+} ]

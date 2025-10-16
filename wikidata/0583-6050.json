@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q29043933",
+  "http://example.com/crossref" : [ {
+    "@value" : "199005"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0583-6050"
+  }, {
+    "@value" : "1580-2612"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.zrc-sazu.si/izrk/carsolog.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0583-6050"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S189689514"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1580-2612"
+  }, {
+    "@value" : "0583-6050"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "sl",
+    "@value" : "Acta carsologica"
+  } ]
+} ]

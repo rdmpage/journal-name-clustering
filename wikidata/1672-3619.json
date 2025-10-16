@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27720983",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Re Dai Yi Xue Za Zhi"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1672-3619"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1672-3619"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Redai yixue zazhi"
+  }, {
+    "@language" : "en",
+    "@value" : "Re dai yi xue za zhi = Journal of tropical medicine"
+  } ]
+} ]

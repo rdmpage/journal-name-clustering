@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21034215",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Revista Jard. Bot. Nac. Univ. Habana"
+  }, {
+    "@language" : "en",
+    "@value" : "Revista del Jardin Botanico Nacional, Universidad de la Habana"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista del Jardin Botanico Nacional"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2410-5546"
+  }, {
+    "@value" : "0253-5696"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1980"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.rjbn.uh.cu/index.php/RJBN/index"
+  }, {
+    "@id" : "https://revistas.uh.cu/rjbn/index"
+  }, {
+    "@id" : "http://www.jstor.org/stable/i23725905"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0253-5696"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "revijardbotanaci"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306526988"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://revistas.uh.cu/rjbn/gateway/plugin/WebFeedGatewayPlugin/rss2"
+  }, {
+    "@id" : "https://revistas.uh.cu/rjbn/gateway/plugin/WebFeedGatewayPlugin/atom"
+  }, {
+    "@id" : "https://revistas.uh.cu/rjbn/gateway/plugin/WebFeedGatewayPlugin/rss"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2410-5546"
+  }, {
+    "@value" : "0253-5696"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista del Jardín Botánico Nacional"
+  } ]
+} ]

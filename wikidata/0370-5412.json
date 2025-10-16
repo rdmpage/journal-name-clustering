@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q12201232",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Rev. Bot. Appl. Agric. Trop."
+  }, {
+    "@language" : "es",
+    "@value" : "Rev. Bot. Appl. Agric. Trop."
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-5412"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Revue de Botanique Appliquée et d'Agriculture tropicale"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q96725532",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Rev. Int. Bot. Appl. Agric. Trop"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "229106"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.persee.fr/web/revues/home/prescript/revue/jatba"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-5412"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210183611"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-5412"
+  }, {
+    "@value" : "2437-2242"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Revue internationale de botanique appliquée et d'agriculture tropicale"
+  } ]
+} ]

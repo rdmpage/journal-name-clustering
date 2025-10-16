@@ -1,0 +1,61 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385904",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Bull. Mus. Natl. Hist. Nat., Sect. C"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. Mus. natl. hist. nat., Sect. C sci. terre paléontol. géol. minér."
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Mus. Natl. Hist. Nat., Sect. C"
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. Mus. Natl. Hist. Nat., Sect. C"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bull. Mus. Natl. Hist. Nat., Sect. C"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin du Museum National d'Histoire Naturelle, Section C: Sciences de la Terre, Paleontologie, Geologie, Mineralogie"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin du Muséum national d'Histoire naturelle, 4ème série - Section C"
+  }, {
+    "@language" : "es",
+    "@value" : "Bull. Mus. Natl. Hist. Nat., Sect. C"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin du Muséum national d'histoire naturelle. Section C, Sciences de la terre, paléontologie, géologie, minéralogie"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "146268"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://bibliotheques.mnhn.fr/medias/doc/EXPLOITATION/IFD/I_IFD_REFDOC_01810642#"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0181-0642"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306505183"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "5A0620FD-CDCA-4EC7-A0B7-3E5615D42D48"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0181-0642"
+  }, {
+    "@value" : "3038-9739"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin du Muséum national d'histoire naturelle. Section C, Sciences de la terre, paléontologie, géologie, minéralogie"
+  } ]
+} ]

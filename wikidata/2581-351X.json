@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27711504",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Commun Dis"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Communicable Diseases"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "306380"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://medical.advancedresearchpublications.com/index.php/Journal-CommunicableDiseases/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0019-5138"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2755445672"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0019-5138"
+  }, {
+    "@value" : "2581-351X"
+  }, {
+    "@value" : "2394-7047"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Communicable Diseases"
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of communicable diseases"
+  } ]
+} ]

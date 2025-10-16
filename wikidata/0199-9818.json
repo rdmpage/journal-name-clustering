@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6087076",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc. Amer. Acad. Arts"
+  }, {
+    "@language" : "en",
+    "@value" : "Proc. Am. Acad. Arts Sci."
+  }, {
+    "@language" : "de",
+    "@value" : "Proc. Amer. Acad. Arts"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "3934"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "114373"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1846"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://proquest.umi.com/pqdweb"
+  }, {
+    "@id" : "http://www.umi.com/pqdauto"
+  }, {
+    "@id" : "http://journalseek.net/cgi-bin/journalseek/journalsearch.cgi?field=issn&query=0199-9818"
+  }, {
+    "@id" : "http://www.jstor.org/journals/01999818.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0199-9818"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "procameracadarts"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210180713"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1958"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0199-9818"
+  }, {
+    "@value" : "2327-9478"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the American Academy of Arts and Sciences"
+  } ]
+} ]

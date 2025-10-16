@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760760",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bot. Mar."
+  }, {
+    "@language" : "de",
+    "@value" : "Bot. Mar."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "31377"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.deGruyter.de/journals/bm/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-8055"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S78082969"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E56A8BFF-FF92-4829-911A-FB18C53E9C3A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1437-4323"
+  }, {
+    "@value" : "0006-8055"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Botanica Marina"
+  }, {
+    "@language" : "mul",
+    "@value" : "Botanica marina"
+  } ]
+} ]

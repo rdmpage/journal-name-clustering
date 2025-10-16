@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96704065",
+  "http://example.com/crossref" : [ {
+    "@value" : "285488"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2368-7460"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.nrcresearchpress.com/journal/as"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2368-7460"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210197217"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2368-7460"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Arctic science"
+  } ]
+} ]

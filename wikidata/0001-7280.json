@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27708820",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Acta Zool. Pathol. Antverp."
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Zool. Pathol. Antverp."
+  }, {
+    "@language" : "es",
+    "@value" : "Acta Zool. Pathol. Antverp."
+  }, {
+    "@language" : "fr",
+    "@value" : "Acta Zool. Pathol. Antverp."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-7280"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500605"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-7280"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta Zoologica et Pathologica Antverpiensia"
+  } ]
+} ]

@@ -156,6 +156,10 @@ foreach ($data as &$row)
 		
 		$string = preg_replace('/\s+LIII$/', '', $string);
 		$string = preg_replace('/\s+XXII \(no.$/', '', $string);
+		$string = preg_replace('/^VII.\s+/', '', $string);
+		$string = preg_replace('/^Reed.\s+/', '', $string);
+		$string = preg_replace('/^Sbornik,\s+/', '', $string);
+		$string = preg_replace('/^Hemipteros Heteropteros del Uruguay.\s+/', '', $string); 
 		
 		
 		$string = clean_series($string);

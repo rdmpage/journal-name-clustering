@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96859602",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Sauria: Terraristik und Herpetologie"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0176-9391"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0176-9391"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Sauria"
+  } ]
+} ]

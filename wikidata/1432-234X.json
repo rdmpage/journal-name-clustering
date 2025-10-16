@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4053610",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zoomorphology: Evolutionary, Comparative and Functional Morphology"
+  }, {
+    "@language" : "ru",
+    "@value" : "Зооморфология"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "786"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1980"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://link.springer.com/journal/435"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0720-213X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S127036354"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0720-213X"
+  }, {
+    "@value" : "1432-234X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zoomorphology"
+  } ]
+} ]

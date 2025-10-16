@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96701843",
+  "http://example.com/crossref" : [ {
+    "@value" : "329009"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://floraandfona.org.in/aspx_file/home.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0971-6920"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210208481"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2456-9364"
+  }, {
+    "@value" : "0971-6920"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Flora and Fauna"
+  } ]
+} ]

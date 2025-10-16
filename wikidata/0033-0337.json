@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q152215",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Program"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "311991"
+  }, {
+    "@value" : "57085"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1966"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://info.emeraldinsight.com/products/journals/journals.htm?PHPSESSID=eqt7h2nv31850tv0folptojc16&id=prog"
+  }, {
+    "@id" : "http://www.emeraldinsight.com/journals.htm?issn=0033-0337"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0033-0337"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S152623109"
+  }, {
+    "@value" : "S4210171756"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0033-0337"
+  }, {
+    "@value" : "1758-7301"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Program"
+  } ]
+} ]

@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758593",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Soil Biology & Biochemistry"
+  }, {
+    "@language" : "es",
+    "@value" : "Soil Biology & Biochemistry"
+  }, {
+    "@language" : "en",
+    "@value" : "Soil Biology & Biochemistry"
+  }, {
+    "@language" : "fr",
+    "@value" : "Soil Biology & Biochemistry"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1767"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/00380717"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/soil-biology-and-biochemistry"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0038-0717"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S62391475"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0038-0717"
+  }, {
+    "@value" : "1879-3428"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Soil Biology and Biochemistry"
+  }, {
+    "@language" : "en",
+    "@value" : "Soil biology & biochemistry"
+  } ]
+} ]

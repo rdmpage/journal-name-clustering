@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96696938",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Egyptian Academic Journal of Biological Sciences. B, Zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "Egyptian Academic Journal of Biological Sciences - Zoology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "324801"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2090-0759"
+  }, {
+    "@value" : "2090-0821"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://eajbsz.journals.ekb.eg"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2090-0759"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210223396"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2090-0759"
+  }, {
+    "@value" : "2090-0821"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Egyptian Academic Journal of Biological Sciences. B, Zoology"
+  } ]
+} ]

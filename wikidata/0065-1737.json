@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3618784",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0065-1737"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Zoológica Mexicana (nueva serie)"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Zoologica Mexicana"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "310022"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1955"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://azm.ojs.inecol.mx/index.php/azm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0065-1737"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210192417"
+  }, {
+    "@value" : "S4306500607"
+  }, {
+    "@value" : "S4306500608"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "C132D635-6DF1-4182-99B7-4D30AD5EF617"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2448-8445"
+  }, {
+    "@value" : "0065-1737"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Acta Zoológica Mexicana (nueva serie)"
+  }, {
+    "@language" : "es",
+    "@value" : "Acta Zoológica Mexicana"
+  } ]
+} ]

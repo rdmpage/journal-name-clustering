@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719237",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Thai J. Agric. Sci."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0049-3589"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764960627"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0049-3589"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Thai journal of agricultural science"
+  } ]
+} ]

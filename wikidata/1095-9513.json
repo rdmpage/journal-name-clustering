@@ -1,0 +1,66 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4248868",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Mol. Phylogenet. Evol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mol. Phyl. Evol."
+  }, {
+    "@language" : "de",
+    "@value" : "Molec. Phylogen. Evol."
+  }, {
+    "@language" : "zh",
+    "@value" : "分子系統發生與演化"
+  }, {
+    "@language" : "zh",
+    "@value" : "分子系統發生和演化"
+  }, {
+    "@language" : "zh",
+    "@value" : "分子系统发育与进化期刊"
+  }, {
+    "@language" : "en",
+    "@value" : "Mol Phylogenet Evol"
+  }, {
+    "@language" : "zh",
+    "@value" : "分子系統發育與進化期刊"
+  }, {
+    "@language" : "de",
+    "@value" : "Mol Phylogenet Evol"
+  }, {
+    "@language" : "zh",
+    "@value" : "分子系統發生學與演化"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "555"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=1055-7903;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.apnet.com/www/journal/fy.htm"
+  }, {
+    "@id" : "http://www.elsevier.com/wps/find/journaldescription.cws_home/622921/description#description/"
+  }, {
+    "@id" : "http://www.idealibrary.com/cgi-bin/links/toc/fy"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1055-7903"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S96989847"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1095-9513"
+  }, {
+    "@value" : "1055-7903"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Molecular Phylogenetics and Evolution"
+  } ]
+} ]

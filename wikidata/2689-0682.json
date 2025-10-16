@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6124028",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=1UpGAQAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=KUpGAQAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=L0tGAQAAIAAJ"
+  }, {
+    "@id" : "http://www.jstor.org/action/showPublication?journalCode=selbyana"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0361-185X"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "selbyana"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306529467"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://journals.flvc.org/selbyana/gateway/plugin/WebFeedGatewayPlugin/atom"
+  }, {
+    "@id" : "https://journals.flvc.org/selbyana/gateway/plugin/WebFeedGatewayPlugin/rss"
+  }, {
+    "@id" : "https://journals.flvc.org/selbyana/gateway/plugin/WebFeedGatewayPlugin/rss2"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0361-185X"
+  }, {
+    "@value" : "2689-0682"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Selbyana"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q55821751",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "J. Econ. Taxon. Bot."
+  }, {
+    "@language" : "en",
+    "@value" : "J. Econ. Taxon. Bot."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0250-9768"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764843160"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0250-9768"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Economic and Taxonomic Botany"
+  } ]
+} ]

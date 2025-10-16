@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27717238",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zhi Wu Bing Li Xue Bao"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0412-0914"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0412-0914"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zhi wu bing li xue bao = Acta phytopathologica sinica"
+  }, {
+    "@language" : "zh",
+    "@value" : "Chih Wu Ping Li Hsueh Pao"
+  } ]
+} ]

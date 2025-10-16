@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385216",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Ent. Soc. Sth. Afr."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-8789"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765020536"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "628E8781-5C63-4C0D-83EF-F161BAB3E37C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0013-8789"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Entomological Society of Southern Africa"
+  } ]
+} ]

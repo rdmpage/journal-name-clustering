@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842736",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "パブリック・ヘルス・レポーツ"
+  }, {
+    "@language" : "en",
+    "@value" : "Public Health Reports (1896-1970)"
+  }, {
+    "@language" : "en",
+    "@value" : "Public Health Reports (1896)"
+  }, {
+    "@language" : "ja",
+    "@value" : "パブリック・ヘルス・リポーツ"
+  }, {
+    "@language" : "en",
+    "@value" : "Public Health Reports (Washington, D.C. : 1896)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "114374"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://purl.fdlp.gov/GPO/gpo171195"
+  }, {
+    "@id" : "https://www.jstor.org/journal/publhealrepo1896"
+  }, {
+    "@id" : "https://www.ncbi.nlm.nih.gov/pmc/journals/347/#pubhealthreporig"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0094-6214"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "publhealrepo1896"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210234623"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2327-6258"
+  }, {
+    "@value" : "0094-6214"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Public Health Reports"
+  } ]
+} ]

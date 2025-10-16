@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96709441",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "Dōbutsu shinrigaku kenkyū"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "55767"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/janip/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0916-8419"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "janip"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S25382221"
+  }, {
+    "@value" : "S4306544444"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0916-8419"
+  }, {
+    "@value" : "1880-9022"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "Dōbutsu shinrigaku kenkyū"
+  } ]
+} ]

@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3432231",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ringing & migration"
+  }, {
+    "@language" : "fr",
+    "@value" : "Ringing & Migration"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "136145"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1975"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=kRwUAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=QgUhAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=tzVRAQAAIAAJ"
+  }, {
+    "@id" : "http://www.bto.org/ringing/rmj/"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/tram20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0307-8698"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764395723"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0307-8698"
+  }, {
+    "@value" : "2159-8355"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ringing and Migration"
+  }, {
+    "@language" : "en",
+    "@value" : "Ringing & migration"
+  } ]
+} ]

@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1086260",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Blumea - Journal of Plant Taxonomy and Plant Geography"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "89985"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1934"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.nationaalherbarium.nl/pubs/blumea/"
+  }, {
+    "@id" : "https://repository.naturalis.nl/#facet=host_journal_label:Blumea:%20Biodiversity,%20Evolution%20and%20Biogeography%20of%20Plants"
+  }, {
+    "@id" : "https://www.ingentaconnect.com/content/nhn/blumea"
+  }, {
+    "@id" : "https://www.naturalis.nl/en/science/blumea-journal"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-5196"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S118170198"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "http://api.ingentaconnect.com/content/nhn/blumea/latest?format=rss"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "97FF77AD-52E2-4670-BC2A-2304FAC11AA2"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0006-5196"
+  }, {
+    "@value" : "2212-1676"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Blumea"
+  }, {
+    "@language" : "la",
+    "@value" : "Blumea"
+  } ]
+} ]

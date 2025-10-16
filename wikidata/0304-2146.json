@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q117850108",
+  "http://example.com/crossref" : [ {
+    "@value" : "163766"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/tmh1973/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0304-2146"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "tmh1973"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2186-1811"
+  }, {
+    "@value" : "0304-2146"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Japanese Journal of Tropical Medicine and Hygiene"
+  }, {
+    "@language" : "mul",
+    "@value" : "Nihon Nettai Igakkai zasshi"
+  }, {
+    "@language" : "ja",
+    "@value" : "日本熱帯医学会雑誌"
+  } ]
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124343835",
+  "http://example.com/from_year" : [ {
+    "@value" : "1956"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://geoinfo.nmt.edu/publications/monographs/memoirs/home.cfm?show=ByNumber&From=0"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0548-5975"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0548-5975"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoir"
+  }, {
+    "@language" : "en",
+    "@value" : "Memoir - New Mexico Bureau of Mines & Mineral Resources"
+  } ]
+} ]

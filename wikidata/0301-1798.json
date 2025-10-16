@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27713756",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Usp Fiziol Nauk"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "315472"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://uspphysioras.ru/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0301-1798"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2755952259"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "3034-6118"
+  }, {
+    "@value" : "0301-1798"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Uspekhi fiziologicheskikh nauk"
+  }, {
+    "@language" : "ru",
+    "@value" : "Uspehi fiziologičeskih nauk"
+  } ]
+} ]

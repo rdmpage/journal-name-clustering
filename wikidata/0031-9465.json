@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2027899",
+  "http://example.com/crossref" : [ {
+    "@value" : "423998"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0031-9465"
+  }, {
+    "@value" : "1593-2095"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://digital.casalini.it/15932095"
+  }, {
+    "@id" : "http://www.fupress.com/pm"
+  }, {
+    "@id" : "http://www.fupress.net/index.php/pm/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0031-9465"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "phytmedi"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2416839"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1593-2095"
+  }, {
+    "@value" : "0031-9465"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Phytopathologia Mediterranea"
+  }, {
+    "@language" : "und",
+    "@value" : "Phytopathologia Mediterranea"
+  } ]
+} ]

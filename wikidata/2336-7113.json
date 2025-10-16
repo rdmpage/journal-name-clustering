@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q106999481",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://actarerumnaturalium.cz"
+  }, {
+    "@id" : "https://actarerumnaturalium.cz/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1801-5972"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://actarerumnaturalium.cz/feed/"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1803-1587"
+  }, {
+    "@value" : "2336-7113"
+  }, {
+    "@value" : "1801-5972"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta rerum naturalium"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta rerum naturalium"
+  } ]
+} ]

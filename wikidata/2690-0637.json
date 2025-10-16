@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q123420001",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ACS ES & T water"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://pubs.acs.org/journal/aewcaa#"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2690-0637"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2690-0637"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "ACS ES & T water"
+  }, {
+    "@language" : "en",
+    "@value" : "ACS ES&T Water"
+  } ]
+} ]

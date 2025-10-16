@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q68092116",
+  "http://example.com/crossref" : [ {
+    "@value" : "376381"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2524-4655"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://link.springer.com/journal/42522"
+  }, {
+    "@id" : "https://onehealthoutlook.biomedcentral.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2524-4655"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210234911"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2524-4655"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "One health outlook"
+  } ]
+} ]

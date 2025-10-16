@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q104441469",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0536-0242"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0536-0242"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Memorie descrittive della carta geologica d'Italia"
+  }, {
+    "@language" : "it",
+    "@value" : "Memorie descrittive della carta geologica d'Italia."
+  } ]
+} ]

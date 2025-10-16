@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q89659535",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sites.google.com/site/unentomologoandaluz/home/revista-gaditana-de-entomologia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2172-2595"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306527385"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2172-2595"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista gaditana de entomología"
+  } ]
+} ]

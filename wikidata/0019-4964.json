@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753442",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Indian Institute of Science"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0019-4964"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765044025"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0019-4964"
+  }, {
+    "@value" : "0970-4140"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Indian Institute of Science"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Indian Institute of Science Section B: Physical and Chemical Sciences"
+  } ]
+} ]

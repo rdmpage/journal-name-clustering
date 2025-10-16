@@ -1,0 +1,71 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27710721",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Comptes rendus de l'Académie des sciences de l'URSS"
+  }, {
+    "@language" : "pt",
+    "@value" : "Dokl Akad Nauk SSSR"
+  }, {
+    "@language" : "pt",
+    "@value" : "Dokl. Akad. Nauk SSSR"
+  }, {
+    "@language" : "pt",
+    "@value" : "Anais da Academia de Ciências da URSS"
+  }, {
+    "@language" : "fr",
+    "@value" : "Dokl. Akad. Nauk SSSR"
+  }, {
+    "@language" : "fr",
+    "@value" : "Doklady Akademii Nauk SSSR"
+  }, {
+    "@language" : "ru",
+    "@value" : "Доклады АН СССР"
+  }, {
+    "@language" : "en",
+    "@value" : "Dokl Akad Nauk SSSR"
+  }, {
+    "@language" : "en",
+    "@value" : "Dokl. Akad. Nauk SSSR"
+  }, {
+    "@language" : "en",
+    "@value" : "Doklady Akademii Nauk SSSR"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0002-3264"
+  }, {
+    "@language" : "de",
+    "@value" : "Dokl. Akad. Nauk SSSR"
+  }, {
+    "@language" : "es",
+    "@value" : "Dokl Akad Nauk SSSR"
+  }, {
+    "@language" : "es",
+    "@value" : "Dokl. Akad. Nauk SSSR"
+  }, {
+    "@language" : "ru",
+    "@value" : "Doklady Akademii nauk SSSR"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1933"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0002-3264"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "8CE2376D-BFCE-4535-8265-E435783F7A20"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0002-3264"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Доклады Академии наук СССР"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the USSR Academy of Sciences"
+  } ]
+} ]

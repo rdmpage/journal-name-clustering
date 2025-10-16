@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723794",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://iucn.org/themes/ssc/sgs/afesg/pachy/index.html"
+  }, {
+    "@id" : "http://www.african-elephant.org/pachy/"
+  }, {
+    "@id" : "http://www.pachydermjournal.org/index.php/pachy"
+  }, {
+    "@id" : "https://www.iucn.org/ssc-groups/mammals/african-elephant-specialist-group/pachyderm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1026-2881"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S106404643"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1683-5018"
+  }, {
+    "@value" : "1026-2881"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Pachyderm"
+  } ]
+} ]

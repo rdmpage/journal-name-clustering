@@ -1,0 +1,56 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763806",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Bull. Entomol. Res."
+  }, {
+    "@language" : "de",
+    "@value" : "Bull Entomol Res"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull Entomol Res"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Entomol. Res."
+  }, {
+    "@language" : "fr",
+    "@value" : "Bull Entomol Res"
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. Entomol. Res."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "10305"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5964"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1910"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=BER"
+  }, {
+    "@id" : "http://journals.cambridge.org/BER"
+  }, {
+    "@id" : "http://www.ingentaconnect.com/content/cabi/ber"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0007-4853"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S87316741"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "582D67DB-2B1E-4460-81C4-F671B8B51A5C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1475-2670"
+  }, {
+    "@value" : "0007-4853"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of Entomological Research"
+  } ]
+} ]

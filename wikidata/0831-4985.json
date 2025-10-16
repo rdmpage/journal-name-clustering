@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96701806",
+  "http://example.com/crossref" : [ {
+    "@value" : "266295"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0831-4985"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210208302"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0831-4985"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Collection forum"
+  } ]
+} ]

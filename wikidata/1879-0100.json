@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755936",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0967-0645"
+  }, {
+    "@language" : "en",
+    "@value" : "Deep-sea research. Part 2, Topical studies in oceanography"
+  }, {
+    "@language" : "en",
+    "@value" : "Deep-sea research. Part 2. Topical studies in oceanography"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1682"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/09670645"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0967-0645"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S172051550"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0967-0645"
+  }, {
+    "@value" : "1879-0100"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Deep-Sea Research. Part 2: Topical Studies in Oceanography"
+  }, {
+    "@language" : "en",
+    "@value" : "Deep-sea research. Part 2. Topical studies in oceanography"
+  } ]
+} ]

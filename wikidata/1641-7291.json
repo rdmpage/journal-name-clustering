@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756593",
+  "http://example.com/crossref" : [ {
+    "@value" : "176772"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://gq.pgi.gov.pl/gq"
+  }, {
+    "@id" : "http://www.pgi.gov.pl/gq"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1641-7291"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S11998145"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2082-5099"
+  }, {
+    "@value" : "1641-7291"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Geological Quarterly"
+  } ]
+} ]

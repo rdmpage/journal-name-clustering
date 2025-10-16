@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107333792",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Gensei Dobutsugaku Zasshi"
+  }, {
+    "@language" : "ja",
+    "@value" : "Gensei dōbutsugaku zasshi"
+  }, {
+    "@language" : "en",
+    "@value" : "Jpn. J. Protozool."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1968"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://protistology.jp/prev_journal_j.html"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jjprotozool/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0388-3752"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jjprotozool"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306545210"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2017"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0388-3752"
+  }, {
+    "@value" : "2189-6747"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "原生動物学雑誌"
+  } ]
+} ]

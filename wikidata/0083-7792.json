@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6166655",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0083-7792"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "120521"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "211086"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1905"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandfonline.com/toc/tweb20/current"
+  }, {
+    "@id" : "http://www.unifi.it/riviste/webbia/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0083-7792"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210229456"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0083-7792"
+  }, {
+    "@value" : "2169-4060"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Webbia"
+  }, {
+    "@language" : "mul",
+    "@value" : "Webbia"
+  } ]
+} ]

@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16539307",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. Br. Mus. Nat. Hist. (Bot.)"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Br. mus. nat. hist. bot."
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Brit. Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum (Natural History). Botany"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum, Natural History. Botany"
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. Br. Mus. Nat. Hist. (Bot.)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "2198"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1951"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0068-2292"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0068-2292"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum, Natural History. Botany"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5674351",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Anales Inst. Biol. Univ. Nac. México"
+  }, {
+    "@language" : "en",
+    "@value" : "Anales del instituto de Biologia de la Universidad Nacional de Mexico"
+  }, {
+    "@language" : "es",
+    "@value" : "Anales del instituto de Biologia de la Universidad Nacional de Mexico"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1930"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://anales.ib.unam.mx/index.php/anales"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1966"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0076-7174"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Anales del Instituto de Biológia de la Universidad Nacional de México"
+  } ]
+} ]

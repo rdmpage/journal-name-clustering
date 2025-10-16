@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q134885512",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0026-2617"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1957"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://link.springer.com/journal/11021"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0026-2617"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0026-2617"
+  }, {
+    "@value" : "1608-3237"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Microbiology"
+  } ]
+} ]

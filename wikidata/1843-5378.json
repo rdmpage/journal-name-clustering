@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50552822",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca Veterinary Medicine"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca. Veterinary Medicine"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "265130"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1843-5270"
+  }, {
+    "@value" : "1843-5378"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.usamvcluj.ro/index.php/veterinary"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1843-5270"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764843348"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2457-1407"
+  }, {
+    "@value" : "1843-5378"
+  }, {
+    "@value" : "1843-5270"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of University of Agricultural Sciences and Veterinary Medicine Cluj-Napoca. Veterinary Medicine"
+  } ]
+} ]

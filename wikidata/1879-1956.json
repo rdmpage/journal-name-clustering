@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765314",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "J. Afr. Earth Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of African Earth Sciences (1994)"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Afr. Earth Sci."
+  }, {
+    "@language" : "fr",
+    "@value" : "J. Afr. Earth Sci."
+  }, {
+    "@language" : "de",
+    "@value" : "J. Afr. Earth Sci."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "119385"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/journal-of-african-earth-sciences/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/1464343X"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1464-343X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S125636905"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1464-343X"
+  }, {
+    "@value" : "1879-1956"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of African Earth Sciences"
+  } ]
+} ]

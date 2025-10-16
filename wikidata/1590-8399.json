@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385517",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bolletino del Museo Civico di Storia Naturale di Verona"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  }, {
+    "@value" : "1974"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.museostorianaturaleverona.it/nqcontent.cfm?a_id=43900&tt=museo"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1590-8399"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1590-8399"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Bolletino del Museo Civico di Storia Naturale di Verona"
+  }, {
+    "@language" : "it",
+    "@value" : "Bollettino del Museo civico di storia naturale di Verona. Botanica Zoologia"
+  } ]
+} ]

@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q47087690",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Rec. S. Austral. Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "Rec. South Aust. Mus"
+  }, {
+    "@language" : "fr",
+    "@value" : "Rec. S. Austral. Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "Rec. S. Austral. Mus."
+  }, {
+    "@language" : "pt",
+    "@value" : "Rec. S. Austral. Mus."
+  }, {
+    "@language" : "es",
+    "@value" : "Rec. S. Austral. Mus."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "61893"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1918"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0376-2750"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306525503"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2003"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E37C19E4-0065-4C65-B443-6773A34A847C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0376-2750"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Records of the South Australian Museum"
+  } ]
+} ]

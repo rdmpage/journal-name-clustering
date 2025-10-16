@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755986",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Shoulei Xuebao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "SLXX"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1981"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.mammal.cn"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-1050"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-1050"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Theriologica Sinica"
+  }, {
+    "@language" : "zh",
+    "@value" : "兽类学报"
+  } ]
+} ]

@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385762",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "pt",
+    "@value" : "Opusc. entom."
+  }, {
+    "@language" : "de",
+    "@value" : "Opusc. entom."
+  }, {
+    "@language" : "fr",
+    "@value" : "Opusc. entom."
+  }, {
+    "@language" : "es",
+    "@value" : "Opusc. entom."
+  }, {
+    "@language" : "en",
+    "@value" : "Opusc. entom."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1936"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-0205"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1969"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0375-0205"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Opuscula Entomologica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Opuscula entomologica"
+  } ]
+} ]

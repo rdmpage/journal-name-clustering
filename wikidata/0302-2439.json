@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15733641",
+  "http://example.com/crossref" : [ {
+    "@value" : "214785"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.revistas.usp.br/bolbot"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0302-2439"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "bolbotunisaopau"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210225601"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2316-9052"
+  }, {
+    "@value" : "0302-2439"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Boletim de Botânica"
+  }, {
+    "@language" : "pt",
+    "@value" : "Boletim de Botânica, Departamento de Botânica. Instituto de Biociências, Universidade de São Paulo"
+  } ]
+} ]

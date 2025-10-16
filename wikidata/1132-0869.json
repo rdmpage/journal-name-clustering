@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5660140",
+  "http://example.com/bhl" : [ {
+    "@value" : "11494"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "377070"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "218"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1910"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rshn.geo.ucm.es/index.php?d=publicaciones"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1132-0869"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210169985"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1132-0869"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Memorias de la Real Sociedad Española de Historia Natural"
+  } ]
+} ]

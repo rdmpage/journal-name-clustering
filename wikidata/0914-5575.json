@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113478685",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://naragakuen.repo.nii.ac.jp/search?search_type=2&q=2"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0914-5575"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0914-5575"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Nara Sangyō Daigaku kiyō"
+  } ]
+} ]

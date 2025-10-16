@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2675209",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Japan Academy, Series B, Physical and Biological Sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Japan Academy. Series B, Physical and biological sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Japan Academy. Proceedings. Series B: Physical and Biological Sciences"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "52798"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0386-2208"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "pjab"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210197794"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0386-2208"
+  }, {
+    "@value" : "1349-2896"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Japan Academy. Series B, Physical and biological sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Japan Academy, Series B"
+  } ]
+} ]

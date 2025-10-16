@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51516250",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Palaeontographia Italica"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0373-0972"
+  }, {
+    "@language" : "en",
+    "@value" : "Palaeontogr. ital."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "48618"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1895"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-0972"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-0972"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Palaeontographia Italica : Memorie di paleontologia"
+  }, {
+    "@language" : "mul",
+    "@value" : "Palaeontographia Italica"
+  } ]
+} ]

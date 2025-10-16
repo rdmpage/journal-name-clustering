@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21384961",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Koleopterol. Rundsch."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0075-6547"
+  }, {
+    "@language" : "de",
+    "@value" : "Coleopterologische Rundschau"
+  }, {
+    "@language" : "en",
+    "@value" : "Coleopterological Review"
+  }, {
+    "@language" : "en",
+    "@value" : "Coleopterologische Rundschau"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "16111"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1912"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://kor.coleoptera.at/volumes"
+  }, {
+    "@id" : "https://kr.coleoptera.at/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0075-6547"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "4134EAE0-EE83-4701-81E2-A04F96D91B2E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0075-6547"
+  }, {
+    "@value" : "2960-4591"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Koleopterologische Rundschau"
+  } ]
+} ]

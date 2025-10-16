@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q63116621",
+  "http://example.com/crossref" : [ {
+    "@value" : "328903"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://pau.krakow.pl/index.php/pl/wydawnictwo/strony-czasopism/folia-quaternaria"
+  }, {
+    "@id" : "http://www.degruyter.com/view/folquat"
+  }, {
+    "@id" : "http://www.degruyter.com/view/j/folquart"
+  }, {
+    "@id" : "http://www.ejournals.eu/FQ/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0015-573X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210216370"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2451-3059"
+  }, {
+    "@value" : "2199-5915"
+  }, {
+    "@value" : "0015-573X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Folia Quaternaria"
+  }, {
+    "@language" : "la",
+    "@value" : "Folia Quaternaria"
+  } ]
+} ]

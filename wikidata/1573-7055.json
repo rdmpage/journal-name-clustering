@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1709855",
+  "http://example.com/crossref" : [ {
+    "@value" : "2698"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=1064-7554;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.springer.com/life+sciences/evolutionary+%26+developmental+biology/journal/10914"
+  }, {
+    "@id" : "http://www.wkap.nl/jrnltoc.htm/1064-7554"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1064-7554"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S43476095"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "C6BB72BB-BE2D-4216-8D9E-6814B6C60C09"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1064-7554"
+  }, {
+    "@value" : "1573-7055"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Mammalian Evolution"
+  } ]
+} ]

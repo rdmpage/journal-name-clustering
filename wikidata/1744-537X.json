@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q104381587",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1744-537X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.orientalbirdclub.org/birdingasia-index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1744-537X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1744-537X"
+  }, {
+    "@value" : "2634-9388"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "BirdingASIA"
+  } ]
+} ]

@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27923388",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.moth.jp/en/pubs/jhj"
+  }, {
+    "@id" : "http://www.moth.jp/pubs/jhj"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0286-3537"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0286-3537"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "蛾類通信"
+  }, {
+    "@language" : "mul",
+    "@value" : "Garui tsūshin"
+  }, {
+    "@language" : "en",
+    "@value" : "Japan Heterocerists' Journal"
+  } ]
+} ]

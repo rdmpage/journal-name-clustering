@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96725859",
+  "http://example.com/crossref" : [ {
+    "@value" : "106845"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.schweizerbart.de/journals/rs?I=DE"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1868-5749"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S67052599"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1868-5749"
+  }, {
+    "@value" : "2363-7137"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "River systems"
+  } ]
+} ]

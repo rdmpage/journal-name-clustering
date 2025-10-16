@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96335232",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zoomorphologie (Berlin)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "37719"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1975"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/435"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0340-6725"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210220100"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1980"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0340-6725"
+  }, {
+    "@value" : "2365-0109"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Zoomorphologie"
+  } ]
+} ]

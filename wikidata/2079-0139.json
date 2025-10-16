@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q25654006",
+  "http://example.com/crossref" : [ {
+    "@value" : "346357"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2079-0139"
+  }, {
+    "@value" : "2071-9841"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://novitatescaribaea.do/index.php/novitates"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2071-9841"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210185428"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2079-0139"
+  }, {
+    "@value" : "2071-9841"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Novitates caribaea"
+  }, {
+    "@language" : "es",
+    "@value" : "Novitates Caribaea"
+  } ]
+} ]

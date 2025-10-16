@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3281088",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1778-3941"
+  }, {
+    "@language" : "fr",
+    "@value" : "Journal MalaCo"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journal-malaco.fr/"
+  }, {
+    "@id" : "https://journal-malaco.mnhn.fr/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1778-3941"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1778-3941"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "MalaCo"
+  } ]
+} ]

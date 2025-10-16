@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96331555",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Computer bulletin"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "35720"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://itnow.oxfordjournals.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0010-4531"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210173041"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1464-357X"
+  }, {
+    "@value" : "0010-4531"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Computer bulletin"
+  } ]
+} ]

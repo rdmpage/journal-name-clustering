@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763054",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "Journal of the Faculty of Agriculture, Kyushu University"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Department of Agriculture, Kyûshû Imperial University"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.lib.kyushu-u.ac.jp/publications_kyushu/jagri"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0023-6152"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S147963656"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0023-6152"
+  }, {
+    "@value" : "2433-488X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "九州大学大学院農学研究院紀要"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Department of Agriculture, Kyûshû Imperial University"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Faculty of Agriculture, Kyushu University"
+  } ]
+} ]

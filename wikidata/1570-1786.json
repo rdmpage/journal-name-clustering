@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3236940",
+  "http://example.com/crossref" : [ {
+    "@value" : "42319"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bentham.org/loc/ContentAbstract.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1570-1786"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S55953343"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1875-6255"
+  }, {
+    "@value" : "1570-1786"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Letters in Organic Chemistry"
+  } ]
+} ]

@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q45126759",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0022-5320"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "35339"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/00225320"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-5320"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S82964899"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-5320"
+  }, {
+    "@value" : "1878-2345"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Ultrastructure Research"
+  } ]
+} ]

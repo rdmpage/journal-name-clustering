@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27709095",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Arch. biol."
+  }, {
+    "@language" : "ru",
+    "@value" : "Arch. Biol. (Paris)"
+  }, {
+    "@language" : "en",
+    "@value" : "Archives of biology"
+  }, {
+    "@language" : "en",
+    "@value" : "Arch Biol (Liege)"
+  }, {
+    "@language" : "ru",
+    "@value" : "Arch. Biol. (Liege)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "41150"
+  }, {
+    "@value" : "7336"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1880"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-9624"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4363607422"
+  }, {
+    "@value" : "S4306502810"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1985"
+  }, {
+    "@value" : "1984"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0003-9624"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Archives de biologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Archives of biology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Archives de biologie"
+  } ]
+} ]

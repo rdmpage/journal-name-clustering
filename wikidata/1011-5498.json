@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q57918811",
+  "http://example.com/from_year" : [ {
+    "@value" : "1969"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1011-5498"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306519015"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1977"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1011-5498"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Madoqua"
+  } ]
+} ]

@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754295",
+  "http://example.com/crossref" : [ {
+    "@value" : "309501"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1338-7014"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ife.sk/research/edited-journals/folia-oecologica/"
+  }, {
+    "@id" : "https://www.degruyter.com/view/j/foecol"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210229305"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0139-9144"
+  }, {
+    "@value" : "1336-5266"
+  }, {
+    "@value" : "1338-7014"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Folia Oecologica"
+  } ]
+} ]

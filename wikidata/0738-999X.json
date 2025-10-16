@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51405860",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Florida field naturalist"
+  }, {
+    "@language" : "en",
+    "@value" : "Fla. field nat."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "130456"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1973"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.fosbirds.org/ffn.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0738-999X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0738-999X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Florida field naturalist : a semi-annual journal of the Florida Ornithological Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Florida field naturalist"
+  } ]
+} ]

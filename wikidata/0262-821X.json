@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2617037",
+  "http://example.com/crossref" : [ {
+    "@value" : "104145"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2041-4978"
+  }, {
+    "@value" : "0262-821X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jm.lyellcollection.org/"
+  }, {
+    "@id" : "http://www.geolsoc.org.uk/en/publications/journals/journal%20of%20micropalaeontology"
+  }, {
+    "@id" : "https://journal-of-micropalaeontology.net/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0262-821X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S90051289"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0262-821X"
+  }, {
+    "@value" : "2041-4978"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Micropalaeontology"
+  } ]
+} ]

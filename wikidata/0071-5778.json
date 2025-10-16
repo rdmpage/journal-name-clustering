@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5460332",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Flora Malesiana Bulletin"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0071-5778"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306510595"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0071-5778"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Flora Malesiana bulletin"
+  }, {
+    "@language" : "und",
+    "@value" : "Flora Malesiana"
+  } ]
+} ]

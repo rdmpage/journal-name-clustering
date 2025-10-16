@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q20813130",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1738-2297"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "58628"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1748-5967"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/loi/enr"
+  }, {
+    "@id" : "http://www.blackwellpublishing.com/journal.asp?ref=1738-2297&site=1"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1738-2297"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S106623195"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "C2E00A20-7A33-429D-AB9D-D83F5A7BA1E4"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1748-5967"
+  }, {
+    "@value" : "1738-2297"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Entomological Research"
+  } ]
+} ]

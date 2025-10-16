@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6296164",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Marine Biological Association of the United Kingdom. Journal"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Mar. Biol. Assoc. U. K."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "9064"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "6112"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1887"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=MBI"
+  }, {
+    "@id" : "http://www.mba.ac.uk/jmba/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0025-3154"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S153677060"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "BB34467A-735A-464B-BC3E-A56CE0B6D684"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0025-3154"
+  }, {
+    "@value" : "1469-7769"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Marine Biological Association of the United Kingdom"
+  } ]
+} ]

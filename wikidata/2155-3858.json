@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96330345",
+  "http://example.com/doaj" : [ {
+    "@value" : "2155-3874"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://digitalcommons.usu.edu/hwi/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2155-3874"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "humawildinte"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764668184"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2155-3874"
+  }, {
+    "@value" : "2155-3858"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Human-wildlife interactions"
+  } ]
+} ]

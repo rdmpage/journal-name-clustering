@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723757",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Zhejiang Daxue xuebao. Nongye yu shengming kexue ban"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhejiang Daxue Xue Bao Nong Ye Yu Sheng Ming Ke Xue Ban"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "ZJNY"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.zjujournals.com/agr/CN/1008-9209/home.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1008-9209"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764929467"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1008-9209"
+  }, {
+    "@value" : "2097-5155"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zhejiang daxue xue bao. Nong ye yu sheng ming ke xue ban = Journal of Zhejiang University. Agriculture and life sciences"
+  }, {
+    "@language" : "zh",
+    "@value" : "Zhejiang Daxue xuebao. Nongye yu shengming kexue ban"
+  } ]
+} ]

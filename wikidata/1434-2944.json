@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749873",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Internationale Revue der Gesamten Hydrobiologie"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "61199"
+  }, {
+    "@value" : "398"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/%28issn%291522-2632/"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S11990766"
+  }, {
+    "@value" : "S4210210261"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0020-9309"
+  }, {
+    "@value" : "1434-2944"
+  }, {
+    "@value" : "1522-2632"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Review of Hydrobiology"
+  } ]
+} ]

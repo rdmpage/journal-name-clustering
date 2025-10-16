@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842357",
+  "http://example.com/crossref" : [ {
+    "@value" : "205509"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2314-4378"
+  }, {
+    "@value" : "2314-436X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/52605"
+  }, {
+    "@id" : "http://search.ebscohost.com/direct.asp?db=a9h&jid=%22G611%22&scope=site"
+  }, {
+    "@id" : "http://www.ncbi.nlm.nih.gov/pmc/journals/2080/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2314-436X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210230380"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2314-4378"
+  }, {
+    "@value" : "2314-436X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International journal of genomics"
+  } ]
+} ]

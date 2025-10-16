@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q128214453",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Beijing Linye Daxue xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "北京林学院学报"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "BJLY"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://j.bjfu.edu.cn/"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-1522"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "北京林业大学学报"
+  } ]
+} ]

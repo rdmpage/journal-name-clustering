@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q95993830",
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.forum-geobotanicum.net"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1867-9315"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1867-9315"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Forum geobotanicum"
+  }, {
+    "@language" : "la",
+    "@value" : "Forum Geobotanicum"
+  } ]
+} ]

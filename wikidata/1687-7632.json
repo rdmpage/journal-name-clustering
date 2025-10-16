@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96335077",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "X-Ray Optics and Instrumentation (Print)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "74778"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.hindawi.com/journals/xroi/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1687-7632"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S167950993"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1687-7640"
+  }, {
+    "@value" : "1687-7632"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "X-Ray Optics and Instrumentation"
+  } ]
+} ]

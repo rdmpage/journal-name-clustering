@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751728",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Hydrobiological Journal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "29657"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S8769786"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0018-8166"
+  }, {
+    "@value" : "0375-8990"
+  }, {
+    "@value" : "1943-5991"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Gidrobiologicheskii Zhurnal: nauchnyi zhurnal"
+  } ]
+} ]

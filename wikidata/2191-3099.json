@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q89288142",
+  "http://example.com/issn_l" : [ {
+    "@value" : "2191-3099"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2191-3099"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Schütziana"
+  }, {
+    "@language" : "en",
+    "@value" : "Schütziana"
+  } ]
+} ]

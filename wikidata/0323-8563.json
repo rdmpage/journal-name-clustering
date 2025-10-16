@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765680",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Säugetierkd. Inf."
+  }, {
+    "@language" : "en",
+    "@value" : "Säugetierkd. Inf."
+  }, {
+    "@language" : "en",
+    "@value" : "Säugetierkundliche Informationen"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0323-8563"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0323-8563"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Säugetierkundliche Informationen"
+  }, {
+    "@language" : "de",
+    "@value" : "Saeugetierkundliche Informationen"
+  } ]
+} ]

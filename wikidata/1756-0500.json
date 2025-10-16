@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762797",
+  "http://example.com/crossref" : [ {
+    "@value" : "76986"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1756-0500"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2008"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.biomedcentral.com/bmcresnotes/"
+  }, {
+    "@id" : "https://bmcresnotes.biomedcentral.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1756-0500"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S100014455"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1756-0500"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "BMC Research Notes"
+  } ]
+} ]

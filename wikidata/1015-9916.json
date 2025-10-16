@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107392246",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1015-9916"
+  }, {
+    "@language" : "en",
+    "@value" : "Konch'ung yǒn'gu chi"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://insect.korea.ac.kr/sub/catalog.php?CatNo=45"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1015-9916"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1015-9916"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Konch'ung yǒn'gu chi"
+  }, {
+    "@language" : "ko",
+    "@value" : "곤충연구지"
+  }, {
+    "@language" : "en",
+    "@value" : "Entomological Research Bulletin"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749762",
+  "http://example.com/crossref" : [ {
+    "@value" : "298416"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1374-8505"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://popups.uliege.be/1374-8505/index.php"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S204021516"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1374-8505"
+  }, {
+    "@value" : "0379-1807"
+  }, {
+    "@value" : "2034-1954"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Geologica Belgica"
+  } ]
+} ]

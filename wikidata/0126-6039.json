@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722649",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Sains Malays"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "284531"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.ukm.my/jsm/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0126-6039"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S197347369"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0126-6039"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Sains Malaysiana"
+  }, {
+    "@language" : "mul",
+    "@value" : "Sains malaysiana"
+  } ]
+} ]

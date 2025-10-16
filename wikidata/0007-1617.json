@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q53953264",
+  "http://example.com/crossref" : [ {
+    "@value" : "139985"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/2698246.html"
+  }, {
+    "@id" : "http://www.informaworld.com/0967-0262"
+  }, {
+    "@id" : "http://www.informaworld.com/1469-4433"
+  }, {
+    "@id" : "http://www.informaworld.com/openurl?genre=journal&issn=0967%2d0262&sid=informa:informaworld&title=European%20Journal%20of%20Phycology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0007-1617"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210196172"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2331-2238"
+  }, {
+    "@value" : "0007-1617"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "British phycological journal"
+  } ]
+} ]

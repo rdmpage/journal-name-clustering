@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26849710",
+  "http://example.com/crossref" : [ {
+    "@value" : "75782"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ria.ie/publications/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0790-1763"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "irisjeartscie"
+  }, {
+    "@value" : "jeartscie"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S39500446"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2009-0064"
+  }, {
+    "@value" : "0790-1763"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Irish journal of earth sciences"
+  } ]
+} ]

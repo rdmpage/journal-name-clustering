@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q134885462",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Publicaciones del Instituto de Biología Aplicada (Barcelona)"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0020-3769"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0020-3769"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Publicaciones del Instituto de Biologia Aplicada"
+  } ]
+} ]

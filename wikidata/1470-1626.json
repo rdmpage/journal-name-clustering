@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7314293",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Reproduction"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "22938"
+  }, {
+    "@value" : "22918"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1960"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.reproduction-online.org/"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S28473761"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-4251"
+  }, {
+    "@value" : "1741-7899"
+  }, {
+    "@value" : "1359-6004"
+  }, {
+    "@value" : "1470-1626"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Reproduction"
+  } ]
+} ]

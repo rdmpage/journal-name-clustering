@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1151746",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Die Aquarien- und Terrarien-Zeitschrift"
+  }, {
+    "@language" : "en",
+    "@value" : "Die Aquarien- und Terrarien-Zeitschrift"
+  }, {
+    "@language" : "pt",
+    "@value" : "Die Aquarien- und Terrarien-Zeitschrift"
+  }, {
+    "@language" : "fr",
+    "@value" : "Die Aquarien- und Terrarien-Zeitschrift"
+  }, {
+    "@language" : "de",
+    "@value" : "Die Aquarien- und Terrarien-Zeitschrift"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1947"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.datz.de/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-7265"
+  }, {
+    "@value" : "1616-3222"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0003-7265"
+  }, {
+    "@value" : "1616-3222"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "DATZ"
+  }, {
+    "@language" : "de",
+    "@value" : "Die Aquarien- und Terrarien-Zeitschrift"
+  } ]
+} ]

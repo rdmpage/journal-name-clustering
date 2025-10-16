@@ -1,0 +1,54 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5535300",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Geo Acta"
+  }, {
+    "@language" : "es",
+    "@value" : "Acta"
+  }, {
+    "@language" : "en",
+    "@value" : "Geo Acta"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "329890"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "2871"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1695-6133"
+  }, {
+    "@value" : "1696-5728"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2003"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://revistes.ub.edu/index.php/GEOACTA/"
+  }, {
+    "@id" : "http://www.geologica-acta.com"
+  }, {
+    "@id" : "https://revistes.ub.edu/index.php/GEOACTA/index"
+  }, {
+    "@id" : "https://www.raco.cat/index.php/GeologicaActa"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1695-6133"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S5499309"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1696-5728"
+  }, {
+    "@value" : "1695-6133"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Geologica Acta"
+  } ]
+} ]

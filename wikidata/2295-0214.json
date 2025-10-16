@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385233",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.srbe.kbve.be"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1374-5514"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "9B65336E-7FE8-44FB-AD8D-B23499F69C21"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1374-5514"
+  }, {
+    "@value" : "2295-0214"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Belgian Journal of Entomology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Belgian Journal of Entomology"
+  } ]
+} ]

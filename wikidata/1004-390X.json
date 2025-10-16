@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385459",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Yunnan Nongye Daxue xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "Yunnan Nongye Daxue xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "云南农业大学学报（社会科学）"
+  }, {
+    "@language" : "zh",
+    "@value" : "云南农业大学学报（自然科学）"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1004-390X"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Yunnan Agricultural University (Natural Science)"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Yunnan Agricultural University (Social Science)"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://xb.ynau.edu.cn/"
+  }, {
+    "@id" : "https://xb.ynau.edu.cn/indexen.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1004-390X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764488765"
+  }, {
+    "@value" : "S4306542874"
+  }, {
+    "@value" : "S4306542875"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1004-390X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "云南农业大学学报"
+  } ]
+} ]

@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385391",
+  "http://example.com/crossref" : [ {
+    "@value" : "379360"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://periodicos.ufpb.br/ojs2/index.php/revnebio"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0100-7653"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210193720"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2236-1480"
+  }, {
+    "@value" : "0100-7653"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista Nordestina de Biologia"
+  } ]
+} ]

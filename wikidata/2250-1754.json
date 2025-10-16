@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q103821903",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.springer.com/popular/journal/40009"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0250-541X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0250-541X"
+  }, {
+    "@value" : "2250-1754"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "National Academy Science letters"
+  }, {
+    "@language" : "en",
+    "@value" : "National Academy Science Letters"
+  }, {
+    "@language" : "en",
+    "@value" : "Science Letters of the National Academy of Sciences, India"
+  } ]
+} ]

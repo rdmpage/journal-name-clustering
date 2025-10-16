@@ -1,0 +1,63 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5732642",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bot. Jahrb. Syst., Pflanzengesch. Pflanzengeogr."
+  }, {
+    "@language" : "en",
+    "@value" : "Bot. Jahrb. Syst."
+  }, {
+    "@language" : "es",
+    "@value" : "Bot. Jahrb. Syst., Pflanzengesch. Pflanzengeogr."
+  }, {
+    "@language" : "es",
+    "@value" : "Bot. Jahrb. Syst."
+  }, {
+    "@language" : "de",
+    "@value" : "Bot. Jahrb. Syst."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "60"
+  }, {
+    "@value" : "68683"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "9877"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1880"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.schweizerbart.de/papers/botjb/volumes"
+  }, {
+    "@id" : "http://www.schweizerbart.de/j/botanische-jahrbuecher/"
+  }, {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2088273"
+  }, {
+    "@id" : "http://www.ingentaconnect.com/content/schweiz/bj"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-8152"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210205828"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2009"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "79FE8C8C-4E2D-44EA-80E5-FD425788312B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2700-2810"
+  }, {
+    "@value" : "0006-8152"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie"
+  }, {
+    "@language" : "mul",
+    "@value" : "Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie"
+  } ]
+} ]

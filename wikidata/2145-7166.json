@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q93482374",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Actualidades biologicas"
+  }, {
+    "@language" : "en",
+    "@value" : "Actual. Biol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "283865"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0304-3584"
+  }, {
+    "@value" : "2145-7166"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://revistas.udea.edu.co/index.php/actbio"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0304-3584"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210177812"
+  }, {
+    "@value" : "S4306500650"
+  }, {
+    "@value" : "S4306500651"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0304-3584"
+  }, {
+    "@value" : "2145-7166"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Actualidades biologicas"
+  }, {
+    "@language" : "es",
+    "@value" : "Actualidades Biológicas"
+  }, {
+    "@language" : "en",
+    "@value" : "Actualidades Biológicas"
+  } ]
+} ]

@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96701837",
+  "http://example.com/crossref" : [ {
+    "@value" : "386117"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1027-832X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210202858"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1027-832X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "is",
+    "@value" : "Fjölrit Náttúrufræðistofnunar"
+  } ]
+} ]

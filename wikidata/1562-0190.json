@@ -1,0 +1,56 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q40748491",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ann. Mus. Zool. Acad. Imp. Sci. St. Petersbourg"
+  }, {
+    "@language" : "en",
+    "@value" : "Annuaire Mus. Zool. Acad. Imp. Sci. St. Petersb."
+  }, {
+    "@language" : "en",
+    "@value" : "Ежегодник Зоологического музея Императорской академии наук"
+  }, {
+    "@language" : "fr",
+    "@value" : "Annuaire du Musée Zoologique de l'Académie Impériale des Sciences de St.-Pétersbourg"
+  }, {
+    "@language" : "ru",
+    "@value" : "Ежегодник Зоологического музея Академии наук"
+  }, {
+    "@language" : "ru",
+    "@value" : "Ежегодник Зоологического музея Академии наук Союза Советских Социалистических Республик"
+  }, {
+    "@language" : "ru",
+    "@value" : "Ежегодник Зоологического музея Российской академии наук"
+  }, {
+    "@language" : "fr",
+    "@value" : "Annuaire du Musée Zoologique de l'Académie des Sciences"
+  }, {
+    "@language" : "fr",
+    "@value" : "Annuaire du Musée Zoologique de l'Académie des Sciences de l'Union des Républiques Sovietiques Socialistes"
+  }, {
+    "@language" : "fr",
+    "@value" : "Annuaire du Musée Zoologique de l'Académie des Sciences de Russie"
+  }, {
+    "@language" : "ru",
+    "@value" : "Ежегодник Зоологического музея Императорской академии наук"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8097"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1896"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1916"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3F2505E8-4DDD-45AF-9395-E3E73E3DEFD0"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1562-0190"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Ezhegodnik Zoologicheskogo muzeia imperatorskoj akademìi nauk"
+  } ]
+} ]

@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5401877",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Estuaries Coasts"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Estuaries Coasts"
+  }, {
+    "@language" : "en",
+    "@value" : "Estuaries"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "78378"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1977"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.springer.com/journal/12237"
+  }, {
+    "@id" : "http://estuaries.olemiss.edu/"
+  }, {
+    "@id" : "http://www.jstor.org/action/showPublication?journalCode=estuariescoasts"
+  }, {
+    "@id" : "http://www.springerlink.com/openurl.asp?genre=journal&issn=1559-2723"
+  }, {
+    "@id" : "https://link.springer.com/journal/12237/42/6"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1559-2723"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "estuariescoasts"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S109872917"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1559-2731"
+  }, {
+    "@value" : "1559-2723"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Estuaries and Coasts"
+  } ]
+} ]

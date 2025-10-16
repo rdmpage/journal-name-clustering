@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27713931",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Z. f. Parasitenkunde"
+  }, {
+    "@language" : "en",
+    "@value" : "Z Parasitenkd"
+  }, {
+    "@language" : "en",
+    "@value" : "Z. Parasitenkd."
+  }, {
+    "@language" : "en",
+    "@value" : "Zeitschrift für Parasitenkunde"
+  }, {
+    "@language" : "en",
+    "@value" : "Zeitschrift fur Parasitenkunde (Berlin, Germany)"
+  }, {
+    "@language" : "de",
+    "@value" : "Zeitschrift für Parasitenkunde"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "37219"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0044-3255"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210222574"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0044-3255"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zeitschrift fur Parasitenkunde (Berlin, Germany)"
+  }, {
+    "@language" : "de",
+    "@value" : "Zeitschrift für Parasitenkunde"
+  } ]
+} ]

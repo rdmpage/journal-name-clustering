@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385793",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Öfversigt af Kongl. Vetenskaps-akademiens forhandlingar"
+  }, {
+    "@language" : "en",
+    "@value" : "Ofv. K. Svenska Vet.-Akad. Forhandl. Stockholm"
+  }, {
+    "@language" : "en",
+    "@value" : "Öfversigt af Kongl. Vetenskaps-akademiens forhandlingar."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "15534"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1844"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1100-4622"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1902"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1100-4622"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Öfversigt af Kongl. Vetenskaps-akademiens förhandlingar"
+  }, {
+    "@language" : "sv",
+    "@value" : "Öfversigt af Kongl. Vetenskaps-akademiens forhandlingar"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q45333816",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Atti Mus. civ. stor. nat. Trieste."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "9592"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1884"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0365-1576"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0365-1576"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Atti del museo civico di storia naturale di Trieste"
+  } ]
+} ]

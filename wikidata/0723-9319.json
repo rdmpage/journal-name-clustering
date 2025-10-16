@@ -1,0 +1,100 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113629466",
+  "http://example.com/from_year" : [ {
+    "@value" : "1847"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0723-9319"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften. Mathematisch-Naturwissenschaftliche Klasse"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q51433350",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Sitzungsberichte der Mathematisch-Naturwissenschaftlichen Classe der Kaiserlichen Akademie der Wissenschaften Abt(h)eilung 1"
+  }, {
+    "@language" : "en",
+    "@value" : "Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften in Wien"
+  }, {
+    "@language" : "en",
+    "@value" : "Sitzungsberichte und Anzeiger / Österreichische Akademie der Wissenschaften Abteilung I"
+  }, {
+    "@language" : "en",
+    "@value" : "Sitzungsberichte der Mathematisch-Naturwissenschaftlichen Classe der Kaiserlichen Akademie der Wissenschaften"
+  }, {
+    "@language" : "en",
+    "@value" : "Sitzungsberichte / Akademie der Wissenschaften Wien"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0723-9319"
+  }, {
+    "@language" : "en",
+    "@value" : "Sitzungsberichte / Österreichische Akademie der Wissenschaften in Wien Mathematisch-Naturwissenschaftliche Klasse, Abteilung 1"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "22857"
+  }, {
+    "@value" : "7337"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1848"
+  }, {
+    "@value" : "1888"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://hw.oeaw.ac.at/sitzungsberichte%5Fund%5Fanzeiger?frames=yes"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1728-0540"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1925"
+  }, {
+    "@value" : "1993"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0723-791X"
+  }, {
+    "@value" : "0723-9319"
+  }, {
+    "@value" : "1728-0540"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Sitzungsberichte und Anzeiger der mathematisch-naturwissenschaftlichen Klasse"
+  }, {
+    "@language" : "en",
+    "@value" : "Sitzungsberichte"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q96731238",
+  "http://example.com/crossref" : [ {
+    "@value" : "63339"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://hw.oeaw.ac.at/sitzungsberichte%5Fund%5Fanzeiger?frames=yes"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1728-0540"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210211722"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1728-0540"
+  }, {
+    "@value" : "0723-9319"
+  }, {
+    "@value" : "0723-791X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Sitzungsberichte und Anzeiger der mathematisch-naturwissenschaftlichen Klasse"
+  } ]
+} ]

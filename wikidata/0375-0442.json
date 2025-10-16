@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2486487",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Palaeontographica A"
+  }, {
+    "@language" : "en",
+    "@value" : "Palaeontographica. Abt. A: Palaeozoologie - Stratigraphie"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297757"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.schweizerbart.de/journals/pala"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-0442"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S993389578"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0375-0442"
+  }, {
+    "@value" : "2509-8373"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Palaeontographica A"
+  }, {
+    "@language" : "mul",
+    "@value" : "Palaeontographica. Abteilung A, Paläozoologie, Stratigraphie"
+  } ]
+} ]

@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50814663",
+  "http://example.com/crossref" : [ {
+    "@value" : "77100"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1824-0119"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sisef.it/forest@/"
+  }, {
+    "@id" : "https://foresta.sisef.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1824-0119"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210232336"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1824-0119"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Forest@"
+  } ]
+} ]

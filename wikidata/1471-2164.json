@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765854",
+  "http://example.com/crossref" : [ {
+    "@value" : "5911"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1471-2164"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.biomedcentral.com/bmcgenomics/"
+  }, {
+    "@id" : "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=32"
+  }, {
+    "@id" : "https://bmcgenomics.biomedcentral.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1471-2164"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S28614077"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1471-2164"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "BMC Genomics"
+  } ]
+} ]

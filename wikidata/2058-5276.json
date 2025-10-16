@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q23022567",
+  "http://example.com/crossref" : [ {
+    "@value" : "297113"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2016"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.nature.com/nmicrobiol/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2058-5276"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764926557"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2058-5276"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nature Microbiology"
+  } ]
+} ]

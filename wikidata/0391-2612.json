@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766954",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0391-2612"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S7202631"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0391-2612"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ofioliti: an international journal on ophiolites and related topics"
+  }, {
+    "@language" : "it",
+    "@value" : "Ofioliti"
+  } ]
+} ]

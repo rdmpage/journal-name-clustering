@@ -1,0 +1,55 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q246955",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Paleontol. J."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Paleontologičeskij žurnal"
+  }, {
+    "@language" : "fr",
+    "@value" : "Paleontologicheskii zhurnal"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0031-0301"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "54365"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://link.springer.com/journal/volumesAndIssues/11492"
+  }, {
+    "@id" : "https://sciencejournals.ru/journal/palrus/"
+  }, {
+    "@id" : "http://www.maik.rssi.ru/cgi-bin/journal.pl?name=paleng&page=main"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0031-0301;screen=info;ECOIP"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0031-0301"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S185207574"
+  }, {
+    "@value" : "S4306539911"
+  }, {
+    "@value" : "S85157363"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1555-6174"
+  }, {
+    "@value" : "0031-0301"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Палеонтологический журнал"
+  }, {
+    "@language" : "en",
+    "@value" : "Paleontological Journal"
+  } ]
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q59240027",
+  "http://example.com/crossref" : [ {
+    "@value" : "154425"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2683-6416"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2003"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.ajol.info/index.php/wiojms"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0856-860X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765055194"
+  }, {
+    "@value" : "S4210212756"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0856-860X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Western Indian Ocean Journal of Marine Science"
+  } ]
+} ]

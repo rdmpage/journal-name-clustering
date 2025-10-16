@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96705992",
+  "http://example.com/crossref" : [ {
+    "@value" : "324596"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2341-2674"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210214310"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2341-2674"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Boletín de la Real Sociedad Española de Historia Natural. Sección aula, museos y colecciones de ciencias naturales"
+  } ]
+} ]

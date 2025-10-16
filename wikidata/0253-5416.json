@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751397",
+  "http://example.com/crossref" : [ {
+    "@value" : "79159"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.banglajol.info/index.php/BJB/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0253-5416"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S122181971"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2079-9926"
+  }, {
+    "@value" : "0253-5416"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bangladesh Journal of Botany"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51494006",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "In the field"
+  }, {
+    "@language" : "en",
+    "@value" : "In Field (Chic. Ill.)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "52142"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1990"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1051-4546"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1051-4546"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "In the field : the bulletin of the Field Museum of Natural History"
+  }, {
+    "@language" : "en",
+    "@value" : "In the field"
+  } ]
+} ]

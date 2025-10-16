@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q47058473",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Archiv für mikroskopische Anatomie."
+  }, {
+    "@language" : "de",
+    "@value" : "Archiv für mikroskopische Anatomie"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "13307"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "74162"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1865"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0176-7364"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210195851"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1923"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0176-7364"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Archiv für mikroskopische Anatomie"
+  } ]
+} ]

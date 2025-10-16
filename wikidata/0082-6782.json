@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96738548",
+  "http://example.com/crossref" : [ {
+    "@value" : "297317"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=VSpQAAAAYAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=YCpQAAAAYAAJ"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/1422955.html"
+  }, {
+    "@id" : "https://journals.tulane.edu/index.php/TSZB/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0082-6782"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210213669"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2169-0790"
+  }, {
+    "@value" : "0082-6782"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Tulane studies in zoology and botany"
+  } ]
+} ]

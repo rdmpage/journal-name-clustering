@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385149",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Records of oceanographic works in Japan. New series"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0080-0295"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0080-0295"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Records of oceanographic works in Japan. New series"
+  } ]
+} ]

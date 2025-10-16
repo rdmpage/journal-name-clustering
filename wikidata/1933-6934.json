@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756595",
+  "http://example.com/crossref" : [ {
+    "@value" : "85916"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1933-6942"
+  }, {
+    "@value" : "1933-6934"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://landesbioscience.com/journals/fly"
+  }, {
+    "@id" : "http://rzblx1.uni-regensburg.de/ezeit/warpto.phtml?colors=7&jour_id=85222"
+  }, {
+    "@id" : "http://www.tandfonline.com/kfly"
+  }, {
+    "@id" : "https://www.tandfonline.com/toc/kfly20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1933-6934"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S36681318"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1933-6934"
+  }, {
+    "@value" : "1933-6942"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fly"
+  } ]
+} ]

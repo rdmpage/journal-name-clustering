@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96722018",
+  "http://example.com/crossref" : [ {
+    "@value" : "297318"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1935"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0325-2264"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210186236"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1945"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0325-2264"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista del Museo de La Plata. Sección oficial"
+  } ]
+} ]

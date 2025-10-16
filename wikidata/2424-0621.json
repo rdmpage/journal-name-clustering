@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q105538955",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2424-0621"
+  }, {
+    "@language" : "en",
+    "@value" : "Japanese Journal of Systematic Entomology, Supplementary Series"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2016"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2424-0621"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "66218A98-4198-45EA-ACD8-E3020D54F53B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2424-0621"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Japanese Journal of Systematic Entomology. Supplementary Series"
+  } ]
+} ]

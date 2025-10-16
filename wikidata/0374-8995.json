@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385737",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0374-8995"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0374-8995"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Memorie del Museuo Civico di Storia Naturale di Verona"
+  }, {
+    "@language" : "mul",
+    "@value" : "Memorie del Museo Civico di Storia Naturale di Verona"
+  } ]
+} ]

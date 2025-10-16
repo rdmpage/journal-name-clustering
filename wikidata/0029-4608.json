@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385688",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Notulae naturae of the Academy of Natural Sciences of Philadelphia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0029-4608"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0029-4608"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Notulae naturae of the Academy of Natural Sciences of Philadelphia"
+  } ]
+} ]

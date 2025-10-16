@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385345",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0096-5839"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1939"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://entsocwash.org/default.asp?Action=Show_Pubs&ID=Memoirs"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0096-5839"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0096-5839"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of the Entomological Society of Washington"
+  } ]
+} ]

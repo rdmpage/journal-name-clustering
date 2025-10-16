@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51498983",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Lepidopterists' news"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "50754"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1947"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/76934"
+  }, {
+    "@id" : "http://images.peabody.yale.edu/lepsoc/jls/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0457-5628"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1958"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B18B7198-675A-4719-941C-30676A813F59"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0457-5628"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Lepidopterists' news"
+  }, {
+    "@language" : "en",
+    "@value" : "The Lepidopterists' news : the monthly newsletter of the Lepidopterists' Society"
+  } ]
+} ]

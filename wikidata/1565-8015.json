@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385488",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://en.wikipedia.org/wiki/Andy_Lehrer"
+  }, {
+    "@id" : "http://ro.wikipedia.org/wiki/Andy_Z._Lehrer"
+  }, {
+    "@id" : "http://tech.groups.yahoo.com/group/Calliphoridae/files"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1565-8015"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1565-8023"
+  }, {
+    "@value" : "1565-8015"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Fragmenta dipterologica"
+  } ]
+} ]

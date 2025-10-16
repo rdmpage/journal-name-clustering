@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2533747",
+  "http://example.com/crossref" : [ {
+    "@value" : "3664"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.blackwell-synergy.com/loi/ahe"
+  }, {
+    "@id" : "http://www.interscience.wiley.com/jpages/0340-2096/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0340-2096"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S38657515"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0340-2096"
+  }, {
+    "@value" : "1439-0264"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Anatomia, Histologia, Embryologia"
+  }, {
+    "@language" : "el",
+    "@value" : "Anatomia, Histologia, Embryologia"
+  } ]
+} ]

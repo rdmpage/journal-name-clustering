@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q111085433",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Archives of Zoological Museum Moscow State University"
+  }, {
+    "@language" : "en",
+    "@value" : "Sbornik trudov zoologicheskogo muzeya MGU"
+  }, {
+    "@language" : "ru",
+    "@value" : "Sbornik trudov Zoologičeskogo muzeâ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0134-8647"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0134-8647"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Sbornik trudov Zoologičeskogo muzeâ"
+  }, {
+    "@language" : "ru",
+    "@value" : "Сборник трудов Зоологического музея"
+  }, {
+    "@language" : "en",
+    "@value" : "Archives of Zoological Museum Moscow State University"
+  } ]
+} ]

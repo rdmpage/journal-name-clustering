@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5888169",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Guangxi Zhiwu"
+  }, {
+    "@language" : "zh",
+    "@value" : "Guangxi zhiwu"
+  }, {
+    "@language" : "es",
+    "@value" : "Guangxi Zhiwu"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1000-3142"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1981"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journalseek.net/cgi-bin/journalseek/journalsearch.cgi?field=issn&query=1000-3142"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-3142"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306511743"
+  }, {
+    "@value" : "S4306511767"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-3142"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Guihaia"
+  }, {
+    "@language" : "zh-hans",
+    "@value" : "广西植物"
+  }, {
+    "@language" : "zh",
+    "@value" : "Guangxi zhiwu"
+  } ]
+} ]

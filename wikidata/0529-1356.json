@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763808",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0529-1356"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500248"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0529-1356"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Acta Anatomica Sinica"
+  }, {
+    "@language" : "zh",
+    "@value" : "Chieh P'ou Hsueh Pao"
+  } ]
+} ]

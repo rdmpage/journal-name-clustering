@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4781593",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Appl. Environ. Microbiol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "应用与环境微生物学"
+  }, {
+    "@language" : "en",
+    "@value" : "AEM"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5542"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "128"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1953"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://aem.asm.org/"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/6680"
+  }, {
+    "@id" : "http://pubmedcentral.gov/tocrender.fcgi?action=archive&journal=83"
+  }, {
+    "@id" : "https://aem.asm.org/content/by/year"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0099-2240"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S158228368"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "C2651970-C746-4283-B7B4-6E63FD16A93C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1098-5336"
+  }, {
+    "@value" : "0099-2240"
+  }, {
+    "@value" : "1070-6291"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Applied and Environmental Microbiology"
+  } ]
+} ]

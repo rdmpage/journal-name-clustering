@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3381516",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Phosphorus, Sulfur and Silicon and the Related Elements"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "17860"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=1042-6507;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.informaworld.com/smpp/1848618235-15574321/title~content=t713618290~db=all"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/gpss20"
+  }, {
+    "@id" : "https://www.tandfonline.com/toc/gpss20/current"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1026-7719"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S70121411"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1026-7719"
+  }, {
+    "@value" : "1042-6507"
+  }, {
+    "@value" : "1563-5325"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Phosphorus, Sulfur, and Silicon and the Related Elements"
+  } ]
+} ]

@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q18418406",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc. Boston Soc. Nat. Hist."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8077"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297305"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1844"
+  }, {
+    "@value" : "1841"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0270-2444"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210169223"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1942"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0270-2444"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Boston Society of Natural History"
+  } ]
+} ]

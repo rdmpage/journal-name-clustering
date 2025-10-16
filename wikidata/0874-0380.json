@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725173",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0874-0380"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0874-0380"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acoreana"
+  }, {
+    "@language" : "pt",
+    "@value" : "Açoreana"
+  } ]
+} ]

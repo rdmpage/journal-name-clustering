@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725898",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Botanical sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Bot Sci"
+  }, {
+    "@language" : "en",
+    "@value" : "Botanical Sciences"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "267016"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2007-4298"
+  }, {
+    "@value" : "2007-4476"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2012"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.botanicalsciences.com.mx/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2007-4298"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210174113"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2007-4476"
+  }, {
+    "@value" : "2007-4298"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Botanical sciences"
+  }, {
+    "@language" : "es",
+    "@value" : "Botanical sciences"
+  } ]
+} ]

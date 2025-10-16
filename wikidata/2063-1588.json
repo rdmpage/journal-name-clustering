@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386066",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Opuscula Zoologica (Budapest)"
+  }, {
+    "@language" : "en",
+    "@value" : "Opuscula zoologica Instituti Zoosystematici et Oecologici Universitatis Budapestinensis"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0237-5419"
+  }, {
+    "@language" : "en",
+    "@value" : "Opuscula zoologica Instituti Zoosystematici Universitatis Budapestinensis"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "284551"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2063-1588"
+  }, {
+    "@value" : "0237-5419"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://opuscula.elte.hu"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0237-5419"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210171287"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0237-5419"
+  }, {
+    "@value" : "2063-1588"
+  }, {
+    "@value" : "0473-1034"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Opuscula zoologica Instituti Zoosystematici et Oecologici Universitatis Budapestinensis"
+  } ]
+} ]

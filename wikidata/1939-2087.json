@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27718291",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Comp Psychol"
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of comparative psychology"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://content.apa.org/journals/com"
+  }, {
+    "@id" : "http://gateway.ovid.com/ovidweb.cgi?T=JS&MODE=ovid&PAGE=toc&D=ovft&AN=00003159-000000000-00000"
+  }, {
+    "@id" : "http://www.apa.org/journals/com"
+  }, {
+    "@id" : "http://www.psycinfo.com/library/journal-com.cfm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0093-4127"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0093-4127"
+  }, {
+    "@value" : "1939-2087"
+  }, {
+    "@value" : "0735-7036"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of comparative psychology"
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of comparative psychology"
+  } ]
+} ]

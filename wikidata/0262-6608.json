@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q8023420",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Wilts. archaeol. nat. Hist. Mag."
+  }, {
+    "@language" : "en",
+    "@value" : "Wiltshire archaeological and natural history magazine"
+  }, {
+    "@language" : "en",
+    "@value" : "WANHM"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "12272"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1853"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.wiltshiremuseum.org.uk/wanhm/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0262-6608"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0262-6608"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Wiltshire Archaeological and Natural History Magazine"
+  } ]
+} ]

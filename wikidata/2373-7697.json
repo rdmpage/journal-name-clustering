@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386365",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2373-7697"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2014"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://hbs.bishopmuseum.org/dating/sherbornia/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2373-7697"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "916F9AA2-19A5-4DAE-A87D-9A5B2F4CD34E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2373-7697"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Sherbornia"
+  } ]
+} ]

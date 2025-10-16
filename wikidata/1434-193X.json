@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q899286",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Eur. J. Org. Chem."
+  }, {
+    "@language" : "de",
+    "@value" : "Eur. J. Org. Chem."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "66778"
+  }, {
+    "@value" : "56"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1998"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291099-0690"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S21317199"
+  }, {
+    "@value" : "S4210232996"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0365-5490"
+  }, {
+    "@value" : "1099-0690"
+  }, {
+    "@value" : "1434-193X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "European Journal of Organic Chemistry"
+  } ]
+} ]

@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385814",
+  "http://example.com/from_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1121-7545"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "0CE753E1-5780-4045-917E-DB58818DE0F0"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1121-7545"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Monografie del Museo Regionale di Scienze Naturali, Torino"
+  }, {
+    "@language" : "mul",
+    "@value" : "Monografie - Museo regionale di scienze naturali"
+  } ]
+} ]

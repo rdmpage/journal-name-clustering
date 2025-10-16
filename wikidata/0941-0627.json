@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q130358035",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Ber. Naturforsch. Ges. Oberlausitz"
+  }, {
+    "@language" : "en",
+    "@value" : "Ber. Naturforsch. Ges. Oberlausitz"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0941-0627"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0941-0627"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Berichte der Naturforschenden Gesellschaft der Oberlausitz"
+  } ]
+} ]

@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96731534",
+  "http://example.com/crossref" : [ {
+    "@value" : "315681"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://dergipark.org.tr/tr/pub/uluaricilik"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1303-0248"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210234999"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2687-5594"
+  }, {
+    "@value" : "1303-0248"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Uludağ arıcılık dergisi"
+  } ]
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755417",
+  "http://example.com/crossref" : [ {
+    "@value" : "63228"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1753-6405"
+  }, {
+    "@value" : "1326-0200"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://onlinelibrary.wiley.com/journal/17536405"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/australian-and-new-zealand-journal-of-public-health"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1326-0200"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S18972429"
+  }, {
+    "@value" : "S4210198536"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1753-6405"
+  }, {
+    "@value" : "1326-0200"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australian and New Zealand Journal of Public Health"
+  } ]
+} ]

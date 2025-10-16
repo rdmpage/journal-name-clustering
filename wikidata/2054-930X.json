@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725531",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "JEMCA"
+  }, {
+    "@language" : "en",
+    "@value" : "J Eur Mosq Control Assoc"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2054-930X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://e-m-b.org/content/overview-all-emb-publications"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2054-930X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210219289"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2054-930X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the European Mosquito Control Association"
+  } ]
+} ]

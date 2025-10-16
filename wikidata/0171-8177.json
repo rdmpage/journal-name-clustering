@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753203",
+  "http://example.com/crossref" : [ {
+    "@value" : "193645"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.schweizerbart.de/journals/entomologia?I=DE"
+  }, {
+    "@id" : "https://www.schweizerbart.de/journals/entomologia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0171-8177"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S42867496"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0171-8177"
+  }, {
+    "@value" : "2363-7102"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Entomologia Generalis: journal of general and applied entomology"
+  }, {
+    "@language" : "de",
+    "@value" : "Entomologia generalis"
+  } ]
+} ]

@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6294844",
+  "http://example.com/crossref" : [ {
+    "@value" : "5663"
+  }, {
+    "@value" : "2450"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.worldscientific.com/toc/jbs/0/0"
+  }, {
+    "@id" : "http://www.worldscinet.com/jbs/jbs.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0218-3390"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S39425270"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0218-3390"
+  }, {
+    "@value" : "1793-6470"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Biological Systems"
+  } ]
+} ]

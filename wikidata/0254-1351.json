@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124990115",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Diceng gushengwu lunwenji"
+  }, {
+    "@language" : "zh",
+    "@value" : "Diceng gushengwu lunwenji"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1975"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0254-1351"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0254-1351"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Diceng gushengwu lunwenji"
+  }, {
+    "@language" : "zh-cn",
+    "@value" : "地层古生物论文集"
+  }, {
+    "@language" : "en",
+    "@value" : "Professional Papers of Stratigraphy and Palaeontology"
+  } ]
+} ]

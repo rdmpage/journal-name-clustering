@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385393",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0974-7893"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "200485"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0974-7893"
+  }, {
+    "@value" : "0974-7907"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.threatenedtaxa.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0974-7893"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764419951"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://threatenedtaxa.org/index.php/JoTT/gateway/plugin/WebFeedGatewayPlugin/rss"
+  }, {
+    "@id" : "https://threatenedtaxa.org/index.php/JoTT/gateway/plugin/WebFeedGatewayPlugin/rss2"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "62087377-34BF-4A67-8A94-FEF6D8008597"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0974-7907"
+  }, {
+    "@value" : "0974-7893"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of threatened taxa"
+  } ]
+} ]

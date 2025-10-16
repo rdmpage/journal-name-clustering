@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124653806",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Monthly Bulletin of the Department of Agriculture, State of California"
+  }, {
+    "@language" : "en",
+    "@value" : "Monthly Bulletin, Department of Agriculture, State of California"
+  }, {
+    "@language" : "en",
+    "@value" : "Monthly Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin - State of California, Department of Agriculture"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the California Department of Agriculture"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1935"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0096-0691"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "F78B06D5-D9CE-4A11-9BEA-786C2D093B46"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0096-0691"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin - State of California, Department of Agriculture"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the Department of Agriculture, State of California"
+  } ]
+} ]

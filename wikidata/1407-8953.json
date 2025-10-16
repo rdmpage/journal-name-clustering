@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q20557945",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://sciences.lv/en/scientific-journals/acta-biologica-universitatis-daugavpiliensis/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1407-8953"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1407-8953"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta Biologica Universitatis Daugavpiliensis"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Biologica Universitatis Daugavpiliensis"
+  } ]
+} ]

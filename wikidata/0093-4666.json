@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6947226",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Mycotaxon"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "107547"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/40801"
+  }, {
+    "@id" : "http://openurl.ingenta.com/content?genre=journal&issn=0093-4666"
+  }, {
+    "@id" : "http://www.cybertruffle.org.uk/cyberliber/59575/index.htm"
+  }, {
+    "@id" : "http://www.mycotaxon.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0093-4666"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S44318362"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://api.ingentaconnect.com/content/mtax/mt/latest?format=rss"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2154-8889"
+  }, {
+    "@value" : "0093-4666"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Mycotaxon"
+  } ]
+} ]

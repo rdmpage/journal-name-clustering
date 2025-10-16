@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96331111",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0379-5128"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764981954"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0379-5128"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Indian journal of earth sciences"
+  } ]
+} ]

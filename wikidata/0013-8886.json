@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385306",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "L'Entomologiste : revue d'amateurs"
+  }, {
+    "@language" : "en",
+    "@value" : "L'Entomologiste: revue d'amateurs"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://lentomologiste.fr/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-8886"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0013-8886"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "L'Entomologiste"
+  } ]
+} ]

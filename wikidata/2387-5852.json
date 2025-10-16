@@ -1,0 +1,62 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q19383904",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0029-196X"
+  }, {
+    "@language" : "en",
+    "@value" : "Norsk Geologisk Tidsskrift"
+  }, {
+    "@language" : "fr",
+    "@value" : "Norsk Geologisk Tidsskrift"
+  }, {
+    "@language" : "de",
+    "@value" : "Nor. J. Geol."
+  }, {
+    "@language" : "de",
+    "@value" : "Norsk Geologisk Tidsskrift"
+  }, {
+    "@language" : "en",
+    "@value" : "Nor. J. Geol."
+  }, {
+    "@language" : "fr",
+    "@value" : "Nor. J. Geol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "277106"
+  }, {
+    "@value" : "4711"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2387-5844"
+  }, {
+    "@value" : "2387-5852"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1905"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.geologi.no/njg/"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S49786874"
+  }, {
+    "@value" : "S4210175885"
+  }, {
+    "@value" : "S2477083061"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "F008F97A-D64E-46BA-A6FB-B561995DD581"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2387-5852"
+  }, {
+    "@value" : "2387-5844"
+  }, {
+    "@value" : "0029-196X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Norwegian Journal of Geology"
+  } ]
+} ]

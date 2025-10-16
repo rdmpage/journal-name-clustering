@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725097",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Current research in environmental & applied mycology. Journal of fungal biology"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 2229-2225"
+  }, {
+    "@language" : "en",
+    "@value" : "Curr Res Environ Appl Mycol J Fungal Biol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "150925"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.creamjournal.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2229-2225"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210192282"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2229-2225"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Current Research in Environmental & Applied Mycology (Journal of Fungal Biology)"
+  } ]
+} ]

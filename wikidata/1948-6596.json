@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725422",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Front Biogeogr"
+  }, {
+    "@language" : "en",
+    "@value" : "Frontiers of Biogeography"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "303350"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1948-6596"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://escholarship.org/uc/fb"
+  }, {
+    "@id" : "https://biogeography.pensoft.net/"
+  }, {
+    "@id" : "https://escholarship.org/uc/fb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1948-6596"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765041714"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1948-6596"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Frontiers of biogeography"
+  } ]
+} ]

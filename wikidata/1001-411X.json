@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714363",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "华南农业大学学报, 自然科学版"
+  }, {
+    "@language" : "en",
+    "@value" : "Huanan Nongye Daxue xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "Huanan Nongye Daxue xuebao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "HNNB"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1001-411X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765068083"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "25FB8732-586A-4176-B00C-D0E5662B479C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1001-411X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh-cn",
+    "@value" : "华南农业大学学报"
+  } ]
+} ]

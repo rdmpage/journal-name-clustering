@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51451470",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. sci. lab. Denison Univ."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7521"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1885"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0893-2018"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1919"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E9BA3EC2-D890-4016-9C23-D15687D0AB8E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0893-2018"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the scientific laboratories of Denison University"
+  } ]
+} ]

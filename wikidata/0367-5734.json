@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5893451",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Hedwigia. Organ für Kryptogamenkunde nebst Repertorium für kryptogamische Literatur"
+  }, {
+    "@language" : "en",
+    "@value" : "Hedwigia. Organ für Kryptogamenkunde und Phytopathologie nebst Repertorium für Literatur"
+  }, {
+    "@language" : "de",
+    "@value" : "Hedwigia. Ein Notizblatt für kryptogamische Studien"
+  }, {
+    "@language" : "de",
+    "@value" : "Hedwigia. Notizblatt für kryptogamische Studien, nebst Repertorium für kryptogamische Literatur"
+  }, {
+    "@language" : "de",
+    "@value" : "Hedwigia. Organ für Kryptogamenkunde nebst Repertorium für kryptogamische Literatur"
+  }, {
+    "@language" : "de",
+    "@value" : "Hedwigia. Organ für Kryptogamenkunde und Phytopathologie nebst Repertorium für Literatur"
+  }, {
+    "@language" : "en",
+    "@value" : "Hedwigia (journal)"
+  }, {
+    "@language" : "en",
+    "@value" : "Hedwigia. Ein Notizblatt für kryptogamische Studien"
+  }, {
+    "@language" : "en",
+    "@value" : "Hedwigia. Notizblatt für kryptogamische Studien, nebst Repertorium für kryptogamische Literatur"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "698"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1852"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0367-5734"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1944"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0367-5734"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Hedwigia"
+  } ]
+} ]

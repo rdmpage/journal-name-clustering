@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7096584",
+  "http://example.com/from_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://opera.krnap.cz/"
+  }, {
+    "@id" : "https://www.krnap.cz/opera-corcontica/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0139-925X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S966689739"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0139-925X"
+  }, {
+    "@value" : "1803-1412"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Opera Corcontica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Opera Corcontica"
+  } ]
+} ]

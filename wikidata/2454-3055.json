@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96707719",
+  "http://example.com/crossref" : [ {
+    "@value" : "330926"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ijzi.net"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2454-3055"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210221787"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2454-3055"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International journal of zoological investigations"
+  } ]
+} ]

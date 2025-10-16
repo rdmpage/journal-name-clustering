@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26841958",
+  "http://example.com/crossref" : [ {
+    "@value" : "88469"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2042-0048"
+  }, {
+    "@value" : "2090-8113"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/46689"
+  }, {
+    "@id" : "http://www.ncbi.nlm.nih.gov/pmc/journals/1219/"
+  }, {
+    "@id" : "http://www.sage-hindawi.com/journals/vmi"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2042-0048"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S71240421"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2042-0048"
+  }, {
+    "@value" : "2090-8113"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Veterinary Medicine International"
+  } ]
+} ]

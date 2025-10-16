@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96727326",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "海洋地質与第四紀地質"
+  }, {
+    "@language" : "zh",
+    "@value" : "Haiyang dizhi yu disiji dizhi"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "HYDZ"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "80298"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://en.cgsjournals.com/hydzydsjdz"
+  }, {
+    "@id" : "http://jhydz.com.cn/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0256-1492"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S29166240"
+  }, {
+    "@value" : "S4306511854"
+  }, {
+    "@value" : "S4306553967"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0256-1492"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Haiyang dizhi yu disiji dizhi"
+  } ]
+} ]

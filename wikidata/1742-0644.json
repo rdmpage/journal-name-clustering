@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2147645",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Cryo-Letters"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.cryoletters.org"
+  }, {
+    "@id" : "http://www.ingentaconnect.com/content/cryo/cryo"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0143-2044"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2754456084"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1742-0644"
+  }, {
+    "@value" : "0143-2044"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cryo-letters"
+  }, {
+    "@language" : "en",
+    "@value" : "CryoLetters"
+  } ]
+} ]

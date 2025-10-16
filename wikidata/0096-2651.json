@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51473382",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Fieldiana, Geol."
+  }, {
+    "@language" : "en",
+    "@value" : "Fieldiana. Geology"
+  }, {
+    "@language" : "en",
+    "@value" : "Fieldiana, Geology"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "42260"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "93711"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1945"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/76936"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/1569159.html"
+  }, {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/42260#/summary"
+  }, {
+    "@id" : "http://www.bioone.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0096-2651"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S53222808"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0096-2651"
+  }, {
+    "@value" : "2162-4348"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fieldiana. Geology"
+  } ]
+} ]

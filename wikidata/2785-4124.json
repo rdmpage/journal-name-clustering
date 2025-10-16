@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124301188",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "MycolObs"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2021"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.mycolobs-journal.org"
+  }, {
+    "@id" : "https://www.mycolobs-journal.org/index.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2785-4124"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2785-4124"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Mycological Observations"
+  }, {
+    "@language" : "mul",
+    "@value" : "Mycological observations"
+  } ]
+} ]

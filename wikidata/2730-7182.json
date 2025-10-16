@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q121810556",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2730-7182"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2730-7182"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2021"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://bmcecolevol.biomedcentral.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2730-7182"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210180929"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "C1F41040-FC0D-4C5F-B78D-8707B17D4E4C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2730-7182"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "BMC Ecology and Evolution"
+  } ]
+} ]

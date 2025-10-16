@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723891",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Tokyo Nogyo Daigaku Nogaku Shuho"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-9202"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306552468"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0375-9202"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Tokyo Nogyo Daigaku nogaku shuho"
+  }, {
+    "@language" : "ja",
+    "@value" : "東京農業大学農学集報"
+  } ]
+} ]

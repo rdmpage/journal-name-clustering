@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50515274",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Yuzuncu Yil University Journal of Agricultural Sciences"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "311346"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1308-7584"
+  }, {
+    "@value" : "1308-7576"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://dergipark.org.tr/en/pub/yyutbd"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1308-7576"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210184880"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1308-7576"
+  }, {
+    "@value" : "1308-7584"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "tr",
+    "@value" : "Yüzüncü Yıl Üniversitesi Tarım Bilimleri Dergisi"
+  } ]
+} ]

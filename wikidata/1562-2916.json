@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724494",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Iran J Fish Sci"
+  }, {
+    "@language" : "en",
+    "@value" : "Iranian journal of fisheries science"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jifro.ir"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1562-2916"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S20585735"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2322-5696"
+  }, {
+    "@value" : "1562-2916"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Iranian journal of fisheries science"
+  }, {
+    "@language" : "en",
+    "@value" : "Iranian journal of fisheries sciences"
+  } ]
+} ]

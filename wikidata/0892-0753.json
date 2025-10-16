@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752676",
+  "http://example.com/crossref" : [ {
+    "@value" : "4427"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://figaro.catchword.com/rpsv/catchword/tandf/08920753/contp1-1.htm"
+  }, {
+    "@id" : "http://www.catchword.com/rpsv/catchword/tandf/08920753/contp1-1.htm"
+  }, {
+    "@id" : "http://www.metapress.com/openurl.asp?genre=journal&issn=0892-0753"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0892-0753"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S78843499"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0892-0753"
+  }, {
+    "@value" : "1521-0421"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Coastal management"
+  }, {
+    "@language" : "und",
+    "@value" : "Coastal Management"
+  } ]
+} ]

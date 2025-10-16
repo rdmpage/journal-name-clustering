@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5656921",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Actes Soc. linn. Bordeaux"
+  }, {
+    "@language" : "de",
+    "@value" : "Actes Soc. Linn. Bord."
+  }, {
+    "@language" : "en",
+    "@value" : "Actes Soc. Linn. Bordeaux"
+  }, {
+    "@language" : "de",
+    "@value" : "Actes Soc. Linn. Bordeaux"
+  }, {
+    "@language" : "en",
+    "@value" : "Actes de la Societe Linneenne de Bordeaux"
+  }, {
+    "@language" : "en",
+    "@value" : "Actes Soc.linn.Bordeaux"
+  }, {
+    "@language" : "es",
+    "@value" : "Actes de la Societe Linneenne de Bordeaux"
+  }, {
+    "@language" : "en",
+    "@value" : "Actes Soc. Linn. Bord."
+  }, {
+    "@language" : "fr",
+    "@value" : "Actes de la Société linnéenne de Bordeaux."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "16235"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1826"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://linneenne-bordeaux.pagesperso-orange.fr/publications.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0365-6934"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0365-6934"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Actes de la Société Linnéenne de Bordeaux"
+  } ]
+} ]

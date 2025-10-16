@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765248",
+  "http://example.com/crossref" : [ {
+    "@value" : "57546"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=1525-2647;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=1525-2647"
+  }, {
+    "@id" : "http://www.gettysburg.edu/%7Eshendrix/helmsoc.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1525-2647"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S86308941"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1938-2952"
+  }, {
+    "@value" : "1525-2647"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Comparative Parasitology"
+  } ]
+} ]

@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752966",
+  "http://example.com/crossref" : [ {
+    "@value" : "326211"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "7598"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2014-928X"
+  }, {
+    "@value" : "1578-665X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.raco.cat/index.php/ABC/issue/archive"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1578-665X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2486232989"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D9CCAD71-880D-4F8A-B12D-C713FB9B6E06"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2014-928X"
+  }, {
+    "@value" : "1578-665X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Animal Biodiversity and Conservation"
+  }, {
+    "@language" : "mul",
+    "@value" : "Animal biodiversity and conservation"
+  } ]
+} ]

@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107448084",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "pt",
+    "@value" : "Memórias da Junta de Investigações do Ultramar"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0369-0431"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0369-0431"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Memórias da Junta de Investigações do Ultramar"
+  }, {
+    "@language" : "pt",
+    "@value" : "Memórias, Junta de Investigações do Ultramar. Segunda Serie"
+  } ]
+} ]

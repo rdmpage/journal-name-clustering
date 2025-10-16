@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q98803395",
+  "http://example.com/dialnet" : [ {
+    "@value" : "13612"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2255-5994"
+  }, {
+    "@value" : "1885-5547"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dialnet.unirioja.es/servlet/revista?codigo=13612"
+  }, {
+    "@id" : "http://www.usc.es/revistas/index.php/rr"
+  }, {
+    "@id" : "https://revistas.usc.gal/index.php/rr"
+  }, {
+    "@id" : "https://www.ibader.gal/fichas/128/Numeros-publicados.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1885-5547"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210229216"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2255-5994"
+  }, {
+    "@value" : "1885-5547"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Recursos rurais"
+  } ]
+} ]

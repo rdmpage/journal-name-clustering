@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108127644",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Naturschutzreport Jena"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://tlubn.thueringen.de/service/publikationen/naturschutzreport"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0863-2448"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0863-2448"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Naturschutzreport"
+  } ]
+} ]

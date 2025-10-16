@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26000734",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "AH"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1827-9643"
+  }, {
+    "@value" : "1827-9635"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.fupress.net/index.php/ah/issue/archive"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1827-9635"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S103871702"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1827-9643"
+  }, {
+    "@value" : "1827-9635"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Herpetologica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Acta herpetologica"
+  } ]
+} ]

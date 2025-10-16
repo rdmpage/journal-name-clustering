@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q95560639",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=8KQRAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=daMRAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=fKQRAQAAMAAJ"
+  }, {
+    "@id" : "http://www.SSARCAAR.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2325-5021"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2325-5021"
+  }, {
+    "@value" : "2325-4882"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Catalogue of American Amphibians and Reptiles"
+  } ]
+} ]

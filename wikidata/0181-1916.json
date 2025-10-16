@@ -1,0 +1,70 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842168",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Reprod Nutr Dev"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "69118"
+  }, {
+    "@value" : "70458"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://web.archive.org/web/20150310032019/http://rnd.edpsciences.org/index.php?option=com_issues&task=all&Itemid=39"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-388X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S88847514"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0181-1916"
+  }, {
+    "@value" : "0003-388X"
+  }, {
+    "@value" : "0926-5287"
+  }, {
+    "@value" : "1297-9708"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "[Annales de biologie animale, biochimie, biophysique]"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q27709005",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ann Biol Anim Biochim Biophys"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "69794"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://web.archive.org/web/20150310032019/http://rnd.edpsciences.org/index.php?option=com_issues&task=all&Itemid=39"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-388X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S88847514"
+  }, {
+    "@value" : "S185068920"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0181-1916"
+  }, {
+    "@value" : "0003-388X"
+  }, {
+    "@value" : "0926-5287"
+  }, {
+    "@value" : "1297-9708"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annales de biologie animale, biochimie, biophysique"
+  }, {
+    "@language" : "fr",
+    "@value" : "[Annales de biologie animale, biochimie, biophysique]"
+  } ]
+} ]

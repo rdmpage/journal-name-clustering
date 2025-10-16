@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q18170760",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Austral. Orchid Rev."
+  }, {
+    "@language" : "en",
+    "@value" : "Austral. Orchid Rev."
+  }, {
+    "@language" : "es",
+    "@value" : "Austral. Orchid Rev."
+  }, {
+    "@language" : "fr",
+    "@value" : "Austral. Orchid Rev."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0045-0782"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0045-0782"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australian orchid review"
+  } ]
+} ]

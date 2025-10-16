@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q106511864",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Spined: Nieuwsbrief Spinnenwerkgroep Nederland"
+  }, {
+    "@language" : "en",
+    "@value" : "Nieuwsbrief Spined"
+  }, {
+    "@language" : "en",
+    "@value" : "Nieuwsbrief SPINED"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.eis-nederland.nl/spined"
+  }, {
+    "@id" : "https://natuurtijdschriften.nl/col/8/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0926-0781"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2950-1105"
+  }, {
+    "@value" : "0926-0781"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Spined"
+  }, {
+    "@language" : "nl",
+    "@value" : "Nieuwsbrief SPINED"
+  } ]
+} ]

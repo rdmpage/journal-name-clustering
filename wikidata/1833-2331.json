@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385816",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1833-2331"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://nla.gov.au/nla.arc-68165"
+  }, {
+    "@id" : "http://www.cmar.csiro.au/publications/cmarseries/frame.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1833-2331"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1833-2331"
+  }, {
+    "@value" : "1833-2420"
+  }, {
+    "@value" : "1835-1476"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "CSIRO Marine and Atmospheric Research papers"
+  } ]
+} ]

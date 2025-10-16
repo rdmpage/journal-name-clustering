@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96333770",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "South Western Journal of Horticulture, Biology and Environment"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://biozoojournals.ro/swjhbe/cont.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2067-9874"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2068-7958"
+  }, {
+    "@value" : "2067-9874"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "South Western Journal of Horticulture, Biology and Environment"
+  } ]
+} ]

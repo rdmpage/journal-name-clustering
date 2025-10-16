@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27438846",
+  "http://example.com/from_year" : [ {
+    "@value" : "1957"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0365-0898"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1985"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "24A5017D-7649-4CDE-BF5A-B1826C94D06C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0365-0898"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Atas da Sociedade de Biologia do Rio de Janeiro"
+  } ]
+} ]

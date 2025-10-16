@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22103193",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biol. Diversity Conservation"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "342000"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.biodicon.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1308-5301"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210198526"
+  }, {
+    "@value" : "S4306504397"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1308-5301"
+  }, {
+    "@value" : "1308-8084"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biological Diversity and Conservation"
+  }, {
+    "@language" : "tr",
+    "@value" : "Biyolojik çeþitlilik ve koruma"
+  } ]
+} ]

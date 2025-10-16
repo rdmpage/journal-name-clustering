@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q45826700",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Cicimar oceánides"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://oceanides.ipn.mx/index.php/cicimaroceanides"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1870-0713"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764499288"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1870-0713"
+  }, {
+    "@value" : "2448-9123"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Cicimar oceánides"
+  } ]
+} ]

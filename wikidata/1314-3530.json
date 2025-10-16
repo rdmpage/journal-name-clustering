@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761673",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biotechnology & Biotechnological Equipment"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "92045"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1314-3530"
+  }, {
+    "@value" : "1310-2818"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.diagnosisnet.com/bbeq/"
+  }, {
+    "@id" : "http://www.diagnosisp.com/dp/journals/journal.php?journal_id=1"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1310-2818"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S121023886"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1310-2818"
+  }, {
+    "@value" : "1314-3530"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biotechnology and Biotechnological Equipment"
+  }, {
+    "@language" : "en",
+    "@value" : "Biotechnology & Biotechnological Equipment"
+  } ]
+} ]

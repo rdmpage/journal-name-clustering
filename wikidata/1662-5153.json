@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21971195",
+  "http://example.com/crossref" : [ {
+    "@value" : "74885"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1662-5153"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.frontiersin.org/journals/behavioral-neuroscience#articles"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1662-5153"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S76576941"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1662-5153"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Frontiers in behavioral neuroscience"
+  } ]
+} ]

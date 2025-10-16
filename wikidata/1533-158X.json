@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759709",
+  "http://example.com/crossref" : [ {
+    "@value" : "4683"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://alidoro.catchword.com/vl=7181069/cl=37/nw=1/rpsv/cw/tandf/10871209/contp1.htm"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=1087-1209;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.informaworld.com/openurl?genre=journal&issn=1087-1209"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/uhdw20#.UrhR5U2IqmQ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1087-1209"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S44811269"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1533-158X"
+  }, {
+    "@value" : "1087-1209"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Human Dimensions of Wildlife"
+  } ]
+} ]

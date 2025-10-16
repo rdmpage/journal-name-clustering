@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q104193707",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sian.inia.gob.ve/revistas_ci/agronomia%20tropical/linea.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0002-192X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306501025"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2542-3363"
+  }, {
+    "@value" : "0002-192X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Agronomía Tropical"
+  }, {
+    "@language" : "mul",
+    "@value" : "Agronomía tropical"
+  } ]
+} ]

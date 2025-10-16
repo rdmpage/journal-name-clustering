@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761330",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Radiocarbon (journal)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "179005"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "5300"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1959"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=RDC"
+  }, {
+    "@id" : "http://radiocarbon.library.arizona.edu/"
+  }, {
+    "@id" : "http://www.catchword.com/rpsv/catchword/arizona/00338222/contp1-1.htm"
+  }, {
+    "@id" : "http://www.radiocarbon.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0033-8222"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S35778795"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0033-8222"
+  }, {
+    "@value" : "1945-5755"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Radiocarbon"
+  }, {
+    "@language" : "en",
+    "@value" : "Radiocarbon: an international journal of cosmogenic isotope research"
+  } ]
+} ]

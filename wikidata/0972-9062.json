@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842532",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Vector Borne Diseases"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "310824"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0972-9062"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0972-9062"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S158746746"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0972-9062"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of vector borne diseases"
+  } ]
+} ]

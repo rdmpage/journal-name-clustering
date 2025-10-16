@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752822",
+  "http://example.com/crossref" : [ {
+    "@value" : "218"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1099-050X"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/32249"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/1099050X"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0090-4848"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S134094273"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1099-050X"
+  }, {
+    "@value" : "0090-4848"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Human Resource Management"
+  } ]
+} ]

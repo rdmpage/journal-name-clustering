@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750912",
+  "http://example.com/crossref" : [ {
+    "@value" : "174187"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.banglajol.info/index.php/BJZ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0304-9027"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764848816"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D0950296-209D-4E81-8491-13966E92B551"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0304-9027"
+  }, {
+    "@value" : "2408-8455"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bangladesh Journal of Zoology"
+  } ]
+} ]

@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15817435",
+  "http://example.com/crossref" : [ {
+    "@value" : "95520"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1877-9603"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.sciencedirect.com/journal/ticks-and-tick-borne-diseases"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1877-959X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S107919129"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1877-9603"
+  }, {
+    "@value" : "1877-959X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ticks and Tick-borne Diseases"
+  } ]
+} ]

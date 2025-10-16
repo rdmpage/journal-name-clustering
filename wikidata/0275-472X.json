@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51451412",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Bulletin of the Massachusetts Audubon Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Mass. Audubon Soc."
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Mass. Audubon Soc. (1917)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8876"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1917"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0275-472X"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1958"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0275-472X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Bulletin of the Massachusetts Audubon Society"
+  } ]
+} ]

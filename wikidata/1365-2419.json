@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751735",
+  "http://example.com/crossref" : [ {
+    "@value" : "3487"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=1054-6006;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=fog"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1054-6006"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S143565956"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1365-2419"
+  }, {
+    "@value" : "1054-6006"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fisheries Oceanography"
+  } ]
+} ]

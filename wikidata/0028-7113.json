@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766642",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Trans. New York Acad. Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "Trans. N.Y. Acad. Sci."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "12303"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "172545"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1881"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=23vqtob3nNYC"
+  }, {
+    "@id" : "http://books.google.com/books?id=A3EbAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=anAbAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=aP0kBcXLvXcC"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0028-7113"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210170306"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0028-7113"
+  }, {
+    "@value" : "2164-0947"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the New York Academy of Sciences"
+  } ]
+} ]

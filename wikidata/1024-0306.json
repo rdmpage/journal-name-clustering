@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21445832",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Fritschiana : Veroffentlichungen aus dem Herbarium des Instituts fur Botanik der Karl-Franzens-Universitat Graz (GZU)"
+  }, {
+    "@language" : "en",
+    "@value" : "Fritschiana (Graz)"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1024-0306"
+  }, {
+    "@language" : "es",
+    "@value" : "Fritschiana : Veroffentlichungen aus dem Herbarium des Instituts fur Botanik der Karl-Franzens-Universitat Graz (GZU)"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1024-0306"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1024-0306"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Fritschiana"
+  } ]
+} ]

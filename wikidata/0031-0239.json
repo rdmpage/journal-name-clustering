@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q246729",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Paleontology"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "112244"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "21251"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1957"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1475-4983"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0031-0239"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S205194082"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0031-0239"
+  }, {
+    "@value" : "1475-4983"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Palaeontology"
+  } ]
+} ]

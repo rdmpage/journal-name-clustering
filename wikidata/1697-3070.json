@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96331632",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ingeba.org/lurralde/index.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0211-5891"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1697-3070"
+  }, {
+    "@value" : "0211-5891"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Lurralde"
+  } ]
+} ]

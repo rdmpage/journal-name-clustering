@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q114642885",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://sbocc.fr/carnets-botaniques/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2727-6287"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2727-6287"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Carnets botaniques"
+  } ]
+} ]

@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3624360",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Zoolog. Syst. Evol. Res."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Zeitschrift für Zoologische Systematik und Evolutionsforschung"
+  }, {
+    "@language" : "zh",
+    "@value" : "動物系統學與演化研究期刊"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3782"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1439-0469"
+  }, {
+    "@value" : "0947-5745"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.wiley.com/bw/journal.asp?ref=0947-5745&site=1"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/jzs"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0947-5745"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S36756304"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "6869DEA8-C52D-4C5B-86CA-F84D8DB8B3A8"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1439-0469"
+  }, {
+    "@value" : "0947-5745"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Journal of zoological systematics and evolutionary research"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Zoological Systematics and Evolutionary Research"
+  } ]
+} ]

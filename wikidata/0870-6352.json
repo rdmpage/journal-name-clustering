@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755017",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.gpeari.mctes.pt/scielo.php?script=sci_serial&pid=0870-6352&lng=pt"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0870-6352"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210172786"
+  }, {
+    "@value" : "S4306530011"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2183-0363"
+  }, {
+    "@value" : "0870-6352"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Silva lusitana"
+  }, {
+    "@language" : "und",
+    "@value" : "Silva Lusitana"
+  } ]
+} ]

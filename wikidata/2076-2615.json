@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725748",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Animals (Basel)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "110246"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2076-2615"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-195475"
+  }, {
+    "@id" : "http://www.mdpi.com/journal/animals"
+  }, {
+    "@id" : "https://nbn-resolving.org/urn/resolver.pl?urn=urn:nbn:ch:bel-195475"
+  }, {
+    "@id" : "https://www.mdpi.com/journal/animals"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2076-2615"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210168508"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2076-2615"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Animals : an open access journal from MDPI"
+  }, {
+    "@language" : "en",
+    "@value" : "Animals"
+  } ]
+} ]

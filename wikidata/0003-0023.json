@@ -1,0 +1,58 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21384989",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Trans. Amer. Micr. Soc."
+  }, {
+    "@language" : "en",
+    "@value" : "Trans. Am. Micros. Soc."
+  }, {
+    "@language" : "de",
+    "@value" : "Trans. Amer. Micr. Soc."
+  }, {
+    "@language" : "de",
+    "@value" : "Trans. Am. Micros. Soc."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0003-0023"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "37912"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "56748"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1879"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=Cx__YxKHTbEC"
+  }, {
+    "@id" : "http://books.google.com/books?id=d9Qz0DnYxYcC"
+  }, {
+    "@id" : "http://books.google.com/books?id=X0spWn-E8YcC"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00030023.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-0023"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "tranamermicrsoci"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764686071"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2325-5145"
+  }, {
+    "@value" : "0003-0023"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the American Microscopical Society"
+  } ]
+} ]

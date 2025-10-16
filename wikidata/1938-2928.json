@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4041895",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Med. Entomol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "J. Med. Entomol."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jme.oxfordjournals.org/"
+  }, {
+    "@id" : "http://www.entsoc.org/Pubs/Periodicals/JME"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-2585"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S80921037"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "0CB13D99-E0E1-4687-BAD6-74DB2020D7D1"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1938-2928"
+  }, {
+    "@value" : "0022-2585"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Medical Entomology"
+  } ]
+} ]

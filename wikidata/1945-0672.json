@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725805",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc RMRS"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.fs.fed.us/rm/main/pubs/electronic/rmrs%5Fproc.html"
+  }, {
+    "@id" : "http://www.fs.fed.us/rm/publications/titles/rmrs_proceedings.html"
+  }, {
+    "@id" : "http://www.fs.fed.us/rm/pubs/rmrs_p049.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1945-0672"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1945-0672"
+  }, {
+    "@value" : "1945-0680"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings RMRS"
+  } ]
+} ]

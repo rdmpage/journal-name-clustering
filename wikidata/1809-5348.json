@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15731785",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Neodiversity. A Journal of Neotropical Biodiversity"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "246896"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.neodiversity.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1809-5348"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210188513"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2358-2847"
+  }, {
+    "@value" : "1809-5348"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Neodiversity"
+  } ]
+} ]

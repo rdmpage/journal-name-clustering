@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1626522",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Vogelwarte. Zeitschrift für Vogelkunde"
+  }, {
+    "@language" : "de",
+    "@value" : "Vogelwarte. Zeitschrift für Vogelkunde"
+  }, {
+    "@language" : "fr",
+    "@value" : "Vogelwarte. Zeitschrift für Vogelkunde"
+  }, {
+    "@language" : "es",
+    "@value" : "Vogelwarte. Zeitschrift für Vogelkunde"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.do-g.de/index.php?id=45"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0049-6650"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0049-6650"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Vogelwarte"
+  } ]
+} ]

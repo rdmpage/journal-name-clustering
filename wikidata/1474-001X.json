@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2503342",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Br. J. Hist. Sci."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "British Journal for the History of Science"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "6104"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1962"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/1537266.html"
+  }, {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=BJH"
+  }, {
+    "@id" : "http://www.journals.cup.org/jid%5FBJH"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00070874.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0007-0874"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "britjhistscie"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S70812101"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0007-0874"
+  }, {
+    "@value" : "1474-001X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "British journal for the history of science"
+  } ]
+} ]

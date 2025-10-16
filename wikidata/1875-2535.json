@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385884",
+  "http://example.com/crossref" : [ {
+    "@value" : "103407"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2008"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ijm.pensoft.net/"
+  }, {
+    "@id" : "http://www.brill.nl/ijm"
+  }, {
+    "@id" : "http://www.ingentaconnect.com/content/brill/ijm"
+  }, {
+    "@id" : "http://www.pensoft.net/journal_home_page.php?journal_id=11&page=home&SESID=24dac20e11ba116cb06882a6b6ac2a3e"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1875-2535"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S167706022"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1875-2535"
+  }, {
+    "@value" : "1875-2543"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International journal of myriapodology"
+  } ]
+} ]

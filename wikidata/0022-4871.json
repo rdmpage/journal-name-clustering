@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6295986",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Of Teach. Education"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "15221"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.sagepub.com/home/jte"
+  }, {
+    "@id" : "http://jte.sagepub.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-4871"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S89004459"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-4871"
+  }, {
+    "@value" : "1552-7816"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Teacher Education"
+  } ]
+} ]

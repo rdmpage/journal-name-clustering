@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386155",
+  "http://example.com/crossref" : [ {
+    "@value" : "198925"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2010"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://mapress.com/j/bn/"
+  }, {
+    "@id" : "http://www.mapress.com/bionomina/content.htm#all%20issues"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1179-7649"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210230724"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3BEBC9E8-5115-4EAD-A64B-4408F440C47A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1179-7657"
+  }, {
+    "@value" : "1179-7649"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Bionomina"
+  }, {
+    "@language" : "en",
+    "@value" : "Bionomina"
+  } ]
+} ]

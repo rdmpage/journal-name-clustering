@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51515331",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ornithol. Beob."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8611"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1902"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0030-5707"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0030-5707"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Der Ornithologische Beobachter"
+  } ]
+} ]

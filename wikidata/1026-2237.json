@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96731821",
+  "http://example.com/crossref" : [ {
+    "@value" : "390622"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1026-2237"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210239454"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1026-2237"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Izvestiâ vysših učebnyh zavedenij. Severo-Kavkazskij region. Estestvennye nauki"
+  } ]
+} ]

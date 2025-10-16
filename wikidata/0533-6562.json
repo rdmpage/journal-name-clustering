@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96705172",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Transactions"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions - Gulf Coast Association of Geological Societies"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "11359"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0533-6562"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210221959"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0533-6562"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions - Gulf Coast Association of Geological Societies"
+  } ]
+} ]

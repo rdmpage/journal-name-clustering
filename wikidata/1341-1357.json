@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762367",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "Jikken Dobutsu"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "22398"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/expanim/list/-char/ja"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/expanim1952/list/-char/ja"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/expanim1957/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0007-5124"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "expanim"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S57967438"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1884-4170"
+  }, {
+    "@value" : "1884-4162"
+  }, {
+    "@value" : "0007-5124"
+  }, {
+    "@value" : "1881-7122"
+  }, {
+    "@value" : "1341-1357"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "Jikken Dobutsu"
+  }, {
+    "@language" : "en",
+    "@value" : "Experimental Animals"
+  } ]
+} ]

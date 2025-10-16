@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762985",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.tmag.tas.gov.au/collections_and_research/research/kanunnah"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1832-536X"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A8E02719-C43C-4659-AF03-968C1C298916"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1832-536X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Kanunnah"
+  }, {
+    "@language" : "en",
+    "@value" : "Kanunnah"
+  } ]
+} ]

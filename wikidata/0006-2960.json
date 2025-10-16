@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q764876",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "バイオケミストリー"
+  }, {
+    "@language" : "ja",
+    "@value" : "生化学"
+  }, {
+    "@language" : "en",
+    "@value" : "Biochemistry (Easton)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2484"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1962"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://pubs.acs.org/journal/bichaw"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-2960"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S104038378"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=bichaw"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1943-295X"
+  }, {
+    "@value" : "1520-4995"
+  }, {
+    "@value" : "0006-2960"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biochemistry"
+  } ]
+} ]

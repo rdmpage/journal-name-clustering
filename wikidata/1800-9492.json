@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50478638",
+  "http://example.com/crossref" : [ {
+    "@value" : "269766"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0554-5579"
+  }, {
+    "@value" : "1800-9492"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.agricultforest.ac.me"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0554-5579"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764498445"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1800-9492"
+  }, {
+    "@value" : "0554-5579"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "sr",
+    "@value" : "Poljoprivreda i šumarstvo"
+  }, {
+    "@language" : "en",
+    "@value" : "Agriculture and Forestry"
+  } ]
+} ]

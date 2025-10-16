@@ -1,0 +1,57 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22115423",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Ann. Natal Mus."
+  }, {
+    "@language" : "de",
+    "@value" : "Ann. Natal Mus."
+  }, {
+    "@language" : "pt",
+    "@value" : "Ann. Natal Mus."
+  }, {
+    "@language" : "es",
+    "@value" : "Ann. Natal Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "Ann. Natal Mus., Pietermaritzbg."
+  }, {
+    "@language" : "en",
+    "@value" : "Ann. Natal Mus."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "46200"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297332"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1910"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://content.sabinet.co.za/cdm4/index_03040798.php?CISOROOT=/03040798"
+  }, {
+    "@id" : "https://journals.co.za/journal/annals"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0304-0798"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210232637"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D20B4518-5FF3-4007-B83A-45DAFA7E0D1D"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2305-2775"
+  }, {
+    "@value" : "0304-0798"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of the Natal Museum"
+  } ]
+} ]

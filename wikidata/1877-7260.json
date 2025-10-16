@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15816323",
+  "http://example.com/crossref" : [ {
+    "@value" : "84190"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2009"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springerlink.com/content/121433"
+  }, {
+    "@id" : "https://www.springer.com/life+sciences/ecology/journal/12686"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1877-7252"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S147353869"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1877-7252"
+  }, {
+    "@value" : "1877-7260"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Conservation Genetics Resources"
+  }, {
+    "@language" : "en",
+    "@value" : "Conservation genetics resources"
+  } ]
+} ]

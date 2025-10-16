@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385281",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0948-6038"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0948-6038"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Nova supplementa entomologica"
+  } ]
+} ]

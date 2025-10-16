@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96703688",
+  "http://example.com/crossref" : [ {
+    "@value" : "147488"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0072-1395"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210213623"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0072-1395"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Geoscience and man"
+  } ]
+} ]

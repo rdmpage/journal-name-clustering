@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51479375",
+  "http://example.com/bhl" : [ {
+    "@value" : "61839"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1572-6525"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fossilium catalogus. I, Animalia"
+  } ]
+} ]

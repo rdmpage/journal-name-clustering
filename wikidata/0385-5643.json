@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113477666",
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://nagasaki-u.repo.nii.ac.jp/search?search_type=2&q=1775"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0385-5643"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306554469"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2002"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0385-5643"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "熱帯医学"
+  }, {
+    "@language" : "en",
+    "@value" : "Tropical medicine"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15817079",
+  "http://example.com/crossref" : [ {
+    "@value" : "57130"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/1871174X/"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/palaeoworld"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1871-174X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S136650500"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1875-5887"
+  }, {
+    "@value" : "1871-174X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Palaeoworld"
+  } ]
+} ]

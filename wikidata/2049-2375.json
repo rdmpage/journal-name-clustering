@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386077",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2049-2375"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.indexfungorum.org/Names/IndexFungorumPublicationsListing.asp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2049-2375"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2049-2375"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Index fungorum"
+  } ]
+} ]

@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27720111",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "pt",
+    "@value" : "Folia Clin. Biol."
+  }, {
+    "@language" : "pt",
+    "@value" : "Folia clinica et biologica"
+  }, {
+    "@language" : "fr",
+    "@value" : "Folia Clin. Biol."
+  }, {
+    "@language" : "fr",
+    "@value" : "Folia clinica et biologica"
+  }, {
+    "@language" : "en",
+    "@value" : "Folia Clin Biol (Sao Paulo)"
+  }, {
+    "@language" : "en",
+    "@value" : "Folia clinica et biologica"
+  }, {
+    "@language" : "es",
+    "@value" : "Folia Clin. Biol."
+  }, {
+    "@language" : "es",
+    "@value" : "Folia clinica et biologica"
+  }, {
+    "@language" : "de",
+    "@value" : "Folia Clin. Biol."
+  }, {
+    "@language" : "de",
+    "@value" : "Folia clinica et biologica"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1929"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0015-5519"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0015-5519"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Folia Clínica et Biológica"
+  } ]
+} ]

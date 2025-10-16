@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50498098",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Bartin Faculty of Forestry"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "305108"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1302-0943"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bartin.dergipark.gov.tr/barofd"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1302-0943"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764570892"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1308-5875"
+  }, {
+    "@value" : "1302-0943"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bartın orman fakültesi dergisi"
+  } ]
+} ]

@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q87196938",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://geolfrance.brgm.fr"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0246-0874"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0246-0874"
+  }, {
+    "@value" : "1638-5977"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Géologie de la France"
+  } ]
+} ]

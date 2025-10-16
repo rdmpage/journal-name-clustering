@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723653",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Knowl Manag Aquat Ecosyst"
+  }, {
+    "@language" : "en",
+    "@value" : "Knowledge and Management of Aquatic Ecosystems"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "76278"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1961-9502"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.kmae-journal.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1961-9502"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S149394164"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1961-9502"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Knowledge and management of aquatic ecosystems"
+  } ]
+} ]

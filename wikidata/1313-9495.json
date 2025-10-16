@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723836",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Adv Stud Biol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "211166"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.m-hikari.com/asb/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1313-9495"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210201571"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1313-9495"
+  }, {
+    "@value" : "1314-7668"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Advanced studies in biology"
+  } ]
+} ]

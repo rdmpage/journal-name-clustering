@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3186898",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Avian Biol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Ornis Scandinavica"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "7340"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0908-8857"
+  }, {
+    "@value" : "1600-048X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-048X"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/servlet/useragent?func=showIssues&code=jav&close=2003#C2003"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0908-8857"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "javianbiology"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S79449806"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1600-048X"
+  }, {
+    "@value" : "0908-8857"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Avian Biology"
+  } ]
+} ]

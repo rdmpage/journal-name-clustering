@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753871",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0952-4622"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "170486"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://search.ebscohost.com/direct.asp?db=a9h&jid=GC7&scope=site"
+  }, {
+    "@id" : "http://www.bioacoustics.info/"
+  }, {
+    "@id" : "http://www.tandfonline.com/tbio"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0952-4622"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S121334040"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2165-0586"
+  }, {
+    "@value" : "0952-4622"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bioacoustics"
+  } ]
+} ]

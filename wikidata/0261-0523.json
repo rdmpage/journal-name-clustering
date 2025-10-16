@@ -1,0 +1,117 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q913162",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Philosophical Transactions of the Royal Society"
+  }, {
+    "@language" : "fr",
+    "@value" : "Philos. Trans. R. Soc."
+  }, {
+    "@language" : "ru",
+    "@value" : "Philosophical Transactions"
+  }, {
+    "@language" : "fr",
+    "@value" : "Phil. Trans. R. Soc."
+  }, {
+    "@language" : "es",
+    "@value" : "Phil. Trans."
+  }, {
+    "@language" : "zh",
+    "@value" : "哲学学报"
+  }, {
+    "@language" : "zh",
+    "@value" : "哲学汇刊"
+  }, {
+    "@language" : "ru",
+    "@value" : "Philosophical Transactions of the Royal Society of London"
+  }, {
+    "@language" : "fr",
+    "@value" : "Phil. Trans."
+  }, {
+    "@language" : "ru",
+    "@value" : "Philosophical Transactions of the Royal Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Phil. Trans. R. Soc."
+  }, {
+    "@language" : "en",
+    "@value" : "Phil. Trans."
+  }, {
+    "@language" : "en",
+    "@value" : "Philosophical Transactions of the Royal Society of London"
+  }, {
+    "@language" : "pt",
+    "@value" : "The philosophical transactions of the royal society"
+  }, {
+    "@language" : "en",
+    "@value" : "Philosophical transactions of the Royal Society of London"
+  }, {
+    "@language" : "de",
+    "@value" : "Philosophical Transactions of the Royal Society"
+  }, {
+    "@language" : "zh",
+    "@value" : "皇家学会哲学汇刊"
+  }, {
+    "@language" : "zh",
+    "@value" : "皇家学会哲学学报"
+  }, {
+    "@language" : "pt",
+    "@value" : "Philosophical Transactions of the Royal Society of London"
+  }, {
+    "@language" : "fr",
+    "@value" : "Philosophical Transactions"
+  }, {
+    "@language" : "es",
+    "@value" : "Philosophical Transactions"
+  }, {
+    "@language" : "ja",
+    "@value" : "フィロソフィカル・マガジン"
+  }, {
+    "@language" : "ja",
+    "@value" : "Philosophical Transactions"
+  }, {
+    "@language" : "fr",
+    "@value" : "Philosophical Transactions of the Royal Society of London"
+  }, {
+    "@language" : "pt",
+    "@value" : "Phil. trans."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "62536"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "378324"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1665"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://royalsocietypublishing.org/journal/rstl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0261-0523"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "philtran1665167"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210177916"
+  }, {
+    "@value" : "S4210214724"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1886"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2053-9223"
+  }, {
+    "@value" : "0261-0523"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Philosophical Transactions of the Royal Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Philosophical transactions of the Royal Society of London"
+  } ]
+} ]

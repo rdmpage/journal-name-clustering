@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15746705",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1728-1997"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S19206513"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1728-1997"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Iranian Journal of Veterinary Research"
+  }, {
+    "@language" : "mul",
+    "@value" : "Majallah-i taḥqīqāt-i dāmpizishkī-i īrān"
+  } ]
+} ]

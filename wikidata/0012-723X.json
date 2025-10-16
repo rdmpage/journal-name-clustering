@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766892",
+  "http://example.com/from_year" : [ {
+    "@value" : "1952"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0012-723X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306508480"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2008"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0012-723X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Durban Museum Novitates"
+  }, {
+    "@language" : "mul",
+    "@value" : "Durban Museum novitates"
+  } ]
+} ]

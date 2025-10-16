@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96731797",
+  "http://example.com/crossref" : [ {
+    "@value" : "367257"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journal.hep.com.cn/sel/EN/2662-2289/home.shtml"
+  }, {
+    "@id" : "https://www.springer.com/journal/42832"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2662-2289"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210176820"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2662-2297"
+  }, {
+    "@value" : "2662-2289"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Soil Ecology Letters"
+  } ]
+} ]

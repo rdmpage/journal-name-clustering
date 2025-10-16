@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751503",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Marine and Coastal Fisheries"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "82138"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1942-5120"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/53623"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/70429"
+  }, {
+    "@id" : "http://www.bioone.org/loi/fidm"
+  }, {
+    "@id" : "http://www.tandfonline.com/toc/umcf20/current#.UuGjF1fTlaQ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1942-5120"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S153445177"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1942-5120"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "AFS Transactions"
+  }, {
+    "@language" : "en",
+    "@value" : "Marine and coastal fisheries"
+  } ]
+} ]

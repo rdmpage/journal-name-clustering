@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385079",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1325-2992"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "868BA696-C4C1-4A3C-8F0A-3792ED41A2B4"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1325-2992"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australian biodiversity record"
+  } ]
+} ]

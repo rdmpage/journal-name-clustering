@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385288",
+  "http://example.com/from_year" : [ {
+    "@value" : "1998"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://brill.com/view/serial/WCI"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1398-8700"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1398-8700"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "World Catalogue of Insects"
+  } ]
+} ]

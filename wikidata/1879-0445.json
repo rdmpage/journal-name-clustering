@@ -1,0 +1,63 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1144851",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Curr. Biol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Curr. Biol."
+  }, {
+    "@language" : "es",
+    "@value" : "Curr. Biol."
+  }, {
+    "@language" : "ja",
+    "@value" : "現代生物学"
+  }, {
+    "@language" : "de",
+    "@value" : "Curr. Biol."
+  }, {
+    "@language" : "ja",
+    "@value" : "カレントバイオロジー"
+  }, {
+    "@language" : "ja",
+    "@value" : "現在の生物学"
+  }, {
+    "@language" : "ja",
+    "@value" : "Current Biology"
+  }, {
+    "@language" : "fr",
+    "@value" : "Curr. Biol."
+  }, {
+    "@language" : "zh",
+    "@value" : "现代生物学"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1991"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1991"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.current-biology.com/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/09609822"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0960-9822"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S128425624"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "2CE6524E-81D1-4F37-A4C1-94C45135AB53"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0960-9822"
+  }, {
+    "@value" : "1879-0445"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Current Biology"
+  } ]
+} ]

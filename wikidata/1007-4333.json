@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27438849",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Zhongguo Nongye Daxue xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhongguo Nongye Daxue xuebao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "NYDX"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://nydx.publish.founderss.cn/homeNav?lang=en"
+  }, {
+    "@id" : "https://nydx.publish.founderss.cn/homeNav?lang=zh"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1007-4333"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764480906"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1007-4333"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "中国农业大学学报"
+  } ]
+} ]

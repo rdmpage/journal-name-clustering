@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22107354",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Ot Sist. Bot. Dergisi"
+  }, {
+    "@language" : "en",
+    "@value" : "Ot Sist. Bot. Dergisi"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1300-2953"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306521834"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1300-2953"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Ot sistematik botanik dergisi"
+  }, {
+    "@language" : "tr",
+    "@value" : "Ot Sistematik Botanik Dergisi"
+  } ]
+} ]

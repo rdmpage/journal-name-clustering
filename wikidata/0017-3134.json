@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2286321",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Grana; an international journal of palynology"
+  }, {
+    "@language" : "en",
+    "@value" : "Grana; an international journal of palynology"
+  }, {
+    "@language" : "en",
+    "@value" : "Grana; An International Journal of Palynology Including World Pollen and Spore Flora"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4283"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://www.informaworld.com/1651-2049"
+  }, {
+    "@id" : "http://www.tandfonline.com/action/aboutThisJournal?journalCode=sgra20"
+  }, {
+    "@id" : "https://www.tandfonline.com/loi/sgra20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0017-3134"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S55973255"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1651-2049"
+  }, {
+    "@value" : "0017-3134"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Grana: international journal of palynology and aerobiology"
+  }, {
+    "@language" : "en",
+    "@value" : "Grana"
+  } ]
+} ]

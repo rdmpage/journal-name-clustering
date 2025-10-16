@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96333830",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Spanish J. Palaeont."
+  }, {
+    "@language" : "en",
+    "@value" : "Spanish J. Palaeont."
+  }, {
+    "@language" : "es",
+    "@value" : "Spanish J. Paleont."
+  }, {
+    "@language" : "en",
+    "@value" : "Spanish J. Paleont."
+  }, {
+    "@language" : "es",
+    "@value" : "SJP"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "299626"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "22242"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2660-9568"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sepaleontologia.es/ultimo-numero/"
+  }, {
+    "@id" : "https://dialnet.unirioja.es/servlet/revista?codigo=22242"
+  }, {
+    "@id" : "https://ojs.uv.es/index.php/sjpalaeontology/index"
+  }, {
+    "@id" : "https://sepaleontologia.es/spanish-journal-palaeontology/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2255-0550"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210189991"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2255-0550"
+  }, {
+    "@value" : "2660-9568"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Spanish Journal of Palaeontology"
+  } ]
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751940",
+  "http://example.com/crossref" : [ {
+    "@value" : "157"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/%28issn%291520-6327"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/109921022"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/35786"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/15206327"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0739-4462"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S14369749"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1520-6327"
+  }, {
+    "@value" : "0739-4462"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Archives of Insect Biochemistry and Physiology"
+  } ]
+} ]

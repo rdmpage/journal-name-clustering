@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51448828",
+  "http://example.com/bhl" : [ {
+    "@value" : "82373"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297357"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "17986"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0583-7499"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210221978"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0583-7499"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletín de la Real Sociedad Española de Historia Natural. Actas"
+  } ]
+} ]

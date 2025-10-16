@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51508774",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nature in Avon: The Proceedings of the Bristol Naturalists' Society"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "99328"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0068-1040"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nature in Avon"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q51522327",
+  "http://example.com/bhl" : [ {
+    "@value" : "98898"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1863"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1989"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0068-1040"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Bristol Naturalists' Society"
+  } ]
+} ]

@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385899",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Bull. Mus. Natl. Hist. Nat., Sect. A Zool. Biol. Écol. Anim."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin du Muséum national d'histoire naturelle. Zoologie, biologie, et écologie animale"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin du Muséum national d'Histoire naturelle, 4ème série - Section A - Zoologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin du Museum national d'histoire naturelle. Section A, Zoologie, biologie et ecologie animales"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin du Muséum national d'histoire naturelle. Zoologie, biologie, et écologie animale"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin du Museum national d'histoire naturelle. Zoologie, biologie, et ecologie animale"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://bibliotheques.mnhn.fr/medias/search.aspx?Instance=EXPLOITATION&SC=DEFAULT&QUERY=Parent_id_exact%3a%22I_IFD_REFDOC_01810626%22&QUERY_LABEL=Recherche+de+fascicules#/Search/%7B%22query%22%3A%7B%22Page%22%3A0%2C%22ResultSize%22%3A10%2C%22QueryString%22%3A%22Parent_id_exact%3A%5C%22I_IFD_REFDOC_01810626%5C%22%22%2C%22SearchLabel%22%3A%22Recherche+de+fascicules%22%2C%22ScenarioCode%22%3A%22DEFAULT%22%7D%7D"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0181-0626"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210190995"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A71DCAF8-061F-4299-ABD2-F8EC83F0003A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0181-0626"
+  }, {
+    "@value" : "3038-9895"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin du Muséum national d'histoire naturelle. Section A, Zoologie, biologie et écologie animales"
+  } ]
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764540",
+  "http://example.com/crossref" : [ {
+    "@value" : "70828"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://link.springer.com/journal/12264"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S123288037"
+  }, {
+    "@value" : "S2764413013"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1008-0872"
+  }, {
+    "@value" : "1673-7067"
+  }, {
+    "@value" : "1995-8218"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Neuroscience Bulletin"
+  } ]
+} ]

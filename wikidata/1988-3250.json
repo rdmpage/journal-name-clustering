@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758783",
+  "http://example.com/crossref" : [ {
+    "@value" : "78721"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "543"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1988-3250"
+  }, {
+    "@value" : "0367-0449"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://estudiosgeol.revistas.csic.es/index.php/estudiosgeol"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0367-0449"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S32706902"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1988-3250"
+  }, {
+    "@value" : "0367-0449"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Estudios geológicos"
+  }, {
+    "@language" : "es",
+    "@value" : "Estudios Geológicos"
+  } ]
+} ]

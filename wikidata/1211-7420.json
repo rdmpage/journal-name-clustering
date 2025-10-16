@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1327531",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.npsumava.cz/silva-gabreta"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1211-7420"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S1032312002"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1211-7420"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Silva Gabreta"
+  } ]
+} ]

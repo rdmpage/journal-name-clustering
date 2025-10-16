@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754426",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "N. Z. J. Geol. Geophys."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "NZJG"
+  }, {
+    "@language" : "en",
+    "@value" : "NZJGG"
+  }, {
+    "@language" : "en",
+    "@value" : "N Z J Geol Geophys"
+  }, {
+    "@language" : "en",
+    "@value" : "N. Z. J. Geol. Geophys."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "106805"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.royalsociety.org.nz/what-we-do/our-journals/new-zealand-journal-of-geology-and-geophysics/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0028-8306"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S14626285"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1175-8791"
+  }, {
+    "@value" : "0028-8306"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "New Zealand Journal of Geology and Geophysics"
+  } ]
+} ]

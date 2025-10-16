@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50815380",
+  "http://example.com/crossref" : [ {
+    "@value" : "115025"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2077-3757"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journals.openedition.org/primatologie/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2077-3757"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737072921"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2077-3757"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Revue de primatologie"
+  } ]
+} ]

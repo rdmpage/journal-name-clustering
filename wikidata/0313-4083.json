@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6455364",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "J. Adelaide Bot. Gard."
+  }, {
+    "@language" : "en",
+    "@value" : "J. Adelaide Bot. Gard."
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Adelaide Botanic Garden"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstor.org/journal/jadelbotagard"
+  }, {
+    "@id" : "https://data.environment.sa.gov.au/Plants-and-Animals/Herbarium-Journals/Pages/All-Volumes.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0313-4083"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jadelbotagard"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0313-4083"
+  }, {
+    "@value" : "2201-9855"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Adelaide Botanic Garden"
+  } ]
+} ]

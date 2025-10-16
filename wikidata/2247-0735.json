@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386202",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Travaux du Muséum National d’Histoire Naturelle “Grigore Antipa”"
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of “Grigore Antipa” National Museum of Natural History"
+  }, {
+    "@language" : "en",
+    "@value" : "Travaux du Muséum National d’Histoire Naturelle “Grigore Antipa” – revista științifică editată și publicată de Muzeu"
+  }, {
+    "@language" : "en",
+    "@value" : "Travaux du Museum National d'Histoire Naturelle \"Grigore Antipa\""
+  }, {
+    "@language" : "en",
+    "@value" : "Trav. Mus. Hist. Nat. 'Grigore Antipa'"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "125165"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2247-0735"
+  }, {
+    "@value" : "1223-2254"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://antipa.ro/cercetare/publicatii-stiintifice/"
+  }, {
+    "@id" : "https://travaux.pensoft.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1223-2254"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210202861"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2247-0735"
+  }, {
+    "@value" : "1223-2254"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Travaux du Muséum National  d'Histoire Naturelle \"Grigore Antipa\""
+  } ]
+} ]

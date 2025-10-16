@@ -1,0 +1,69 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5735532",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Bull. Misc. Inform. Kew"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of miscellaneous information (Royal Gardens, Kew)"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Misc. Inform. Kew"
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. Misc. Inform. Kew"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of Miscellaneous Information, Royal Gardens, Kew"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of miscellaneous information"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of miscellaneous information - Royal Botanic Gardens, Kew"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "10719"
+  }, {
+    "@value" : "62170"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "70181"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1887"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.archive.org/details/mobot31753002257050"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-4457"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "bullmiscinforoya"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210203682"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1899"
+  }, {
+    "@value" : "1941"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0366-4457"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of miscellaneous information"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of miscellaneous information - Royal Botanic Gardens, Kew"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of Miscellaneous Information Kew"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of Miscellaneous Information, Royal Gardens, Kew"
+  } ]
+} ]

@@ -1,0 +1,58 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2077317",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Emu"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Emu."
+  }, {
+    "@language" : "en",
+    "@value" : "The emu : official organ of the Australasian Ornithologists' Union"
+  }, {
+    "@language" : "en",
+    "@value" : "The Emu"
+  }, {
+    "@language" : "en",
+    "@value" : "Austral Ornithology"
+  }, {
+    "@language" : "en",
+    "@value" : "Emu - Austral Ornithology"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "16355"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5961"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1901"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ejournals.ebsco.com/Journal2.asp?JournalID=106451"
+  }, {
+    "@id" : "http://nla.gov.au/nla.obj-369769626"
+  }, {
+    "@id" : "http://www.publish.csiro.au/journals/emu"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/temu20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0158-4197"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S89053421"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0158-4197"
+  }, {
+    "@value" : "1448-5540"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Emu"
+  }, {
+    "@language" : "en",
+    "@value" : "The Emu"
+  } ]
+} ]

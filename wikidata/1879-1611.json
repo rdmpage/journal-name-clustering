@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767205",
+  "http://example.com/crossref" : [ {
+    "@value" : "1360"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/journal-of-insect-physiology/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00221910"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-1910"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S98276404"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-1910"
+  }, {
+    "@value" : "1879-1611"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Journal of insect physiology"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Insect Physiology"
+  } ]
+} ]

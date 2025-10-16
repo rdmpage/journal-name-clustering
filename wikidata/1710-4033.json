@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385681",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Acad. Entomol. Soc."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Acad. Entomol. Soc."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.acadianes.ca/journal.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1710-4033"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1710-4033"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Acadian Entomological Society"
+  } ]
+} ]

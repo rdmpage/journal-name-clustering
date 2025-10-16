@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q105246220",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.natsca.org/journal"
+  }, {
+    "@id" : "https://www.natsca.org/journal"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2053-1133"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2053-1141"
+  }, {
+    "@value" : "2053-1133"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Natural Science Collections"
+  } ]
+} ]

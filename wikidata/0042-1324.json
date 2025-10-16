@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842014",
+  "http://example.com/crossref" : [ {
+    "@value" : "312688"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://uspbioras.ru/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0042-1324"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2754420711"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "3034-6347"
+  }, {
+    "@value" : "0042-1324"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Uspehi sovremennoj biologii"
+  } ]
+} ]

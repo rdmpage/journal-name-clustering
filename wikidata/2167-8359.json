@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2000010",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "PeerJ Life & Environment"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "202465"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2167-8359"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2013"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://peerj.com/life-environment"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2167-8359"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S1983995261"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "5DC49B25-C878-4FBA-A74A-7BE2F61E31AB"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2167-8359"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "PeerJ"
+  } ]
+} ]

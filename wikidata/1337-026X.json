@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16937132",
+  "http://example.com/doaj" : [ {
+    "@value" : "2644-4992"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://tichodroma.sk/index.html"
+  }, {
+    "@id" : "http://www.tichodroma.sk/en/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1337-026X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S1022427805"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2644-4992"
+  }, {
+    "@value" : "1337-026X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "sk",
+    "@value" : "Tichodroma"
+  }, {
+    "@language" : "en",
+    "@value" : "Tichodroma"
+  } ]
+} ]

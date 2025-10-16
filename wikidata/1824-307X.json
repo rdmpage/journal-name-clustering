@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764973",
+  "http://example.com/doaj" : [ {
+    "@value" : "1824-307X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.isj.unimo.it/index.php/ISJ/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1824-307X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2481433337"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1824-307X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Invertebrate Survival Journal"
+  }, {
+    "@language" : "en",
+    "@value" : "Invertebrate survival journal"
+  } ]
+} ]

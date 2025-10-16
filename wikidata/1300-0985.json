@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96334646",
+  "http://example.com/crossref" : [ {
+    "@value" : "216324"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tubitak.gov.tr/journals/arth/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1300-0985"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S163601337"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1303-619X"
+  }, {
+    "@value" : "1300-0985"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Turkish journal of earth sciences"
+  } ]
+} ]

@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96326092",
+  "http://example.com/crossref" : [ {
+    "@value" : "35178"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/03023524"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0302-3524"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S177069171"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0302-3524"
+  }, {
+    "@value" : "1878-3023"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Estuarine and coastal marine science"
+  } ]
+} ]

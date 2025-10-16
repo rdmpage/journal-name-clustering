@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5915252",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0971-9431"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764378332"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0971-9431"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Indian Journal of Forestry"
+  } ]
+} ]

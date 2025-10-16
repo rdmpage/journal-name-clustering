@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q17064586",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Life"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Life (Basel, Switzerland)"
+  }, {
+    "@language" : "fr",
+    "@value" : "Life (MDPI)"
+  }, {
+    "@language" : "en",
+    "@value" : "Life (Basel)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "142446"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2075-1729"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2011"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-221141"
+  }, {
+    "@id" : "http://www.mdpi.com/journal/life"
+  }, {
+    "@id" : "https://nbn-resolving.org/urn/resolver.pl?urn=urn:nbn:ch:bel-221141"
+  }, {
+    "@id" : "https://www.mdpi.com/journal/life"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2075-1729"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210200765"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2075-1729"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Life"
+  } ]
+} ]

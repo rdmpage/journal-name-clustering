@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385959",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zoologica: Original Contributions to Zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "Zoologica (Stuttgart)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "169517"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1897"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.schweizerbart.de/series/zoologica"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0044-5088"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0044-5088"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Zoologica"
+  }, {
+    "@language" : "la",
+    "@value" : "Zoologica"
+  } ]
+} ]

@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q63565236",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Endins: publicació d'espeleologia"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.federaciobalearespeleologia.org/buscar.php"
+  }, {
+    "@id" : "http://www.federaciobalearespeleologia.org/index.php/publicaciones"
+  }, {
+    "@id" : "http://www.federaciobalearespeleologia.org/index.php/publicaciones/44-endins-n-36"
+  }, {
+    "@id" : "http://www.raco.cat/index.php/Endins/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0211-2515"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306509400"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2014"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "AC73FD90-DD2F-4F86-9982-900B79BB96A1"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2386-7299"
+  }, {
+    "@value" : "0211-2515"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Endins"
+  }, {
+    "@language" : "es",
+    "@value" : "Endins: publicació d'espeleologia"
+  } ]
+} ]

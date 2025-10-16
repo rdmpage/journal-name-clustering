@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50806972",
+  "http://example.com/doaj" : [ {
+    "@value" : "2220-8879"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.iaees.org/publications/journals/nb/online-version.asp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2220-8879"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2220-8879"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Network Biology"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124161355",
+  "http://example.com/crossref" : [ {
+    "@value" : "218585"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springer.com/life+sciences/animal+sciences/journal/10336"
+  }, {
+    "@id" : "http://www.springerlink.com/content/0021-8375"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2193-7192"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210188091"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2193-7192"
+  }, {
+    "@value" : "2193-7206"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Ornithology"
+  } ]
+} ]

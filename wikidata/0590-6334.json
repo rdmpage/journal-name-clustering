@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386249",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0590-6334"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0590-6334"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0590-6334"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cicindela"
+  } ]
+} ]

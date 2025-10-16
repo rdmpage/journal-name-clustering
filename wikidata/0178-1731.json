@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124059315",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.geschiebekunde.de/pubs/ga/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0178-1731"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0178-1731"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Geschiebekunde Aktuell"
+  } ]
+} ]

@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751819",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Genet Genomics"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "YCXB"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "64248"
+  }, {
+    "@value" : "54631"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/16738527"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/journal-of-genetics-and-genomics"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1873-5533"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S54145736"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1873-5533"
+  }, {
+    "@value" : "1673-8527"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Genetics and Genomics"
+  } ]
+} ]

@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q118263950",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://mycology.sinica.edu.tw/TaiwanMycoSoc"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1013-2732"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2518-5535"
+  }, {
+    "@value" : "1013-2732"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Mycological Society of Republic of China"
+  }, {
+    "@language" : "zh",
+    "@value" : "Zhōnghuá zhēnjūnxuéhuì huìkān"
+  }, {
+    "@language" : "zh",
+    "@value" : "中華真菌學會會刊"
+  } ]
+} ]

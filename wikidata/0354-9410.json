@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4676747",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Acta entomol. Serb."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1926"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.eds.org.rs/izdavacka_e.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0354-9410"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S191020253"
+  }, {
+    "@value" : "S4306402176"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0354-9410"
+  }, {
+    "@value" : "2406-1581"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta entomologica Serbica"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Entomologica Serbica"
+  } ]
+} ]

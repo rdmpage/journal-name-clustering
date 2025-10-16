@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753178",
+  "http://example.com/crossref" : [ {
+    "@value" : "66758"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S31549366"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0297-8148"
+  }, {
+    "@value" : "0948-3055"
+  }, {
+    "@value" : "1616-1564"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Aquatic Microbial Ecology"
+  } ]
+} ]

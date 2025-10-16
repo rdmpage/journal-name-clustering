@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q106118409",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0369-8408"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0369-8408"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Problemi attuali di scienza e di cultura"
+  } ]
+} ]

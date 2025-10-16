@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5785345",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Contrib. Gray Herb. Harvard Univ."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "59986"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1891"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/action/showPublication?journalCode=congraherharuni"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0195-6094"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "congraherharuni"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4220651151"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1984"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0195-6094"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Contributions from the Gray Herbarium of Harvard University"
+  } ]
+} ]

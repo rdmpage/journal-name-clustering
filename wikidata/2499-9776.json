@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96727298",
+  "http://example.com/crossref" : [ {
+    "@value" : "298985"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2499-9776"
+  }, {
+    "@value" : "2499-9768"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://marine-biology.ru/mbj"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2499-9768"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210205756"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2499-9776"
+  }, {
+    "@value" : "2499-9768"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Morskoj biologičeskij žurnal"
+  } ]
+} ]

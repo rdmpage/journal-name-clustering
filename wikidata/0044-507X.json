@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385954",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zoologica: scientific contributions of the New York Zoological Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Zoologica"
+  }, {
+    "@language" : "en",
+    "@value" : "Zoologica (N. Y.)"
+  }, {
+    "@language" : "en",
+    "@value" : "Zoologica; scientific contributions of the New York Zoological Society"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "42858"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1907"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0044-507X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764700075"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0044-507X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zoologica"
+  }, {
+    "@language" : "en",
+    "@value" : "Zoologica;"
+  } ]
+} ]

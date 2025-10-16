@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96726390",
+  "http://example.com/crossref" : [ {
+    "@value" : "329340"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.indianjournals.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0974-0813"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764402610"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0971-6157"
+  }, {
+    "@value" : "0974-0813"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of veterinary parasitology"
+  } ]
+} ]

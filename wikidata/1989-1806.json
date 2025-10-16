@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725775",
+  "http://example.com/doaj" : [ {
+    "@value" : "0213-8409"
+  }, {
+    "@value" : "1989-1806"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.limnetica.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0213-8409"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S152793543"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1989-1806"
+  }, {
+    "@value" : "2660-8537"
+  }, {
+    "@value" : "0213-8409"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Limnetica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Limnética"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749350",
+  "http://example.com/crossref" : [ {
+    "@value" : "31699"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/15723089"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/journal-of-financial-stability"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1572-3089"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S121634618"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1878-0962"
+  }, {
+    "@value" : "1572-3089"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Financial Stability"
+  } ]
+} ]

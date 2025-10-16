@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q56735308",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0938-0701"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0938-0701"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Arachnologischer Anzeiger"
+  } ]
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386123",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Cuban journal on zoological taxonomy"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista cubana de taxonomía zoológica"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://caribbeanahigroup.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1608-0505"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2071-7369"
+  }, {
+    "@value" : "1608-0505"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Solenodon"
+  } ]
+} ]

@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7923704",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Vet. Immunol. Immunopathol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Vet journal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1897"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.elsevier.com/wps/find/journaldescription.cws_home/503319/description#description"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/veterinary-immunology-and-immunopathology/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0165-2427"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S194416120"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1873-2534"
+  }, {
+    "@value" : "0165-2427"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Veterinary Immunology & Immunopathology"
+  }, {
+    "@language" : "en",
+    "@value" : "Veterinary immunology and immunopathology"
+  } ]
+} ]

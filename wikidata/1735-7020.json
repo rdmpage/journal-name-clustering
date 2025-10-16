@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842857",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Iranian Journal of Parasitology"
+  }, {
+    "@language" : "en",
+    "@value" : "Iranian journal of parasitology."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "337317"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2008-238X"
+  }, {
+    "@value" : "1735-7020"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ijpa.tums.ac.ir"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1735-7020"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S55852872"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1735-7020"
+  }, {
+    "@value" : "2008-238X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Iranian journal of parasitology."
+  } ]
+} ]

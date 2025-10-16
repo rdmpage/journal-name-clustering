@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760108",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Jun wu xue bao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "JWXT"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals-myco.im.ac.cn/"
+  }, {
+    "@id" : "https://manu40.magtech.com.cn/Jwxb/CN/1672-6472/home.shtml"
+  }, {
+    "@id" : "https://manu40.magtech.com.cn/Jwxb/EN/1672-6472/home.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1672-6472"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1672-6472"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh-hans",
+    "@value" : "菌物学报"
+  }, {
+    "@language" : "la",
+    "@value" : "Mycosystema"
+  }, {
+    "@language" : "mul",
+    "@value" : "Junwu xuebao"
+  } ]
+} ]

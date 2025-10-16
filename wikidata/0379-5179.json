@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96721081",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0379-5179"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "377671"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0379-5179"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210187712"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0379-5179"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Kavaka"
+  } ]
+} ]

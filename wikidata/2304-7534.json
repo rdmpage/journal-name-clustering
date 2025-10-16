@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5946741",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Straits Branch Roy. Asiat. Soc."
+  }, {
+    "@language" : "en",
+    "@value" : "J. Straits Branch Roy. Asiat. Soc"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "64180"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1878"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstor.org/journal/jstraitsrsa"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2304-7534"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jstraitsrsa"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1922"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2304-7542"
+  }, {
+    "@value" : "2304-7534"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Straits Branch of the Royal Asiatic Society"
+  } ]
+} ]

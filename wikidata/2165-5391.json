@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3661018",
+  "http://example.com/crossref" : [ {
+    "@value" : "172905"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0008-7114"
+  }, {
+    "@value" : "2165-5391"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1948"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/80762"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/1553454.html"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/tcar20"
+  }, {
+    "@id" : "http://www.unifi.it/caryologia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0008-7114"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S51684088"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0008-7114"
+  }, {
+    "@value" : "2165-5391"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Caryologia"
+  } ]
+} ]

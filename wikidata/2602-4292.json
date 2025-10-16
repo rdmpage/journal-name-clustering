@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96738600",
+  "http://example.com/crossref" : [ {
+    "@value" : "330047"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2602-4292"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dergipark.gov.tr/tjbc"
+  }, {
+    "@id" : "https://iupress.istanbul.edu.tr/en/journal/tjbc/home"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2602-4292"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210209458"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2602-4292"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Turkish journal of bioscience and collections"
+  } ]
+} ]

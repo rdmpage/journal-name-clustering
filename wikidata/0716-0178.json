@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757741",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Anales del Museo de Historia Natural de Valparaíso"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0716-0178"
+  }, {
+    "@language" : "en",
+    "@value" : "Museo de Historia Natural de Valparaiso. Anales"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "152899"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.mhnv.gob.cl/anales-del-museo-de-historia-natural-de-valparaiso"
+  }, {
+    "@id" : "mailto:vivian.cordero@museoschile.gob.cl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0716-0178"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306501985"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0717-537X"
+  }, {
+    "@value" : "0716-0178"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Anales del Museo de Historia Natural de Valparaíso"
+  } ]
+} ]

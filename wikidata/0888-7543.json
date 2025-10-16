@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5533503",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Genomics"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "557"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0888-7543"
+  }, {
+    "@value" : "1089-8646"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=0888-7543;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.apnet.com/www/journal/ge.htm"
+  }, {
+    "@id" : "http://www.journals.elsevier.com/genomics"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/08887543"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0888-7543"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S146035217"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1089-8646"
+  }, {
+    "@value" : "0888-7543"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Genomics"
+  }, {
+    "@language" : "en",
+    "@value" : "Genomics"
+  } ]
+} ]

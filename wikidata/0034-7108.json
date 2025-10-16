@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6106986",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0034-7108"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "45710"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1941"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.scielo.br/rbbio"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0034-7108"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S118988084"
+  }, {
+    "@value" : "S4210191268"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1806-9606"
+  }, {
+    "@value" : "0034-7108"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista Brasileira de Biologia"
+  }, {
+    "@language" : "pt",
+    "@value" : "Revista Brasileira de Biologia"
+  } ]
+} ]

@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386171",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Klapalekiana"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1210-6100"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1210-6100"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "cs",
+    "@value" : "Klapalekiana"
+  } ]
+} ]

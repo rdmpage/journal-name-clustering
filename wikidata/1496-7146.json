@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51394677",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Alberta species at risk report"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "118870"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www3.gov.ab.ca/srd/fw/riskspecies/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1496-7146"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1496-7219"
+  }, {
+    "@value" : "1496-7146"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Alberta species at risk program and projects"
+  }, {
+    "@language" : "en",
+    "@value" : "Alberta species at risk report"
+  } ]
+} ]

@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15708639",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The annals of the American Academy of Political and Social Science"
+  }, {
+    "@language" : "en",
+    "@value" : "American Academy of Political and Social Science. Annals"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "15114"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://ann.sagepub.com"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00027162.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0002-7162"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "annaameracadpoli"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S150314616"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1552-3349"
+  }, {
+    "@value" : "0002-7162"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The annals of the American Academy of Political and Social Science"
+  }, {
+    "@language" : "en",
+    "@value" : "Annals of the American Academy of Political and Social Science"
+  } ]
+} ]

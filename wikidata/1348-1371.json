@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q106484425",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ir.lib.hiroshima-u.ac.jp/ja/journal/BiosphereSci"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1348-1371"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1348-1371"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "生物圏科学 : 広島大学大学院生物圏科学研究科紀要"
+  }, {
+    "@language" : "mul",
+    "@value" : "Seibutsuken kagaku"
+  } ]
+} ]

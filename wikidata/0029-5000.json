@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6045855",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nova acta Regiae Societatis Scientiarum Upsaliensis"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "98390"
+  }, {
+    "@value" : "14640"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1773"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0029-5000"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0029-5000"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Nova acta Regiae societatis scientiarum Upsaliensis"
+  }, {
+    "@language" : "la",
+    "@value" : "Nova Acta Regiae Societatis Scientiarum Upsaliensis"
+  } ]
+} ]

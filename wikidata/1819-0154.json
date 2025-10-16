@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q98628414",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1819-0154"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1819-0154"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Komarovia"
+  } ]
+} ]

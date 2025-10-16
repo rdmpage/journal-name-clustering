@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q99647036",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?3106368"
+  }, {
+    "@id" : "http://www.odonatologica.com/notulae-odonatologicae/"
+  }, {
+    "@id" : "https://www.odonatologica.com/notulae-odonatologicae-volumes/"
+  }, {
+    "@id" : "https://natuurtijdschriften.nl/col/68/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0166-6584"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0166-6584"
+  }, {
+    "@value" : "2751-0891"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Notulae Odonatologicae"
+  }, {
+    "@language" : "nl",
+    "@value" : "Notulae odonatologicae"
+  } ]
+} ]

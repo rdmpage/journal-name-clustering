@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755868",
+  "http://example.com/crossref" : [ {
+    "@value" : "235947"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1966"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://folia.paru.cas.cz/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0015-5683"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S55607595"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "BB54BD21-985C-46AC-9601-7CBE8BF6745F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1803-6465"
+  }, {
+    "@value" : "0015-5683"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Folia Parasitologica"
+  }, {
+    "@language" : "la",
+    "@value" : "Folia Parasitologica"
+  } ]
+} ]

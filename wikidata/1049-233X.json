@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385645",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of The Helminthological Society of Washington"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1990"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.gettysburg.edu/%7Eshendrix/past_issues.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1049-233X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764424049"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1049-233X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Helminthological Society of Washington"
+  } ]
+} ]

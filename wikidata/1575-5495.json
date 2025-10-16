@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3669210",
+  "http://example.com/crossref" : [ {
+    "@value" : "282706"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "12473"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.cuadernosdebiodiversidad.org/"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210209761"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1575-5495"
+  }, {
+    "@value" : "2254-612X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Cuadernos de Biodiversidad"
+  } ]
+} ]

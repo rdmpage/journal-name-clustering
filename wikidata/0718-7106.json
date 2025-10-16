@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4753653",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Andean Geol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Andean geol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "87463"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "19938"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0718-7106"
+  }, {
+    "@value" : "0718-7092"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2009"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.andeangeology.cl/"
+  }, {
+    "@id" : "http://www.scielo.cl/andgeol.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0718-7106"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S78534000"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0718-7092"
+  }, {
+    "@value" : "0718-7106"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Andean geology"
+  }, {
+    "@language" : "en",
+    "@value" : "Andean Geology"
+  } ]
+} ]

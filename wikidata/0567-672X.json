@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386218",
+  "http://example.com/from_year" : [ {
+    "@value" : "1957"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0567-672X"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "EDF71EDF-D0DF-4EF2-802E-FDF0D500D9B5"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0567-672X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Acarologie"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385317",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal"
+  }, {
+    "@language" : "en",
+    "@value" : "British Tarantula Society Journal"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0962-449X"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal - British Tarantula Society"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0962-449X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0962-449X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal - British Tarantula Society"
+  } ]
+} ]

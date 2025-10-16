@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96721980",
+  "http://example.com/crossref" : [ {
+    "@value" : "134287"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/70855"
+  }, {
+    "@id" : "http://www.scirp.org/Journal/ojms/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2161-7384"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765015731"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2161-7392"
+  }, {
+    "@value" : "2161-7384"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Open journal of marine science"
+  } ]
+} ]

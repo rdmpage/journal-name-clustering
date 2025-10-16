@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96695828",
+  "http://example.com/crossref" : [ {
+    "@value" : "300982"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.lamolina.edu.pe/ecolapl/"
+  }, {
+    "@id" : "http://www.redalyc.org/revista.oa?id=341"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1726-2216"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210198210"
+  }, {
+    "@value" : "S4306508613"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1993-9507"
+  }, {
+    "@value" : "1726-2216"
+  }, {
+    "@value" : "1994-0653"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Ecología aplicada"
+  } ]
+} ]

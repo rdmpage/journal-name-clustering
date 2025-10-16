@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385921",
+  "http://example.com/from_year" : [ {
+    "@value" : "1998"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ndhadeliver.natlib.govt.nz/content-aggregator/getIEs?system=ilsdb&id=1797555"
+  }, {
+    "@id" : "https://www.niwa.co.nz/coasts-and-oceans/niwa-biodiversity-memoirs"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1174-0043"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "1DE1D652-8BBD-4808-977E-A704420A5A71"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1174-0043"
+  }, {
+    "@value" : "2463-638X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "NIWA biodiversity memoir"
+  } ]
+} ]

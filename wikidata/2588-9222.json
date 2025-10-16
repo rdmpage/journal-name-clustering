@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26841939",
+  "http://example.com/crossref" : [ {
+    "@value" : "138547"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2221-1691"
+  }, {
+    "@value" : "2588-9222"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.journals.elsevier.com/asian-pacific-journal-of-tropical-biomedicine"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2221-1691"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765002354"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2221-1691"
+  }, {
+    "@value" : "2588-9222"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Asian Pacific Journal of Tropical Biomedicine"
+  } ]
+} ]

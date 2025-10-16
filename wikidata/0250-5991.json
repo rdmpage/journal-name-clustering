@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2092222",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Biosci."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "64216"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1934"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ias.ac.in/jbiosci/index.html"
+  }, {
+    "@id" : "http://www.springer.com/12038"
+  }, {
+    "@id" : "https://www.ias.ac.in/Journals/Journal_of_Biosciences/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0250-5991"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S65171370"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0250-5991"
+  }, {
+    "@value" : "0973-7138"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Biosciences"
+  } ]
+} ]

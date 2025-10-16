@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q54423467",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Tulane stud. zool."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0090-9246"
+  }, {
+    "@language" : "es",
+    "@value" : "ISSN 0090-9246"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "3119"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297411"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1953"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0090-9246"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210229829"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1968"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0090-9246"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Tulane Studies in Zoology"
+  } ]
+} ]

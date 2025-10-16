@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q19370769",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Biodivers Data J."
+  }, {
+    "@language" : "en",
+    "@value" : "Biodivers. Data J."
+  }, {
+    "@language" : "en",
+    "@value" : "BDJ"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1314-2836"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "227506"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1314-2836"
+  }, {
+    "@value" : "1314-2828"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2013"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://bdj.pensoft.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1314-2828"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764367193"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "245B00E9-BFE5-4B4F-B76E-15C30BA74C02"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1314-2836"
+  }, {
+    "@value" : "1314-2828"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biodiversity Data Journal"
+  } ]
+} ]

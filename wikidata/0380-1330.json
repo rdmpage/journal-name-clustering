@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754997",
+  "http://example.com/crossref" : [ {
+    "@value" : "71320"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.journals.elsevier.com/journal-of-great-lakes-research"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0380-1330"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S132336575"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0380-1330"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Great Lakes research"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Great Lakes Research: devoted to research on large lakes of the world"
+  } ]
+} ]

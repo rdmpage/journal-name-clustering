@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4034594",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Australian entomologist"
+  }, {
+    "@language" : "ru",
+    "@value" : "The Australian Entomological Magazine"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.esq.org.au/entomologist.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1320-6133"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S41462525"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "822C5673-5834-4504-9B32-4DE5A27F4558"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1320-6133"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Australian entomologist"
+  }, {
+    "@language" : "en",
+    "@value" : "Australian Entomologist"
+  } ]
+} ]

@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750909",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0254-5578"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0254-5578"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Aracnologia"
+  }, {
+    "@language" : "und",
+    "@value" : "Aracnologia"
+  } ]
+} ]

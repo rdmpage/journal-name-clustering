@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5735500",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. Soc. hist. nat. Toulouse"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "5939"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1867"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://catalog.hathitrust.org/Record/008607404"
+  }, {
+    "@id" : "https://catalog.hathitrust.org/Record/100422357"
+  }, {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/cb34378174n/date"
+  }, {
+    "@id" : "https://www.shnt.fr/bulletin.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0758-4113"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306505088"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2390-3740"
+  }, {
+    "@value" : "0758-4113"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société d'histoire naturelle de Toulouse"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société d'Histoire Naturelle de Toulouse"
+  } ]
+} ]

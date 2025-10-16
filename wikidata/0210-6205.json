@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96032513",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Butl. Inst. Catalana Hist. Nat., Secc. Bot."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0210-6205"
+  }, {
+    "@value" : "2385-3115"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Butlletí de la Institució Catalana d’Història Natural. Secció de botanica"
+  } ]
+} ]

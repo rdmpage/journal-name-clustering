@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15293713",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Botanikai közlemények."
+  }, {
+    "@language" : "en",
+    "@value" : "Bot. kzl."
+  }, {
+    "@language" : "en",
+    "@value" : "Botanikai Közlemenyek"
+  }, {
+    "@language" : "es",
+    "@value" : "Bot. Közlem."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6045"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "296407"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1909"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://epa.oszk.hu/botanikai_kozlemenyek/"
+  }, {
+    "@id" : "http://www.botkozlem.elte.hu"
+  }, {
+    "@id" : "http://www.mbt-biologia.hu/gen/pro/mod/alo/alo_kiiras.php?i_szo_azo=10"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-8144"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210219211"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2415-9662"
+  }, {
+    "@value" : "0006-8144"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "hu",
+    "@value" : "Botanikai Közlemények"
+  } ]
+} ]

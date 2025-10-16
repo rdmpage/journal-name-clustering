@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3050570",
+  "http://example.com/crossref" : [ {
+    "@value" : "186"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4109"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/journal/26571/home"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1040-0397"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S79832926"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1040-0397"
+  }, {
+    "@value" : "1521-4109"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Electroanalysis"
+  }, {
+    "@language" : "und",
+    "@value" : "Electroanalysis"
+  } ]
+} ]

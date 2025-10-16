@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q19881107",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of experimental psychology. Animal learning and cognition"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "236037"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1975"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://search.proquest.com/publication/2031834"
+  }, {
+    "@id" : "http://www.apa.org/pubs/journals/xan"
+  }, {
+    "@id" : "http://www.apa.org/pubs/journals/xan/index.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2329-8456"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S10668961"
+  }, {
+    "@value" : "S2764344310"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2329-8456"
+  }, {
+    "@value" : "2329-8464"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of experimental psychology. Animal learning and cognition"
+  } ]
+} ]

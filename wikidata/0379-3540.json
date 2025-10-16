@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q110974924",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0379-3540"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0379-3540"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0379-3540"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of the Zoological Survey of India"
+  } ]
+} ]

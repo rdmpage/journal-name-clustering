@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51450224",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Brigham Young Univ. sci. bull. Biol. ser."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7958"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297308"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1955"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0068-1024"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210211765"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1976"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0068-1024"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Brigham Young University science bulletin. Biological series"
+  } ]
+} ]

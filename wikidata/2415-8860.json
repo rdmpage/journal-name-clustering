@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6155261",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ukrajins'kyj Botaničnyj Žurnal"
+  }, {
+    "@language" : "ru",
+    "@value" : "Укр. бот. журн."
+  }, {
+    "@language" : "de",
+    "@value" : "Ukrajins'kyj Botaničnyj Žurnal"
+  }, {
+    "@language" : "de",
+    "@value" : "Ukrainian Botanical Journal"
+  }, {
+    "@language" : "en",
+    "@value" : "Ukrayins'k. Bot. Zhurn."
+  }, {
+    "@language" : "de",
+    "@value" : "Ukrayins'k. Bot. Zhurn."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "274726"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0372-4123"
+  }, {
+    "@value" : "2415-8860"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ukrbotj.co.ua"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0372-4123"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210177029"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0372-4123"
+  }, {
+    "@value" : "2415-8860"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "uk",
+    "@value" : "Український ботанічний журнал"
+  } ]
+} ]

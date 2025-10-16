@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96714684",
+  "http://example.com/crossref" : [ {
+    "@value" : "103825"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.medwelljournals.com/journalhome.php?jid=1817-3381"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1817-3381"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S117302212"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1817-3381"
+  }, {
+    "@value" : "1993-6028"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of fisheries international"
+  } ]
+} ]

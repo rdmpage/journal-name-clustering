@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q115769221",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Physica Hungarica B Quantum Electronics"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Physica Hungarica. Quantum Electronics"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "51932"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://link.springer.com/journal/12657/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1589-9535"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S134256120"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1589-9535"
+  }, {
+    "@value" : "1786-3767"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta Physica Hungarica. B. Quantum Electronics"
+  } ]
+} ]

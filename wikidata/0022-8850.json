@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385501",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The University of Kansas science bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Kans. Univ. sci. bull."
+  }, {
+    "@language" : "en",
+    "@value" : "University of Kansas science bulletin"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "3179"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297255"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1941"
+  }, {
+    "@value" : "1902"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-8850"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764482095"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-8850"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The University of Kansas science bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "University of Kansas science bulletin"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752565",
+  "http://example.com/crossref" : [ {
+    "@value" : "5787"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://brill.publisher.ingentaconnect.com/content/brill/amre"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0173-5373"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S202303835"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "49267153-41D2-4416-84F3-3BCC514EFB5D"
+  }, {
+    "@value" : "EC39DC18-16DE-4B33-B613-8257B82AD4C3"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0173-5373"
+  }, {
+    "@value" : "1568-5381"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Amphibia-reptilia"
+  }, {
+    "@language" : "lad",
+    "@value" : "Amphibia-Reptilia"
+  } ]
+} ]

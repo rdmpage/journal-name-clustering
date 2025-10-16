@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765632",
+  "http://example.com/crossref" : [ {
+    "@value" : "267172"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1212-2580"
+  }, {
+    "@value" : "1805-9341"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764511895"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1212-2580"
+  }, {
+    "@value" : "1805-9341"
+  }, {
+    "@value" : "0862-8645"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Plant Protection Science"
+  } ]
+} ]

@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28972713",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0374-9231"
+  }, {
+    "@language" : "en",
+    "@value" : "Mém. Soc. Natl. Sci. Nat. Math. Cherbourg"
+  }, {
+    "@language" : "fr",
+    "@value" : "[Mémoires de la Société nationale des sciences naturelles et mathématiques de Cherbourg]"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mémoires de la Société nationale des sciences naturelles et mathématiques de Cherbourg"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "4645"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1879"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://catalog.hathitrust.org/Record/000675339"
+  }, {
+    "@id" : "https://catalog.hathitrust.org/Record/008607864"
+  }, {
+    "@id" : "https://catalog.hathitrust.org/Record/008922203"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0374-9231"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "3074-3524"
+  }, {
+    "@value" : "0374-9231"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Mémoires de la Société nationale des sciences naturelles et mathématiques de Cherbourg."
+  }, {
+    "@language" : "fr",
+    "@value" : "Mémoires de la Société nationale des sciences naturelles et mathématiques de Cherbourg"
+  } ]
+} ]

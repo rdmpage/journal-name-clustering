@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q76912135",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2255-9728"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "150137"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2011"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://leb.daba.lv/book/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2255-9728"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2255-9728"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Biodiversity, Biogeography and Nature Conservation in Wallacea and New Guinea"
+  }, {
+    "@language" : "en",
+    "@value" : "Biodiversity, Biogeography and Nature Conservation in Wallacea and New Guinea"
+  } ]
+} ]

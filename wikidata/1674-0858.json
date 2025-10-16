@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725846",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Huan jing kun chong xue bao"
+  }, {
+    "@language" : "en",
+    "@value" : "Huan Jing Kun Chong Xue Bao"
+  }, {
+    "@language" : "fr",
+    "@value" : "Journal of Environmental Entomology"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://hjkcxb.alljournals.net/ch/index.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1674-0858"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306515550"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1674-0858"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "环境昆虫学报"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Environmental Entomology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Huanjing kunchong xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Huan jing kun chong xue bao"
+  } ]
+} ]

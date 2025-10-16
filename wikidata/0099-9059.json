@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51395750",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Raptor res."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "119594"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/76939"
+  }, {
+    "@id" : "https://sora.unm.edu/node/202"
+  }, {
+    "@id" : "http://elibrary.unm.edu/sora/jrr/index.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0099-9059"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1986"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0099-9059"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Raptor research"
+  } ]
+} ]

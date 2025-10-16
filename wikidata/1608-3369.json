@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753063",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Genetika"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3035"
+  }, {
+    "@value" : "205547"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210226023"
+  }, {
+    "@value" : "S96120751"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0016-6758"
+  }, {
+    "@value" : "1022-7954"
+  }, {
+    "@value" : "1608-3369"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Russian Journal of Genetics"
+  } ]
+} ]

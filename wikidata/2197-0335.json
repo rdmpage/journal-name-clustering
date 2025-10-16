@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385867",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Cicadinia"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://public.bibliothek.uni-halle.de/index.php/cicadina/index"
+  }, {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2726461"
+  }, {
+    "@id" : "https://nbn-resolving.org/urn:nbn:de:gbv:3:2-26988"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1868-3592"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1868-3592"
+  }, {
+    "@value" : "2197-0335"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Cicadina"
+  }, {
+    "@language" : "de",
+    "@value" : "Cicadinia"
+  } ]
+} ]

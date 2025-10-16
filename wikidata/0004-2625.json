@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1709876",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "J. Arnold Arbor."
+  }, {
+    "@language" : "en",
+    "@value" : "J. Arnold Arbor."
+  }, {
+    "@language" : "es",
+    "@value" : "J. Arnold Arbor."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "480"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297291"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1919"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://arboretum.harvard.edu/about/our-history/"
+  }, {
+    "@id" : "http://books.google.com/books?id=9hcmAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=ShAmAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=yhAmAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=zBcmAQAAMAAJ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0004-2625"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jarnoarbo"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764834171"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2474-3283"
+  }, {
+    "@value" : "0004-2625"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Arnold Arboretum"
+  } ]
+} ]

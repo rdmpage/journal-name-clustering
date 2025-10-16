@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16592232",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Lloydia"
+  }, {
+    "@language" : "es",
+    "@value" : "Lloydia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0024-5461"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0024-5461"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Lloydia"
+  } ]
+} ]

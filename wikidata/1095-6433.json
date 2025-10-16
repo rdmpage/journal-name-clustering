@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756965",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Comparative Biochemistry and Physiology A"
+  }, {
+    "@language" : "en",
+    "@value" : "Comparative Biochemistry and Physiology Part A: Molecular & Integrative Physiology"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comparative Biochemistry and Physiology A"
+  }, {
+    "@language" : "en",
+    "@value" : "Comparative biochemistry and physiology. Part A, Molecular & integrative physiology"
+  }, {
+    "@language" : "en",
+    "@value" : "Comparative Biochemistry and Physiology. Part A: Molecular & Integrative Physiology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1634"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/comparative-biochemistry-and-physiology-part-a-molecular-and-integrative-physiology/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/10956433"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/comparative-biochemistry-and-physiology-part-a-molecular-and-integrative-physiology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1095-6433"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S193677276"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1095-6433"
+  }, {
+    "@value" : "1531-4332"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Comparative biochemistry and physiology. Part A, Molecular & integrative physiology"
+  }, {
+    "@language" : "en",
+    "@value" : "Comparative Biochemistry and Physiology Part A"
+  }, {
+    "@language" : "en",
+    "@value" : "Comparative Biochemistry and Physiology. Part A: Molecular and Integrative Physiology"
+  } ]
+} ]

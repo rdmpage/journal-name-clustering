@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113475292",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ASM Supplementary Issue"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/66233"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0286-9667"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0286-9667"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "African study monographs. Supplementary issue"
+  } ]
+} ]

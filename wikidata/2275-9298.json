@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727015",
+  "http://example.com/issn_l" : [ {
+    "@value" : "2275-9298"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2275-9298"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Antenor"
+  }, {
+    "@language" : "en",
+    "@value" : "Antenor"
+  } ]
+} ]

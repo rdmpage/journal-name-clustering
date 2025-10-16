@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2839028",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin du Jardin botanique de Buitenzorg"
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. jard. bot. Buitenzorg"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. jard. bot. Buitenzorg"
+  }, {
+    "@language" : "es",
+    "@value" : "Bull. jard. bot. Buitenzorg"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "82095"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1911"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0215-8906"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1940"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0215-8906"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bulletin du jardin botanique de Buitenzorg"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin du Jardin Botanique de Buitenzorg"
+  } ]
+} ]

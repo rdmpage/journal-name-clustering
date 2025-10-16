@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385361",
+  "http://example.com/bhl" : [ {
+    "@value" : "64394"
+  }, {
+    "@value" : "63773"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1945"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=FPgfAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=fQIgAQAAMAAJ"
+  }, {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/63773"
+  }, {
+    "@id" : "http://www.jstor.org/journal/quarjfloracadsci"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0015-3850"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "quarjfloracadsci"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764901508"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0015-3850"
+  }, {
+    "@value" : "2573-1025"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Quarterly Journal of the Florida Academy of Sciences"
+  } ]
+} ]

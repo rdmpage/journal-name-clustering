@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q65557654",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Contributions from the University of Michigan Museum of Geology |  Contributions from the Museum of Paleontology"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1924"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=8-P4LkeMRQoC"
+  }, {
+    "@id" : "http://books.google.com/books?id=oyNd3M-9oJcC"
+  }, {
+    "@id" : "http://books.google.com/books?id=RBbAwUfh_7oC"
+  }, {
+    "@id" : "http://books.google.com/books?id=WXL5bGg6crgC"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0097-3556"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2771-2192"
+  }, {
+    "@value" : "0097-3556"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Contributions from the Museum of Paleontology"
+  } ]
+} ]

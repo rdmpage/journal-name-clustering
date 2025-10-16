@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385487",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. res. lepid."
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Research on the Lepidoptera"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "129988"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "375668"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1962"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=B05uWbyNqqMC"
+  }, {
+    "@id" : "http://books.google.com/books?id=QeLb_HEZ49cC"
+  }, {
+    "@id" : "http://www.lepidopteraresearchfoundation.org"
+  }, {
+    "@id" : "https://web.archive.org/web/20170422133704/http://lepidopteraresearchfoundation.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-4324"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210217801"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2156-5457"
+  }, {
+    "@value" : "0022-4324"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of Research on the Lepidoptera"
+  } ]
+} ]

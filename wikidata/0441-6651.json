@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q39476282",
+  "http://example.com/crossref" : [ {
+    "@value" : "146265"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandfonline.com/loi/ther19"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0441-6651"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210220635"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0441-6651"
+  }, {
+    "@value" : "2159-3957"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Herpetological Association of Africa"
+  } ]
+} ]

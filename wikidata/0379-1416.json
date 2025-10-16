@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385847",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ber. Naturwiss.-med. Ver. Innsb."
+  }, {
+    "@language" : "en",
+    "@value" : "Berichte des Naturwissenschaftlich-medizinischen Vereins in Innsbruck"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "13506"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1870"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0379-1416"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0379-1416"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Berichte des Naturwissenschaftlich-Medizinischen Vereins in Innsbruck"
+  }, {
+    "@language" : "en",
+    "@value" : "Berichte des Naturwissenschaftlich-medizinischen Vereins in Innsbruck"
+  } ]
+} ]

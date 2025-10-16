@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96696413",
+  "http://example.com/crossref" : [ {
+    "@value" : "347097"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://actapalrom.geo-paleontologica.org/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1842-371X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210232424"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2248-3802"
+  }, {
+    "@value" : "1842-371X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta Palaeontologica Romaniae"
+  } ]
+} ]

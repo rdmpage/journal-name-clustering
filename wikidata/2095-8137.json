@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714095",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zool. Res."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 2095-8137"
+  }, {
+    "@language" : "zh",
+    "@value" : "动物学研究（英文版）"
+  }, {
+    "@language" : "es",
+    "@value" : "Dong wu xue yan jiu"
+  }, {
+    "@language" : "en",
+    "@value" : "ZR"
+  }, {
+    "@language" : "en",
+    "@value" : "Dongwuxue Yanjiu"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "DWXJ"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "306560"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2095-8137"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.zoores.ac.cn/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2095-8137"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S118634233"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2095-8137"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zoological Research"
+  } ]
+} ]

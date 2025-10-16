@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q111333284",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Trop. Nat. Hist."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2010"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://tci-thaijo.org/index.php/tnh"
+  }, {
+    "@id" : "https://li01.tci-thaijo.org/index.php/tnh/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2586-9892"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://li01.tci-thaijo.org/index.php/tnh/gateway/plugin/WebFeedGatewayPlugin/rss"
+  }, {
+    "@id" : "https://li01.tci-thaijo.org/index.php/tnh/gateway/plugin/WebFeedGatewayPlugin/rss2"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2586-9892"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Tropical Natural History"
+  } ]
+} ]

@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96335055",
+  "http://example.com/crossref" : [ {
+    "@value" : "61510"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springer.com/west/home?SGWID=4-102-70-173677603-0&changeHeader=true"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1007-1202"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S91713211"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1993-4998"
+  }, {
+    "@value" : "1007-1202"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Wuhan University Journal of Natural Sciences"
+  } ]
+} ]

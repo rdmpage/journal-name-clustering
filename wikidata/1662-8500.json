@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q59455314",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Entomologische Zeitschrift der Schweiz"
+  }, {
+    "@language" : "fr",
+    "@value" : "Journal des Entomologistes suisses"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Swiss entomologists"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2008"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://entomohelvetica.ch/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1662-8500"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1662-8500"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Entomo Helvetica"
+  }, {
+    "@language" : "la",
+    "@value" : "Entomo Helvetica"
+  } ]
+} ]

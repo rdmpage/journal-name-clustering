@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725096",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Biol Slov"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bijh.zrc-sazu.si/ABS/SI/ABS/index.asp"
+  }, {
+    "@id" : "https://journals.uni-lj.si/abs/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1408-3671"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1408-3671"
+  }, {
+    "@value" : "1854-3073"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta biologica Slovenica : ABS"
+  }, {
+    "@language" : "sl",
+    "@value" : "Acta biologica slovenica"
+  } ]
+} ]

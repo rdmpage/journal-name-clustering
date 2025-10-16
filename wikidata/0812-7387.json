@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763546",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Records of the Australian Museum. Supplement"
+  }, {
+    "@language" : "en",
+    "@value" : "Rec. Aust. Mus., Suppl."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "78578"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://australianmuseum.net.au/journalfinder?"
+  }, {
+    "@id" : "https://journals.australian.museum/?journal=3&title=&author=&year=&keyword="
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0812-7387"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S149037802"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1839-5082"
+  }, {
+    "@value" : "0812-7387"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Records of the Australian Museum. Supplement"
+  }, {
+    "@language" : "en",
+    "@value" : "Records of the Australian Museum, Supplements"
+  } ]
+} ]

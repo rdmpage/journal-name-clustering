@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113476671",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.lib.kyushu-u.ac.jp/publications_kyushu/bullhibun"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1341-1659"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764705062"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1341-1659"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Hikaku shakai bunka"
+  } ]
+} ]

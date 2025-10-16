@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842254",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Japanese Journal of Medical Science & Biology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "241026"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/yoken1952/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-5112"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "yoken1952"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2756442687"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0021-5112"
+  }, {
+    "@value" : "1884-2828"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Japanese Journal of Medical Science and Biology"
+  }, {
+    "@language" : "en",
+    "@value" : "Japanese journal of medical science & biology"
+  } ]
+} ]

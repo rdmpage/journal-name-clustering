@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2234742",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ann. appl. biol."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8067"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "46958"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1915"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://vnweb.hwwilsonweb.com/hww/Journals/searchAction.jhtml?sid=HWW:BAIN&issn=0003-4746"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/loi/aab"
+  }, {
+    "@id" : "http://www.ingenta.com/journals/browse/aab/annals"
+  }, {
+    "@id" : "http://www.ingentaselect.com/rpsv/cw/aab/00034746/contp1.htm"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-4746"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S71879176"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0003-4746"
+  }, {
+    "@value" : "1744-7348"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of Applied Biology"
+  } ]
+} ]

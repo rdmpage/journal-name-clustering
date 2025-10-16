@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q109134784",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dumerilia.wifeo.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1256-7779"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1256-7779"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Dumerilia"
+  } ]
+} ]

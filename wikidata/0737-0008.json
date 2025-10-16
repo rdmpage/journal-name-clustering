@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749525",
+  "http://example.com/crossref" : [ {
+    "@value" : "22423"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "293"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/fsip?dbname=eco&journal=0737-0008&screen=available&done=referer"
+  }, {
+    "@id" : "http://www.erlbaum.com/Journals/journals/CI/ci.htm"
+  }, {
+    "@id" : "http://www.jstor.org/journals/07370008.html"
+  }, {
+    "@id" : "https://www.tandfonline.com/loi/hcgi20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0737-0008"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "cogninst"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S202575634"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0737-0008"
+  }, {
+    "@value" : "1532-690X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cognition and Instruction"
+  } ]
+} ]

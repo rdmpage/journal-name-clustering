@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5669286",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ntbg.org/programs/allertonia_authorinstructions.pdf"
+  }, {
+    "@id" : "https://www.jstor.org/journal/allertonia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0735-8032"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "allertonia"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "F0AE720D-7291-45C1-96E9-4B8C79912E6B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2328-1995"
+  }, {
+    "@value" : "0735-8032"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Allertonia"
+  } ]
+} ]

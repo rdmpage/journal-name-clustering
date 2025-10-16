@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q23071095",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1625-2764"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1625-2764"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Les Cahiers Magellanes. Hors-série"
+  } ]
+} ]

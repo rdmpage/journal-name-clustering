@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386250",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0067-8716"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Biogeogr. Soc. Jpn."
+  }, {
+    "@language" : "en",
+    "@value" : "Nihon Seibutsu Chiri Gakkai kaihō"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/bbsj/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0067-8716"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "bbsj"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306505227"
+  }, {
+    "@value" : "S4306551254"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "67152821-5DA0-4D66-AD15-65538A5342EA"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0067-8716"
+  }, {
+    "@value" : "1880-8093"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "日本生物地理學會會報"
+  }, {
+    "@language" : "mul",
+    "@value" : "Nihon Seibutsu Chiri Gakkai kaihō"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the Biogeographical Society of Japan"
+  } ]
+} ]

@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51404959",
+  "http://example.com/bhl" : [ {
+    "@value" : "12916"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1880"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0316-442X"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1886"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0316-442X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions - Ottawa Field-Naturalists' Club"
+  } ]
+} ]

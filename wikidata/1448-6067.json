@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765166",
+  "http://example.com/crossref" : [ {
+    "@value" : "9256"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.publish.csiro.au/journals/mr/index.cfm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1323-5818"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S138380497"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "47D1DDAD-4DDC-476E-9F5A-33C902A767D2"
+  }, {
+    "@value" : "72F56C14-EE39-4652-836E-A1832EC333C2"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1448-6067"
+  }, {
+    "@value" : "1323-5818"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Molluscan Research"
+  } ]
+} ]

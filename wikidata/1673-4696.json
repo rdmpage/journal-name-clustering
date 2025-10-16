@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721087",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Vet. Sci. China"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1673-4696"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764380037"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1673-4696"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Zhongguo shouyi kexue"
+  }, {
+    "@language" : "en",
+    "@value" : "Veterinary science in China"
+  } ]
+} ]

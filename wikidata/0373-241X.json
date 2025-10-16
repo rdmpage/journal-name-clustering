@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51483720",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Glasg. nat."
+  }, {
+    "@language" : "en",
+    "@value" : "Glasgow naturalist"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "38981"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1909"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-241X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-241X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Glasgow naturalist"
+  }, {
+    "@language" : "en",
+    "@value" : "The Glasgow naturalist"
+  } ]
+} ]

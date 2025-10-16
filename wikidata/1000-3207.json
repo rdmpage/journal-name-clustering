@@ -1,0 +1,61 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q11093302",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Shuisheng shengwu xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Shuisheng Shengwu Xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "水生生物学集刊"
+  }, {
+    "@language" : "en",
+    "@value" : "Shuisheng shengwuxue jikan"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "SSWX"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "75318"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1955"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ssswxb.ihb.ac.cn/"
+  }, {
+    "@id" : "http://ssswxb.ihb.ac.cn/indexen.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-3207"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S115471999"
+  }, {
+    "@value" : "S4306529907"
+  }, {
+    "@value" : "S4306553227"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "1F0EE0C1-25A1-4C02-A854-B5EED9C09E4B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-3207"
+  }, {
+    "@value" : "2097-3373"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh-hans",
+    "@value" : "水生生物学集刊"
+  }, {
+    "@language" : "zh-hans",
+    "@value" : "水生生物学报"
+  }, {
+    "@language" : "mul",
+    "@value" : "Shuisheng shengwu xuebao"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Hydrobiologica Sinica"
+  } ]
+} ]

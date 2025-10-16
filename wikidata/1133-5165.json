@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758270",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ludus Vitalis: revista de filosofia de las ciencias de la vida"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://revistas.uv.cl/index.php/ludusvitalis/index/index"
+  }, {
+    "@id" : "mailto:rodrigo.lopez@uv.cl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1133-5165"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306518925"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2810-7098"
+  }, {
+    "@value" : "1133-5165"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Ludus Vitalis"
+  } ]
+} ]

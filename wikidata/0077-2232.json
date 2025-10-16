@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51408566",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0077-2232"
+  }, {
+    "@language" : "en",
+    "@value" : "Bol. Mus. Para. Emílio Goeldi, Zoo"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "134662"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1957"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0077-2232"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2002"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0077-2232"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Boletim do Museu Paraense Emílio Goeldi. Zoologia"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletim do Museu Paraense Emílio Goeldi. Zoologia"
+  } ]
+} ]

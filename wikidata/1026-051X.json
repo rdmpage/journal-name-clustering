@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385575",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1026-051X"
+  }, {
+    "@language" : "en",
+    "@value" : "Dalʹnevostočnyj èntomolog"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "308400"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.biosoil.ru/fee/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1026-051X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210205922"
+  }, {
+    "@value" : "S4210228065"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D4F70FFC-D284-4BB4-894C-F3F0F3A7EA6A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1026-051X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Far Eastern Entomologist"
+  } ]
+} ]

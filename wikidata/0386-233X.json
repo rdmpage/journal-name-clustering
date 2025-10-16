@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385870",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0386-233X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0386-233X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Dōkutsugaku zasshi"
+  } ]
+} ]

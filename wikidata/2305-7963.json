@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4689873",
+  "http://example.com/crossref" : [ {
+    "@value" : "272307"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.co.za/ej/ejour_afnathist.html"
+  }, {
+    "@id" : "http://www.scielo.org.za/scielo.php?script=sci_serial&pid=2305-7963&lng=en&nrm=iso"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1816-8396"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S179490789"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B2499702-5A42-44F4-80C3-BED14FE315DA"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1816-8396"
+  }, {
+    "@value" : "2305-7963"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "African Natural History"
+  } ]
+} ]

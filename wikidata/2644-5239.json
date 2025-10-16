@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96716369",
+  "http://example.com/crossref" : [ {
+    "@value" : "357817"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2644-5247"
+  }, {
+    "@value" : "2644-5239"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://content.sciendo.com/view/journals/srj/srj-overview.xml"
+  }, {
+    "@id" : "https://portal.webdepozit.sk/webapp-portal/search-eborn?q=Raptor+Journal.&m=2451%23%24a"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2644-5247"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210199093"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2644-5239"
+  }, {
+    "@value" : "2644-5247"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Raptor Journal"
+  } ]
+} ]

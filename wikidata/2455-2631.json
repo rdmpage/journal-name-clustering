@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124655446",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2455-2631"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2455-2631"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2455-2631"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Scientific Development and Research"
+  } ]
+} ]

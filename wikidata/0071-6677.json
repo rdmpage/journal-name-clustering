@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754294",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Folia Forestalia Polonica. Seria A, Leśnictwo"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "218368"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0071-6677"
+  }, {
+    "@value" : "2199-5907"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.degruyter.com/view/j/ffp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0071-6677"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210182608"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0071-6677"
+  }, {
+    "@value" : "2199-5907"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Folia Forestalia Polonica. Series A. Lesnictwo"
+  }, {
+    "@language" : "en",
+    "@value" : "Folia Forestalia Polonica. Seria A, Leśnictwo"
+  } ]
+} ]

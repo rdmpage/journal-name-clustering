@@ -1,0 +1,77 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q180445",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Nature"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nature Magazine"
+  }, {
+    "@language" : "zh",
+    "@value" : "Nature"
+  }, {
+    "@language" : "en",
+    "@value" : "Nature (Lond.)"
+  }, {
+    "@language" : "de",
+    "@value" : "Nature Magazine"
+  }, {
+    "@language" : "pt",
+    "@value" : "Revista Nature"
+  }, {
+    "@language" : "ru",
+    "@value" : "Нейчур"
+  }, {
+    "@language" : "ja",
+    "@value" : "Nature"
+  }, {
+    "@language" : "zh",
+    "@value" : "自然雜誌"
+  }, {
+    "@language" : "en",
+    "@value" : "nature.com"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista Nature"
+  }, {
+    "@language" : "fr",
+    "@value" : "Revue Nature"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "40302"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3415"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "980"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1869"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.nature.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0028-0836"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S137773608"
+  }, {
+    "@value" : "S4210191612"
+  }, {
+    "@value" : "S4210210546"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "http://feeds.nature.com/nature/rss/current"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0028-0836"
+  }, {
+    "@value" : "1476-4687"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nature"
+  } ]
+} ]

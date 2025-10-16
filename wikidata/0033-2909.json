@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1634280",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Psychological Bulletin"
+  }, {
+    "@language" : "zh",
+    "@value" : "心理學通報"
+  }, {
+    "@language" : "zh",
+    "@value" : "心理学公报"
+  }, {
+    "@language" : "ru",
+    "@value" : "Психологический вестник"
+  }, {
+    "@language" : "ja",
+    "@value" : "サイコロジカル・ブレティン"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3384"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "20930"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1904"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.apa.org/journals/bul.html"
+  }, {
+    "@id" : "http://www.apa.org/journals/bul/"
+  }, {
+    "@id" : "http://www.apa.org/pubs/journals/bul/index.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0033-2909"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S75627607"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1939-1455"
+  }, {
+    "@value" : "0033-2909"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Psychological Bulletin"
+  } ]
+} ]

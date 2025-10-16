@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27869461",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Bull. Soc. Sc. Nat. Maroc"
+  }, {
+    "@language" : "es",
+    "@value" : "Bull. Soc. Sc. Nat. Maroc"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Soc. Sc. Nat. Maroc"
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. Soc. Sc. Nat. Maroc"
+  }, {
+    "@language" : "pt",
+    "@value" : "Bull. Soc. Sc. Nat. Maroc"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "129955"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1944"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-3450"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1946"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0366-3450"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société des sciences naturelles du Maroc"
+  } ]
+} ]

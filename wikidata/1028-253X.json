@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15733238",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Lasianthera (Boroko)"
+  }, {
+    "@language" : "en",
+    "@value" : "Lasianthera; the Scientific Journal for the Orchidaceae of Papua New Guinea"
+  }, {
+    "@language" : "es",
+    "@value" : "Lasianthera"
+  }, {
+    "@language" : "es",
+    "@value" : "Lasianthera; The Scientific Journal for the Orchidaceae of Papua New Guinea"
+  }, {
+    "@language" : "es",
+    "@value" : "Lasianthera: The Scientific Journal for the Orchidaceae of Papua New Guinea"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1028-253X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1028-253X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Lasianthera"
+  } ]
+} ]

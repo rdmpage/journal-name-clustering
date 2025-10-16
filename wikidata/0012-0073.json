@@ -1,0 +1,72 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q105261820",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Deutsche Entomologische Zeitschrift (1875)"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0012-0073"
+  }, {
+    "@language" : "en",
+    "@value" : "DEZ"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "48608"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1875"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0012-0073"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S18045734"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1997"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0012-0073"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Deutsche Entomologische Zeitschrift"
+  }, {
+    "@language" : "mul",
+    "@value" : "Deutsche entomologische Zeitschrift"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q51464561",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Deutsche Entomologische Zeitschrift (1875–1880)"
+  }, {
+    "@language" : "de",
+    "@value" : "Deutsche Entomologische Zeitschrift (früher „Berliner Entomologische Zeitschrift“)"
+  }, {
+    "@language" : "de",
+    "@value" : "Deutsche Entomologische Zeitschrift (vorher „Berliner Entomologische Zeitschrift“)"
+  }, {
+    "@language" : "de",
+    "@value" : "ISSN: 0012-0073 Deutsche Entomologische Zeitschrift (bisher „Berliner Entomologische Zeitschrift“)"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN: 0012-0073 Deutsche Entomologische Zeitschrift (formerly \"Berliner Entomologische Zeitschrift\")"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "46203"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1875"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1880"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0012-0073"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Deutsche Entomologische Zeitschrift"
+  } ]
+} ]

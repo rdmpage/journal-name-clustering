@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767002",
+  "http://example.com/crossref" : [ {
+    "@value" : "313835"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1948"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journal.nzpps.org/index.php/nzpp"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1175-9003"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "New Zealand Plant Protection"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q96729126",
+  "http://example.com/crossref" : [ {
+    "@value" : "372877"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journal.nzpps.org/index.php/nzpp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-0968"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764884290"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2703-3066"
+  }, {
+    "@value" : "1175-9003"
+  }, {
+    "@value" : "0370-2804"
+  }, {
+    "@value" : "1172-0719"
+  }, {
+    "@value" : "0370-0968"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the New Zealand Weed Control Conference"
+  } ]
+} ]

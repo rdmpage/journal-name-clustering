@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28469659",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0394-9125"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0394-9125"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Studia Geobotanica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Studia geobotanica"
+  } ]
+} ]

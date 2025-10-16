@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96325560",
+  "http://example.com/crossref" : [ {
+    "@value" : "283588"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://reference.sabinet.co.za/sa_epublication/wild2"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2410-7220"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764636758"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2410-8200"
+  }, {
+    "@value" : "2410-7220"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "African journal of wildlife research"
+  } ]
+} ]

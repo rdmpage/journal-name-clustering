@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1709834",
+  "http://example.com/crossref" : [ {
+    "@value" : "57536"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springer.com/environment/journal/11852"
+  }, {
+    "@id" : "http://www.springerlink.com/content/1400-0350"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1400-0350"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jcoascons"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S191597982"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1874-7841"
+  }, {
+    "@value" : "1400-0350"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Coastal Conservation"
+  } ]
+} ]

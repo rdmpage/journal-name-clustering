@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q55747591",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ceiba: A scientific and technical journal published by Zamorano"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "116145"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.lamjol.info/index.php/CEIBA"
+  }, {
+    "@id" : "http://www.zamorano.edu/conozca-zamorano/zamo-news/ceiba-revista-tecnica-y-cientifica/"
+  }, {
+    "@id" : "https://www.lamjol.info/index.php/CEIBA"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0008-8692"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764788669"
+  }, {
+    "@value" : "S4363607135"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://www.lamjol.info/index.php/CEIBA/gateway/plugin/WebFeedGatewayPlugin/rss2"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2225-6687"
+  }, {
+    "@value" : "0008-8692"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "CEIBA"
+  } ]
+} ]

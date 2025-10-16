@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762938",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Antonie van Leeuwenhoek - Journal of Microbiology"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0003-6072"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1572-9699"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2734"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1934"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dx.doi.org/10.1007/10482.1572-9699"
+  }, {
+    "@id" : "https://www.springer.com/life+sciences/microbiology/journal/10482"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-6072"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S192712274"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0003-6072"
+  }, {
+    "@value" : "1572-9699"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Antonie van Leeuwenhoek"
+  }, {
+    "@language" : "en",
+    "@value" : "Antonie van Leeuwenhoek: international journal of general and molecular microbiology"
+  } ]
+} ]

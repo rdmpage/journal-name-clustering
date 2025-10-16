@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96709022",
+  "http://example.com/crossref" : [ {
+    "@value" : "220073"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.italianjournalofgeosciences.it/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2038-1719"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210184765"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2038-1727"
+  }, {
+    "@value" : "2038-1719"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Italian Journal of Geosciences"
+  } ]
+} ]

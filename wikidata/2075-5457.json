@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727150",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Visnik Harkivskogo Nacionalnogo Universitetu Imeni V N Karazina Seria Biologia"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "312573"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2220-9697"
+  }, {
+    "@value" : "2075-5457"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www-biology.univer.kharkov.ua/seriesbiology/"
+  }, {
+    "@id" : "https://periodicals.karazin.ua/biology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2075-5457"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210228881"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2075-5457"
+  }, {
+    "@value" : "2220-9697"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "uk",
+    "@value" : "Vìsnik Harkìvsʹkogo nacìonalʹnogo unìversitetu ìmenì V.N. Karazìna. Serìâ Bìologìâ"
+  }, {
+    "@language" : "en",
+    "@value" : "Visnik Harkivs'kogo nacional'nogo universitetu imeni V.N. Karazina. Seria Biologia"
+  } ]
+} ]

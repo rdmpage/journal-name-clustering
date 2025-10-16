@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6295983",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J SYST PALAEONTOL"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "15439"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2003"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=SYP"
+  }, {
+    "@id" : "http://www.tandf.co.uk/journals/TJSP"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1477-2019"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S159281433"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "5E7753D2-FFD6-4BF6-BCD7-4B0F12D51AA5"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1477-2019"
+  }, {
+    "@value" : "1478-0941"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Systematic Palaeontology"
+  } ]
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3618754",
+  "http://example.com/from_year" : [ {
+    "@value" : "1949"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.acta-zoologica-bulgarica.eu/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0324-0770"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S81028643"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "59D18F8A-F32F-4BA8-B006-0EAD257B6603"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0324-0770"
+  }, {
+    "@value" : "2603-3798"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Zoologica Bulgarica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Acta Zoologica Bulgarica"
+  } ]
+} ]

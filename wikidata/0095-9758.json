@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13548560",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of agricultural research"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0095-9758"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8087"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1913"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://catalog.hathitrust.org/Record/000050884"
+  }, {
+    "@id" : "http://hdl.handle.net/1030.28/NAL0000001j"
+  }, {
+    "@id" : "http://naldc.nal.usda.gov/catalog?f%5Bseries_facet%5D%5B%5D=Journal+of+agricultural+research"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0095-9758"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1949"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0095-9758"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Agricultural Research"
+  } ]
+} ]

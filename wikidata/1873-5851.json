@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15816296",
+  "http://example.com/crossref" : [ {
+    "@value" : "50405"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/00759511"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/limnologica"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0075-9511"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S97400022"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0075-9511"
+  }, {
+    "@value" : "1873-5851"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Limnologica"
+  }, {
+    "@language" : "und",
+    "@value" : "Limnologica"
+  } ]
+} ]

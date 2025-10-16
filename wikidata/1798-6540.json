@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762300",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1798-6540"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "68795"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1818-5487"
+  }, {
+    "@value" : "1798-6540"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.aquaticinvasions.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1818-5487"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S67121968"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1818-5487"
+  }, {
+    "@value" : "1798-6540"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Aquatic Invasions"
+  } ]
+} ]

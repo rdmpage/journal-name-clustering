@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727019",
+  "http://example.com/crossref" : [ {
+    "@value" : "295386"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2405-8440"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/24058440"
+  }, {
+    "@id" : "https://www.cell.com/heliyon/home"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2405-8440"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2898612692"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2405-8440"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Heliyon"
+  } ]
+} ]

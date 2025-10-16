@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760171",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Mitteilungen der Österreichischen Geologischen Gesellschaft"
+  }, {
+    "@language" : "en",
+    "@value" : "Austrian J Earth Sci"
+  }, {
+    "@language" : "en",
+    "@value" : "Austrian journal of earth sciences : an international journal of the Austrian Geological Society"
+  }, {
+    "@language" : "es",
+    "@value" : "Austrian journal of earth sciences : an international journal of the Austrian Geological Society"
+  }, {
+    "@language" : "de",
+    "@value" : "Mitt. österr . Geol . Ges."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "277966"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.univie.ac.at/ajes/"
+  }, {
+    "@id" : "https://www.ajes.at"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0251-7493"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S36583286"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0251-7493"
+  }, {
+    "@value" : "2072-7151"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Austrian journal of earth sciences : an international journal of the Austrian Geological Society"
+  }, {
+    "@language" : "mul",
+    "@value" : "Mitteilungen der Österreichischen Geologischen Gesellschaft"
+  }, {
+    "@language" : "de",
+    "@value" : "Mitteilungen der Österreichischen Geologischen Gesellschaft"
+  }, {
+    "@language" : "en",
+    "@value" : "Austrian Journal of Earth Sciences"
+  } ]
+} ]

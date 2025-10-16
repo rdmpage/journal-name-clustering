@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q44143881",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Historia natural (Mendoza)"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://fundacionazara.org.ar/azara/revista-historia-natural/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0326-1778"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4363607016"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0326-1778"
+  }, {
+    "@value" : "1853-6581"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Historia natural"
+  } ]
+} ]

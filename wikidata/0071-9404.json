@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386340",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Freiberger Forschungshefte Reihe C"
+  }, {
+    "@language" : "en",
+    "@value" : "Freiberger Forschungshefte. C"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0071-9404"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0071-9404"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0071-9404"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Freiberger Forschungshefte. C"
+  } ]
+} ]

@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q123161500",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0030-1531"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "193123"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/cb343489507/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0030-1531"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2513-7360"
+  }, {
+    "@value" : "0030-1531"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "L'Oiseau et la Revue francaise d'ornithologie"
+  }, {
+    "@language" : "fr",
+    "@value" : "L'Oiseau et la Revue française d'ornithologie"
+  } ]
+} ]

@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50520814",
+  "http://example.com/doaj" : [ {
+    "@value" : "1842-7863"
+  }, {
+    "@value" : "1584-2363"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bb.uvvg.ro/studia"
+  }, {
+    "@id" : "http://www.studiauniversitatis.ro/"
+  }, {
+    "@id" : "https://web.archive.org/web/20071024150848/http://bb.uvvg.ro:80/studia/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1584-2363"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1584-2363"
+  }, {
+    "@value" : "1842-7863"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Studia Universitatis \"Vasile Goldiş\" Arad Seria Ştiinţele vieţii"
+  } ]
+} ]

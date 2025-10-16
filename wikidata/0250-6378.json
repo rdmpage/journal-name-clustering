@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q30036796",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0250-6378"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0250-6378"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bèilèi xuébào"
+  } ]
+} ]

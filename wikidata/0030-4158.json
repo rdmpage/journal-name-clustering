@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385699",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Opuscula zoologica (München)"
+  }, {
+    "@language" : "en",
+    "@value" : "Opuscula zoologica (München)"
+  }, {
+    "@language" : "en",
+    "@value" : "Opuscula zoologica (Munich, Germany)"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0030-4158"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "44805"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1957"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0030-4158"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1975"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0030-4158"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Opuscula zoologica"
+  } ]
+} ]

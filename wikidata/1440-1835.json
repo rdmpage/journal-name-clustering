@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767620",
+  "http://example.com/crossref" : [ {
+    "@value" : "3590"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-1835/issues"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1322-0829"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S124393830"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1440-1835"
+  }, {
+    "@value" : "1322-0829"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Phycological Research"
+  } ]
+} ]

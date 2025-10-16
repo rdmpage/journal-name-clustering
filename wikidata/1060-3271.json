@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6294712",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. AOAC Int."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "A O A C International. Journal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "151345"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "757"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.aoac.org/pubs/jaoac.htm"
+  }, {
+    "@id" : "https://academic.oup.com/jaoac/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1060-3271"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S103486911"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1060-3271"
+  }, {
+    "@value" : "1944-7922"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of AOAC International"
+  } ]
+} ]

@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96703366",
+  "http://example.com/crossref" : [ {
+    "@value" : "305780"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2459-1831"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210186891"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2459-1831"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "tr",
+    "@value" : "Genetics of aquatic organisms"
+  } ]
+} ]

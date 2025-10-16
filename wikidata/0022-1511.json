@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767151",
+  "http://example.com/crossref" : [ {
+    "@value" : "55431"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0022-1511;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=0022-1511"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00221511.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-1511"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jherpetology"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S67795522"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-1511"
+  }, {
+    "@value" : "1937-2418"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Herpetology"
+  } ]
+} ]

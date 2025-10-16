@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27710495",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Comp Biochem Physiol"
+  }, {
+    "@language" : "en",
+    "@value" : "Comp. Biochem. Physiol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "14679"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/0010406X"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0010-406X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S126269290"
+  }, {
+    "@value" : "S4210168365"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0010-406X"
+  }, {
+    "@value" : "1879-3029"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Comparative biochemistry and physiology"
+  } ]
+} ]

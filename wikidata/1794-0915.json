@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q30017167",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1794-0915"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1794-0915"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Ornitologia colombiana"
+  } ]
+} ]

@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751721",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Narodni Muzeum v Praze. Sbornik. Rada B: Prirodni Vedy"
+  }, {
+    "@language" : "es",
+    "@value" : "Narodni Muzeum v Praze. Sbornik. Rada B: Prirodni Vedy"
+  }, {
+    "@language" : "en",
+    "@value" : "Sborník Národního muzea v Praze. Řada B"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Musei Nationalis Pragae, Series B. Historia Naturalis"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0036-5343"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "233906"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.nm.cz/publikace/publikace-detail.php?id=4"
+  }, {
+    "@id" : "http://search.ebscohost.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0036-5343"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210229290"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "924910FF-C640-4D44-A562-A940607E8199"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1804-6479"
+  }, {
+    "@value" : "0036-5343"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Sborník Národního muzea v Praze. Řada B, Přírodní vědy"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Musei Nationalis Pragae, Series B. Historia Naturalis"
+  } ]
+} ]

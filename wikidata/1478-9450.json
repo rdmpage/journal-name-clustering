@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749465",
+  "http://example.com/crossref" : [ {
+    "@value" : "38059"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ejournals.ebsco.com/direct.asp?JournalID=112047"
+  }, {
+    "@id" : "http://informahealthcare.com/loi/eru"
+  }, {
+    "@id" : "http://www.future-drugs.com/loi/epr"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/ieru20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1478-9450"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S96346590"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1478-9450"
+  }, {
+    "@value" : "1744-8387"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Expert Review of Proteomics"
+  } ]
+} ]

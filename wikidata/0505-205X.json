@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q47085591",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Boll. Mus. Civ. Stor. nat. Venezia"
+  }, {
+    "@language" : "de",
+    "@value" : "Boll. Mus. Civ. Stor. nat. Venezia"
+  }, {
+    "@language" : "es",
+    "@value" : "Boll. Mus. Civ. Stor. nat. Venezia"
+  }, {
+    "@language" : "pt",
+    "@value" : "Boll. Mus. Civ. Stor. nat. Venezia"
+  }, {
+    "@language" : "en",
+    "@value" : "Boll. Mus. Civ. Stor. nat. Venezia"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1954"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://msn.visitmuve.it/it/ricerca/pubblicazioni-scientifiche/bollettini/bollettini-2001-2010/volume-74/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0505-205X"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2009"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "CC0A98F0-6791-4170-BD4A-ADCC1395FAE0"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0505-205X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bollettino del Museo Civico di Storia Naturale di Venezia"
+  }, {
+    "@language" : "it",
+    "@value" : "Bollettino del Museo civico di storia naturale di Venezia"
+  } ]
+} ]

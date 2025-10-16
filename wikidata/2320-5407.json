@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726987",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Int J Adv Res (Indore)"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 2320-5407"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "299426"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journalijar.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2320-5407"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210206230"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2320-5407"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International journal of advanced research"
+  } ]
+} ]

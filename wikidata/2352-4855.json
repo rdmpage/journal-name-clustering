@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q53952174",
+  "http://example.com/crossref" : [ {
+    "@value" : "267207"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/23524855"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/regional-studies-in-marine-science"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2352-4855"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764732502"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2352-4855"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Regional studies in marine science"
+  } ]
+} ]

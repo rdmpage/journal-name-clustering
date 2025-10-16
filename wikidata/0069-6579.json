@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q106117499",
+  "http://example.com/from_year" : [ {
+    "@value" : "1922"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0069-6579"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1977"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B46FB3BA-B569-4A81-87D0-0CAF567E8F70"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0069-6579"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Commentationes biologicae"
+  }, {
+    "@language" : "la",
+    "@value" : "Commentationes biologicae"
+  } ]
+} ]

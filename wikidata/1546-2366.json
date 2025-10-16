@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7414002",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "SFEWS"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "256347"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1546-2366"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/7646"
+  }, {
+    "@id" : "http://escholarship.org/uc/jmie_sfews"
+  }, {
+    "@id" : "http://repositories.cdlib.org/jmie/sfews/"
+  }, {
+    "@id" : "http://repositories.cdlib.org/jmie/sfews/about.html"
+  }, {
+    "@id" : "http://www.escholarship.org/uc/jmie_sfews"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1546-2366"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S33651041"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1546-2366"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "San Francisco Estuary and Watershed Science"
+  } ]
+} ]

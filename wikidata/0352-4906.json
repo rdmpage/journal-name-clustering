@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752198",
+  "http://example.com/crossref" : [ {
+    "@value" : "76719"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0352-4906"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.maticasrpska.org.rs/category/katalog-izdanja/naucni-casopisi/zbornik-matice-srpske-za-prirodne-nauke/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0352-4906"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210180670"
+  }, {
+    "@value" : "S57514026"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0352-4906"
+  }, {
+    "@value" : "2406-0828"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Zbornik Matice Srpske za Prirodne Nauke"
+  }, {
+    "@language" : "sr",
+    "@value" : "Zbornik Matice srpske za prirodne nauke"
+  } ]
+} ]

@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96696266",
+  "http://example.com/crossref" : [ {
+    "@value" : "222665"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://periodicos.univali.br/index.php/eec/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2317-9643"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210229913"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2317-9643"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecotoxicology and Environmental Contamination"
+  } ]
+} ]

@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27709460",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bol Chil Parasitol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "87606"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.cl/bcpar.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0365-9402"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2754001263"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0365-9402"
+  }, {
+    "@value" : "0717-6325"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Boletín chileno de parasitología"
+  }, {
+    "@language" : "en",
+    "@value" : "Boletin chileno de parasitologia"
+  } ]
+} ]

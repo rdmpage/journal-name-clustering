@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385214",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0367-4673"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "486935E5-BFF5-45B3-A990-356DE5249B61"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0367-4673"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Göteborgs kungl. vetenskaps- och vitterhets-samhälles handlingar. Ser. B, Matematiska och naturvetenskapliga skrifter"
+  } ]
+} ]

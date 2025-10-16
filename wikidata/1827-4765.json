@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842824",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.isita-org.com/jass/index.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1827-4765"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S104358966"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1827-4765"
+  }, {
+    "@value" : "2037-0644"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Journal of anthropological sciences"
+  } ]
+} ]

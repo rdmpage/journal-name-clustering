@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386303",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0071-075X"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "130106"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1963"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayBackIssues?jid=MCE"
+  }, {
+    "@id" : "http://www.esc-sec.ca/memoirs.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0071-075X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764620832"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1997"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0071-075X"
+  }, {
+    "@value" : "1920-3047"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Memoirs of the Entomological Society of Canada"
+  } ]
+} ]

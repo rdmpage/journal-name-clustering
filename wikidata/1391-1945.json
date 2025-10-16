@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96732682",
+  "http://example.com/crossref" : [ {
+    "@value" : "375808"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1391-1945"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764352813"
+  }, {
+    "@value" : "S4210176538"
+  }, {
+    "@value" : "S4210224028"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1391-1945"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Vidyodaya Journal of Science"
+  } ]
+} ]

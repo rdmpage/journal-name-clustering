@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385195",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nihon Dani Gakkaishi"
+  }, {
+    "@language" : "ja",
+    "@value" : "Nihon Dani Gakkaishi"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "48861"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/acari/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0918-1067"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "acari"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S111359038"
+  }, {
+    "@value" : "S4210194237"
+  }, {
+    "@value" : "S4306550696"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0918-1067"
+  }, {
+    "@value" : "1880-2273"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "Nihon Dani Gakkaishi"
+  } ]
+} ]

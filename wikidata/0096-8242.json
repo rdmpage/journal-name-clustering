@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51420207",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. Md. Agric. Exp. Sta."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "14720"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1888"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0096-8242"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0096-8242"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Maryland Agricultural Experiment Station"
+  } ]
+} ]

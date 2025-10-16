@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15768326",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Philosophical Transactions of the Royal Society of Edinburgh"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0080-4568"
+  }, {
+    "@language" : "en",
+    "@value" : "Trans. R. Soc. Edinburgh"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "2290"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "182545"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1788"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=TRE"
+  }, {
+    "@id" : "http://www.royalsoced.org.uk/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0080-4568"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764763431"
+  }, {
+    "@value" : "S4210219217"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2053-5945"
+  }, {
+    "@value" : "0080-4568"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Royal Society of Edinburgh"
+  } ]
+} ]

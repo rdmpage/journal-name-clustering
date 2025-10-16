@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q117834286",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Mitt. Bad. Landesv. Naturk. u. Natursch. N.F."
+  }, {
+    "@language" : "de",
+    "@value" : "Mitteilungen des Badischen Landesvereins für Naturkunde und Naturschutz e.V. Freiburg i.Br"
+  }, {
+    "@language" : "de",
+    "@value" : "Mitteilungen des Badischen Landesvereins für Naturkunde und Naturschutz e.V., N.F."
+  }, {
+    "@language" : "de",
+    "@value" : "Mitteilungen des Badischen Landesvereins für Naturkunde und Naturschutz e.V., Neue Folge"
+  }, {
+    "@language" : "de",
+    "@value" : "Mitteilungen des Badischen Landesvereins für Naturkunde und Naturschutz, Neue Folge"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0067-2858"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0067-2858"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Mitteilungen des Badischen Landesvereins für Naturkunde und Naturschutz e.V. Freiburg i.Br"
+  } ]
+} ]

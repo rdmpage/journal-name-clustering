@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q73354227",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Bull. Mus. Natl. Hist. Nat., Écol. Gén."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin du Museum national d'histoire naturelle. Ecologie generale"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1973"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0376-4427"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "EE2F62AD-D0AB-401A-838C-47CD3D62BF80"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0376-4427"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin du Muséum national d'histoire naturelle. Écologie générale"
+  } ]
+} ]

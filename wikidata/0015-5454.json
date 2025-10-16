@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27710886",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Folha Med"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0015-5454"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306510637"
+  }, {
+    "@value" : "S4306510639"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0015-5454"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Folha Medica"
+  }, {
+    "@language" : "en",
+    "@value" : "Folha medica"
+  } ]
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385403",
+  "http://example.com/crossref" : [ {
+    "@value" : "235767"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2754551"
+  }, {
+    "@id" : "http://www.blam-hp.eu/herzogia.html"
+  }, {
+    "@id" : "https://bioone.org/journals/herzogia"
+  }, {
+    "@id" : "https://herzogia.blam-bl.de/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0018-0971"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2486410643"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0018-0971"
+  }, {
+    "@value" : "2700-2829"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Herzogia"
+  } ]
+} ]

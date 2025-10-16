@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96722972",
+  "http://example.com/crossref" : [ {
+    "@value" : "296072"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://revistas.unimilitar.edu.co/index.php/rfcb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1900-4699"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210196897"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2500-5316"
+  }, {
+    "@value" : "1900-4699"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista Facultad de Ciencias Básicas"
+  } ]
+} ]

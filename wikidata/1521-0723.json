@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759233",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Society & natural resources"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4735"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.catchword.com/rpsv/catchword/tandf/08941920/contp1-1.htm"
+  }, {
+    "@id" : "http://www.informaworld.com/openurl?genre=journal&issn=1521-0723"
+  }, {
+    "@id" : "https://www.tandfonline.com/loi/usnr20?open=32&year=2019&repitition=0#vol_32_2019"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0894-1920"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S23642417"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0894-1920"
+  }, {
+    "@value" : "1521-0723"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Society and Natural Resources"
+  }, {
+    "@language" : "en",
+    "@value" : "Society & natural resources"
+  } ]
+} ]

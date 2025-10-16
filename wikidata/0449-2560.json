@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328044",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of geosciences, Osaka City University"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dlisv03.media.osaka-cu.ac.jp/il/meta_pub/search-G0000438repository?issn=0449-2560&count=50"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0449-2560"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764825967"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0449-2560"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of geosciences, Osaka City University"
+  } ]
+} ]

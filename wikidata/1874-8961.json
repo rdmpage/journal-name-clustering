@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15734666",
+  "http://example.com/crossref" : [ {
+    "@value" : "2972"
+  }, {
+    "@value" : "89046"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://cosmo-mg.mcgill.ca/"
+  }, {
+    "@id" : "https://www.springer.com/journal/11004"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S195293963"
+  }, {
+    "@value" : "S4210205774"
+  }, {
+    "@value" : "S4210237802"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0882-8121"
+  }, {
+    "@value" : "1573-8868"
+  }, {
+    "@value" : "1874-8953"
+  }, {
+    "@value" : "1874-8961"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Mathematical Geosciences"
+  } ]
+} ]

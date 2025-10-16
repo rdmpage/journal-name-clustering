@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758797",
+  "http://example.com/crossref" : [ {
+    "@value" : "11297"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.urbanfischer.de/journals/protist/protist.htm"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/protist"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1434-4610"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S103897674"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1434-4610"
+  }, {
+    "@value" : "1618-0941"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Protist"
+  }, {
+    "@language" : "en",
+    "@value" : "Protist"
+  } ]
+} ]

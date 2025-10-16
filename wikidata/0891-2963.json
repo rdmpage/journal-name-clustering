@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2357231",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0891-2963"
+  }, {
+    "@language" : "en",
+    "@value" : "Historical Biology: An International Journal of Paleobiology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "13525"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1988"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ghbi20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0891-2963"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S174083873"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "5021FD22-ED3D-4FA0-A4F6-A1DFF9A444D8"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0891-2963"
+  }, {
+    "@value" : "1026-7980"
+  }, {
+    "@value" : "1029-2381"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Historical Biology"
+  } ]
+} ]

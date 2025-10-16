@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13548580",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "New phytol."
+  }, {
+    "@language" : "en",
+    "@value" : "The New phytologist"
+  }, {
+    "@language" : "en",
+    "@value" : "New phytol."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "146202"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3549"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1902"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://nph.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1469-8137/"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291469-8137"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0028-646X"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "newphytologist"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S58631098"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0028-646X"
+  }, {
+    "@value" : "1469-8137"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "New Phytologist"
+  } ]
+} ]

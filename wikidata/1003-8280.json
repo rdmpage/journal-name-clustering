@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28048425",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Zhongguo meijie shengwuxue ji kongzhi zazhi"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhongguo meijie shengwuxue ji kongzhi zazhi"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bmsw.net.cn/EN/1003-8280/home.shtml"
+  }, {
+    "@id" : "http://www.bmsw.net.cn/CN/1003-8280/home.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1003-8280"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764766879"
+  }, {
+    "@value" : "S4306535974"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1003-8280"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "中国媒介生物学及控制杂志"
+  } ]
+} ]

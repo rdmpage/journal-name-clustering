@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6087108",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Proceedings of the Royal Society of Edinburgh (1783-1944)"
+  }, {
+    "@language" : "de",
+    "@value" : "Proc. Roy. Soc. Edinburgh"
+  }, {
+    "@language" : "en",
+    "@value" : "Proc. R. Soc. Edinb."
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Society of Edinburgh (1783-1944)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "106581"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "259686"
+  }, {
+    "@value" : "166565"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1834"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210220452"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1940"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-1646"
+  }, {
+    "@value" : "0080-4541"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Society of Edinburgh"
+  } ]
+} ]

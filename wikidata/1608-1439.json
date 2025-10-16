@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27717239",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Lemur News"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1608-1439"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1608-1439"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Lemur news"
+  } ]
+} ]

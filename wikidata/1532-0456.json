@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15724455",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Comparative Biochemistry and Physiology. Part C: Toxicology & Pharmacology"
+  }, {
+    "@language" : "en",
+    "@value" : "Comparative biochemistry and physiology. Toxicology & pharmacology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1974"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/comparative-biochemistry-and-physiology-part-c-toxicology-and-pharmacology/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/15320456"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1532-0456"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S76695604"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1532-0456"
+  }, {
+    "@value" : "1878-1659"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Comparative biochemistry and physiology. Toxicology & pharmacology"
+  }, {
+    "@language" : "en",
+    "@value" : "Comparative Biochemistry and Physiology C – Toxicology & Pharmacology"
+  } ]
+} ]

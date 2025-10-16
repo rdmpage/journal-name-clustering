@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2378336",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Bull. Herb. Boissier"
+  }, {
+    "@language" : "es",
+    "@value" : "Bull. Herb. Boissier, sér. 2"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Herb. Boissier"
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. Herb. Boissier"
+  }, {
+    "@language" : "es",
+    "@value" : "Bulletin de l'Herbier Boissier, sér. 2"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "49730"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1893"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.biodiversitylibrary.org/item/105922#page/11/mode/1up"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0256-5617"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1908"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0256-5617"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de l'Herbier Boissier"
+  } ]
+} ]

@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725024",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Guangdong nong ye ke xue"
+  }, {
+    "@language" : "zh",
+    "@value" : "Guangdong nongye kexue"
+  }, {
+    "@language" : "en",
+    "@value" : "Guangdong nong ye ke xue"
+  }, {
+    "@language" : "en",
+    "@value" : "Guangdong Nong Ye Ke Xue"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1004-874X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://gdnykx.cnjournals.org/ch/index.aspx"
+  }, {
+    "@id" : "http://gdnykx.cnjournals.org/gdnykxen/ch/index.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1004-874X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764575011"
+  }, {
+    "@value" : "S4306548382"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1004-874X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Guangdong nongye kexue"
+  }, {
+    "@language" : "zh-hans",
+    "@value" : "广东农业科学"
+  }, {
+    "@language" : "en",
+    "@value" : "Guangdong Agricultural Sciences"
+  } ]
+} ]

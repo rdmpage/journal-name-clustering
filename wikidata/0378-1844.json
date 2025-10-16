@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764046",
+  "http://example.com/dialnet" : [ {
+    "@value" : "6113"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.interciencia.org/homei.htm"
+  }, {
+    "@id" : "http://www.redalyc.org/revista.oa?id=339"
+  }, {
+    "@id" : "https://www.interciencia.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0378-1844"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S153378758"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0378-1844"
+  }, {
+    "@value" : "2244-7776"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Interciencia: journal of science and technology of the Americas"
+  }, {
+    "@language" : "mul",
+    "@value" : "Interciencia"
+  } ]
+} ]

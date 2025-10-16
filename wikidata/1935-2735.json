@@ -1,0 +1,56 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3359737",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "PLOS NTDs"
+  }, {
+    "@language" : "fr",
+    "@value" : "PLoS Neglected Tropical Diseases"
+  }, {
+    "@language" : "en",
+    "@value" : "PLOS NTDs"
+  }, {
+    "@language" : "en",
+    "@value" : "Plos Neglect. Trop. Dis."
+  }, {
+    "@language" : "en",
+    "@value" : "Plos Negl. Trop. Dis."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "69595"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1935-2727"
+  }, {
+    "@value" : "1935-2735"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2007"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/21168"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/21169"
+  }, {
+    "@id" : "http://www.plosntds.org/"
+  }, {
+    "@id" : "http://www.plosntds.org/home.action"
+  }, {
+    "@id" : "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=532&action=archive"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1935-2727"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S46544255"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1935-2735"
+  }, {
+    "@value" : "1935-2727"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "PLOS Neglected Tropical Diseases"
+  } ]
+} ]

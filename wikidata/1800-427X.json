@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q29043869",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "ISSN 1800-427X"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1800-427X"
+  }, {
+    "@language" : "de",
+    "@value" : "ISSN 1800-427X"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "119945"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1800-427X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764827249"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1800-427X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Taprobanica"
+  } ]
+} ]

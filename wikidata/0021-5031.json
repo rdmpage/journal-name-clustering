@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27711802",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Japanese Journal of Experimental Medicine"
+  }, {
+    "@language" : "en",
+    "@value" : "Jpn J Exp Med"
+  }, {
+    "@language" : "en",
+    "@value" : "Jpn. J. Exp. Med."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-5031"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2754429296"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0021-5031"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Japanese Journal of Experimental Medicine"
+  }, {
+    "@language" : "en",
+    "@value" : "The Japanese Journal of Experimental Medicine"
+  } ]
+} ]

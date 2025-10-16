@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4689828",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Afr. J. Marine Sci."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "128585"
+  }, {
+    "@value" : "65768"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ajol.info/journal_index.php?jid=230&ab=ajms"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S121195568"
+  }, {
+    "@value" : "S4210217868"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1814-232X"
+  }, {
+    "@value" : "1814-2338"
+  }, {
+    "@value" : "0257-7615"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "African Journal of Marine Science"
+  } ]
+} ]

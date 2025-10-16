@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2032955",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Biophys. J."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Biophys J"
+  }, {
+    "@language" : "en",
+    "@value" : "Biophys J"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "28238"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1960"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-3495"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S98085912"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1542-0086"
+  }, {
+    "@value" : "0006-3495"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biophysical Journal"
+  } ]
+} ]

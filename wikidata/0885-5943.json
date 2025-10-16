@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q65933684",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0885-5943"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://thefsca.org/publications/occasional-papers/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0885-5943"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0885-5943"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Occasional papers of the Florida state collection of arthropods"
+  } ]
+} ]

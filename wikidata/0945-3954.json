@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385271",
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.studia-dipt.de/introe.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0945-3954"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306531016"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "76023BB9-2EB1-4A72-BFC7-4EA05D290857"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0945-3954"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Studia dipterologica"
+  } ]
+} ]

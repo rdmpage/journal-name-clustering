@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27709033",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ann. Microbiol. (Paris)"
+  }, {
+    "@language" : "en",
+    "@value" : "Ann Microbiol (Paris)"
+  }, {
+    "@language" : "en",
+    "@value" : "Ann. microbiol."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7790"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1973"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://gallica.bnf.fr/ark:/12148/cb34374509b/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0300-5410"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2755026127"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1984"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0300-5410"
+  }, {
+    "@value" : "2437-3613"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "[Annales de microbiologie]"
+  }, {
+    "@language" : "fr",
+    "@value" : "Annales de Microbiologie"
+  } ]
+} ]

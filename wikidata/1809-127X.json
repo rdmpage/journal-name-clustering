@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q17989936",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Check List"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Check List: the Journal of Biodiversity Data"
+  }, {
+    "@language" : "de",
+    "@value" : "Check List. The Journal of Biodiversity Data"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "250026"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1809-127X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://biotaxa.org/CL"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1809-127X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "C2777112261"
+  }, {
+    "@value" : "S1038286569"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1809-127X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Check list"
+  }, {
+    "@language" : "en",
+    "@value" : "Check List"
+  } ]
+} ]

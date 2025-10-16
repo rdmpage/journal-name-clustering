@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3429657",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Rhodora. Journal of the New England Botanical Club"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "721"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "61348"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1899"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/721"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=0035-4902"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=0035-4902"
+  }, {
+    "@id" : "http://www.rhodora.org/rhodora/aboutrhodora.html"
+  }, {
+    "@id" : "http://www.rhodorajournal.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0035-4902"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "rhodora"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S161250339"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1938-3401"
+  }, {
+    "@value" : "0035-4902"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Rhodora"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3906287",
+  "http://example.com/crossref" : [ {
+    "@value" : "63715"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1844"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.societabotanicaitaliana.it/"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/tplb20#.VKE7PJCePA"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1126-3504"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S151808461"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1724-5575"
+  }, {
+    "@value" : "1126-3504"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Plant biosystems"
+  }, {
+    "@language" : "en",
+    "@value" : "Plant Biosystems"
+  } ]
+} ]

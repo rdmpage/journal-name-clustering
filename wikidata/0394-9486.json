@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726261",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Riv Micol"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0394-9486"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0394-9486"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Rivista di micologia : bollettino dell'Associazione micologica Bresadola"
+  }, {
+    "@language" : "it",
+    "@value" : "Rivista di micologia dell'Associazione Micologica Bresadola"
+  } ]
+} ]

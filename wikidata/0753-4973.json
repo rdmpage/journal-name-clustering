@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760593",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Alytes: International journal of batrachology"
+  }, {
+    "@language" : "fr",
+    "@value" : "Alytes: international journal of batrachology"
+  }, {
+    "@language" : "fr",
+    "@value" : "Alytes"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "204608"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.biotaxa.org/Alytes/index"
+  }, {
+    "@id" : "https://www.biotaxa.org/Alytes"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0753-4973"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://www.biotaxa.org/Alytes/gateway/plugin/WebFeedGatewayPlugin/atom"
+  }, {
+    "@id" : "https://www.biotaxa.org/Alytes/gateway/plugin/WebFeedGatewayPlugin/rss"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "503BF05B-EECB-484F-A691-5C125B63D697"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0753-4973"
+  }, {
+    "@value" : "2999-9162"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Alytes"
+  }, {
+    "@language" : "en",
+    "@value" : "Alytes"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51398017",
+  "http://example.com/bhl" : [ {
+    "@value" : "121592"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journals.uj.ac.za/index.php/safa/"
+  }, {
+    "@id" : "https://journals.uj.ac.za/index.php/safa/issue/view/235"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1019-5785"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1019-5785"
+  }, {
+    "@value" : "2789-1844"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Southern African field archaeology"
+  } ]
+} ]

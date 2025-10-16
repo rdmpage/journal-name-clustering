@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386166",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Dongwu fenlei xuebao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "DWFL"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2014"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.zootax.com.cn/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2095-6827"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "149728AF-8376-4AE2-A001-0734F28390FC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2095-6827"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zoological Systematics"
+  } ]
+} ]

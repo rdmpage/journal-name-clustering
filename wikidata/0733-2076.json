@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q66132304",
+  "http://example.com/from_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0733-2076"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0733-2076"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of aquariculture & aquatic sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Aquariculture and Aquatic Sciences"
+  } ]
+} ]

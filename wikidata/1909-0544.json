@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50426543",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Revista Mvz Córdoba"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "301424"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1909-0544"
+  }, {
+    "@value" : "0122-0268"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://revistas.unicordoba.edu.co/index.php/revistamvz/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0122-0268"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S119837901"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0122-0268"
+  }, {
+    "@value" : "1909-0544"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista Mvz Córdoba"
+  } ]
+} ]

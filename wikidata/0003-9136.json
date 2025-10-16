@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q80640600",
+  "http://example.com/crossref" : [ {
+    "@value" : "16437"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2099477"
+  }, {
+    "@id" : "http://www.ingentaconnect.com/content/schweiz/afh"
+  }, {
+    "@id" : "https://www.schweizerbart.de/journals/fal"
+  }, {
+    "@id" : "https://www.schweizerbart.de/papers/archiv_hydrobiologie/volumes"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-9136"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S193670139"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0003-9136"
+  }, {
+    "@value" : "2700-1555"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Archiv für Hydrobiologie"
+  }, {
+    "@language" : "de",
+    "@value" : "Archiv für Hydrobiologie"
+  } ]
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386280",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Cambodian journal of natural history"
+  }, {
+    "@language" : "es",
+    "@value" : "Cambodian journal of natural history"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.fauna-flora.org/publications/cambodian-journal-of-natural-history/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2226-969X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2226-969X"
+  }, {
+    "@value" : "2309-5423"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cambodian journal of natural history"
+  } ]
+} ]

@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15737208",
+  "http://example.com/crossref" : [ {
+    "@value" : "326332"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://haw.nsk.hr/publikacija/1393/acta-adriatica"
+  }, {
+    "@id" : "http://jadran.izor.hr/acta/"
+  }, {
+    "@id" : "https://doi.org/10.32582/aa"
+  }, {
+    "@id" : "https://hrcak.srce.hr/Acta%20Adriatica"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-5113"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764458511"
+  }, {
+    "@value" : "S86406033"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1846-0453"
+  }, {
+    "@value" : "0001-5113"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Acta Adriatica"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Adriatica"
+  } ]
+} ]

@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759379",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "魚病研究"
+  }, {
+    "@language" : "en",
+    "@value" : "Gyobyō kenkyū"
+  }, {
+    "@language" : "en",
+    "@value" : "Gyobyo Kenkyu"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "65211"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jsfp/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0388-788X"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jsfp"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S22730210"
+  }, {
+    "@value" : "S4306560440"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0388-788X"
+  }, {
+    "@value" : "1881-7335"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fish Pathology"
+  }, {
+    "@language" : "und",
+    "@value" : "魚病研究"
+  }, {
+    "@language" : "und",
+    "@value" : "Gyobyo Kenkyu"
+  }, {
+    "@language" : "mul",
+    "@value" : "Gyobyō kenkyū"
+  } ]
+} ]

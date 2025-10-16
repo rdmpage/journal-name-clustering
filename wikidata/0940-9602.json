@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q59823",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Ann. Anat."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Anatomischer Anzeiger"
+  }, {
+    "@language" : "en",
+    "@value" : "Annals of Anatomy - Anatomischer Anzeiger"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "50401"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1886"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.elsevier-deutschland.de/artikel/647553"
+  }, {
+    "@id" : "http://www.elsevier.com/wps/find/journaldescription.cws_home/701751/description"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0940-9602"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S9336330"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1618-0402"
+  }, {
+    "@value" : "0940-9602"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of Anatomy"
+  }, {
+    "@language" : "mul",
+    "@value" : "Annals of anatomy"
+  } ]
+} ]

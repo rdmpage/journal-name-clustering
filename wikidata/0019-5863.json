@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842241",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "The Indian Medical Gazette"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0019-5863"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2755782331"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0019-5863"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Indian Medical Gazette"
+  } ]
+} ]

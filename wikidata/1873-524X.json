@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765420",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ocean & Coastal Management"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1433"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/09645691"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/ocean-and-coastal-management"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0964-5691"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S8178725"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0964-5691"
+  }, {
+    "@value" : "1873-524X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ocean & coastal management"
+  } ]
+} ]

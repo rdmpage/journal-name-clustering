@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385832",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mem. Soc. ital. sci. nat. Mus. civ. stor. nat. Milano"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "107322"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1865"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0376-2726"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1871"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0376-2726"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Memorie"
+  }, {
+    "@language" : "it",
+    "@value" : "Memorie della Società italiana di scienze naturali"
+  } ]
+} ]

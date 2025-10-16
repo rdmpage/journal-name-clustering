@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51442777",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Anz. Orn. Gesell. Bayern"
+  }, {
+    "@language" : "en",
+    "@value" : "Anz. Ornithol. Ges. Bayern"
+  }, {
+    "@language" : "en",
+    "@value" : "Anzeiger der Ornithologischen Gesellschaft in Bayern"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "69284"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1919"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0030-5715"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0030-5715"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Anzeiger der Ornithologischen Gesellschaft in Bayern"
+  }, {
+    "@language" : "de",
+    "@value" : "Anzeiger der Ornithologische Gesellschaft in Bayern"
+  } ]
+} ]

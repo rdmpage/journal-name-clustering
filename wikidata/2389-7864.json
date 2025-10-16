@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96708312",
+  "http://example.com/crossref" : [ {
+    "@value" : "300532"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2389-7864"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://revistas.unimagdalena.edu.co/index.php/intropica/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1794-161X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210193592"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2389-7864"
+  }, {
+    "@value" : "1794-161X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Intropica"
+  } ]
+} ]

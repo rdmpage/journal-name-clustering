@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96712441",
+  "http://example.com/crossref" : [ {
+    "@value" : "304291"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.entomologyjournals.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2455-4758"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764655676"
+  }, {
+    "@value" : "S4210183504"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2455-4758"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International journal of entomology research"
+  } ]
+} ]

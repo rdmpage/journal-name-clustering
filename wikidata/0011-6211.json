@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5221061",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Dansk botanisk arkiv"
+  }, {
+    "@language" : "en",
+    "@value" : "Res Botanicae Danicae"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6145"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1913"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0011-6211"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1981"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0011-6211"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "da",
+    "@value" : "Dansk Botanisk Arkiv"
+  }, {
+    "@language" : "la",
+    "@value" : "Res Botanicae Danicae"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96319338",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Environ Syst Decis"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "197305"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/10669"
+  }, {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2708971"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/02511088"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2194-5411"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764812402"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2194-5411"
+  }, {
+    "@value" : "2194-5403"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environment systems & decisions"
+  } ]
+} ]

@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96705973",
+  "http://example.com/crossref" : [ {
+    "@value" : "46158"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://hmr.biomedcentral.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0017-9957"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210181674"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "3057-2274"
+  }, {
+    "@value" : "0017-9957"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Helgoländer Wissenschaftliche Meeresuntersuchungen"
+  } ]
+} ]

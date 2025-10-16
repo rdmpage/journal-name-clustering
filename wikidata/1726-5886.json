@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96330696",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1726-5886"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1726-5886"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "CIESM workshop monographs"
+  } ]
+} ]

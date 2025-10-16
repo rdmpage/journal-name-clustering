@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763638",
+  "http://example.com/crossref" : [ {
+    "@value" : "29417"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.akademiai.com"
+  }, {
+    "@id" : "http://www.akkrt.hu"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0236-6290"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S27908409"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0236-6290"
+  }, {
+    "@value" : "1588-2705"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta veterinaria Hungarica"
+  }, {
+    "@language" : "und",
+    "@value" : "Acta Veterinaria Hungarica"
+  } ]
+} ]

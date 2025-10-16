@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385568",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0373-8981"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-8981"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D837A270-4565-4D75-B5B8-C39372A652C7"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-8981"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Entomologische Abhandlungen"
+  }, {
+    "@language" : "de",
+    "@value" : "Entomologische Abhandlungen"
+  } ]
+} ]

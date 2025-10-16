@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q104098454",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1120-1630"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1120-1630"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Memorie della Accademia delle scienze di Torino: Classe di scienze fisiche matematiche e naturali"
+  }, {
+    "@language" : "it",
+    "@value" : "Memorie della Accademia delle scienze di Torino. Classe di scienze fisiche matematiche e naturali"
+  } ]
+} ]

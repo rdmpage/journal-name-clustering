@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842888",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Biological Research - Thessaloniki"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Biological Research"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "246026"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2241-5793"
+  }, {
+    "@value" : "1790-045X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ejournals.lib.auth.gr/jbiolres/index/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1790-045X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210235839"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2241-5793"
+  }, {
+    "@value" : "1790-045X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Biological Research - Thessaloniki"
+  } ]
+} ]

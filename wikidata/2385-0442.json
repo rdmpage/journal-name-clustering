@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726992",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Natural history sciences : atti della Societa italiana di scienze naturali e del Museo civico di storia naturale in Milano"
+  }, {
+    "@language" : "es",
+    "@value" : "Natural history sciences : atti della Societa italiana di scienze naturali e del Museo civico di storia naturale in Milano"
+  }, {
+    "@language" : "en",
+    "@value" : "Nat Hist Sci"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "259646"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2385-0442"
+  }, {
+    "@value" : "2385-0922"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2014"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sisn.pagepress.org/nhs/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2385-0922"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210234332"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "94C34F4B-978A-43A5-A913-45FB70A3E54A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2385-0922"
+  }, {
+    "@value" : "2385-0442"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Natural History Sciences"
+  } ]
+} ]

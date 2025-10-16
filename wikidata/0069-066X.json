@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722311",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Year book"
+  }, {
+    "@language" : "en",
+    "@value" : "Year B Carnegie Inst Wash"
+  }, {
+    "@language" : "en",
+    "@value" : "Year b. - Carnegie Inst. Wash."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "3936"
+  }, {
+    "@value" : "5002"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1902"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/75087"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/75089"
+  }, {
+    "@id" : "https://carnegiescience.edu/carnegie-institution-year-books-numbers-1-through-99-years-1902-through-2000"
+  }, {
+    "@id" : "https://carnegiescience.edu/yearbooks"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0069-066X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0069-066X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Year book"
+  }, {
+    "@language" : "en",
+    "@value" : "Year book - Carnegie Institution of Washington"
+  } ]
+} ]

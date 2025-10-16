@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7733699",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Festivus"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Festivus"
+  }, {
+    "@language" : "en",
+    "@value" : "The festivus"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "111643"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1969"
+  }, {
+    "@value" : "1970"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sandiegoshellclub.com/PracFestivus.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0738-9388"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210187409"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0738-9388"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Festivus"
+  } ]
+} ]

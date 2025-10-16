@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764272",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "IJAS"
+  }, {
+    "@language" : "en",
+    "@value" : "Italian journal of animal science IJAS Scientific Association of Animal Production"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "95166"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1594-4077"
+  }, {
+    "@value" : "1828-051X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S19154483"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0390-0487"
+  }, {
+    "@value" : "1594-4077"
+  }, {
+    "@value" : "1828-051X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Italian Journal of Animal Science"
+  } ]
+} ]

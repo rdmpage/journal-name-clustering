@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13548546",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Dusenia: Publicatio Periodica de Scientia Naturali"
+  }, {
+    "@language" : "en",
+    "@value" : "Dusenia: Publicatio Periodica de Scientia Naturali"
+  }, {
+    "@language" : "es",
+    "@value" : "Dusenia; Publicatio Periodica de Scientia Naturali"
+  }, {
+    "@language" : "es",
+    "@value" : "Dusenia: Publicatio Periodica de Scientia Naturali"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0418-1867"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "CC25B0B2-E959-4592-88C6-1E49915E8ACE"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0418-1867"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Dusenia"
+  }, {
+    "@language" : "mul",
+    "@value" : "Dusenia"
+  } ]
+} ]

@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719439",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "NOAA Tech. Rep. NMFS"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0892-8908"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0892-8908"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "NOAA Technical Report NMFS"
+  } ]
+} ]

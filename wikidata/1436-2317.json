@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q45179647",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://public.bibliothek.uni-halle.de/index.php/schlechtendalia/index"
+  }, {
+    "@id" : "http://www.botanik.uni-halle.de/herausgaben/schlechtendalia/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1436-2317"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://public.bibliothek.uni-halle.de/schlechtendalia/gateway/plugin/WebFeedGatewayPlugin/atom"
+  }, {
+    "@id" : "https://public.bibliothek.uni-halle.de/schlechtendalia/gateway/plugin/WebFeedGatewayPlugin/rss"
+  }, {
+    "@id" : "https://public.bibliothek.uni-halle.de/schlechtendalia/gateway/plugin/WebFeedGatewayPlugin/rss2"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2195-9889"
+  }, {
+    "@value" : "1436-2317"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Schlechtendalia"
+  }, {
+    "@language" : "de",
+    "@value" : "Schlechtendalia"
+  } ]
+} ]

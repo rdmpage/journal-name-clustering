@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q8074125",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0944-2006"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "30962"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1886"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/zoology/"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/zoology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0944-2006"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S184280249"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1873-2720"
+  }, {
+    "@value" : "0944-2006"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zoology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Zoology"
+  } ]
+} ]

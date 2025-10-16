@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15709984",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Immunogenetics"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "710"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springer.com/biomed/immunology/journal/251"
+  }, {
+    "@id" : "http://www.springerlink.com/content/100517"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0093-7711"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S62103174"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0093-7711"
+  }, {
+    "@value" : "1432-1211"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Immunogenetics"
+  } ]
+} ]

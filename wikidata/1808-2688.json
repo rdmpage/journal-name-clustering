@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q35029594",
+  "http://example.com/crossref" : [ {
+    "@value" : "259206"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "22814"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://cascavel.ufsm.br/revistas/ojs-2.2.2/index.php/balduinia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1808-2688"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210230901"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1808-2688"
+  }, {
+    "@value" : "2358-1980"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Balduinia"
+  }, {
+    "@language" : "pt-br",
+    "@value" : "Balduinia"
+  } ]
+} ]

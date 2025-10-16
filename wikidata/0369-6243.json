@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27716136",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Natura (Milano)"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1909"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0369-6243"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0028-0631"
+  }, {
+    "@value" : "0369-6243"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "NaNatura: rivista di scienze naturali"
+  }, {
+    "@language" : "nl",
+    "@value" : "Natura"
+  } ]
+} ]

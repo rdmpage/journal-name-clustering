@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758544",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Species Diversity: an international journal for taxonomy, systematics, speciation, biogeography, and life historical research of animals"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "210565"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/specdiv/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1342-1670"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "specdiv"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764349645"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1342-1670"
+  }, {
+    "@value" : "2189-7301"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Species Diversity"
+  } ]
+} ]

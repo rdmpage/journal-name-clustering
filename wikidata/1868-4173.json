@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q110837988",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.fschumm.de/archive"
+  }, {
+    "@id" : "http://www.fschumm.de/Archive/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1868-4173"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1868-4173"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Archive for lichenology"
+  }, {
+    "@language" : "en",
+    "@value" : "Archive for lichenology"
+  } ]
+} ]

@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q18417452",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin des Séances / Mededelingen der Zittingen"
+  }, {
+    "@language" : "en",
+    "@value" : "Mededelingen der Zittingen van het Koninklijk Belgisch Koloniaal"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1930"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0367-6935"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1954"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0367-6935"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Bulletijn der Zittingen van het Koninklijk Belgisch Koloniaal Instituut"
+  }, {
+    "@language" : "nl",
+    "@value" : "Mededelingen der Zittingen van het Koninklijk Belgisch Koloniaal Instituut"
+  }, {
+    "@language" : "mul",
+    "@value" : "Bulletin des Séances / Mededelingen der Zittingen"
+  }, {
+    "@language" : "mul",
+    "@value" : "Bulletin des séances de l'Institut royal colonial belge"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin des Séances de l'Institut Royal Colonial Belge"
+  } ]
+} ]

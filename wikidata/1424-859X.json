@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1524623",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Cytogenet. Genome Res."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Cytogenetic and genome research"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "12358"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1962"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://content.karger.com/ProdukteDB/produkte.asp?Aktion=JournalHome&ProduktNr=224037"
+  }, {
+    "@id" : "http://content.karger.com/ProdukteDB/produkte.asp?Aktion=JournalHome&ProduktNr=224037&ContentOnly=false"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1424-8581"
+  }, {
+    "@value" : "1424-859X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S198965713"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1424-8581"
+  }, {
+    "@value" : "1424-859X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cytogenetic and Genome Research"
+  } ]
+} ]

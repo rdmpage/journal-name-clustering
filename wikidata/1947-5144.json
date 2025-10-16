@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764923",
+  "http://example.com/crossref" : [ {
+    "@value" : "104285"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1893"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioone.org/loi/nynt"
+  }, {
+    "@id" : "http://www.bioone.org/loi/nynt.1"
+  }, {
+    "@id" : "http://www.jstor.org/action/showPublication?journalCode=entoamer"
+  }, {
+    "@id" : "http://www.jstor.org/journal/entoamer"
+  }, {
+    "@id" : "http://www.nyentsoc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1947-5136"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "entoamer"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S30808908"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1947-5144"
+  }, {
+    "@value" : "1947-5136"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Entomologica americana"
+  }, {
+    "@language" : "la",
+    "@value" : "Entomologica Americana"
+  } ]
+} ]

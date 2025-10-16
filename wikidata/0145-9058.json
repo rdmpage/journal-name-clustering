@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385763",
+  "http://example.com/bhl" : [ {
+    "@value" : "123679"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "72938"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1976"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=0145-9058"
+  }, {
+    "@id" : "http://www.bioone.org/loi/carb"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=0145-9058"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0145-9058"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S131548018"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0145-9058"
+  }, {
+    "@value" : "2162-4143"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of Carnegie Museum of Natural History"
+  } ]
+} ]

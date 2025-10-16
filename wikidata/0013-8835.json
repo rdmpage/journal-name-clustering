@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385250",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ent. Bl. Col."
+  }, {
+    "@language" : "en",
+    "@value" : "Entomologische Blätter und Coleoptera"
+  }, {
+    "@language" : "ru",
+    "@value" : "Ent. Bl. Col."
+  }, {
+    "@language" : "ru",
+    "@value" : "Entomologische Blätter und Coleoptera"
+  }, {
+    "@language" : "fr",
+    "@value" : "Ent. Bl. Col."
+  }, {
+    "@language" : "fr",
+    "@value" : "Entomologische Blätter und Coleoptera"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.wissenschaftlicherverlag.de/EntomologischeBlaetter/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-8835"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "8F603BCB-82C3-4729-B86F-6752F64B0C7E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0013-8835"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Entomologische Blätter für Biologie und Systematik der Käfer"
+  }, {
+    "@language" : "mul",
+    "@value" : "Entomologische Blätter für Biologie und Systematik der Käfer"
+  } ]
+} ]

@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q58315628",
+  "http://example.com/crossref" : [ {
+    "@value" : "310530"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2017"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://academic.oup.com/isd"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2399-3421"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2735356129"
+  }, {
+    "@value" : "S4210235066"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2399-3421"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Insect Systematics and Diversity"
+  } ]
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q20547773",
+  "http://example.com/dialnet" : [ {
+    "@value" : "19580"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2009"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.aegaweb.com/arquivos_entomoloxicos/"
+  }, {
+    "@id" : "https://www.aegaweb.com/arquivos_entomoloxicos/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1989-6581"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306503112"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "BC49E006-2CA3-4AD1-B510-5B4A3CC40531"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1989-6581"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Arquivos entomolóxicos"
+  } ]
+} ]

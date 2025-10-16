@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386225",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Acta Biol. Paran."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Biol. Par."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "255686"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://revistas.ufpr.br/acta"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0301-2123"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210239470"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "2EE021BA-A9DA-4B78-A6C2-767EB57914EF"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0301-2123"
+  }, {
+    "@value" : "2236-1472"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Biológica Paranaense"
+  }, {
+    "@language" : "mul",
+    "@value" : "Acta Biológica Paranaense"
+  } ]
+} ]

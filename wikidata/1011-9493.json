@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385489",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Korean J. Entomol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Han'gug goncung hag'hoeji"
+  }, {
+    "@language" : "en",
+    "@value" : "Korean J. Entomol."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1011-9493"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210227818"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2003"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D122B870-3488-4623-A6DC-4DE1962A9D04"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1011-9493"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Korean Journal of Entomology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Han'gug goncung hag'hoeji"
+  }, {
+    "@language" : "ko",
+    "@value" : "한국곤충학회지"
+  } ]
+} ]

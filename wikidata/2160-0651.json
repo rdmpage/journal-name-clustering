@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753180",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biodivers. (Nepean)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "135948"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=zfEoAQAAMAAJ"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/43826217.html"
+  }, {
+    "@id" : "http://www.informaworld.com/TBID"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/tbid20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1488-8386"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764633697"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2160-0651"
+  }, {
+    "@value" : "1488-8386"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biodiversity"
+  } ]
+} ]

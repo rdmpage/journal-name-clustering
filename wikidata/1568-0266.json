@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2734725",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Curr. Top. Med. Chem."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Curr Top Med Chem"
+  }, {
+    "@language" : "en",
+    "@value" : "Curr Top Med Chem"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "43094"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.benthamscience.com/ctmc/index.htm"
+  }, {
+    "@id" : "https://benthamscience.com/journals/current-topics-in-medicinal-chemistry/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1568-0266"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S107732428"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1873-4294"
+  }, {
+    "@value" : "1568-0266"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Current Topics in Medicinal Chemistry"
+  } ]
+} ]

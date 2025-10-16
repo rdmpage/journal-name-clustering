@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15715601",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Biocosme Mesogeen"
+  }, {
+    "@language" : "es",
+    "@value" : "Biocosme Mésogéen"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0762-6428"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0762-6428"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Biocosme mesogeen"
+  }, {
+    "@language" : "fr",
+    "@value" : "Biocosme Mésogéen; Revue d'Histoire Naturelle"
+  } ]
+} ]

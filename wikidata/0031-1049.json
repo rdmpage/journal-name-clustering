@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15716698",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Pap. Avulsos Zool."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Pap. Avulsos Zool."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0031-1049"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "45699"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0031-1049"
+  }, {
+    "@value" : "1807-0205"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.br/paz"
+  }, {
+    "@id" : "https://www.revistas.usp.br/paz"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0031-1049"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210200519"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1807-0205"
+  }, {
+    "@value" : "0031-1049"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Papéis Avulsos de Zoologia"
+  } ]
+} ]

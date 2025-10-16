@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107047835",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "The Kansas University Science Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "The Kansas University science bulletin"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "15415"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1902"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0891-1967"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1939"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0891-1967"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Kansas University science bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Kansas University Science Bulletin"
+  } ]
+} ]

@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766643",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Theorie in den Biowissenschaften"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "30618"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://springerlink.com/content/1611-7530"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1431-7613"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S12148721"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1431-7613"
+  }, {
+    "@value" : "1611-7530"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Theory in Biosciences"
+  } ]
+} ]

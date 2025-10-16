@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385576",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1624-1940"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "2068C65E-419B-4663-BD24-768D0AF893C8"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1624-1940"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Les Cahiers Magellanes"
+  } ]
+} ]

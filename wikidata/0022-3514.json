@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1247946",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Personality & Social Psychology"
+  }, {
+    "@language" : "zh",
+    "@value" : "人格与社会心理学"
+  }, {
+    "@language" : "en",
+    "@value" : "JPSP"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "43819"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "20417"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1965"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://content.apa.org/journals/psp"
+  }, {
+    "@id" : "http://www.apa.org/journals/psp.html"
+  }, {
+    "@id" : "http://www.apa.org/pubs/journals/psp/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-3514"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S29984966"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1939-1315"
+  }, {
+    "@value" : "0022-3514"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Personality and Social Psychology"
+  } ]
+} ]

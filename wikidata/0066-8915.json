@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27710213",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "C R Assoc Anat"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://gallica.bnf.fr/ark:/12148/cb343495820/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0066-8915"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306506710"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2419-6649"
+  }, {
+    "@value" : "0066-8915"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Comptes rendus de l'Association des anatomistes"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes rendus de l'Association des anatomistes"
+  } ]
+} ]

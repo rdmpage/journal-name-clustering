@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752546",
+  "http://example.com/crossref" : [ {
+    "@value" : "9596"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1476-072X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=122"
+  }, {
+    "@id" : "https://link.springer.com/journal/12942"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1476-072X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S28612791"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1476-072X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Health Geographics"
+  } ]
+} ]

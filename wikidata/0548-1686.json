@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386198",
+  "http://example.com/from_year" : [ {
+    "@value" : "1954"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0548-1686"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E9391E9B-7D53-4FE5-9FFD-A9E9D1C343FD"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0548-1686"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Neotrópica"
+  } ]
+} ]

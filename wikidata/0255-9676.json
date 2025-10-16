@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5696510",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Annuaire Conserv. Jard. Bot. Genève"
+  }, {
+    "@language" : "en",
+    "@value" : "Annuaire du Conservatoire et du jardin botaniques de Genève"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "52147"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1897"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0255-9676"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1922"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0255-9676"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Annuaire du Conservatoire & du Jardin Botaniques de Genève"
+  }, {
+    "@language" : "fr",
+    "@value" : "Annuaire du Conservatoire et du Jardin botaniques de Genève"
+  }, {
+    "@language" : "fr",
+    "@value" : "Annuaire du Conservatoire et du jardin botaniques de Genève."
+  } ]
+} ]

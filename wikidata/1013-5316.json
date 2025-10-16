@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765866",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sci-int.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1013-5316"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1013-5316"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Science International"
+  } ]
+} ]

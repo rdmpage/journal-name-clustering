@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7314292",
+  "http://example.com/crossref" : [ {
+    "@value" : "5955"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1989"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.publish.csiro.au/nid/44.htm"
+  }, {
+    "@id" : "http://www.publish.csiro.au/rd"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1031-3613"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S199941106"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1031-3613"
+  }, {
+    "@value" : "1448-5990"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Reproduction, Fertility and Development"
+  } ]
+} ]

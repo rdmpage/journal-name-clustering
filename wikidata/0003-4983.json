@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22115494",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0003-4983"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "44478"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4187"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1907"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/1481415.html"
+  }, {
+    "@id" : "http://maney.co.uk/index.php/journals/atm"
+  }, {
+    "@id" : "http://search.ebscohost.com/direct.asp?db=byh&jid=%2257G%22&scope=site"
+  }, {
+    "@id" : "http://texasamcolstattx.library.ingentaconnect.com/content/maney/atmp"
+  }, {
+    "@id" : "https://www.tandfonline.com/loi/ypgh19"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-4983"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S135866459"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2011"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "5F030529-C2EE-443B-B3E9-5EB1C2F4BDE3"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1364-8594"
+  }, {
+    "@value" : "0003-4983"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of Tropical Medicine and Parasitology"
+  } ]
+} ]

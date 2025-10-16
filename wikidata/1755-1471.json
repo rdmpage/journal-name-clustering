@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q762851",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Pigment Cell Melanoma Res."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "72398"
+  }, {
+    "@value" : "3318"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://onlinelibrary.wiley.com/journal/1755148x"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1755-1471"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S179442820"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1755-148X"
+  }, {
+    "@value" : "1755-1471"
+  }, {
+    "@value" : "0893-5785"
+  }, {
+    "@value" : "1600-0749"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Pigment Cell & Melanoma Research"
+  } ]
+} ]

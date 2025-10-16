@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725401",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "AEI"
+  }, {
+    "@language" : "en",
+    "@value" : "Aquac Environ Interact"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "95989"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1869-7534"
+  }, {
+    "@value" : "1869-215X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.int-res.com/journals/aei/aei-home/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1869-215X"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "aquaenviinte"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S131334151"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1869-7534"
+  }, {
+    "@value" : "1869-215X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Aquaculture Environment Interactions"
+  } ]
+} ]

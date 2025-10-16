@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50517044",
+  "http://example.com/crossref" : [ {
+    "@value" : "220885"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1518-0352"
+  }, {
+    "@value" : "2175-5620"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1518-0352"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210175453"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1518-0352"
+  }, {
+    "@value" : "2175-5620"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista Ciências Exatas e Naturais"
+  } ]
+} ]

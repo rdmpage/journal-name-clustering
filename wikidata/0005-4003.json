@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4848410",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0005-4003"
+  }, {
+    "@language" : "es",
+    "@value" : "Baileya (revista)"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1953"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0005-4003"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S103923058"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0005-4003"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Baileya"
+  } ]
+} ]

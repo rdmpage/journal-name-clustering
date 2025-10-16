@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385831",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1123-6787"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1123-6787"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Quaderno di studi e notizie di storia naturale della Romagna"
+  } ]
+} ]

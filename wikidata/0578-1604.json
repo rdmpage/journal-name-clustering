@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q110463797",
+  "http://example.com/from_year" : [ {
+    "@value" : "1924"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0578-1604"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1937"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0578-1604"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Palaeontologia Sinica, Series C"
+  }, {
+    "@language" : "mul",
+    "@value" : "Palaeontologia Sinica. Series C"
+  } ]
+} ]

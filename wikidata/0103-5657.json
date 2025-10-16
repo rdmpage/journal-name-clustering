@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15746552",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0103-5657"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S949876782"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0103-5657"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Ararajuba"
+  }, {
+    "@language" : "und",
+    "@value" : "Ararajuba"
+  } ]
+} ]

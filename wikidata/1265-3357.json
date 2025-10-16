@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2984619",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Coleopteres"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1995"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://gallicaintramuros.bnf.fr/ark:/12148/cb34526008d/date"
+  }, {
+    "@id" : "http://www.coleopteres.fr/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1265-3357"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S58040283"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2540-4822"
+  }, {
+    "@value" : "1265-3357"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Coléoptères"
+  } ]
+} ]

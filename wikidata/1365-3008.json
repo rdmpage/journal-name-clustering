@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765688",
+  "http://example.com/crossref" : [ {
+    "@value" : "3645"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1365-3008"
+  }, {
+    "@value" : "0030-6053"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1904"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=ORX"
+  }, {
+    "@id" : "http://journals.cambridge.org/ORX"
+  }, {
+    "@id" : "http://www.oryxthejournal.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0030-6053"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S173884034"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0030-6053"
+  }, {
+    "@value" : "1365-3008"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Oryx: journal of fauna and flora international"
+  }, {
+    "@language" : "en",
+    "@value" : "Oryx"
+  } ]
+} ]

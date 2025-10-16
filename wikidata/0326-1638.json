@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96696206",
+  "http://example.com/crossref" : [ {
+    "@value" : "358033"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1668-4869"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://revistas.unlp.edu.ar/bacuatica"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0326-1638"
+  }, {
+    "@value" : "1668-4869"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210195996"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0326-1638"
+  }, {
+    "@value" : "1668-4869"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Biología acuática"
+  } ]
+} ]

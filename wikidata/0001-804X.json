@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q58814054",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Adansonia"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "169110"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1961"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-804X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-804X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Adansonia nouvelle série"
+  } ]
+} ]

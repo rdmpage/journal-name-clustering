@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q53952271",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Sci. China Earth Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "Science China. Earth sciences"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57548"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springerlink.com/content/121603"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1869-1897"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S203062545"
+  }, {
+    "@value" : "S4306542117"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1674-7313"
+  }, {
+    "@value" : "1869-1897"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Science China. Earth sciences"
+  } ]
+} ]

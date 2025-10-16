@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329912",
+  "http://example.com/doaj" : [ {
+    "@value" : "1735-3033"
+  }, {
+    "@value" : "1735-3866"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://cjes.guilan.ac.ir/"
+  }, {
+    "@id" : "http://research.guilan.ac.ir/cjes/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1735-3033"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764942333"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1735-3866"
+  }, {
+    "@value" : "1735-3033"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Caspian journal of environmental sciences"
+  } ]
+} ]

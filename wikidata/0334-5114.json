@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749217",
+  "http://example.com/crossref" : [ {
+    "@value" : "89905"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springer.com/life+sciences/microbiology/journal/13199"
+  }, {
+    "@id" : "http://www.springerlink.com/openurl.asp?genre=journal&issn=0334-5114"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0334-5114"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S121779305"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1878-7665"
+  }, {
+    "@value" : "0334-5114"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Symbiosis"
+  }, {
+    "@language" : "und",
+    "@value" : "Symbiosis"
+  } ]
+} ]

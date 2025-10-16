@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5805804",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Orchidee (Hamburg)"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://orchidee.de"
+  }, {
+    "@id" : "https://orchidee.de/e-paper/taxonomische-mitteilungen/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0473-1425"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0473-1425"
+  }, {
+    "@value" : "2366-0643"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Die Orchidee"
+  } ]
+} ]

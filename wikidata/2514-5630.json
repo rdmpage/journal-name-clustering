@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27715973",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Linnean"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.linnean.org/our-publications/the-linnean"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0950-1096"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2514-5630"
+  }, {
+    "@value" : "0950-1096"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Linnean"
+  }, {
+    "@language" : "en",
+    "@value" : "Linnean"
+  } ]
+} ]

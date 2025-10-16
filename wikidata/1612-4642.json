@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758066",
+  "http://example.com/crossref" : [ {
+    "@value" : "24578"
+  }, {
+    "@value" : "54040"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S131684842"
+  }, {
+    "@value" : "S195743144"
+  }, {
+    "@value" : "S4210238192"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0044-2887"
+  }, {
+    "@value" : "1439-0574"
+  }, {
+    "@value" : "1612-4642"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "European Journal of Wildlife Research"
+  } ]
+} ]

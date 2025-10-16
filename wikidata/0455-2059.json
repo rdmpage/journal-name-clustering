@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q63215642",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Lanzhou University(Natural Sciences)"
+  }, {
+    "@language" : "en",
+    "@value" : "Lanzhou Daxue xuebao. Ziran kexueban"
+  }, {
+    "@language" : "zh",
+    "@value" : "Lanzhou Daxue xuebao. Ziran kexueban"
+  }, {
+    "@language" : "zh",
+    "@value" : "兰州大学学报（自然科学版）"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "LDZK"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0455-2059"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0455-2059"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Lanzhou Daxue xuebao. Ziran kexueban"
+  }, {
+    "@language" : "zh-hans",
+    "@value" : "兰州大学学报(自然科学版)"
+  } ]
+} ]

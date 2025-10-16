@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27715102",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "NuM"
+  }, {
+    "@language" : "en",
+    "@value" : "Nat Mus"
+  }, {
+    "@language" : "en",
+    "@value" : "Nat. Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "NuM"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0028-1301"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0028-1301"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Aus Natur und Museum"
+  }, {
+    "@language" : "de",
+    "@value" : "Natur und Museum"
+  }, {
+    "@language" : "de",
+    "@value" : "Natur und Volk"
+  } ]
+} ]

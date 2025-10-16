@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385946",
+  "http://example.com/crossref" : [ {
+    "@value" : "325053"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://investigacion.izt.uam.mx/rehb/index.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0188-8897"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S145577349"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0188-8897"
+  }, {
+    "@value" : "2448-7333"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Hidrobiológica"
+  } ]
+} ]

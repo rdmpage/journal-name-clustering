@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385465",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn"
+  }, {
+    "@language" : "de",
+    "@value" : "Videnskabelige Meddelelser fra den Naturhistoriske Forening i Kjøbenhavn"
+  }, {
+    "@language" : "en",
+    "@value" : "Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn"
+  }, {
+    "@language" : "en",
+    "@value" : "Videnskabelige Meddelelser fra den Naturhistoriske Forening i Kjøbenhavn"
+  }, {
+    "@language" : "es",
+    "@value" : "Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn"
+  }, {
+    "@language" : "es",
+    "@value" : "Videnskabelige Meddelelser fra den Naturhistoriske Forening i Kjøbenhavn"
+  }, {
+    "@language" : "fr",
+    "@value" : "Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn"
+  }, {
+    "@language" : "fr",
+    "@value" : "Videnskabelige Meddelelser fra den Naturhistoriske Forening i Kjøbenhavn"
+  }, {
+    "@language" : "pt",
+    "@value" : "Vidensk. Meddel. Naturhist. Foren. Kjøbenhavn"
+  }, {
+    "@language" : "pt",
+    "@value" : "Videnskabelige Meddelelser fra den Naturhistoriske Forening i Kjøbenhavn"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7547"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1849"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-3874"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1912"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-3874"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "da",
+    "@value" : "Videnskabelige Meddelelser fra Dansk Naturhistoriske Forening i Kjøbenhavn"
+  } ]
+} ]

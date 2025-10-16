@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96325555",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1573-5869"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1573-5869"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nematology monographs and perspectives"
+  } ]
+} ]

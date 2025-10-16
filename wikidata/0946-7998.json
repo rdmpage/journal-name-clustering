@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719438",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Z. Feldherpetol."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0946-7998"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0946-7998"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zeitschrift fur Feldherpetologie"
+  }, {
+    "@language" : "mul",
+    "@value" : "Zeitschrift für Feldherpetologie"
+  } ]
+} ]

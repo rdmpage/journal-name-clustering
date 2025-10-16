@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27709209",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Arquivos do Instituto Biológico"
+  }, {
+    "@language" : "pt",
+    "@value" : "Arq Inst Biol"
+  }, {
+    "@language" : "en",
+    "@value" : "Arq. Inst. Biol. (Sao Paulo)"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Animal, Plant Sanity and Environmental Protection"
+  }, {
+    "@language" : "en",
+    "@value" : "Arq Inst Biol (Sao Paulo)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "219445"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1808-1657"
+  }, {
+    "@value" : "0020-3653"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.scielo.br/j/aib/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0020-3653"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210198305"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0020-3653"
+  }, {
+    "@value" : "1808-1657"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Arquivos do Instituto Biologico"
+  }, {
+    "@language" : "mul",
+    "@value" : "Arquivos do Instituto Biológico"
+  } ]
+} ]

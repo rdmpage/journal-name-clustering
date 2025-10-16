@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q85430134",
+  "http://example.com/crossref" : [ {
+    "@value" : "304430"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://insa.nic.in/UI/journaldetails.aspx?AID=NA=="
+  }, {
+    "@id" : "http://insa.nic.in/UI/Archivesection.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2454-9983"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210183255"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2454-9983"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Indian National Science Academy"
+  } ]
+} ]

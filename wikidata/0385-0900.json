@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726447",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mizunami-shi Kaseki Hakubutsukan kenkyū hōkoku"
+  }, {
+    "@language" : "en",
+    "@value" : "Mizunamishi Kaseki Hakubutsukan Kenkyu Hokoku"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.city.mizunami.lg.jp/docs/2014092922698/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0385-0900"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "bmfm"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0385-0900"
+  }, {
+    "@value" : "2435-0931"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "瑞浪市化石博物館研究報告"
+  } ]
+} ]

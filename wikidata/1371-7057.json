@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385228",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.entomoafricana.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1371-7057"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1371-7057"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Entomologia Africana"
+  }, {
+    "@language" : "fr",
+    "@value" : "Entomologia Africana"
+  } ]
+} ]

@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51421857",
+  "http://example.com/bhl" : [ {
+    "@value" : "15691"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1915"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0701-2098"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1920"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0701-2098"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Entomological Society of Nova Scotia"
+  } ]
+} ]

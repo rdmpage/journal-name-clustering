@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749542",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Adv. Mar. Biol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "50859"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=0r0RAAAAIAAJ"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/bookseries/00652881"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00652881"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0065-2881"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S138025462"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2162-5875"
+  }, {
+    "@value" : "0065-2881"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Advances in Marine Biology"
+  } ]
+} ]

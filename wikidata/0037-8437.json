@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5674325",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "An. Soc. Cient. Argent."
+  }, {
+    "@language" : "fr",
+    "@value" : "Anales de la Sociedad Científica Argentina."
+  }, {
+    "@language" : "de",
+    "@value" : "Anales de la Sociedad Cientifica Argentina"
+  }, {
+    "@language" : "de",
+    "@value" : "Anales Soc. Ci. Argent."
+  }, {
+    "@language" : "en",
+    "@value" : "Sociedad Cientifica Argentina. Anales"
+  }, {
+    "@language" : "en",
+    "@value" : "Anales de la Sociedad Cientifica Argentina"
+  }, {
+    "@language" : "es",
+    "@value" : "Anales de la Sociedad Cientifica Argentina"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "44792"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1876"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0037-8437"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "CE5FE683-A1D9-4B04-A93D-1C9835687259"
+  }, {
+    "@value" : "D805578C-392E-4CF8-AF6A-F50722AB938A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0037-8437"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Anales de la Sociedad Científica Argentina"
+  }, {
+    "@language" : "es",
+    "@value" : "Anales de la Sociedad Científica Argentina"
+  } ]
+} ]

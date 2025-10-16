@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q111384414",
+  "http://example.com/doaj" : [ {
+    "@value" : "2767-3200"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2022"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journals.plos.org/climate/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2767-3200"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4220650797"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2767-3200"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "PLOS Climate"
+  } ]
+} ]

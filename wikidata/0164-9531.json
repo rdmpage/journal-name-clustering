@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760588",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Animal keepers' forum"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "125504"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0164-9531"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0164-9531"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Animal Keepers' Forum"
+  } ]
+} ]

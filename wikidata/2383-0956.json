@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50816873",
+  "http://example.com/doaj" : [ {
+    "@value" : "2322-5270"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.npajournals.com/ijab/index.php/ijab/issue/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2322-5270"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764666526"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2383-0956"
+  }, {
+    "@value" : "2322-5270"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International journal of aquatic biology"
+  } ]
+} ]

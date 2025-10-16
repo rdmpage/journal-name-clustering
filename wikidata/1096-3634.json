@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q14330411",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Seminars in Cell and Developmental Biology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "562"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=1084-9521;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/10849521"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/latest/10849521"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1084-9521"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S105347553"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1084-9521"
+  }, {
+    "@value" : "1096-3634"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Seminars in Cell & Developmental Biology"
+  } ]
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q94991459",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0177-0950"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0177-0950"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Münchner Geowissenschaftliche Abhandlungen. Reihe A, Geologie und Paläontologie"
+  } ]
+} ]

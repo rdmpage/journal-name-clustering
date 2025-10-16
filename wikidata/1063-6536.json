@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113371",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "I E E E Transactions on Control Systems Technology"
+  }, {
+    "@language" : "en",
+    "@value" : "IEEE transactions on control systems technology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5444"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ieeexplore.ieee.org/servlet/opac?punumber=87"
+  }, {
+    "@id" : "http://www.ieeecss.org/publications/tcst"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1063-6536"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S133363738"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1558-0865"
+  }, {
+    "@value" : "1063-6536"
+  }, {
+    "@value" : "2374-0159"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "IEEE transactions on control systems technology"
+  }, {
+    "@language" : "en",
+    "@value" : "IEEE Transactions on Control Systems and Technology"
+  } ]
+} ]

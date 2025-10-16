@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1085159",
+  "http://example.com/crossref" : [ {
+    "@value" : "174"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1988"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4095"
+  }, {
+    "@id" : "http://www.advmat.de"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0935-9648"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S99352657"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0935-9648"
+  }, {
+    "@value" : "1521-4095"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Advanced Materials"
+  } ]
+} ]

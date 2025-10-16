@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q105941557",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Geologica Hungarica, Series Palaeontologica"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1928"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://epa.oszk.hu/html/vgi/kardexlap.phtml?id=2989"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0374-1893"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "91860F7F-5B68-40D3-A580-ECE3573C61B8"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0374-1893"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Geologica Hungarica. Series palaeontologica"
+  } ]
+} ]

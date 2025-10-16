@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26839620",
+  "http://example.com/crossref" : [ {
+    "@value" : "70179"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=1551-5028"
+  }, {
+    "@id" : "http://jrm.library.arizona.edu/"
+  }, {
+    "@id" : "http://saint-denis.library.arizona.edu:4000/cgi-bin/JRMLogon.cgi"
+  }, {
+    "@id" : "http://www.jstor.org/journals/0022409X.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-409X"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jrangemanagement"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S13128014"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2162-2728"
+  }, {
+    "@value" : "0022-409X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of range management"
+  } ]
+} ]

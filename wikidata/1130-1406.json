@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719516",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Revista Iberoamericana de Micologia"
+  }, {
+    "@language" : "en",
+    "@value" : "Rev Iberoam Micol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "85168"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "11869"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.elsevier.es/reviberoammicol"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/revista-iberoamericana-de-micologia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1130-1406"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S178257273"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1130-1406"
+  }, {
+    "@value" : "2173-9188"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista Iberoamericana de Micología"
+  }, {
+    "@language" : "mul",
+    "@value" : "Revista iberoamericana de micología"
+  }, {
+    "@language" : "en",
+    "@value" : "Revista iberoamericana de micologia"
+  } ]
+} ]

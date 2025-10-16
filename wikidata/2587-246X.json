@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50814234",
+  "http://example.com/doaj" : [ {
+    "@value" : "2587-246X"
+  }, {
+    "@value" : "2587-2680"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dergipark.gov.tr/csj"
+  }, {
+    "@id" : "https://dergipark.org.tr/en/pub/csj"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2587-2680"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764835198"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2587-246X"
+  }, {
+    "@value" : "2587-2680"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cumhuriyet science journal"
+  } ]
+} ]

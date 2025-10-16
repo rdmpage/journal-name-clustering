@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3668336",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Veliger"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "66841"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1958"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/66841#/summary"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0042-3211"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S5643274"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B033DC50-2D57-43F4-8C47-6ED03830C9DA"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0042-3211"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Veliger"
+  } ]
+} ]

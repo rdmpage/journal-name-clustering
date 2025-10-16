@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107019564",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Science reports of the Kanazawa University"
+  }, {
+    "@language" : "en",
+    "@value" : "Science reports of the Kanazawa University | Kanazawa Daigaku rika hōkoku"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://scirep.w3.kanazawa-u.ac.jp/"
+  }, {
+    "@id" : "https://kanazawa-u.repo.nii.ac.jp/search?search_type=2&q=943"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-8338"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2433-040X"
+  }, {
+    "@value" : "0022-8338"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Science reports of the Kanazawa University"
+  }, {
+    "@language" : "en",
+    "@value" : "The Science reports of the Kanazawa University"
+  } ]
+} ]

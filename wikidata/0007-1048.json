@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4970200",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Br. J. Haematol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3603"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1955"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291365-2141"
+  }, {
+    "@id" : "http://www.blacksci.co.uk/%7Ecgilib/jnlpage.bin?Journal=bjh&File=bjh&Page=aims"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0007-1048"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S153015021"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0007-1048"
+  }, {
+    "@value" : "1365-2141"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "British Journal of Haematology"
+  } ]
+} ]

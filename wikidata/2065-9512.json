@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725028",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Stud Univ Babes Bolyai Biol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "308199"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://studia.reviste.ubbcluj.ro/index.php/subbbiologia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1221-8103"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210211569"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2065-9512"
+  }, {
+    "@value" : "1221-8103"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Studia Universitatis Babeş-Bolyai. Biologia"
+  }, {
+    "@language" : "en",
+    "@value" : "Studia Universitatis Babes-Bolyai. Biologia"
+  } ]
+} ]

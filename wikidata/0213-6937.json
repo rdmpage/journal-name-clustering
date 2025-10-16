@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27715006",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Rev Esp Paleontol"
+  }, {
+    "@language" : "es",
+    "@value" : "REP"
+  }, {
+    "@language" : "es",
+    "@value" : "Rev. Esp. Paleontol."
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "3377"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://dialnet.unirioja.es/servlet/revista?codigo=3377"
+  }, {
+    "@id" : "https://sepaleontologia.es/archives-rep/"
+  }, {
+    "@id" : "http://sepaleontologia.es/numeros-anteriores-2/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0213-6937"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306527313"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2660-9835"
+  }, {
+    "@value" : "0213-6937"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista española de paleontología"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista española de paleontología"
+  } ]
+} ]

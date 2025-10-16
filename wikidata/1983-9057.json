@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96697161",
+  "http://example.com/crossref" : [ {
+    "@value" : "226869"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1808-7035"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764487953"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1983-9057"
+  }, {
+    "@value" : "1808-7035"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Brazilian Journal of Aquatic Science and Technology"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760584",
+  "http://example.com/crossref" : [ {
+    "@value" : "26019"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.aquaticmammalsjournal.org/"
+  }, {
+    "@id" : "http://www.ingentaconnect.com/content/eaam/am"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0167-5427"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S60060263"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0167-5427"
+  }, {
+    "@value" : "1996-7292"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Aquatic Mammals"
+  }, {
+    "@language" : "mul",
+    "@value" : "Aquatic mammals"
+  } ]
+} ]

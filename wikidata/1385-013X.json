@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3046455",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Earth Planet. Sci. Lett."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "《地球與行星科學快報》"
+  }, {
+    "@language" : "en",
+    "@value" : "EPSL"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1652"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1966"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.elsevier.com/wps/find/journaldescription.cws_home/503328/description"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/0012821X"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0012-821X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S119230507"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0012-821X"
+  }, {
+    "@value" : "1385-013X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Earth and Planetary Science Letters"
+  } ]
+} ]

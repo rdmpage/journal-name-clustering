@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385979",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zoologische Jahrbücher, Abteilung für Systematik, Ökologie und Geographie der Tiere"
+  }, {
+    "@language" : "en",
+    "@value" : "Zoologische Jahrbucher. Abteilung fur Systematik, Okologie und Geographie der Tiere"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1926"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0044-5193"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210193462"
+  }, {
+    "@value" : "S4306536272"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1995"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "318AA1CE-3E85-454A-BFD6-C923E6EE25DC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0044-5193"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Zoologische Jahrbücher. Abteilung für Systematik, Ökologie und Geographie der Tiere"
+  }, {
+    "@language" : "de",
+    "@value" : "Zoologische Jahrbücher, Abteilung für Systematik, Ökologie und Geographie der Tiere"
+  } ]
+} ]

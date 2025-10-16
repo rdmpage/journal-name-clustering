@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q91424083",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Notas del Museo de La Plata. Zoología"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0372-4549"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1935"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0372-4549"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E3A21ED5-B0E5-43E9-B653-728ED81608E5"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0372-4549"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Notas del Museo de La Plata Zoología"
+  }, {
+    "@language" : "es",
+    "@value" : "Notas del Museo de la Plata. Zoología"
+  } ]
+} ]

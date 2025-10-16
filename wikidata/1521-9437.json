@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767450",
+  "http://example.com/crossref" : [ {
+    "@value" : "29659"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=qVdQAAAAYAAJ"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/39977461.html"
+  }, {
+    "@id" : "http://search.epnet.com/direct.asp?db=aph&jid=%22LD5%22&scope=site"
+  }, {
+    "@id" : "http://www.begellhouse.com/journals/708ae68d64b17c52.html"
+  }, {
+    "@id" : "http://www.begellhouse.com/journals/medicinal-mushrooms.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1940-4344"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S79925788"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1940-4344"
+  }, {
+    "@value" : "1521-9437"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Medicinal Mushrooms"
+  } ]
+} ]

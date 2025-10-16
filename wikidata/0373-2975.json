@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5395155",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bossiera"
+  }, {
+    "@language" : "en",
+    "@value" : "Memoires du Conservatoire de Botanique et de l'Institut de Botanique Systématique de l'Université de Genève"
+  }, {
+    "@language" : "en",
+    "@value" : "Boissiera: mémoires de botanique systématique"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "20106"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1936"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.e-periodica.ch/digbib/volumes?UID=boi-001"
+  }, {
+    "@id" : "https://www.ville-ge.ch/cjb/publications_boissiera.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-2975"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-2975"
+  }, {
+    "@value" : "2674-0230"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Boissiera"
+  } ]
+} ]

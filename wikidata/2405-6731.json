@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727553",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Parasite Epidemiology and Control"
+  }, {
+    "@language" : "en",
+    "@value" : "Parasite Epidemiol Control"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297538"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2405-6731"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/24056731"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/parasite-epidemiology-and-control"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2405-6731"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2898382742"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2405-6731"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Parasite epidemiology and control"
+  } ]
+} ]

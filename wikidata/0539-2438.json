@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386193",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Investigaciones Zoologicas Chilenas"
+  }, {
+    "@language" : "es",
+    "@value" : "Investigaciones Zoologicas Chilenas"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0539-2438"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "264F54B4-3D05-4801-89DE-7F34F649D515"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0539-2438"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Investigaciones Zoologicas Chilenas"
+  } ]
+} ]

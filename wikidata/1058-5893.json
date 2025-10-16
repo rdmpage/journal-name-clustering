@@ -1,0 +1,60 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2070198",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Int. J. Pl. Sci."
+  }, {
+    "@language" : "es",
+    "@value" : "Botanical Gazette"
+  }, {
+    "@language" : "es",
+    "@value" : "Bot. Gaz."
+  }, {
+    "@language" : "en",
+    "@value" : "Int. J. Pl. Sci."
+  }, {
+    "@language" : "es",
+    "@value" : "Int. J. Plant Sci."
+  }, {
+    "@language" : "es",
+    "@value" : "Botanical Bulletin"
+  }, {
+    "@language" : "de",
+    "@value" : "Int. J. Pl. Sci."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4892"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1875"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.uchicago.edu/IJPS"
+  }, {
+    "@id" : "http://www.journals.uchicago.edu/IJPS/journal/index.html"
+  }, {
+    "@id" : "http://www.journals.uchicago.edu/loi/ijps"
+  }, {
+    "@id" : "http://www.jstor.org/journals/10585893.html"
+  }, {
+    "@id" : "https://www.jstor.org/journal/intejplanscie"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1058-5893"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "intejplanscie"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S85490461"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1058-5893"
+  }, {
+    "@value" : "1537-5315"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Plant Sciences"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q8039162",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Wulfenia"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://landesmuseum.ktn.gv.at/wulfenia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1561-882X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S82240309"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2022"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1561-882X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Wulfenia"
+  }, {
+    "@language" : "de",
+    "@value" : "Wulfenia"
+  } ]
+} ]

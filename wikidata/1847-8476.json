@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15777540",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Acta Bot. Croat."
+  }, {
+    "@language" : "es",
+    "@value" : "Acta Bot. Croat."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "375077"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0365-0588"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://haw.nsk.hr/arhiva/vol3/3675/32524/image-thumb.jpg"
+  }, {
+    "@id" : "http://haw.nsk.hr/publikacija/3675/acta-botanica-croatica"
+  }, {
+    "@id" : "http://hrcak.srce.hr/acta-botanica-croatica"
+  }, {
+    "@id" : "http://www.abc.botanic.hr/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0365-0588"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S137443597"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0365-0588"
+  }, {
+    "@value" : "1847-8476"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Botanica Croatica"
+  }, {
+    "@language" : "hr",
+    "@value" : "Acta botanica Croatica"
+  } ]
+} ]

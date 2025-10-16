@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5704294",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ark. Bot."
+  }, {
+    "@language" : "en",
+    "@value" : "Arkiv för botanik."
+  }, {
+    "@language" : "de",
+    "@value" : "Ark. Bot."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "40761"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1903"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0376-1649"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "sv",
+    "@value" : "Arkiv för Botanik"
+  } ]
+} ]

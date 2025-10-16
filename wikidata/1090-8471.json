@@ -1,0 +1,64 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751131",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The International journal of human factors in manufacturing"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "62"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-7111"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/72298"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1045-2699"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1520-6564"
+  }, {
+    "@value" : "1522-7111"
+  }, {
+    "@value" : "1045-2699"
+  }, {
+    "@value" : "1090-8471"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The International journal of human factors in manufacturing"
+  }, {
+    "@language" : "en",
+    "@value" : "Human Factors and Ergonomics in Manufacturing"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q24031403",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Human factors and ergonomics in manufacturing"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/38903"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/15206564"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1090-8471"
+  }, {
+    "@value" : "2157-4650"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S45498333"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1520-6564"
+  }, {
+    "@value" : "2157-4650"
+  }, {
+    "@value" : "1090-8471"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Human factors and ergonomics in manufacturing"
+  } ]
+} ]

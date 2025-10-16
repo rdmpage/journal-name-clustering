@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5746292",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Can J Bot"
+  }, {
+    "@language" : "en",
+    "@value" : "Botany"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "71519"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://epe.lac-bac.gc.ca/101/201/301/cdn%5Fjrn%5Fbotany/index.html"
+  }, {
+    "@id" : "http://www.nrc.ca/cgi-bin/cisti/journals/rp/rp2%5Fdesc%5Fe?cjb"
+  }, {
+    "@id" : "http://www.nrc.ca/cgi-bin/cisti/journals/rp/rp2%5Fdesc%5Ff?cjb"
+  }, {
+    "@id" : "http://www.uoguelph.ca/~canjbot/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0008-4026"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210188060"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0008-4026"
+  }, {
+    "@value" : "1480-3305"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Canadian journal of botany"
+  }, {
+    "@language" : "en",
+    "@value" : "Canadian Journal of Botany"
+  } ]
+} ]

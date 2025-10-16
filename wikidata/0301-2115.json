@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755730",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "European Journal of Obstetrics & Gynecology and Reproductive Biology"
+  }, {
+    "@language" : "en",
+    "@value" : "European journal of obstetrics, gynecology, and reproductive biology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1134"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.ejog.org/"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/european-journal-of-obstetrics-and-gynecology-and-reproductive-biology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0301-2115"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S17762386"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1872-7654"
+  }, {
+    "@value" : "0301-2115"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "European Journal of Obstetrics Gynecology and Reproductive Biology"
+  }, {
+    "@language" : "en",
+    "@value" : "European journal of obstetrics, gynecology, and reproductive biology"
+  } ]
+} ]

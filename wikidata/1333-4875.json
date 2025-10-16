@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757008",
+  "http://example.com/crossref" : [ {
+    "@value" : "117425"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1330-030X"
+  }, {
+    "@value" : "1333-4875"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dx.doi.org/10.4154/GC."
+  }, {
+    "@id" : "http://haw.nsk.hr/publikacija/91/geologia-croatica-online"
+  }, {
+    "@id" : "http://hrcak.srce.hr/geologia-croatica"
+  }, {
+    "@id" : "http://www.geologia-croatica.hr/ojs/index.php/GC"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1330-030X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S175615688"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1333-4875"
+  }, {
+    "@value" : "1330-030X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Geologia Croatica"
+  }, {
+    "@language" : "und",
+    "@value" : "Geologia Croatica"
+  } ]
+} ]

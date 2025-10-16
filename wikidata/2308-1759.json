@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763053",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of Agriculture"
+  }, {
+    "@language" : "fr",
+    "@value" : "The Journal of Agriculture"
+  }, {
+    "@language" : "es",
+    "@value" : "The Journal of Agriculture"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "391139"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=DN5gAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=n_dgAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=S-JgAAAAMAAJ"
+  }, {
+    "@id" : "https://revistas.upr.edu/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0041-994X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S111170424"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2308-1759"
+  }, {
+    "@value" : "0041-994X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of Agriculture of the University of Puerto Rico"
+  } ]
+} ]

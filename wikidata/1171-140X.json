@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385882",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1171-140X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1171-140X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cookia"
+  } ]
+} ]

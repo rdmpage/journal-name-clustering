@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385653",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Formos. Entomol."
+  }, {
+    "@language" : "en",
+    "@value" : "Formosan entomologist"
+  }, {
+    "@language" : "en",
+    "@value" : "Taiwan Kun Chong"
+  }, {
+    "@language" : "es",
+    "@value" : "Formosan entomologist"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://entsocjournal.yabee.com.tw/EnglishList.aspx"
+  }, {
+    "@id" : "http://entsocjournal.yabee.com.tw/index.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1680-7650"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "75D8BF58-0996-4145-B8B5-D9AF334FC8E2"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2414-1194"
+  }, {
+    "@value" : "1680-7650"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh-tw",
+    "@value" : "台灣昆蟲"
+  } ]
+} ]

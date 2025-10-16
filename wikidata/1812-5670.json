@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766586",
+  "http://example.com/crossref" : [ {
+    "@value" : "83245"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ansinet.org/je"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1812-5670"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S32891969"
+  }, {
+    "@value" : "S4210171777"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1812-5689"
+  }, {
+    "@value" : "1812-5670"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Entomology"
+  } ]
+} ]

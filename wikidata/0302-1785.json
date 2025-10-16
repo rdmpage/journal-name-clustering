@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51430831",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Science progress in the twentieth century"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "17642"
+  }, {
+    "@value" : "2135"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1906"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/journal/scieprogtwencent"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0302-1785"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1916"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2059-9897"
+  }, {
+    "@value" : "2059-9870"
+  }, {
+    "@value" : "0302-1785"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Science progress in the twentieth century"
+  }, {
+    "@language" : "en",
+    "@value" : "Science progress in the twentieth century : a quarterly journal of scientific work & thought"
+  }, {
+    "@language" : "ar",
+    "@value" : "العلم في القرن العشرين"
+  }, {
+    "@language" : "ar",
+    "@value" : "العلم في القرن ال عشرين"
+  }, {
+    "@language" : "ar",
+    "@value" : "العلم في القرن ال عشرين العلم في القرن ال عشرين"
+  } ]
+} ]

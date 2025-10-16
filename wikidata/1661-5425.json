@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753064",
+  "http://example.com/crossref" : [ {
+    "@value" : "60070"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://content.karger.com/ProdukteDB/produkte.asp?issn=1661-5433"
+  }, {
+    "@id" : "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:ch:bel-101866"
+  }, {
+    "@id" : "https://www.karger.com/Journal/Home/231547"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1661-5425"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S99309566"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1661-5425"
+  }, {
+    "@value" : "1661-5433"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Sexual Development"
+  } ]
+} ]

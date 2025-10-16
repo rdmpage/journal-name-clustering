@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15817736",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "基因组生物学与演化"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "84425"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1759-6653"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2009"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://academic.oup.com/gbe"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1759-6653"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S10195028"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1759-6653"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Genome Biology and Evolution"
+  } ]
+} ]

@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108435457",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bfw.ac.at/db/Bibliothek_Publikationen.bestellung"
+  }, {
+    "@id" : "http://www.bfw.ac.at/webshop/index.php?id_category=12&controller=category&p=2"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1815-5103"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1815-5111"
+  }, {
+    "@value" : "1815-5103"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Forstschutz Aktuell"
+  } ]
+} ]

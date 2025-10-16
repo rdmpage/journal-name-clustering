@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96724420",
+  "http://example.com/crossref" : [ {
+    "@value" : "103448"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://revista.iec.pa.gov.br/"
+  }, {
+    "@id" : "http://scielo.iec.pa.gov.br/scielo.php?script=sci_serial&pid=2176-6223&lng=pt&nrm=iso"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2176-6215"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210188785"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2176-6223"
+  }, {
+    "@value" : "2176-6215"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista Pan-Amazônica de Saúde"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q96724424",
+  "http://example.com/crossref" : [ {
+    "@value" : "328248"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://revista.iec.pa.gov.br/"
+  }, {
+    "@id" : "http://scielo.iec.pa.gov.br/scielo.php?script=sci_serial&pid=2176-6223&lng=pt&nrm=iso"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2176-6215"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210188785"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2176-6215"
+  }, {
+    "@value" : "2176-6223"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista Pan-Amazônica de Saúde"
+  } ]
+} ]

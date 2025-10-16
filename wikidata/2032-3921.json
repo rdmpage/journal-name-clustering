@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4723153",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Pl. Ecol. Evol."
+  }, {
+    "@language" : "fr",
+    "@value" : "Pl. Ecol. Evol."
+  }, {
+    "@language" : "en",
+    "@value" : "Pl. Ecol. Evol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "98885"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2032-3921"
+  }, {
+    "@value" : "2032-3913"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://plecevo.eu/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2032-3913"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "planecolevol"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S6403244"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2032-3913"
+  }, {
+    "@value" : "2032-3921"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Plant Ecology and Evolution"
+  }, {
+    "@language" : "mul",
+    "@value" : "Plant Ecology and Evolution"
+  } ]
+} ]

@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q217730",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Lethaia: An International Journal of Palaeontology and Stratigraphy"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4405"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1968"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=0024-1164;screen=info;ECOIP"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291502-3931"
+  }, {
+    "@id" : "http://www.informaworld.com/1502-3931"
+  }, {
+    "@id" : "https://www.idunn.no/journal/let"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0024-1164"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S162783176"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0024-1164"
+  }, {
+    "@value" : "1502-3931"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Lethaia"
+  } ]
+} ]

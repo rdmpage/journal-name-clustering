@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q54355566",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://revistas.unicauca.edu.co/index.php/novedades"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2145-5236"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210174100"
+  }, {
+    "@value" : "S4210211571"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2145-5236"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista Novedades Colombianas"
+  } ]
+} ]

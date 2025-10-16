@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15716414",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Misc. Malac."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.mollus.nl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1573-9953"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S159140471"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "172400EA-7C44-4310-9EF5-F69D43F26A32"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1573-9953"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Miscellanea Malacologica"
+  }, {
+    "@language" : "en",
+    "@value" : "Miscellanea malacologica"
+  } ]
+} ]

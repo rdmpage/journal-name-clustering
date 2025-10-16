@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385950",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Ocean Sci. Found."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/24155"
+  }, {
+    "@id" : "http://search.ebscohost.com/direct.asp?db=a9h&jid=K32K"
+  }, {
+    "@id" : "http://www.oceansciencefoundation.org/josf.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1937-7835"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A405AFB3-ED9E-4729-8E82-ACB30BD408C3"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1937-7835"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Ocean Science Foundation"
+  } ]
+} ]

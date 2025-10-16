@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753253",
+  "http://example.com/crossref" : [ {
+    "@value" : "3680"
+  }, {
+    "@value" : "72345"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2008"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/%28issn%291865-1682"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S91749377"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1124-5352"
+  }, {
+    "@value" : "1439-0442"
+  }, {
+    "@value" : "1865-1674"
+  }, {
+    "@value" : "1865-1682"
+  }, {
+    "@value" : "0931-184X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transboundary and Emerging Diseases"
+  } ]
+} ]

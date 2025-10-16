@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6295160",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Env. Biol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "304894"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1980"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0254-8704"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S133027048"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0254-8704"
+  }, {
+    "@value" : "2394-0379"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Environmental Biology"
+  } ]
+} ]

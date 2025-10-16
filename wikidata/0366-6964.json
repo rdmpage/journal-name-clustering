@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714578",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Veterinaria et Zootechnica Sinica"
+  }, {
+    "@language" : "zh",
+    "@value" : "Xumu shouyi xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Xu Mu Shou Yi Xue Bao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "XMSY"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.xmsyxb.com/CN/0366-6964/home.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-6964"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764778728"
+  }, {
+    "@value" : "S4306535201"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0366-6964"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Xumu shouyi xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "畜牧兽医学报"
+  }, {
+    "@language" : "en",
+    "@value" : "Xu mu shou yi xue bao = Acta veterinaria et zootechnica Sinica"
+  } ]
+} ]

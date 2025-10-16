@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50810668",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of basic & applied zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "JOBAZ"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "186985"
+  }, {
+    "@value" : "308974"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2090-9896"
+  }, {
+    "@value" : "2090-990X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2718645"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/20909896"
+  }, {
+    "@id" : "https://link.springer.com/journal/41936"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2090-990X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764605959"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2090-990X"
+  }, {
+    "@value" : "2090-9896"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of basic & applied zoology"
+  } ]
+} ]

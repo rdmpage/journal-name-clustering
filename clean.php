@@ -22,10 +22,10 @@ function removeCommonWords($input){
  	// EEEEEEK Stop words
 	$commonWords = array(
 	 // en
-	'and', 'from', 'in', 'of', 'on', 'the',
+	'and', 'at', 'from', 'in', 'of', 'on', 'the',
 	
     //de
-    'aus', 'dem', 'der','des', 'die', 'fur', 'und', 'zu', 'zur',
+    'aus', 'dem', 'der', 'das', 'des', 'die', 'fur', 'und', 'zu', 'zur',
     
     // fr
     'de','du', 'et', 'la',
@@ -40,7 +40,7 @@ function removeCommonWords($input){
     'van',
     
     // pt
-    'da','e',
+    'da','do', 'e',
     
 	 // other
 	 'v',

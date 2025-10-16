@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5660063",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bgci.org/garden.php?id=828&ftrcountry=pt&ftrkeyword=&ftrbgcimem=&ftriareg="
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0002-1911"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0002-1911"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Agronomia Lusitana"
+  }, {
+    "@language" : "mul",
+    "@value" : "Agronomia lusitana"
+  } ]
+} ]

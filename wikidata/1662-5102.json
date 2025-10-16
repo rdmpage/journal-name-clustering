@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2131509",
+  "http://example.com/crossref" : [ {
+    "@value" : "74880"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1662-5102"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.frontiersin.org/cellular_neuroscience"
+  }, {
+    "@id" : "https://www.frontiersin.org/journals/cellular-neuroscience#articles"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1662-5102"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S36653316"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1662-5102"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Frontiers in Cellular Neuroscience"
+  } ]
+} ]

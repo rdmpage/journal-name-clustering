@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385777",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs on Entomology International"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1995"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.mapress.com/AP/memoirs.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1083-6284"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1083-6284"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs on entomology, international"
+  } ]
+} ]

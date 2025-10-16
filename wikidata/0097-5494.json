@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51450935",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin - Alabama Agricultural Experiment Station of the Agricultural and Mechanical College, Auburn"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "4943"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1888"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.aaes.auburn.edu/comm/pubs/pubs-by-type/bulletinlist.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0097-5494"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1903"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0097-5494"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin : report of Agricultural Experiment Station, Agricultural and Mechanical College, Auburn, Ala"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin - Alabama Agricultural Experiment Station of the Agricultural and Mechanical College, Auburn"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765850",
+  "http://example.com/crossref" : [ {
+    "@value" : "3009"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dx.doi.org/10.1007/10577.1573-6849"
+  }, {
+    "@id" : "https://link.springer.com/journal/10577"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0967-3849"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S141144868"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1573-6849"
+  }, {
+    "@value" : "0967-3849"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Chromosome research"
+  }, {
+    "@language" : "en",
+    "@value" : "Chromosome Research: the international journal for all aspects of chromosome and nuclear biology"
+  } ]
+} ]

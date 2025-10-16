@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27717404",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1226-9999"
+  }, {
+    "@language" : "en",
+    "@value" : "Han'gug hwan'gyeong saengmul haghoeji"
+  }, {
+    "@language" : "en",
+    "@value" : "Hangug hwangyeong saengmul haghoeji"
+  }, {
+    "@language" : "en",
+    "@value" : "Hangug Hwangyeong Saengmul Haghoeji"
+  }, {
+    "@language" : "en",
+    "@value" : "Korean J. Environ. Biol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "202945"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ebr.or.kr/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1226-9999"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210171154"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2287-7851"
+  }, {
+    "@value" : "1226-9999"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Han'gug hwan'gyeong saengmul haghoeji"
+  }, {
+    "@language" : "ko",
+    "@value" : "한국환경생물학회지"
+  } ]
+} ]

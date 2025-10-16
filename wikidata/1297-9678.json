@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15783770",
+  "http://example.com/crossref" : [ {
+    "@value" : "15936"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/volumesAndIssues/13592"
+  }, {
+    "@id" : "https://www.apidologie.org/"
+  }, {
+    "@id" : "https://www.springer.com/journal/13592"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0044-8435"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S126796143"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "601A2C30-A7FB-4528-977B-92F45079AC26"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1297-9678"
+  }, {
+    "@value" : "0044-8435"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Apidologie"
+  }, {
+    "@language" : "de",
+    "@value" : "Apidologie"
+  } ]
+} ]

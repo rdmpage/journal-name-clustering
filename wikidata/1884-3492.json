@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113475430",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://shizuoka.repo.nii.ac.jp/search?search_type=2&q=586"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1884-3492"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1884-3492"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Shizuoka Daigaku Kyouiku Gakubu kenkyuu houkoku. Jimbun, shakai, shizen kagaku hen"
+  } ]
+} ]

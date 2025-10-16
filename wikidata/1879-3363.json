@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752858",
+  "http://example.com/crossref" : [ {
+    "@value" : "1818"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://resolvemarine.com/services-capabilities/drills-training-certification"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0025-326X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S101229256"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1879-3363"
+  }, {
+    "@value" : "0025-326X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Marine pollution bulletin"
+  }, {
+    "@language" : "und",
+    "@value" : "Marine Pollution Bulletin"
+  } ]
+} ]

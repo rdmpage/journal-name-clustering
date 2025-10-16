@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767218",
+  "http://example.com/crossref" : [ {
+    "@value" : "15338"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1477-7827"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.pubmedcentral.nih.gov/tocrender.fcgi?journal=141"
+  }, {
+    "@id" : "http://www.rbej.com/"
+  }, {
+    "@id" : "https://link.springer.com/journal/12958"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1477-7827"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S140121985"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1477-7827"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Reproductive Biology and Endocrinology"
+  } ]
+} ]

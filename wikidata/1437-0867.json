@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723937",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Angew Carabidol"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.eurocarabidae.de/gac/index.php/zeitschriften"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1437-0867"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2190-7862"
+  }, {
+    "@value" : "1437-0867"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Angewandte Carabidologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Angewandte Carabidologie"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51494315",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The India Rubber World"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7381"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1899"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0096-5790"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1954"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0096-5790"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "India rubber world"
+  } ]
+} ]

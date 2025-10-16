@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q71385081",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=5tqUiHVx5XAC"
+  }, {
+    "@id" : "http://books.google.com/books?id=g_cmlyHyml4C"
+  }, {
+    "@id" : "http://books.google.com/books?id=k_olaULbvV4C"
+  }, {
+    "@id" : "http://books.google.com/books?id=rq0gAQAAMAAJ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0009-3491"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "3066-7992"
+  }, {
+    "@value" : "0009-3491"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Chicago Academy of Sciences"
+  } ]
+} ]

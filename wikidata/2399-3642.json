@@ -1,0 +1,59 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q60029756",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Commun. Biol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Commun. Biol."
+  }, {
+    "@language" : "fr",
+    "@value" : "2399-3642"
+  }, {
+    "@language" : "en",
+    "@value" : "2399-3642"
+  }, {
+    "@language" : "de",
+    "@value" : "2399-3642"
+  }, {
+    "@language" : "es",
+    "@value" : "2399-3642"
+  }, {
+    "@language" : "en",
+    "@value" : "Commun. Biol."
+  }, {
+    "@language" : "fr",
+    "@value" : "Commun. Biol."
+  }, {
+    "@language" : "ja",
+    "@value" : "コミュニケーションズ・バイオロジー"
+  }, {
+    "@language" : "es",
+    "@value" : "Commun. Biol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "312177"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2399-3642"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2018"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.nature.com/commsbio/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2399-3642"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210225776"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2399-3642"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Communications Biology"
+  } ]
+} ]

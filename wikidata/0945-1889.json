@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385266",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Schwanfelder coleopterologische Mitteilungen"
+  }, {
+    "@language" : "en",
+    "@value" : "Coleoptera: Schwanfelder coleopterologische Mitteilungen"
+  }, {
+    "@language" : "en",
+    "@value" : "Coleoptera: Schwanfelder Coleopterologische Mitteilungen"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0945-1889"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2011"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "83EE4518-101D-4D97-8137-DB9965094C61"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0945-1889"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Coleoptera"
+  }, {
+    "@language" : "mul",
+    "@value" : "Coleoptera"
+  } ]
+} ]

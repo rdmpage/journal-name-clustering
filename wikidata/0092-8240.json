@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2720088",
+  "http://example.com/crossref" : [ {
+    "@value" : "683"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=0092-8240"
+  }, {
+    "@id" : "http://link.springer.com/journal/11538"
+  }, {
+    "@id" : "http://www.springerlink.com/openurl.asp?genre=journal&issn=0092-8240"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://www.elsevier.com/homepage/elecserv.htt"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0092-8240"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S118940690"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0092-8240"
+  }, {
+    "@value" : "1522-9602"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of Mathematical Biology"
+  } ]
+} ]

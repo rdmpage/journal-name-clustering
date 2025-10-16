@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385551",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.senckenberg.de/de/wissenschaft/publikationen/wissenschaftliche-zeitschriften/peckiana/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1618-1735"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2511-1000"
+  }, {
+    "@value" : "1618-1735"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Peckiana"
+  } ]
+} ]

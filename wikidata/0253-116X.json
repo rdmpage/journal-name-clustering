@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q18419731",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Linzer Biol. Beitr."
+  }, {
+    "@language" : "en",
+    "@value" : "Linzer Biologische Beitraege"
+  }, {
+    "@language" : "de",
+    "@value" : "Linzer Biol. Beitr."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1975"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0253-116X"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "834C7724-022E-474A-8E6D-E18F888A5A53"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0253-116X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Linzer Biologische Beiträge"
+  } ]
+} ]

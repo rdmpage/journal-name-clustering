@@ -1,0 +1,77 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5454961",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Fish. Bull."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Fish. bull."
+  }, {
+    "@language" : "fr",
+    "@value" : "Fish. bull."
+  }, {
+    "@language" : "en",
+    "@value" : "Fishery bulletin of the Fish and Wildlife Service."
+  }, {
+    "@language" : "en",
+    "@value" : "Fish. bull. (Wash. D. C.)"
+  }, {
+    "@language" : "en",
+    "@value" : "Fishery bulletin. United States Fish and Wildlife Service"
+  }, {
+    "@language" : "en",
+    "@value" : "Fish. bull."
+  }, {
+    "@language" : "de",
+    "@value" : "Fish. bull."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "3598"
+  }, {
+    "@value" : "3940"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "196465"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1937-4518"
+  }, {
+    "@value" : "0090-0656"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1971"
+  }, {
+    "@value" : "1881"
+  }, {
+    "@value" : "1941"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/23450"
+  }, {
+    "@id" : "https://spo.nmfs.noaa.gov/fb.htm"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/90581"
+  }, {
+    "@id" : "http://fishbull.noaa.gov/index.html"
+  }, {
+    "@id" : "https://purl.fdlp.gov/GPO/LPS6104"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0090-0656"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S131537223"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1937-4518"
+  }, {
+    "@value" : "0090-0656"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fishery Bulletin"
+  } ]
+} ]

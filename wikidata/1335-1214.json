@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q12765399",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1335-1214"
+  }, {
+    "@language" : "es",
+    "@value" : "ISSN 1335-1214"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://entomospol.sk/entomofauna/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1335-1214"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1335-1214"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Entomofauna Carpathica"
+  } ]
+} ]

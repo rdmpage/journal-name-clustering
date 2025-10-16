@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2882602",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://imbiv.unc.edu.ar/cpi/ckurt.htm"
+  }, {
+    "@id" : "http://mbiv.unc.edu.ar/cpi/CKurt.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0075-7314"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1852-5962"
+  }, {
+    "@value" : "0075-7314"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Kurtziana"
+  }, {
+    "@language" : "und",
+    "@value" : "Kurtziana"
+  } ]
+} ]

@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q78298341",
+  "http://example.com/dialnet" : [ {
+    "@value" : "4060"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-3272"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306504704"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0366-3272"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletín de la Real Sociedad Española de Historia Natural. Sección biológica"
+  } ]
+} ]

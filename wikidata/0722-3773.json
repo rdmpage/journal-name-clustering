@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386277",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "ISSN 0722-3773"
+  }, {
+    "@language" : "de",
+    "@value" : "Neue Ent. Nachr."
+  }, {
+    "@language" : "de",
+    "@value" : "Neue entomologische Nachrichten aus dem Entomologischen Museum Dr. Ulf Eitschberger"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0722-3773"
+  }, {
+    "@language" : "en",
+    "@value" : "Neue Ent. Nachr."
+  }, {
+    "@language" : "en",
+    "@value" : "Neue entomologische Nachrichten aus dem Entomologischen Museum Dr. Ulf Eitschberger"
+  }, {
+    "@language" : "es",
+    "@value" : "ISSN 0722-3773"
+  }, {
+    "@language" : "es",
+    "@value" : "Neue Ent. Nachr."
+  }, {
+    "@language" : "es",
+    "@value" : "Neue entomologische Nachrichten aus dem Entomologischen Museum Dr. Ulf Eitschberger"
+  }, {
+    "@language" : "fr",
+    "@value" : "ISSN 0722-3773"
+  }, {
+    "@language" : "fr",
+    "@value" : "Neue Ent. Nachr."
+  }, {
+    "@language" : "fr",
+    "@value" : "Neue entomologische Nachrichten aus dem Entomologischen Museum Dr. Ulf Eitschberger"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0722-3773"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0722-3773"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Neue entomologische Nachrichten"
+  } ]
+} ]

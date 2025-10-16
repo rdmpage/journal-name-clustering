@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q106876452",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0073-4381"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0073-4381"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ichthyological bulletin"
+  } ]
+} ]

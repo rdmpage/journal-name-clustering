@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q929920",
+  "http://example.com/crossref" : [ {
+    "@value" : "4071"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1969"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.thieme-chemistry.com/thieme-chemistry/journals/info/synthesis/index.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0039-7881"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S197964166"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0039-7881"
+  }, {
+    "@value" : "1437-210X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Synthesis"
+  }, {
+    "@language" : "mul",
+    "@value" : "Synthesis"
+  } ]
+} ]

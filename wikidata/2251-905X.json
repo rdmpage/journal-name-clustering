@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724442",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Crop Prot"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "307974"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2251-905X"
+  }, {
+    "@value" : "2251-9041"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jcpi.ir/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2251-9041"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764865071"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2251-9041"
+  }, {
+    "@value" : "2251-905X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of crop protection"
+  } ]
+} ]

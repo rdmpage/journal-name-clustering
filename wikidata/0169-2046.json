@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15801090",
+  "http://example.com/crossref" : [ {
+    "@value" : "2152"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/01692046/"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/landscape-and-urban-planning"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0169-2046"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S104597489"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1872-6062"
+  }, {
+    "@value" : "0169-2046"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Landscape and Urban Planning"
+  } ]
+} ]

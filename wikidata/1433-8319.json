@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754515",
+  "http://example.com/crossref" : [ {
+    "@value" : "50406"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.urbanfischer.de/journals/ppees/p%5Fecol.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1433-8319"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S176275101"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1433-8319"
+  }, {
+    "@value" : "1618-0437"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Perspectives in Plant Ecology, Evolution and Systematics"
+  } ]
+} ]

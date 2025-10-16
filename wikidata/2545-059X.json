@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96701773",
+  "http://example.com/crossref" : [ {
+    "@value" : "340557"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2545-0255"
+  }, {
+    "@value" : "2545-059X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.infish.com.pl/wydawnictwo/Archives/Arch_Fish_Pol.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2545-0255"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210220303"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2545-0255"
+  }, {
+    "@value" : "2545-059X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fisheries & Aquatic Life"
+  } ]
+} ]

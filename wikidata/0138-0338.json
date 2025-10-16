@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765305",
+  "http://example.com/crossref" : [ {
+    "@value" : "88946"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2081-8262"
+  }, {
+    "@value" : "0138-0338"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.polish.polar.pan.pl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0138-0338"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S67295124"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2081-8262"
+  }, {
+    "@value" : "0138-0338"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Polish Polar Research"
+  } ]
+} ]

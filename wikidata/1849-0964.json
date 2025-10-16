@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757808",
+  "http://example.com/crossref" : [ {
+    "@value" : "297530"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://haw.nsk.hr/arhiva/vol2018/7055/72326/image-thumb.jpg"
+  }, {
+    "@id" : "http://haw.nsk.hr/publikacija/7055/periodicum-biologorum"
+  }, {
+    "@id" : "https://hrcak.srce.hr/pb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0031-5362"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S152150123"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0031-5362"
+  }, {
+    "@value" : "1849-0964"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Periodicum biologorum"
+  } ]
+} ]

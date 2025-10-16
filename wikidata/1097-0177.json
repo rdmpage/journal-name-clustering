@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q59752",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Dev. Dynam."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "245"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1901"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0177"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/109873231"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/38417"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/10970177"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1058-8388"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S104993753"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1097-0177"
+  }, {
+    "@value" : "1058-8388"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Developmental Dynamics"
+  } ]
+} ]

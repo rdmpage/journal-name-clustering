@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752443",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0343-8651"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1063"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer-ny.com/link/service/journals/00284/index.htm"
+  }, {
+    "@id" : "http://link.springer.de/link/service/journals/00284/index.htm"
+  }, {
+    "@id" : "https://link.springer.com/journal/284"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0343-8651"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2248630"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0343-8651"
+  }, {
+    "@value" : "1432-0991"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Current microbiology"
+  }, {
+    "@language" : "en",
+    "@value" : "Current Microbiology: an international journal"
+  } ]
+} ]

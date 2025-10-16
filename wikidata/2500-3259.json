@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50812361",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Vavilov Journal of Genetics and Breeding"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "301679"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2500-0462"
+  }, {
+    "@value" : "2500-3259"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://vavilov.elpub.ru/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2500-3259"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210186544"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2500-0462"
+  }, {
+    "@value" : "2500-3259"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Vavilovskij žurnal genetiki i selekcii"
+  } ]
+} ]

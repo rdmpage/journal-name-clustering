@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50667989",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "MIJST"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1905-7873"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1905-7873"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S58706792"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1905-7873"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Maejo International Journal of Science and Technology"
+  } ]
+} ]

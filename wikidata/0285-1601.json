@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4689928",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Afr. Stud. Monogr."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jambo.africa.kyoto-u.ac.jp/kiroku/contents_e.htm"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/asm/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0285-1601"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "asm"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S20186226"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2435-807X"
+  }, {
+    "@value" : "0285-1601"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "African Study Monographs"
+  } ]
+} ]

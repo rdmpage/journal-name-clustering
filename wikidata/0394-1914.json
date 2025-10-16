@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385989",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "the Italian Journal of Mammalogy"
+  }, {
+    "@language" : "en",
+    "@value" : "Italian Journal of Mammalogy"
+  }, {
+    "@language" : "en",
+    "@value" : "Hystrix It. J. Mamm."
+  }, {
+    "@language" : "en",
+    "@value" : "Hystrix, the Italian Journal of Mammalogy"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0394-1914"
+  }, {
+    "@language" : "de",
+    "@value" : "rivista di teriologia"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1825-5272"
+  }, {
+    "@value" : "0394-1914"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.italian-journal-of-mammalogy.it/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0394-1914"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S20766698"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1825-5272"
+  }, {
+    "@value" : "0394-1914"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Hystrix"
+  }, {
+    "@language" : "en",
+    "@value" : "Hystrix"
+  } ]
+} ]

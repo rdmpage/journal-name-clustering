@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386208",
+  "http://example.com/crossref" : [ {
+    "@value" : "314144"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1224-2594"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210174684"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2601-7105"
+  }, {
+    "@value" : "1224-2594"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Entomologica Romanica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Entomologica Romanica"
+  } ]
+} ]

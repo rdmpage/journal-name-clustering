@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385778",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Publicaciones del Museo de historia natural \"Javier Prado\". Serie A, Zoología"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://museohn.unmsm.edu.pe/pub_zoo.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-0515"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0375-0515"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Publicaciones del Museo de historia natural \"Javier Prado\". Serie A, Zoología"
+  } ]
+} ]

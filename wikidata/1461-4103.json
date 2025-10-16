@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5381089",
+  "http://example.com/crossref" : [ {
+    "@value" : "56393"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://maney.co.uk/index.php/journals/env/"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0268-425X"
+  }, {
+    "@value" : "1461-4103"
+  }, {
+    "@value" : "1749-6314"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environmental Archaeology"
+  } ]
+} ]

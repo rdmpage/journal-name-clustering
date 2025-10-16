@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719569",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Hua Zhong Shi Fan Da Xue Xue Bao Zi Ran Ke Xue Ban"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-1190"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-1190"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Huazhong Shifan Daxue xuebao. Ziran kexue ban"
+  }, {
+    "@language" : "en",
+    "@value" : "Hua zhong shi fan da xue xue bao. Zi ran ke xue ban = Journal of Central China Normal University. Natural sciences edition"
+  } ]
+} ]

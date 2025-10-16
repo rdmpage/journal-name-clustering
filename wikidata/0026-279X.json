@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385569",
+  "http://example.com/doaj" : [ {
+    "@value" : "0026-279X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=RupFAQAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=uOJFAQAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=WOtFAQAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=xepFAQAAIAAJ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0026-279X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2738138091"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0026-279X"
+  }, {
+    "@value" : "2374-801X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Micronesica"
+  } ]
+} ]

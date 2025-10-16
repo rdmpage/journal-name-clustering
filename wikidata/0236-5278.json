@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q66735767",
+  "http://example.com/crossref" : [ {
+    "@value" : "30347"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.akademiai.com/content/119700"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0236-5278"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S196079339"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0236-5278"
+  }, {
+    "@value" : "1588-2594"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Geologica Hungarica"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta geologica Hungarica"
+  } ]
+} ]

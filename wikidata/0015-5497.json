@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2092964",
+  "http://example.com/crossref" : [ {
+    "@value" : "71968"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1953"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ingentaconnect.com/content/isez/fb"
+  }, {
+    "@id" : "http://www.isez.pan.krakow.pl/en/folia-biologica.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0015-5497"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S118654989"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1734-9168"
+  }, {
+    "@value" : "0015-5497"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Folia Biologica"
+  }, {
+    "@language" : "und",
+    "@value" : "Folia Biologica"
+  } ]
+} ]

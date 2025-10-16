@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755132",
+  "http://example.com/bhl" : [ {
+    "@value" : "42668"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0035-6883"
+  }, {
+    "@value" : "2039-4942"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.rivistaitalianadipaleontologia.it/index.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0035-6883"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S175008448"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2039-4942"
+  }, {
+    "@value" : "0035-6883"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Rivista italiana di paleontologia e stratigrafia"
+  } ]
+} ]

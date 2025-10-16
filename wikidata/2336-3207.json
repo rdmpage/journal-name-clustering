@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50816951",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Časopis Slezského Zemského Muzea: Série A, Vědy Přírodní"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Musei Silesiae. Scientiae Naturales"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "249354"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2336-3207"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://sciendo.com/journal/CSZMA"
+  }, {
+    "@id" : "https://www.sciendo.com/journal/CSZMA"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2336-3193"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737535011"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2336-3193"
+  }, {
+    "@value" : "2336-3207"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta Musei Silesiae. Scientiae Naturales"
+  } ]
+} ]

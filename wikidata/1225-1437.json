@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722077",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Hangug Yugsu Haghoeji"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1225-1437"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1225-1437"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Han'gug yugsu haghoeji"
+  }, {
+    "@language" : "en",
+    "@value" : "Han'gug yugsu haghoeji"
+  } ]
+} ]

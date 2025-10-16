@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2002321",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "New Zealand Bird Notes"
+  }, {
+    "@language" : "fr",
+    "@value" : "New Zealand Bird Notes"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1943"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.notornis.org.nz/"
+  }, {
+    "@id" : "https://www.birdsnz.org.nz/society-publications/current-quarterly-publications/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0029-4470"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0029-4470"
+  }, {
+    "@value" : "1177-7680"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Notornis"
+  } ]
+} ]

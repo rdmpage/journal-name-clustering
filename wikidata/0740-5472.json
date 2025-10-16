@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762042",
+  "http://example.com/crossref" : [ {
+    "@value" : "2188"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1984"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/07405472/"
+  }, {
+    "@id" : "https://www.journalofsubstanceabusetreatment.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0740-5472"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S82881359"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0740-5472"
+  }, {
+    "@value" : "1873-6483"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Substance Abuse Treatment"
+  } ]
+} ]

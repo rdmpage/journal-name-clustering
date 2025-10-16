@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q109949565",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "An. Mus. Nac. Hist. Nat. Bernardino Rivadavia"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1925"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0326-9310"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0326-9310"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Anales del Museo Nacional de Historia Natural \"Bernardino Rivadavia\""
+  }, {
+    "@language" : "es",
+    "@value" : "Anales del Museo Nacional de Historia Natural de Buenos Aires"
+  } ]
+} ]

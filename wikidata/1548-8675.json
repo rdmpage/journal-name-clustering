@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756304",
+  "http://example.com/crossref" : [ {
+    "@value" : "27717"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://afs.allenpress.com/afsonline/?request=get-issue&issn=0275-5947&volume=020&issue=01"
+  }, {
+    "@id" : "http://www.informaworld.com/smpp/title~content=t927035357~db=all"
+  }, {
+    "@id" : "https://afspubs.onlinelibrary.wiley.com/journal/15488675#pane-01cbe741-499a-4611-874e-1061f1f4679e01"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0275-5947"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S178886870"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1548-8675"
+  }, {
+    "@value" : "0275-5947"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "North American Journal of Fisheries Management"
+  } ]
+} ]

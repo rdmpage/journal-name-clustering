@@ -1,0 +1,63 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1666662",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Ibis (journal)"
+  }, {
+    "@language" : "es",
+    "@value" : "Ivis (revista)"
+  }, {
+    "@language" : "en",
+    "@value" : "Ibis: the International Journal of Avian Science"
+  }, {
+    "@language" : "en",
+    "@value" : "International Journal of Avian Science"
+  }, {
+    "@language" : "es",
+    "@value" : "Ibis, the International Journal of Avian Science"
+  }, {
+    "@language" : "es",
+    "@value" : "International Journal of Avian Science"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista internacional de ciencia aviar"
+  }, {
+    "@language" : "en",
+    "@value" : "The Ibis"
+  }, {
+    "@language" : "fr",
+    "@value" : "The Ibis"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8115"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3798"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1859"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.blackwell-synergy.com/servlet/useragent?func=showIssues&code=ibi&close=2003#C2003"
+  }, {
+    "@id" : "http://www.ibis.ac.uk/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0019-1019"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4147745"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "FFDB30BD-1629-4A2A-A9EA-A75E8D400EF8"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1474-919X"
+  }, {
+    "@value" : "0019-1019"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ibis"
+  } ]
+} ]

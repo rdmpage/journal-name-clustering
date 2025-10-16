@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5398025",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mémoires du Muséum national d'Histoire naturelle"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1243-4442"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "855AF2B2-30A1-4EB5-A325-83E5D7117A3B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1243-4442"
+  }, {
+    "@value" : "1768-305X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Mémoires du Muséum national d'histoire naturelle"
+  }, {
+    "@language" : "mul",
+    "@value" : "Mémoires du Muséum national d'histoire naturelle"
+  } ]
+} ]

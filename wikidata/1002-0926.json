@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q123421266",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Kunchongxue yanjiu jikan"
+  }, {
+    "@language" : "zh",
+    "@value" : "昆虫学研究集刊"
+  }, {
+    "@language" : "en",
+    "@value" : "Kunchongxue-yanjiu-jikan"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1002-0926"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1002-0926"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Contributions from Shanghai Institute of Entomology"
+  }, {
+    "@language" : "zh",
+    "@value" : "Kunchongxue yanjiu jikan"
+  }, {
+    "@language" : "zh",
+    "@value" : "昆虫学研究集刊.中国科学院上海昆虫研究所编"
+  } ]
+} ]

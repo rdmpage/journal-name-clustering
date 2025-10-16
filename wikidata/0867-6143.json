@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328539",
+  "http://example.com/crossref" : [ {
+    "@value" : "284218"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://biuletynpig.pl/resources/html/cms/MAINPAGE"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0867-6143"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210168421"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0867-6143"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Biuletyn Państwowego Instytutu Geologicznego"
+  } ]
+} ]

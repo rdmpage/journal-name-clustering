@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767204",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1399-560X"
+  }, {
+    "@language" : "en",
+    "@value" : "Insect Systematics and Evolution"
+  }, {
+    "@language" : "fr",
+    "@value" : "Insect Systematics and Evolution"
+  }, {
+    "@language" : "en",
+    "@value" : "Insect Syst. Evol."
+  }, {
+    "@language" : "en",
+    "@value" : "ISE"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "103389"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://brill.com/view/journals/ise/ise-overview.xml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1399-560X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S25572448"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "9DBFDA5B-AFB5-4484-904B-671985B35FE0"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1876-312X"
+  }, {
+    "@value" : "1399-560X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Insect Systematics & Evolution"
+  } ]
+} ]

@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15775509",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Senck. biol."
+  }, {
+    "@language" : "pt",
+    "@value" : "Senck. biol."
+  }, {
+    "@language" : "fr",
+    "@value" : "Senck. biol."
+  }, {
+    "@language" : "en",
+    "@value" : "Senck. biol."
+  }, {
+    "@language" : "es",
+    "@value" : "Senck. biol."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1954"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.saturnia.de/senck-biol/"
+  }, {
+    "@id" : "http://www.saturnia.de/senck-biol/sebio-inh.htm"
+  }, {
+    "@id" : "http://www.senckenberg.de/root/index.php?page_id=539"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0037-2102"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306529643"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2008"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "AEA856EE-2247-4735-BAC8-207A3A58014A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0037-2102"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Senckenbergiana biologica"
+  } ]
+} ]

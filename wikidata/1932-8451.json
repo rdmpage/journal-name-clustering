@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15716734",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Dev. Neurobiol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60488"
+  }, {
+    "@value" : "243"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1969"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1932-846X"
+  }, {
+    "@id" : "http://www.interscience.wiley.com"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/114030483"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/1932846X"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1932-8451"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S73400187"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1932-846X"
+  }, {
+    "@value" : "1932-8451"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Developmental Neurobiology"
+  } ]
+} ]

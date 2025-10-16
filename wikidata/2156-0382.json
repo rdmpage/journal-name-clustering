@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q47049344",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The transactions of the South African Philosophical Society"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "53491"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "147625"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1880"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=1CQnAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=Qt8mAQAAMAAJ"
+  }, {
+    "@id" : "http://www.informaworld.com/TSAPS"
+  }, {
+    "@id" : "https://catalog.hathitrust.org/Record/000599565?type%5B%5D=title&lookfor%5B%5D=transactions%20of%20the%20South%20African%20Philosophical%20Society&ft=ft"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2156-0382"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764440395"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1909"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2156-0382"
+  }, {
+    "@value" : "2226-9843"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the South African Philosophical Society"
+  }, {
+    "@language" : "en",
+    "@value" : "The transactions of the South African Philosophical Society"
+  } ]
+} ]

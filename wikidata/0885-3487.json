@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51395110",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0885-3487"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Cincinnati Soc. Nat. Hist."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "11917"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1878"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0885-3487"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1945"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0885-3487"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of the Cincinnati Society of Natural History"
+  } ]
+} ]

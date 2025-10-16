@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15708954",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Lond. Edinb. Phil. Mag."
+  }, {
+    "@language" : "en",
+    "@value" : "London Edinburgh Philos. Mag. &amp; J. Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "The London and Edinburgh philosophical magazine and journal of science"
+  }, {
+    "@language" : "es",
+    "@value" : "London Edinburgh Philos. Mag. & J. Sci."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "58332"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "147586"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1832"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://informaworld.com/openurl?genre=journal&issn=1941-5966"
+  }, {
+    "@id" : "http://informaworld.com/philmagarchivelV"
+  }, {
+    "@id" : "https://www.tandfonline.com/loi/tphm14"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1941-5966"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1840"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1941-5966"
+  }, {
+    "@value" : "1941-5974"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The London and Edinburgh philosophical magazine and journal of science"
+  } ]
+} ]

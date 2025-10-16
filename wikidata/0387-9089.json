@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q99752877",
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.tsm.toyama.toyama.jp/?tid=100115"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0387-9089"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2007"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0387-9089"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Toyama Science Museum"
+  }, {
+    "@language" : "mul",
+    "@value" : "Toyama-shi Kagaku Bunka Sentā kenkyū hōkoku"
+  }, {
+    "@language" : "ja",
+    "@value" : "富山市科学文化センター研究報告"
+  } ]
+} ]

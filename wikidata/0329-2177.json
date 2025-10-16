@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757737",
+  "http://example.com/crossref" : [ {
+    "@value" : "249970"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibliotecavirtual.unl.edu.ar:8180/publicaciones/handle/11185/2688"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0329-2177"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210171033"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2362-5570"
+  }, {
+    "@value" : "0329-2177"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Natura Neotropicalis: revista de la Asociacion de Ciencias del Litoral"
+  }, {
+    "@language" : "mul",
+    "@value" : "Natura neotropicalis"
+  } ]
+} ]

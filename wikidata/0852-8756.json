@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51451277",
+  "http://example.com/bhl" : [ {
+    "@value" : "4865"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1898"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0852-8756"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1905"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0852-8756"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de l'Institut botanique de Buitenzorg"
+  } ]
+} ]

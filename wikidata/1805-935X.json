@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764309",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Forest Science"
+  }, {
+    "@language" : "en",
+    "@value" : "JFS"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "267028"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1212-4834"
+  }, {
+    "@value" : "1805-935X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764941764"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0024-1105"
+  }, {
+    "@value" : "1212-4834"
+  }, {
+    "@value" : "1805-935X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Forest Science-Prague"
+  } ]
+} ]

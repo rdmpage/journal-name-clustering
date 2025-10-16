@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4338337",
+  "http://example.com/crossref" : [ {
+    "@value" : "80744"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sbpbrasil.org/revista_english/index.htm"
+  }, {
+    "@id" : "https://sbpbrasil.org/publications/index.php/rbp/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1519-7530"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S181350553"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2236-1715"
+  }, {
+    "@value" : "1519-7530"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Revista Brasileira de Paleontologia"
+  }, {
+    "@language" : "mul",
+    "@value" : "Revista Brasileira de Paleontologia"
+  } ]
+} ]

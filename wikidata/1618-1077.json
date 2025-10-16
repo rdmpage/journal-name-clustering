@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753936",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Organisms Diversity and Evolution"
+  }, {
+    "@language" : "en",
+    "@value" : "Organisms diversity & evolution : Journal of the Gesellschaft fur Biologische Systematik"
+  }, {
+    "@language" : "en",
+    "@value" : "ODE"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "30477"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1439-6092"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S190011727"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1618-1077"
+  }, {
+    "@value" : "1439-6092"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Organisms Diversity & Evolution"
+  } ]
+} ]

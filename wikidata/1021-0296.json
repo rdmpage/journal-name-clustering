@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385532",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nicaraguan Journal of Entomology"
+  }, {
+    "@language" : "en",
+    "@value" : "Rev. Nicar. Entomol. (Online)"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bio-nica.info/RevNicaEntomo/RevNicaEntomo.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1021-0296"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "7442749B-0E4D-4283-B440-951B2C5639A0"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1021-0296"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista Nicaragüense de Entomología"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750028",
+  "http://example.com/crossref" : [ {
+    "@value" : "2011"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/09247963"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/journal-of-marine-systems"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0924-7963"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S195909765"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1879-1573"
+  }, {
+    "@value" : "0924-7963"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Marine Systems"
+  } ]
+} ]

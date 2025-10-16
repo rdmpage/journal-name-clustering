@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50432877",
+  "http://example.com/crossref" : [ {
+    "@value" : "140685"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0034-737X"
+  }, {
+    "@value" : "2177-3491"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.br/rceres"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0034-737X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210214990"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0034-737X"
+  }, {
+    "@value" : "2177-3491"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista Ceres"
+  } ]
+} ]

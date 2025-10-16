@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751639",
+  "http://example.com/crossref" : [ {
+    "@value" : "135086"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2186-1005"
+  }, {
+    "@value" : "1341-1098"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/atcs/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1341-1098"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "atcs"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S188641010"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1341-1098"
+  }, {
+    "@value" : "2186-1005"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of Thoracic and Cardiovascular Surgery"
+  } ]
+} ]

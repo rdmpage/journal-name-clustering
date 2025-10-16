@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2531394",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "New Zealand J. Bot."
+  }, {
+    "@language" : "de",
+    "@value" : "New Zealand J. Bot."
+  }, {
+    "@language" : "fr",
+    "@value" : "Journal de botanique de Nouvelle-Zélande"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "106365"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1963"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.royalsociety.org.nz/publications/journals/nzjb/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0028-825X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S166785169"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1175-8643"
+  }, {
+    "@value" : "0028-825X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "New Zealand Journal of Botany"
+  } ]
+} ]

@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113477700",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://kanagawa-u.repo.nii.ac.jp/search?search_type=2&q=378"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1880-0483"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764978232"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1880-0483"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Science journal of Kanagawa University"
+  } ]
+} ]

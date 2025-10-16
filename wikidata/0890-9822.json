@@ -1,0 +1,10 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385125",
+  "http://schema.org/issn" : [ {
+    "@value" : "0890-9822"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Texas Memorial Museum, speleological monographs"
+  } ]
+} ]

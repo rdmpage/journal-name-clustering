@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725474",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Biosci (Rajshari)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "74303"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.banglajol.info/index.php/JBS"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1023-8654"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210220935"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2408-8595"
+  }, {
+    "@value" : "1023-8654"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of bio-science"
+  } ]
+} ]

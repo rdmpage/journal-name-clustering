@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842247",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://aje.oxfordjournals.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0096-5294"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0096-5294"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "American Journal of Hygiene"
+  } ]
+} ]

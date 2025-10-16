@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385276",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "aqua"
+  }, {
+    "@language" : "de",
+    "@value" : "aqua"
+  }, {
+    "@language" : "de",
+    "@value" : "aqua, Journal of Ichthyology and Aquatic Biology"
+  }, {
+    "@language" : "en",
+    "@value" : "Aqua International Journal of Ichthyology"
+  }, {
+    "@language" : "en",
+    "@value" : "aqua, Journal of Ichthyology and Aquatic Biology"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://aqua-aquapress.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0945-9871"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "ECDE34F8-3421-4820-A58C-BEAD38FDA320"
+  }, {
+    "@value" : "F29469EB-C6AC-4047-9314-DE205203FD0F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0945-9871"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Aqua"
+  } ]
+} ]

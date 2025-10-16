@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q131525162",
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://zenodo.org/communities/spira/about"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1577-7952"
+  }, {
+    "@value" : "2938-4176"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Spira: revista de l'Associació Catalana de Malacologia"
+  } ]
+} ]

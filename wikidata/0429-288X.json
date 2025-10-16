@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386045",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Fragmenta entomologica"
+  }, {
+    "@language" : "en",
+    "@value" : "FE"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "265508"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0429-288X"
+  }, {
+    "@value" : "2284-4880"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://rosa.uniroma1.it/rosa02/fragmenta_entomologica"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0429-288X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210188005"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://rosa.uniroma1.it/rosa02/fragmenta_entomologica/gateway/plugin/WebFeedGatewayPlugin/atom"
+  }, {
+    "@id" : "https://rosa.uniroma1.it/rosa02/fragmenta_entomologica/gateway/plugin/WebFeedGatewayPlugin/rss"
+  }, {
+    "@id" : "https://rosa.uniroma1.it/rosa02/fragmenta_entomologica/gateway/plugin/WebFeedGatewayPlugin/rss2"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "ED29E63E-EBBB-482C-85E2-F9676B439C8D"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0429-288X"
+  }, {
+    "@value" : "2284-4880"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Fragmenta Entomologica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Fragmenta entomologica"
+  } ]
+} ]

@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q63091394",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0821-7556"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0821-7556"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Palaeontographica Canadiana"
+  }, {
+    "@language" : "mul",
+    "@value" : "Palaeontographica Canadiana"
+  } ]
+} ]

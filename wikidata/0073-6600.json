@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719169",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc Indian Natl Sci Acad B Biol Sci"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the National Academy of Sciences, India. Section B. Biological Sciences"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0073-6600"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0073-6600"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Indian National Science Academy. Part B, Biological sciences"
+  } ]
+} ]

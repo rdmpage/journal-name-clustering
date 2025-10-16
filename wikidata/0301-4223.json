@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765626",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "pt",
+    "@value" : "New Zealand J. of Zool."
+  }, {
+    "@language" : "de",
+    "@value" : "New Zealand J. of Zool."
+  }, {
+    "@language" : "fr",
+    "@value" : "New Zealand J. of Zool."
+  }, {
+    "@language" : "en",
+    "@value" : "NZJZ"
+  }, {
+    "@language" : "en",
+    "@value" : "New Zealand J. of Zool."
+  }, {
+    "@language" : "es",
+    "@value" : "New Zealand J. of Zool."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "106806"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.royalsociety.org.nz/publications/journals/nzjz/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0301-4223"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S99545789"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D6F3B31A-A654-498C-9944-8FF5695AB954"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0301-4223"
+  }, {
+    "@value" : "1175-8821"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "New Zealand Journal of Zoology"
+  } ]
+} ]

@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q53952441",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Current World Environment"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "209945"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.cwejournal.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0973-4929"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765061296"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2320-8031"
+  }, {
+    "@value" : "0973-4929"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Current World Environment"
+  } ]
+} ]

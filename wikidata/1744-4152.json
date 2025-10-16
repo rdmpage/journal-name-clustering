@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751947",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Aquatic Insects: International Journal of Freshwater Entomology"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0165-0424"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "12759"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandf.co.uk/journals/titles/01650424.asp"
+  }, {
+    "@id" : "https://www.tandfonline.com/toc/naqi20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0165-0424"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S81722299"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "828D6867-8224-448D-A917-75D504D98E08"
+  }, {
+    "@value" : "9319B396-8B39-4449-91F8-9A44C0DC7B8F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1744-4152"
+  }, {
+    "@value" : "0165-0424"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Aquatic Insects"
+  } ]
+} ]

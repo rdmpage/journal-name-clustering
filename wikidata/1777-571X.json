@@ -1,0 +1,73 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3939499",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "C. R. Palevol"
+  }, {
+    "@language" : "en",
+    "@value" : "CR Palévol"
+  }, {
+    "@language" : "es",
+    "@value" : "CR Pale"
+  }, {
+    "@language" : "en",
+    "@value" : "Comptes Rendus Palevol"
+  }, {
+    "@language" : "fr",
+    "@value" : "CR Pale"
+  }, {
+    "@language" : "es",
+    "@value" : "CR Palevol"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes Rendus Palevol"
+  }, {
+    "@language" : "fr",
+    "@value" : "C. R. Palevol"
+  }, {
+    "@language" : "fr",
+    "@value" : "CR Palevol"
+  }, {
+    "@language" : "es",
+    "@value" : "CR Palévol"
+  }, {
+    "@language" : "es",
+    "@value" : "C. R. Palevol"
+  }, {
+    "@language" : "en",
+    "@value" : "CR Pale"
+  }, {
+    "@language" : "fr",
+    "@value" : "CR Palévol"
+  }, {
+    "@language" : "es",
+    "@value" : "Comptes Rendus Palevol"
+  }, {
+    "@language" : "en",
+    "@value" : "CR Palevol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2436"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2002"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://sciencepress.mnhn.fr/en/periodiques/comptes-rendus-palevol"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1631-0683"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "s170546617"
+  }, {
+    "@value" : "S170546617"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1777-571X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Comptes rendus. Palevol"
+  } ]
+} ]

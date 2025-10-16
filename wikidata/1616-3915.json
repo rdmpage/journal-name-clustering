@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760079",
+  "http://example.com/crossref" : [ {
+    "@value" : "14459"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springerlink.com/content/1341-8998"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1341-8998"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S199382812"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "04F84E9F-352F-414B-8CDE-6F4C58C7753F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1616-3915"
+  }, {
+    "@value" : "1341-8998"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ichthyological Research"
+  } ]
+} ]

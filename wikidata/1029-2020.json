@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385611",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1029-2020"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1029-2020"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of neuropterology"
+  } ]
+} ]

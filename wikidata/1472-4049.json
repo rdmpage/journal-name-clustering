@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755384",
+  "http://example.com/crossref" : [ {
+    "@value" : "59748"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ejournals.ebsco.com/Journal.asp?JournalID=110711"
+  }, {
+    "@id" : "http://www.multilingual-matters.net/jet/default.htm"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/reco20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1472-4049"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S108064696"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1472-4049"
+  }, {
+    "@value" : "1747-7638"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Ecotourism"
+  } ]
+} ]

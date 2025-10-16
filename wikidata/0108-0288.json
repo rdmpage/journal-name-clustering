@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761833",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the European Association of Fish Pathologists"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://eafpbulletin.scholasticahq.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0108-0288"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S81764096"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "3005-4648"
+  }, {
+    "@value" : "0108-0288"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of The European Association of Fish Pathologists"
+  }, {
+    "@language" : "en",
+    "@value" : "European Association of Fish Pathologists. Bulletin"
+  } ]
+} ]

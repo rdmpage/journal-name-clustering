@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723672",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Shanghai hai yang da xue xue bao"
+  }, {
+    "@language" : "en",
+    "@value" : "Shanghai Hai Yang Da Xue Xue Bao"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.shhydxxb.com/shhy/home"
+  }, {
+    "@id" : "https://www.shhydxxb.com/shhyen/home"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1674-5566"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1674-5566"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "上海海洋大学学报"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Shanghai Ocean University"
+  }, {
+    "@language" : "mul",
+    "@value" : "Shanghai hai yang da xue xue bao"
+  }, {
+    "@language" : "mul",
+    "@value" : "Shanghai Haiyang Daxue xuebao"
+  } ]
+} ]

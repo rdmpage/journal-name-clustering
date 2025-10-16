@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724535",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Adv Biores"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "264826"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.soeagra.com/abr.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0976-4585"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210230220"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2277-1573"
+  }, {
+    "@value" : "0976-4585"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Advances in bioresearch"
+  } ]
+} ]

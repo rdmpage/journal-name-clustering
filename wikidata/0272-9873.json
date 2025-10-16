@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386183",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0272-9873"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0272-9873"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "South Carolina geology"
+  } ]
+} ]

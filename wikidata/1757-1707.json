@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q19720862",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Global Change Biology: Bioenergy"
+  }, {
+    "@language" : "en",
+    "@value" : "Global change biology. Bioenergy"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "82158"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1757-1707"
+  }, {
+    "@value" : "1757-1693"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1757-1707"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291757-1707"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/journal/122199997/home"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1757-1693"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S192395394"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1757-1707"
+  }, {
+    "@value" : "1757-1693"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Global change biology. Bioenergy"
+  } ]
+} ]

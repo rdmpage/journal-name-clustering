@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764499",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Southwestern Naturalist"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "44560"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioone.org/?request=get-moreinfo&issn=0038-4909"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=0038-4909"
+  }, {
+    "@id" : "http://www.biosurvey.ou.edu/swan/joureng.htm"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00384909.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0038-4909"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "soutnatu"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S193249117"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1943-6262"
+  }, {
+    "@value" : "0038-4909"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Southwestern Naturalist"
+  }, {
+    "@language" : "en",
+    "@value" : "Southwestern Naturalist"
+  } ]
+} ]

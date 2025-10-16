@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q68092111",
+  "http://example.com/crossref" : [ {
+    "@value" : "328741"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2524-4671"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://animalmicrobiome.biomedcentral.com/"
+  }, {
+    "@id" : "https://animalmicrobiome.biomedcentral.com/article"
+  }, {
+    "@id" : "https://link.springer.com/journal/volumesAndIssues/42523"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2524-4671"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210239186"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2524-4671"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Animal Microbiome"
+  } ]
+} ]

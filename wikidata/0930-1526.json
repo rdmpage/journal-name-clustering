@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385226",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0930-1526"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "7A467F62-7535-4C91-80F1-B2C9EB54867D"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0930-1526"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Beiträge zur Araneologie"
+  } ]
+} ]

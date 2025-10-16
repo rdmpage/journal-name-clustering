@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q11175372",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Rheedea; Official Journal of Indian Association for Angiosperm Taxonomy"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "316934"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rheedea.in"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0971-2313"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210216843"
+  }, {
+    "@value" : "S4210218122"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2582-2438"
+  }, {
+    "@value" : "0971-2313"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Rheedea"
+  } ]
+} ]

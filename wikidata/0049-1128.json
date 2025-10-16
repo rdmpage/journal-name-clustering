@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386020",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0049-1128"
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. Ann. Soc. r. belge Ent."
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin et annales de la Société royale d'entomologie de Belgique"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Ann. Soc. r. belge Ent."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1955"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0049-1128"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0049-1128"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin & annales de la Société royale d'entomologie de Belgique"
+  } ]
+} ]

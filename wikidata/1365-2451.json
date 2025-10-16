@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15708796",
+  "http://example.com/crossref" : [ {
+    "@value" : "3492"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1985"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0266-6979;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=gto"
+  }, {
+    "@id" : "http://www.blackwellpublishing.com/journal.asp?ref=0266-6979&site=1"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0266-6979"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S156106415"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0266-6979"
+  }, {
+    "@value" : "1365-2451"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Geology Today"
+  } ]
+} ]

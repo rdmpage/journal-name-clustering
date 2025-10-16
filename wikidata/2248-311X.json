@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724314",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Porcine Res"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2248-311X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2248-311X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Porcine research"
+  } ]
+} ]

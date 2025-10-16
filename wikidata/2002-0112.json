@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q80453690",
+  "http://example.com/from_year" : [ {
+    "@value" : "2014"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sjlas.org/index.php/SJLAS/index"
+  }, {
+    "@id" : "https://ojs.utlib.ee/index.php/SJLAS"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2002-0112"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2002-0112"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Scandinavian journal of laboratory animal science"
+  } ]
+} ]

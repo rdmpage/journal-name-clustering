@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386257",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Researches of the National Museum"
+  }, {
+    "@language" : "de",
+    "@value" : "Navorsinge van die Nasionale Museum : Researches of the National Museum"
+  }, {
+    "@language" : "en",
+    "@value" : "Navorsinge van die Nasionale Museum"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journals.co.za/journal/nnm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0067-9208"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210210226"
+  }, {
+    "@value" : "S4306520634"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0067-9208"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Navorsinge van die Nasionale Museum"
+  } ]
+} ]

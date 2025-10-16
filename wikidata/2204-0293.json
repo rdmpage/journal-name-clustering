@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767111",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Royal Society of South Australia, Incorporated"
+  }, {
+    "@language" : "en",
+    "@value" : "Royal Society of South Australia. Transactions"
+  }, {
+    "@language" : "de",
+    "@value" : "Trans. Roy. Soc. South Australia"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "168319"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "265321"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1880"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://archive.org/search.php?query=creator%3A%22South+Australian+Museum%22"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0372-1426"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S22421200"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "BD79E8A4-F9C4-4075-AA14-101F51540E7B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2204-0293"
+  }, {
+    "@value" : "0372-1426"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Royal Society of South Australia, Incorporated"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Royal Society of South Australia"
+  } ]
+} ]

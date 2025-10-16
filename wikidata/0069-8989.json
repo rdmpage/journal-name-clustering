@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386281",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Trans. Conn. Acad. Arts Sci."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7541"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297288"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1866"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0069-8989"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210193977"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0069-8989"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Connecticut Academy of Arts and Sciences"
+  } ]
+} ]

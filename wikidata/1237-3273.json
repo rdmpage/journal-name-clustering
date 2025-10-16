@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q97454157",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.luomus.fi/fi/sahlbergia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1237-3273"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2342-7582"
+  }, {
+    "@value" : "1237-3273"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fi",
+    "@value" : "Sahlbergia"
+  }, {
+    "@language" : "la",
+    "@value" : "Sahlbergia"
+  } ]
+} ]

@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753254",
+  "http://example.com/crossref" : [ {
+    "@value" : "10098"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jvms/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0916-7250"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jvms"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S40103090"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0916-7250"
+  }, {
+    "@value" : "1347-7439"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Veterinary Medical Science"
+  } ]
+} ]

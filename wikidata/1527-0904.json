@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763195",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Western North American Naturalist"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "71480"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/19403"
+  }, {
+    "@id" : "https://bioone.org/journals/western-north-american-naturalist/issues"
+  }, {
+    "@id" : "https://ojs.lib.byu.edu/spc/index.php/wnan/index"
+  }, {
+    "@id" : "https://scholarsarchive.byu.edu/wnan/all_issues.html"
+  }, {
+    "@id" : "https://www.jstor.org/journal/westnortamernatu"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1944-8341"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "westnortamernatu"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S73937290"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1944-8341"
+  }, {
+    "@value" : "1527-0904"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Western North American Naturalist"
+  } ]
+} ]

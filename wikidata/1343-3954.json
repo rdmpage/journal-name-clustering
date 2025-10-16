@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q104682716",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Kyoto Furitsu Daigaku gakujutsu hōkoku. Ningen kankyōgaku, nōgaku"
+  }, {
+    "@language" : "en",
+    "@value" : "The Scientific Reports of Kyoto Prefectural University (Human Environment and Agriculture)"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1343-3954"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1997"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://kpu.repo.nii.ac.jp/search?search_type=2&q=267"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1343-3954"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2007"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1343-3954"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Scientific Reports of Kyoto Prefectural University. Human Environment and Agriculture"
+  }, {
+    "@language" : "mul",
+    "@value" : "Kyoto Furitsu Daigaku gakujutsu hōkoku. Ningen kankyōgaku, nōgaku"
+  }, {
+    "@language" : "ja",
+    "@value" : "京都府立大学学術報告．人間環境学・農学"
+  } ]
+} ]

@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21034224",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Trans. Roy. Soc. New Zealand, Bot."
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Royal Society of New Zealand, Botany"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Royal Society of New Zealand. Botany"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1961"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://paperspast.natlib.govt.nz/periodicals/transactions-of-the-royal-society-of-new-zealand-botany"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0372-1361"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2744-4163"
+  }, {
+    "@value" : "0372-1361"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Royal Society of New Zealand. Botany"
+  } ]
+} ]

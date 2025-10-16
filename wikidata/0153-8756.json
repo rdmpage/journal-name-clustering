@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723074",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ecol Mediterr"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "387358"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "20365"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ecologia-mediterranea.univ-avignon.fr/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0153-8756"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210206189"
+  }, {
+    "@value" : "S4306508618"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0153-8756"
+  }, {
+    "@value" : "1775-4100"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecologia Mediterranea : revue d'ecologie terrestre et limnique"
+  }, {
+    "@language" : "fr",
+    "@value" : "Ecologia mediterranea"
+  } ]
+} ]

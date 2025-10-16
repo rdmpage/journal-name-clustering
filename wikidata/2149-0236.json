@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96711356",
+  "http://example.com/crossref" : [ {
+    "@value" : "265147"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scientificwebjournals.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2149-0236"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210195898"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2149-0236"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Journal of aquaculture engineering and fisheries research"
+  } ]
+} ]

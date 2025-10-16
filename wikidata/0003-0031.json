@@ -1,0 +1,63 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5672453",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Am. midl. nat."
+  }, {
+    "@language" : "es",
+    "@value" : "The American midland naturalist"
+  }, {
+    "@language" : "es",
+    "@value" : "Am. midl. nat"
+  }, {
+    "@language" : "en",
+    "@value" : "Amer. Midl. Naturalist"
+  }, {
+    "@language" : "de",
+    "@value" : "Amer. Midl. Naturalist"
+  }, {
+    "@language" : "en",
+    "@value" : "The American midland naturalist"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "42576"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57169"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1909"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=0003-0031;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=0003-0031"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00030031.html"
+  }, {
+    "@id" : "https://www3.nd.edu/~ammidnat/"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-0031"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "amermidlnatu"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S132624429"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "195CF425-4374-4B7E-BDBF-DA0CCA17ECE9"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1938-4238"
+  }, {
+    "@value" : "0003-0031"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The American midland naturalist"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328022",
+  "http://example.com/crossref" : [ {
+    "@value" : "87488"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.cl/parasitol.htm"
+  }, {
+    "@id" : "mailto:halcaino@uchile.cl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0717-7704"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210204132"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0717-7712"
+  }, {
+    "@value" : "0717-7704"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Parasitología latinoamericana"
+  } ]
+} ]

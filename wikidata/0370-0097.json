@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96728886",
+  "http://example.com/crossref" : [ {
+    "@value" : "73685"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-0097"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210215560"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-0097"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Indian Academy of Sciences. Section B, Biological Sciences"
+  } ]
+} ]

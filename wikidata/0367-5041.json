@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q94579799",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Graellsia: zoology journal"
+  }, {
+    "@language" : "es",
+    "@value" : "Graellsia: revista de zoología"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "97765"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "5093"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1989-953X"
+  }, {
+    "@value" : "0367-5041"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1943"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://graellsia.revistas.csic.es/index.php/graellsia/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0367-5041"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S62977146"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B2A95F6F-35B2-4394-B443-5AEC97C66F80"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0367-5041"
+  }, {
+    "@value" : "1989-953X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Graellsia"
+  } ]
+} ]

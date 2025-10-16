@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762976",
+  "http://example.com/crossref" : [ {
+    "@value" : "1124"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "763"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springerlink.com/content/101794"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0176-4268"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S73028643"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1432-1343"
+  }, {
+    "@value" : "0176-4268"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Classification"
+  } ]
+} ]

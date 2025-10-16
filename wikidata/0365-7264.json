@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q104534804",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ann. Sci. Univ. Jassy"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0365-7264"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0365-7264"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Annales Scientifiques de l'Université de Jassy"
+  } ]
+} ]

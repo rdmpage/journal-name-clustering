@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386145",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Natural History Museum Entomology"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum (Natural History) Entomology"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. br. Mus. nat. Hist. Entomol."
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum, Natural History. Entomology"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "53882"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1950"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0524-6431"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210173831"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1977"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "AED69011-5959-4FE9-8FFA-6F296DAD7FD4"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0524-6431"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum, Natural History. Entomology"
+  } ]
+} ]

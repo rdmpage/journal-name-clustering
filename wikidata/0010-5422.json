@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2612787",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The condor"
+  }, {
+    "@language" : "en",
+    "@value" : "Condor (Los Angel. Calif.)"
+  }, {
+    "@language" : "en",
+    "@value" : "Ornithological Applications"
+  }, {
+    "@language" : "pt",
+    "@value" : "Condor"
+  }, {
+    "@language" : "en",
+    "@value" : "Condor"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the Cooper Ornithological Club"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "47034"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57328"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1900"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://academic.oup.com/condor"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0010-5422"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "condor"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S188482970"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0010-5422"
+  }, {
+    "@value" : "1938-5129"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Condor"
+  } ]
+} ]

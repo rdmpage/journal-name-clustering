@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385768",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0148-9836"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "315443"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0148-9836"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210213533"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0148-9836"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Northeast gulf science"
+  } ]
+} ]

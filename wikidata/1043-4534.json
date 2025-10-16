@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5676512",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Harvard Pap. Bot."
+  }, {
+    "@language" : "de",
+    "@value" : "Harvard Pap. Bot."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60874"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://huh.harvard.edu/pages/publications"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=1043-4534"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=1043-4534"
+  }, {
+    "@id" : "http://www.jstor.org/action/showPublication?journalCode=harpapbot"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1043-4534"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "harpapbot"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S129854537"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1938-2944"
+  }, {
+    "@value" : "1043-4534"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Harvard Papers in Botany"
+  } ]
+} ]

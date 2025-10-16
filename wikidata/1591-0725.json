@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27716432",
+  "http://example.com/doaj" : [ {
+    "@value" : "0563-3745"
+  }, {
+    "@value" : "1591-0725"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306531945"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0563-3745"
+  }, {
+    "@value" : "1591-0725"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Thalassia Salentina"
+  } ]
+} ]

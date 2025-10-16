@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96736368",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Indian Botanical Society"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "329235"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.indianjournals.com/ijor.aspx?target=ijor:jibs&type=home"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0019-4468"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764880702"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2455-7218"
+  }, {
+    "@value" : "0019-4468"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Indian Botanical Society"
+  } ]
+} ]

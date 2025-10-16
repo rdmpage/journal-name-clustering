@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q969322",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Visual Neuroscience"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "6025"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayjournal?jid=vns"
+  }, {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=VNS"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0952-5238"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S34730769"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1469-8714"
+  }, {
+    "@value" : "0952-5238"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Visual Neuroscience"
+  } ]
+} ]

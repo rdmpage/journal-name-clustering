@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15724465",
+  "http://example.com/crossref" : [ {
+    "@value" : "615"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1090-2414"
+  }, {
+    "@value" : "0147-6513"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=0147-6513;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.apnet.com/www/journal/es.htm"
+  }, {
+    "@id" : "http://www.journals.elsevier.com/ecotoxicology-and-environmental-safety/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/01476513"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0147-6513"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S13733787"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1090-2414"
+  }, {
+    "@value" : "0147-6513"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecotoxicology and Environmental Safety"
+  } ]
+} ]

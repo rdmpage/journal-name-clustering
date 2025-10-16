@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q123463749",
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0104-6950"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0104-6950"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Comunicaçoes do Museu de Ciências e Tecnologia da PUCRS. Série Zoologia"
+  }, {
+    "@language" : "pt",
+    "@value" : "Comunicações do Museu de Ciências e Tecnologia da PUCRS. Série Zoologia"
+  } ]
+} ]

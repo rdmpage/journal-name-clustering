@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16623599",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Quart. J. Taiwan Mus."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Quart. J. Taiwan Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "Taiwan shengli bowuguan jikan"
+  }, {
+    "@language" : "en",
+    "@value" : "Quart. J. Taiwan Mus."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1948"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0254-6914"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "1D06219F-68BF-4C5C-88CA-4750FCD8B041"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0254-6914"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Quarterly Journal of the Taiwan Museum"
+  }, {
+    "@language" : "mul",
+    "@value" : "Táiwān shěngli bówùguǎn jìkān"
+  }, {
+    "@language" : "zh-tw",
+    "@value" : "臺灣省立博物館季刊"
+  } ]
+} ]

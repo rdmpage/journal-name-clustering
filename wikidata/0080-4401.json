@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15745398",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Royal Historical Society. Transactions"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "52441"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "2720"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=RHT"
+  }, {
+    "@id" : "http://journals.cambridge.org/RHT"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0080-4401"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "tranroyahistsoci"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764965740"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0080-4401"
+  }, {
+    "@value" : "1474-0648"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Royal Historical Society"
+  } ]
+} ]

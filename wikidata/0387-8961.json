@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329405",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/bpsj/list/-char/ja/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0387-8961"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "bpsj"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306550655"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0387-8961"
+  }, {
+    "@value" : "2434-0839"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Nihon Purankuton Gakkaihō"
+  } ]
+} ]

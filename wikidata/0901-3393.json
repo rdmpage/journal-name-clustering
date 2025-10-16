@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27720936",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Scand J Lab Anim Sci"
+  }, {
+    "@language" : "en",
+    "@value" : "Scandinavian journal of laboratory animal science"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0901-3393"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2063198"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0901-3393"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Scandinavian journal of laboratory animal science"
+  }, {
+    "@language" : "en",
+    "@value" : "Scandinavian journal of laboratory animal science = Scand las nyt : official quarterly journal of the Scandinavian Federation for Laboratory Animal Science"
+  } ]
+} ]

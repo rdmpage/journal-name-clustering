@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4996848",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin - Irish Biogeographical Society"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1975"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0332-1185"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S193853226"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0332-1185"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin - Irish Biogeographical Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the Irish Biogeographical Society"
+  } ]
+} ]

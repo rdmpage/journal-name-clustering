@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22104919",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Lundellia : journal of the Plant Resources Center of the University of Texas at Austin"
+  }, {
+    "@language" : "en",
+    "@value" : "Lundellia (Austin, Tex.)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "312005"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioone.org/loi/lund"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1097-993X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210188984"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1097-993X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Lundellia"
+  }, {
+    "@language" : "en",
+    "@value" : "Lundellia : journal of the Plant Resources Center of the University of Texas at Austin"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q20004166",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Sitzungsber. Heidelb. Akad. Wiss. Math. Naturwiss. Kl."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0371-0165"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210185801"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0371-0165"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Sitzungsberichte der Heidelberger Akademie der Wissenschaften, Mathematische-Naturwissenschaftliche Klasse"
+  }, {
+    "@language" : "mul",
+    "@value" : "Sitzungsberichte der Heidelberger Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Klasse"
+  } ]
+} ]

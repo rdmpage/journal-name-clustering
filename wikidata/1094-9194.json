@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752608",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The veterinary clinics of North America. Exotic animal practice"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "45219"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.vetexotic.theclinics.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1094-9194"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S187317825"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1094-9194"
+  }, {
+    "@value" : "1558-4232"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Veterinary Clinics of North America: Exotic Animal Practice"
+  }, {
+    "@language" : "en",
+    "@value" : "The veterinary clinics of North America. Exotic animal practice"
+  } ]
+} ]

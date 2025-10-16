@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761799",
+  "http://example.com/crossref" : [ {
+    "@value" : "262267"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210167726"
+  }, {
+    "@value" : "S4210168472"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0970-0765"
+  }, {
+    "@value" : "2320-3188"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of Pure and Applied Sciences. Section A: Zoology"
+  } ]
+} ]

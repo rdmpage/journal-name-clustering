@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5532929",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Genetica"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3176"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1919"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dx.doi.org/10.1007/10709.1573-6857"
+  }, {
+    "@id" : "http://www.springer.com/life+sciences/journal/10709"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0016-6707"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S13880985"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1573-6857"
+  }, {
+    "@value" : "0016-6707"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Genetica"
+  }, {
+    "@language" : "en",
+    "@value" : "Genetica"
+  } ]
+} ]

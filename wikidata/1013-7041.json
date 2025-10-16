@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q111283423",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "EBL"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1013-7041"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2007"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1013-7041"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Entomologische Berichte Luzern"
+  } ]
+} ]

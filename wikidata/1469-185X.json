@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q122697018",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biol. Rev. (Cambridge)"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0006-3231"
+  }, {
+    "@language" : "ru",
+    "@value" : "ISSN 0006-3231"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1469-185X"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-3231"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1469-185X"
+  }, {
+    "@value" : "0006-3231"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biological reviews of the Cambridge Philosophical Society"
+  } ]
+} ]

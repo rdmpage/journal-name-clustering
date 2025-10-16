@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756170",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Records of the Auckland Museum"
+  }, {
+    "@language" : "en",
+    "@value" : "Rec. Auckland Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "Papahou"
+  }, {
+    "@language" : "en",
+    "@value" : "Records of Auckland Museum"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "327999"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.aucklandmuseum.com/collections-and-library/library-info-centres/museum-publications/records-of-the-auckland-museum"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1174-9202"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "recoauckmuse"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210171379"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3744DDA6-7EA6-43A1-AFC4-D540ADA4BE81"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2422-8567"
+  }, {
+    "@value" : "1174-9202"
+  }, {
+    "@value" : "3021-3576"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Papahou: Records of the Auckland Museum"
+  } ]
+} ]

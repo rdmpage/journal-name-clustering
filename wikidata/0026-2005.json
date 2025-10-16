@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762274",
+  "http://example.com/crossref" : [ {
+    "@value" : "188867"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=3LAmAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=lqomAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=TacmAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=xtgmAAAAMAAJ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0026-2005"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210234115"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0026-2005"
+  }, {
+    "@value" : "2167-8634"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Michigan Academician"
+  }, {
+    "@language" : "en",
+    "@value" : "Michigan academician"
+  } ]
+} ]

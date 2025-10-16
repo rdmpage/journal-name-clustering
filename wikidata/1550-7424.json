@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753402",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Rangeland Ecology & Management"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "40299"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rangeland.tamu.edu/"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=1551-5028"
+  }, {
+    "@id" : "http://www.jstor.org/journals/15507424.html"
+  }, {
+    "@id" : "http://www.srmjournals.org"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/rangeland-ecology-and-management"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1550-7424"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "rangecolmana"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2797048"
+  }, {
+    "@value" : "S4306525335"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1550-7424"
+  }, {
+    "@value" : "1551-5028"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Rangeland Ecology and Management"
+  }, {
+    "@language" : "en",
+    "@value" : "Rangeland ecology & management"
+  } ]
+} ]

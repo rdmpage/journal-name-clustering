@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5735536",
+  "http://example.com/crossref" : [ {
+    "@value" : "297754"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210198012"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0006-8128"
+  }, {
+    "@value" : "0976-5069"
+  }, {
+    "@value" : "2455-376X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Botanical Survey of India"
+  } ]
+} ]

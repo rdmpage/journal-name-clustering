@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385891",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0178-7217"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "1C440D41-A6CF-4D55-B430-0D3420763992"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0178-7217"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Coleopterologica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Acta coleopterologica"
+  } ]
+} ]

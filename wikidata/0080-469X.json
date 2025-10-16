@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2836626",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Proc. Roy. Soc. Queensl."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "The Proceedings of the Royal Society of Queensland"
+  }, {
+    "@language" : "en",
+    "@value" : "Proc. R. Soc. Queensl."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "14019"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297283"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1885"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://search.informit.com.au/browseJournalTitle;res=IELHSS;issn=0080-469X"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0080-469X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210170288"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0080-469X"
+  }, {
+    "@value" : "1839-2547"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Society of Queensland"
+  } ]
+} ]

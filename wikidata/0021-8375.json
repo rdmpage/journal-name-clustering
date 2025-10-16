@@ -1,0 +1,61 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q473337",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Ornithol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. f. Orn."
+  }, {
+    "@language" : "en",
+    "@value" : "Journal for Ornithologie"
+  }, {
+    "@language" : "fr",
+    "@value" : "Journal fur Ornithologie"
+  }, {
+    "@language" : "fr",
+    "@value" : "Journal of Ornithology"
+  }, {
+    "@language" : "de",
+    "@value" : "Journal of Ornithology"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Ornithologie"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Ornithol."
+  }, {
+    "@language" : "es",
+    "@value" : "Journal of Ornithology"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal for Ornithology"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "47027"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "25058"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1853"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.onlinelibrary.wiley.com/journal/10.111/(ISSN)1439-0361"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-8375"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S11051793"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0021-8375"
+  }, {
+    "@value" : "1439-0361"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Journal für Ornithologie"
+  } ]
+} ]

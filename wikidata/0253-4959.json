@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q112660654",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Dicengxue zazhi"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Stratigraphy"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1966"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0253-4959"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764691676"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0253-4959"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Dicengxue zazhi"
+  } ]
+} ]

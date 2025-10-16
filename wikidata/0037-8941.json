@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5735483",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0037-8941"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Soc. Bot. France"
+  }, {
+    "@language" : "es",
+    "@value" : "Bull. Soc. Bot. France"
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. Soc. Bot. France"
+  }, {
+    "@language" : "es",
+    "@value" : "Bulletin de la Societe Botanique de France"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin de la Societe Botanique de France"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "359"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "249950"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1854"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0037-8941"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210203372"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0151-1270"
+  }, {
+    "@value" : "0037-8941"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société botanique de France"
+  } ]
+} ]

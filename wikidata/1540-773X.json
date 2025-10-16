@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q116236812",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1540-773X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1540-773X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Kansas Herpetology"
+  } ]
+} ]

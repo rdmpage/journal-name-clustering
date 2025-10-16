@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q9053247",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Orquideologia"
+  }, {
+    "@language" : "es",
+    "@value" : "Orquideología"
+  }, {
+    "@language" : "es",
+    "@value" : "Orquideologia, (Sociedad Colombiana de Orquideologia)"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sco.org.co/publicaciones/13"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0120-1433"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306521688"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2422-2364"
+  }, {
+    "@value" : "0120-1433"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Orquideologia, (Sociedad Colombiana de Orquideologia)"
+  } ]
+} ]

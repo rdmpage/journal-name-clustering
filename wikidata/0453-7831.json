@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96331068",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0453-7831"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0453-7831"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Reports from the Kevo Subarctic Research Station"
+  } ]
+} ]

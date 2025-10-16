@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386362",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Caribbean Herpetology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "322100"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2333-2468"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210186076"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2333-2468"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Caribbean herpetology"
+  } ]
+} ]

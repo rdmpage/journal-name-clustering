@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759325",
+  "http://example.com/crossref" : [ {
+    "@value" : "71318"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://search.ebscohost.com/login.aspx?direct=true&db=mnh&jid=9512496&site=ehost-live"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=1081-1710"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/19487134"
+  }, {
+    "@id" : "https://search.proquest.com/publication/106033"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1081-1710"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S95463437"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1948-7134"
+  }, {
+    "@value" : "1081-1710"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Vector Ecology"
+  } ]
+} ]

@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13548573",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Lankesteriana International Journal on Orchidology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "254387"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2215-2067"
+  }, {
+    "@value" : "1409-3871"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://revistas.ucr.ac.cr/index.php/lankesteriana/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1409-3871"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764961542"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "http://www.scielo.sa.cr/rss.php?pid=1409-3871&lang=en"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2215-2067"
+  }, {
+    "@value" : "1409-3871"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Lankesteriana"
+  }, {
+    "@language" : "es",
+    "@value" : "Lankesteriana"
+  } ]
+} ]

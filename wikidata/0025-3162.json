@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3293196",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Mar. Biol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Marine biology"
+  }, {
+    "@language" : "ja",
+    "@value" : "マリン・バイオロジー"
+  }, {
+    "@language" : "fr",
+    "@value" : "Marine biology (publication)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "961"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springer.com/environment/aquatic+sciences/journal/227"
+  }, {
+    "@id" : "http://www.springerlink.content/100441/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0025-3162"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S118082147"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0025-3162"
+  }, {
+    "@value" : "1432-1793"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Marine Biology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Marine biology"
+  } ]
+} ]

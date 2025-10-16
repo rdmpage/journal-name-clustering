@@ -1,0 +1,58 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750126",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Bot. Stud."
+  }, {
+    "@language" : "fr",
+    "@value" : "Bot. Stud."
+  }, {
+    "@language" : "es",
+    "@value" : "ISSN 1999-3110"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1999-3110"
+  }, {
+    "@language" : "en",
+    "@value" : "Bot. Stud."
+  }, {
+    "@language" : "de",
+    "@value" : "Bot. Stud. (Taipei)"
+  }, {
+    "@language" : "en",
+    "@value" : "Botanical studies"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "222666"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1999-3110"
+  }, {
+    "@value" : "1817-406X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.as-botanicalstudies.com/"
+  }, {
+    "@id" : "http://www.as-botanicalstudies.com/content"
+  }, {
+    "@id" : "https://as-botanicalstudies.springeropen.com/about"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1817-406X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S94373075"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B74DAAF3-A4BD-4015-A667-D7B88FAE97B2"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1999-3110"
+  }, {
+    "@value" : "1817-406X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Botanical Studies"
+  } ]
+} ]

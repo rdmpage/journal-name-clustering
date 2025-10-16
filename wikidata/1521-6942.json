@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4896784",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Baillière's best practice & research. Clinical rheumatology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "6199"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://www.clinicalkey.com.au/dura/browse/journalIssue/15216942"
+  }, {
+    "@id" : "http://www.clinicalkey.com/dura/browse/journalIssue/15216942"
+  }, {
+    "@id" : "http://www.elsevier.com/wps/find/journaldescription.cws_home/623005/description#description"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/15216942"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1521-6942"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S1036238847"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1521-6942"
+  }, {
+    "@value" : "1532-1770"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Best Practice & Research"
+  }, {
+    "@language" : "en",
+    "@value" : "Baillière's best practice & research. Clinical rheumatology"
+  } ]
+} ]

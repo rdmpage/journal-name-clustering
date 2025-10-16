@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722176",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Rev Investig Mar"
+  }, {
+    "@language" : "en",
+    "@value" : "Revista de Investigaciones Marinas"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1991-6086"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.rim.uh.cu/index.php/RIM/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0252-1962"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2738245935"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1991-6086"
+  }, {
+    "@value" : "0252-1962"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Revista de investigaciones marinas"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista de investigaciones marinas"
+  } ]
+} ]

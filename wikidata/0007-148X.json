@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51451346",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. br. Mus. nat. Hist. Mineral."
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum, Natural History. Mineralogy"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "62896"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1950"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0007-148X"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0007-148X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum, Natural History. Mineralogy"
+  } ]
+} ]

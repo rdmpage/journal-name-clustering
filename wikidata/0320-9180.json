@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q18649566",
+  "http://example.com/crossref" : [ {
+    "@value" : "330075"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.zin.ru/journals/zsr/"
+  }, {
+    "@id" : "https://www.zin.ru/journals/zsr/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0320-9180"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764648274"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "F8B3D697-5C15-402B-8B8F-EC72B2C329E4"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2410-0226"
+  }, {
+    "@value" : "0320-9180"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zoosystematica Rossica"
+  }, {
+    "@language" : "la",
+    "@value" : "Zoosystematica Rossica"
+  } ]
+} ]

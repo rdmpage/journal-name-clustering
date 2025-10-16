@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386220",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0300-5267"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "476223"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "13171"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://shilap.org/revista"
+  }, {
+    "@id" : "http://www.doaj.org/doaj?func=browse&uiLanguage=en&queryField=shilap"
+  }, {
+    "@id" : "http://www.redalyc.org/revista.oa?id=455"
+  }, {
+    "@id" : "https://dialnet.unirioja.es/servlet/revista?codigo=13171"
+  }, {
+    "@id" : "https://shilap.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0300-5267"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S112646816"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0300-5267"
+  }, {
+    "@value" : "2340-4078"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "SHILAP. Sociedad Hispano-Luso-Americana de Lepidopterología"
+  } ]
+} ]

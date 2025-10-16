@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96332174",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "CRM"
+  }, {
+    "@language" : "en",
+    "@value" : "CRM"
+  }, {
+    "@language" : "es",
+    "@value" : "CRM"
+  }, {
+    "@language" : "fr",
+    "@value" : "CRM"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1570-7024"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1570-7024"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Crustaceana monographs"
+  } ]
+} ]

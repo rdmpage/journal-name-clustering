@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q34645987",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Thai Forest Bull., Bot."
+  }, {
+    "@language" : "en",
+    "@value" : "Thai Forest Bull., Bot."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "301547"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.tci-thaijo.org/index.php/ThaiForestBulletin"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2465-423X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210173260"
+  }, {
+    "@value" : "S4210206845"
+  }, {
+    "@value" : "S4306531936"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://li01.tci-thaijo.org/index.php/ThaiForestBulletin/gateway/plugin/WebFeedGatewayPlugin/atom"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2465-423X"
+  }, {
+    "@value" : "0495-3843"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Thai Forest Bulletin. Botany"
+  } ]
+} ]

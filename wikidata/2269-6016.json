@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q78298550",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2269-6016"
+  }, {
+    "@language" : "fr",
+    "@value" : "Faunitaxys :  Revue de Faunistique, Taxonomie et Systématique morphologique et moléculaire"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2013"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.faunitaxys.fr"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2269-6016"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "79A36B2E-F645-4F9A-AE2B-ED32CE6771CC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2970-4960"
+  }, {
+    "@value" : "2269-6016"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Faunitaxys"
+  } ]
+} ]

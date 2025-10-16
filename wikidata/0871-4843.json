@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755643",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Archos Mus. Bocage"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0871-4843"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0871-4843"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Museu Bocage. Arquivos"
+  }, {
+    "@language" : "pt",
+    "@value" : "Arquivos do Museu Bocage"
+  } ]
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385880",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Terrestrial arthropod reviews"
+  }, {
+    "@language" : "en",
+    "@value" : "Terrestrial arthropod reviews"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "103403"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2008"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://booksandjournals.brillonline.com/content/journals/18749836/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1874-9828"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S206189041"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2015"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1874-9836"
+  }, {
+    "@value" : "1874-9828"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Terrestrial Arthropod Reviews"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753431",
+  "http://example.com/crossref" : [ {
+    "@value" : "2764"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dx.doi.org/10.1007/11230.1573-5192"
+  }, {
+    "@id" : "http://www.springer.com/life+sciences/animal+sciences/journal/11230"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0165-5752"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S105078976"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "8E4A2D57-63C6-4FFA-98E7-371041EDA042"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0165-5752"
+  }, {
+    "@value" : "1573-5192"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Systematic Parasitology"
+  } ]
+} ]

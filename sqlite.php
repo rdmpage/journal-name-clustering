@@ -83,11 +83,11 @@ function obj_to_sql($obj, $table_name = 'table')
 		}
 	    elseif (is_array($v))
 		{
-			$values[] = "'" . str_replace("'", "''", json_encode(array_values($v))) . "'";
+			$values[] = "'" . str_replace("'", "''", json_encode(array_values($v), JSON_UNESCAPED_UNICODE)) . "'";
 		}
 		elseif(is_object($v))
 		{
-			$values[] = "'" . str_replace("'", "''", json_encode($v)) . "'";
+			$values[] = "'" . str_replace("'", "''", json_encode($v, JSON_UNESCAPED_UNICODE)) . "'";
 		}
 		/*
 		elseif (preg_match('/^POINT/', $v))

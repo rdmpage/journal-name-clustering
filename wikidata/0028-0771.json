@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385605",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Naturalist"
+  }, {
+    "@language" : "en",
+    "@value" : "Naturalist (Leeds)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "95438"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1865"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0028-0771"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764936778"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0028-0771"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Naturalist: Journal of Natural History for the North of England"
+  }, {
+    "@language" : "en",
+    "@value" : "Naturalist"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q45096911",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Hoshizaki Gurīn Zaidan kenkyū hōkoku"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1343-0807"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1343-0807"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Hoshizaki Green Foundation"
+  }, {
+    "@language" : "ja",
+    "@value" : "ホシザキグリーン財団研究報告"
+  }, {
+    "@language" : "mul",
+    "@value" : "Hoshizaki Gurīn Zaidan kenkyū hōkoku"
+  } ]
+} ]

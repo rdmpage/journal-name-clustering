@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96702781",
+  "http://example.com/crossref" : [ {
+    "@value" : "295212"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://fsj.um.fo/ojs/index.php/frit"
+  }, {
+    "@id" : "http://fsj.um.fo/ojs/index.php/frit/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0367-1704"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210168425"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0367-1704"
+  }, {
+    "@value" : "2445-6144"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fo",
+    "@value" : "Fróðskaparrit"
+  } ]
+} ]

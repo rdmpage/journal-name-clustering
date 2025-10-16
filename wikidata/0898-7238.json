@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51439215",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Allan Hancock Atl. exped."
+  }, {
+    "@language" : "en",
+    "@value" : "Allan Hancock Atl. exped. reports"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "5077"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1945"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0898-7238"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0898-7238"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Allan Hancock Atlantic expedition"
+  } ]
+} ]

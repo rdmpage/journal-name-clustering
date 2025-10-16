@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50817254",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "LOL"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "301901"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2378-2242"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://aslopubs.onlinelibrary.wiley.com/journal/23782242"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2378-2242"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210223211"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2378-2242"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Limnology and oceanography letters"
+  } ]
+} ]

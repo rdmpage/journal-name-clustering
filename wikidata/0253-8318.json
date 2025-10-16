@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767673",
+  "http://example.com/crossref" : [ {
+    "@value" : "313562"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2074-7764"
+  }, {
+    "@value" : "0253-8318"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.pvj.com.pk"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0253-8318"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S12629481"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2074-7764"
+  }, {
+    "@value" : "0253-8318"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Pakistan Veterinary Journal"
+  } ]
+} ]

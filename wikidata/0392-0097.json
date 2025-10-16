@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22110424",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Mem. Mus. Civ. Stör. nat. Verona"
+  }, {
+    "@language" : "en",
+    "@value" : "Mem. Mus. Civ. Stör. nat. Verona"
+  }, {
+    "@language" : "es",
+    "@value" : "Mem. Mus. Civ. Stör. nat. Verona"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mem. Mus. Civ. Stör. nat. Verona"
+  }, {
+    "@language" : "pt",
+    "@value" : "Mem. Mus. Civ. Stör. nat. Verona"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0392-0097"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0392-0097"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Memorie del Museo Civico di Storia Naturale di Verona. 2a Serie. Sezione A scienze della vita"
+  }, {
+    "@language" : "mul",
+    "@value" : "Memorie del Museo Civico di Storia Naturale di Verona. Sezione Scienze della Vita"
+  }, {
+    "@language" : "it",
+    "@value" : "Memorie del Museo Civico di Storia Naturale di Verona"
+  } ]
+} ]

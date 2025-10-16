@@ -1,0 +1,59 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q11134281",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Proc. Acad. Nat. Sci. Philadelphia"
+  }, {
+    "@language" : "en",
+    "@value" : "Proc. Acad. Nat. Sci. Philadelphia"
+  }, {
+    "@language" : "en",
+    "@value" : "Proc. Acad. Nat. Sci. Phila."
+  }, {
+    "@language" : "en",
+    "@value" : "Academy of Natural Sciences of Philadelphia. Proceedings"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6885"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57150"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1841"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://bioone.org/bioone/?request=get-journals-list&issn=0097-3157"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0097-3157;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00973157.html"
+  }, {
+    "@id" : "https://ansp.org/research/systematics-evolution/resources/scientific-publications/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0097-3157"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "procacadnatuscie"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210231473"
+  }, {
+    "@value" : "S4306523948"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E69C08C0-DA92-4AD2-B656-B3DCECFBF0C1"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0097-3157"
+  }, {
+    "@value" : "1938-5293"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Academy of Natural Sciences of Philadelphia"
+  } ]
+} ]

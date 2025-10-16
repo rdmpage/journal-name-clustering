@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6087096",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Proc. Linn. Soc. New South Wales"
+  }, {
+    "@language" : "en",
+    "@value" : "Proc. Linn. Soc. N.S. W."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6525"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1875"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210212754"
+  }, {
+    "@value" : "S4306524262"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D957F456-8074-45EA-9F96-9A6669BAE2C1"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-047X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Linnean Society of New South Wales"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q6087098",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Linnean Society of New South Wales. Proceedings"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Linnean Society of New South Wales, Series 2"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D957F456-8074-45EA-9F96-9A6669BAE2C1"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-047X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Linnean Society of New South Wales"
+  } ]
+} ]

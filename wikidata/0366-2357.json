@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5731499",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Boletin de la Sociedad Venezolana de Ciencias Naturales"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletín - Sociedad Venezolana de Ciencias Naturales"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletin de la Sociedad Venezolana de Ciencias Naturales"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.svcn.org.ve/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-2357"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0366-2357"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletín - Sociedad Venezolana de Ciencias Naturales"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletín de la Sociedad Venezolana de Ciencias Naturales"
+  } ]
+} ]

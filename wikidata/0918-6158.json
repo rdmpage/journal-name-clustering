@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754240",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Biol. Pharm. Bull."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biological & Pharmaceutical Bulletin"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "6412"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://bpb.pharm.or.jp/"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/bpb/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0918-6158"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "bpb"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S165235614"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0918-6158"
+  }, {
+    "@value" : "1347-5215"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biological and Pharmaceutical Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Biological & pharmaceutical bulletin"
+  } ]
+} ]

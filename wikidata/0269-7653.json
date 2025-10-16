@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767378",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0269-7653"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2847"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dx.doi.org/10.1007/10682.1573-8477"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0269-7653"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S172494440"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1573-8477"
+  }, {
+    "@value" : "0269-7653"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Evolutionary Ecology"
+  } ]
+} ]

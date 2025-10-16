@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761516",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Royal Society of New South Wales. Journal and Proceedings"
+  }, {
+    "@language" : "en",
+    "@value" : "J. proc. R. Soc. N.S. W."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "52324"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1867"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.archive.org/details/jourprocroysocsw27walerich"
+  }, {
+    "@id" : "https://royalsoc.org.au/society-publications/current-issue"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0035-9173"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306515190"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0035-9173"
+  }, {
+    "@value" : "2653-1305"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal and proceedings of the Royal Society of New South Wales"
+  } ]
+} ]

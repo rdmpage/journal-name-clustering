@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27708737",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Microbiol Acad Sci Hung"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-6187"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2755028554"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-6187"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta microbiologica Academiae Scientiarum Hungaricae"
+  }, {
+    "@language" : "mul",
+    "@value" : "Acta microbiologica Academiae Scientiarum Hungaricae"
+  } ]
+} ]

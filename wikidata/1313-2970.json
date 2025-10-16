@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q219980",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "ZooKeys"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "76599"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1313-2989"
+  }, {
+    "@value" : "1313-2970"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2008"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://zookeys.pensoft.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1313-2970"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S199213172"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://zookeys.pensoft.net/rss.php"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "91BD42D4-90F1-4B45-9350-EEF175B1727A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1313-2989"
+  }, {
+    "@value" : "1313-2970"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "ZooKeys"
+  } ]
+} ]

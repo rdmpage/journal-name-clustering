@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113544543",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Yūgatō"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1959"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0387-5695"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0387-5695"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "誘蛾灯"
+  }, {
+    "@language" : "en",
+    "@value" : "Yugato"
+  } ]
+} ]

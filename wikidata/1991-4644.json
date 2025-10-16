@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q130683351",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.museonoelkempff.org/kempffiana.htm"
+  }, {
+    "@id" : "https://museonoelkempff.org/museo/acerca-de-kempffiana/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1991-4644"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1991-4644"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Kempffiana"
+  } ]
+} ]

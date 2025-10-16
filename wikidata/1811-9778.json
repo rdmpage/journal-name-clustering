@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752711",
+  "http://example.com/crossref" : [ {
+    "@value" : "83242"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ansinet.org/ijzr"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1811-9778"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S165485033"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1811-9778"
+  }, {
+    "@value" : "1811-9786"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Zoological Research"
+  } ]
+} ]

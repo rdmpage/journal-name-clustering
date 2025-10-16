@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759270",
+  "http://example.com/crossref" : [ {
+    "@value" : "66683"
+  }, {
+    "@value" : "45078"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1968"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bearbiology.com/index.php?id=133"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "ursus"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S84400622"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1537-6176"
+  }, {
+    "@value" : "1936-0614"
+  }, {
+    "@value" : "1938-5439"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Ursus"
+  } ]
+} ]

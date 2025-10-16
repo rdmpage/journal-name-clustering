@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385665",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Evraziatskii Entomologicheskii Zhurnal"
+  }, {
+    "@language" : "en",
+    "@value" : "Evraziatskij èntomologičeskij žurnal"
+  }, {
+    "@language" : "ru",
+    "@value" : "Evraziatskij èntomologičeskij žurnal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "376969"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2002"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.kmkjournals.com/journals/EEJ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1684-4866"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210240064"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "23B8BE2C-D510-493B-8F90-A2004B35C2A8"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1684-4866"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Евразиатский энтомологический журнал"
+  }, {
+    "@language" : "en",
+    "@value" : "Euroasian Entomological Journal"
+  } ]
+} ]

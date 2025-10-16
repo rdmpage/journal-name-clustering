@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96324909",
+  "http://example.com/crossref" : [ {
+    "@value" : "308675"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0327-5477"
+  }, {
+    "@value" : "1667-782X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.org.ar/scielo.php?script=sci_serial&pid=1667-782X&lng=es&nrm=iso"
+  }, {
+    "@id" : "https://ojs.ecologiaaustral.com.ar/index.php/Ecologia_Austral"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0327-5477"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210192115"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1667-782X"
+  }, {
+    "@value" : "0327-5477"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Ecología austral"
+  } ]
+} ]

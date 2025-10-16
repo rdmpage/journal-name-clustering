@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50808147",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The South of Russia: Ecology, Development"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "295373"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1992-1098"
+  }, {
+    "@value" : "2413-0958"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ecodag.elpub.ru/index.php/ugro"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1992-1098"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210213972"
+  }, {
+    "@value" : "S4306400779"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1992-1098"
+  }, {
+    "@value" : "2413-0958"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Ûg Rossii: èkologiâ, razvitie"
+  } ]
+} ]

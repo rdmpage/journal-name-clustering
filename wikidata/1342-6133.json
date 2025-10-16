@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96709536",
+  "http://example.com/crossref" : [ {
+    "@value" : "134885"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jjzwm/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1342-6133"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jjzwm"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210219825"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2185-744X"
+  }, {
+    "@value" : "1342-6133"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Japanese journal of zoo and wildlife medicine"
+  } ]
+} ]

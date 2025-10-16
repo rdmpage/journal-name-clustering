@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15816969",
+  "http://example.com/crossref" : [ {
+    "@value" : "52401"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/15749541"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/ecological-informatics"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1574-9541"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S195809937"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1878-0512"
+  }, {
+    "@value" : "1574-9541"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecological Informatics"
+  } ]
+} ]

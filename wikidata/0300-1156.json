@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16612337",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Norweg. J. Bot."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0300-1156"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0300-1156"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Norwegian Journal of Botany"
+  } ]
+} ]

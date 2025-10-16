@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757945",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "Прикембриан"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1791"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/precambrian-research/"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S1025118869"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0301-9268"
+  }, {
+    "@value" : "1872-7433"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Precambrian Research"
+  } ]
+} ]

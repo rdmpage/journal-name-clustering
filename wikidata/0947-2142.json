@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q136298359",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.naturkundemuseum-erfurt.de/wissenschaft/publikationen/thueringer-faunistische-abhandlungen/"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0947-2142"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Thüringer Faunistische Abhandlungen"
+  } ]
+} ]

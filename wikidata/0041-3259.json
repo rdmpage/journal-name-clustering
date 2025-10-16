@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1496261",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "TFH"
+  }, {
+    "@language" : "fr",
+    "@value" : "TFH"
+  }, {
+    "@language" : "de",
+    "@value" : "TFH"
+  }, {
+    "@language" : "en",
+    "@value" : "TFH Magazine"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1952"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tfhmagazine.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0041-3259"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0041-3259"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Tropical Fish Hobbyist"
+  } ]
+} ]

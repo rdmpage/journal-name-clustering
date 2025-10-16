@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15817902",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://repository.dl.itc.u-tokyo.ac.jp/search?search_type=2&q=7165"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1349-3000"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764930438"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1349-3000"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Coastal Marine Science"
+  } ]
+} ]

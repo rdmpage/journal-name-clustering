@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386270",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "RARE. Revue de l'Association roussillonnaise d'entomologie"
+  }, {
+    "@language" : "fr",
+    "@value" : "Revue de l’Association Roussillonnaise d’Entomologie"
+  }, {
+    "@language" : "ja",
+    "@value" : "ルシヨン昆虫学会誌"
+  }, {
+    "@language" : "en",
+    "@value" : "RARE"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1288-5509"
+  }, {
+    "@language" : "en",
+    "@value" : "Revue de l’Association Roussillonnaise d’Entomologie"
+  }, {
+    "@language" : "es",
+    "@value" : "Revue de l’Association Roussillonnaise d’Entomologie"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://r-a-r-e.fr/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1288-5509"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1288-5509"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "RARE. Revue de l'Association roussillonnaise d'entomologie"
+  } ]
+} ]

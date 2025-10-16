@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3008208",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sfi.mnhn.fr/cybium/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0399-0974"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S65915605"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0399-0974"
+  }, {
+    "@value" : "2101-0315"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Cybium"
+  }, {
+    "@language" : "fr",
+    "@value" : "Cybium: revue internationale d'ichtyologie"
+  } ]
+} ]

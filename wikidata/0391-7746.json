@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385941",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Animalia (Catania)"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0391-7746"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0391-7746"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "8E4D39BE-8715-464B-95AC-E1D6E4DFEDA1"
+  }, {
+    "@value" : "BD11977D-5122-4AA4-9163-D090BD8E0252"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0391-7746"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Animalia"
+  } ]
+} ]

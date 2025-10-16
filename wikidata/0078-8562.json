@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q11802291",
+  "http://example.com/crossref" : [ {
+    "@value" : "136085"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1929"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.palaeontologia.pan.pl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-8562"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0078-8562"
+  }, {
+    "@value" : "2300-8598"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Palaeontologia Polonica"
+  } ]
+} ]

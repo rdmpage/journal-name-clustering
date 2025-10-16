@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385586",
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://islandbiodiversity.com/phelsuma.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1026-5023"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A29B7EFA-D11E-4A98-A519-377CA7DA978D"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1026-5023"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Phelsuma"
+  } ]
+} ]

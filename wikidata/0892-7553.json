@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756979",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Insect Behaviour"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2921"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0892-7553;screen=info;ECOIP"
+  }, {
+    "@id" : "http://link.springer.com/journal/10905"
+  }, {
+    "@id" : "http://www.kluweronline.com/issn/0892-7553/contents"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0892-7553"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S142362986"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1572-8889"
+  }, {
+    "@value" : "0892-7553"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Insect Behavior"
+  } ]
+} ]

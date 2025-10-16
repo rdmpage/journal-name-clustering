@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762056",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Zhejiang University - Science B (Biomedicine & Biotechnology)"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Zhejiang University. Science"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Zhejiang University. Science B"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "52358"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springerlink.com/content/119967"
+  }, {
+    "@id" : "http://www.zju.edu.cn/jzus/Archive.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1673-1581"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210219348"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1009-3095"
+  }, {
+    "@value" : "1862-1783"
+  }, {
+    "@value" : "1673-1581"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Zhejiang University. Science B"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Zhejiang University. Science. B"
+  } ]
+} ]

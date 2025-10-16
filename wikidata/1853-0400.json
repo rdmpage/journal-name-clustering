@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7318501",
+  "http://example.com/crossref" : [ {
+    "@value" : "301738"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1514-5158"
+  }, {
+    "@value" : "1853-0400"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://revista.macn.gob.ar/ojs/index.php/RevMus/"
+  }, {
+    "@id" : "http://www.macn.secyt.gov.ar/cont_Publicaciones/pub_presentacion.php"
+  }, {
+    "@id" : "http://www.scielo.org.ar/scielo.php?script=sci_serial&pid=1853-0400&lng=es&nrm=iso"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1514-5158"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2739372997"
+  }, {
+    "@value" : "S4210179345"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1514-5158"
+  }, {
+    "@value" : "1853-0400"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista del Museo Argentino de Ciencias Naturales"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista del Museo Argentino de Ciencias Naturales"
+  } ]
+} ]

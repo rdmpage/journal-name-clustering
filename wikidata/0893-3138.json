@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q59420609",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bishop Museum bulletin in botany"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://hbs.bishopmuseum.org/pubs-online/bpbm-bulletins.html"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/15478075.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0893-3138"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2376-3078"
+  }, {
+    "@value" : "0893-3138"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bishop Museum bulletin in botany"
+  } ]
+} ]

@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15374958",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0253-1453"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "48138"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "238"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://link.springer.com/journal/35/volumes-and-issues"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0253-1453"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S43321352"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1420-9063"
+  }, {
+    "@value" : "0253-1453"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Botanica Helvetica"
+  }, {
+    "@language" : "la",
+    "@value" : "Botanica Helvetica"
+  } ]
+} ]

@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758019",
+  "http://example.com/crossref" : [ {
+    "@value" : "305745"
+  }, {
+    "@value" : "45124"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1517-8382"
+  }, {
+    "@value" : "1678-4405"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://link.springer.com/journal/42770"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/brazilian-journal-of-microbiology"
+  }, {
+    "@id" : "https://www.scielo.br/bjm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1517-8382"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S70014682"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1678-4405"
+  }, {
+    "@value" : "1517-8382"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Brazilian Journal of Microbiology"
+  } ]
+} ]

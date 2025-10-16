@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3521439",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Bird-banding"
+  }, {
+    "@language" : "fr",
+    "@value" : "The Journal of Field Ornithology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "54288"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1557-9263"
+  }, {
+    "@value" : "0273-8570"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1980"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/9965"
+  }, {
+    "@id" : "http://elibrary.unm.edu/sora/JFO/index.php"
+  }, {
+    "@id" : "http://www.afonet.org/JFO/"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=0273-8570"
+  }, {
+    "@id" : "http://www.jstor.org/journals/02738570.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0273-8570"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jfielorni"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S197402693"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1557-9263"
+  }, {
+    "@value" : "0273-8570"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Field Ornithology"
+  } ]
+} ]

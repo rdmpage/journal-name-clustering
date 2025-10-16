@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96695849",
+  "http://example.com/crossref" : [ {
+    "@value" : "376802"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2688-8319"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://besjournals.onlinelibrary.wiley.com/journal/26888319"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2688-8319"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210194329"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2688-8319"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecological solutions and evidence"
+  } ]
+} ]

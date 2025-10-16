@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16361298",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0320-3743"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0320-3743"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Latvijas entomologs"
+  } ]
+} ]

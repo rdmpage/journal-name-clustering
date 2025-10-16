@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386233",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Annot. Zool. Bot."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210198583"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "7DA1C4FA-EE9F-4F3A-BF28-CB8756A5BA9C"
+  }, {
+    "@value" : "ADBDCD5C-DC8D-4ABA-9FEB-E6B3BA5D7E5A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0570-202X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Annotationes zoologicae et botanicae"
+  } ]
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15635403",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Aroideana: Journal of the International Aroid Society"
+  }, {
+    "@language" : "es",
+    "@value" : "Aroideana"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.aroid.org/"
+  }, {
+    "@id" : "http://www.aroid.org/aroideana/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0197-4033"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306503065"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "BC0C3CE5-1249-4CAB-BB52-8F1EE361524A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0197-4033"
+  }, {
+    "@value" : "2310-0745"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Aroideana"
+  } ]
+} ]

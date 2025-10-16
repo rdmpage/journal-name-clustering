@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765100",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://pjvm-ph.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0031-7705"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764400608"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2984-763X"
+  }, {
+    "@value" : "0031-7705"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Philippine Journal of Veterinary Medicine"
+  } ]
+} ]

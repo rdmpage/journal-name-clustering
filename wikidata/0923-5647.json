@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q110755756",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0923-5647"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0923-5647"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Cranium"
+  } ]
+} ]

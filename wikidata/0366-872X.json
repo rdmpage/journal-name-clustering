@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27954609",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0366-872X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1948"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.naturhistorischerverein.de/_publikationen/publikation_katalog-der-nhv-reihen.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-872X"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "5E20183A-C54C-4803-BF17-91AAB36C29D9"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0366-872X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Decheniana"
+  }, {
+    "@language" : "de",
+    "@value" : "Decheniana"
+  } ]
+} ]

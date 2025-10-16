@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757553",
+  "http://example.com/crossref" : [ {
+    "@value" : "72218"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2083-4594"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210198143"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2083-4594"
+  }, {
+    "@value" : "0033-2003"
+  }, {
+    "@value" : "1898-6773"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Anthropological Review"
+  } ]
+} ]

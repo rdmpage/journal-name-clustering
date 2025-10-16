@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3668609",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Memoria de la Sociedad de Ciencias Naturales La Salle"
+  }, {
+    "@language" : "en",
+    "@value" : "Memoria de la Fundacion La Salle de Ciencias Naturales"
+  }, {
+    "@language" : "en",
+    "@value" : "Memoria de la Sociedad de Ciencias Naturales La Salle"
+  }, {
+    "@language" : "es",
+    "@value" : "Memoria de la Fundacion La Salle de Ciencias Naturales"
+  }, {
+    "@language" : "es",
+    "@value" : "Memoria de la Sociedad de Ciencias Naturales La Salle"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://saber.ucv.ve/ojs/index.php/rev_mem/index"
+  }, {
+    "@id" : "http://www.fundacionlasalle.org.ve"
+  }, {
+    "@id" : "http://www.fundacionlasalle.org.ve/REVISTA%20MEMORIA"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0037-8518"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306519710"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "02837F2D-112F-4FD3-9657-1281654290A1"
+  }, {
+    "@value" : "9623D209-340B-4289-A824-63CB78F0D5C0"
+  }, {
+    "@value" : "C069BA90-E78C-40CB-B961-C8CD5D457F6B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2443-4698"
+  }, {
+    "@value" : "0037-8518"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Memoria de la Fundación La Salle de Ciencias Naturales"
+  } ]
+} ]

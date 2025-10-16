@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124340563",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://real-j.mtak.hu/view/journal/Fragmenta_Faunistica_Hungarica.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0200-9196"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0200-9196"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "hu",
+    "@value" : "Fragmenta faunistica Hungarica"
+  }, {
+    "@language" : "la",
+    "@value" : "Fragmenta Faunistica Hungarica"
+  } ]
+} ]

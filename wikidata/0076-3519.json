@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1637051",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Mamm. Species"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "37358"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1969"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.asmjournals.org"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=1545-1410"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00763519.html"
+  }, {
+    "@id" : "https://academic.oup.com/mspecies"
+  }, {
+    "@id" : "https://mspecies.oxfordjournals.org/content/by/year"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0076-3519"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "mammalianspecies"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S162791694"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1545-1410"
+  }, {
+    "@value" : "0076-3519"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Mammalian Species"
+  } ]
+} ]

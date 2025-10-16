@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385098",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ekológia (Bratislava)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "85066"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1337-947X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://147.213.211.222/taxonomy/term/700"
+  }, {
+    "@id" : "http://www.sopsr.sk/web/?cl=51"
+  }, {
+    "@id" : "https://content.sciendo.com/view/journals/eko/eko-overview.xml"
+  }, {
+    "@id" : "https://portal.webdepozit.sk/webapp-portal/search-eborn?q=Ekol%C3%B3gia.&m=2451%23%24a"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1335-342X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1338-0745"
+  }, {
+    "@value" : "1337-947X"
+  }, {
+    "@value" : "1335-342X"
+  }, {
+    "@value" : "1335-7921"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ekológia"
+  } ]
+} ]

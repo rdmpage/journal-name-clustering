@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385632",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Shijie dizhi"
+  }, {
+    "@language" : "en",
+    "@value" : "Global Geology (English Edition)"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1673-9736"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1673-9736"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306540943"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1673-9736"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Global Geology"
+  } ]
+} ]

@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q104688728",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Saikyō Daigaku gakujutsu hōkoku. Nōgaku"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0370-9329"
+  }, {
+    "@language" : "ja",
+    "@value" : "西京大学学術報告. 農学"
+  }, {
+    "@language" : "en",
+    "@value" : "The Scientific Reports of the Saikyo University (Agriculture)"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1951"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://kpu.repo.nii.ac.jp/search?search_type=2&q=276"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-9329"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1958"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-9329"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Scientific Reports of the Saikyo University. Agriculture"
+  }, {
+    "@language" : "ja",
+    "@value" : "西京大學學術報告．農學"
+  }, {
+    "@language" : "mul",
+    "@value" : "Saikyō Daigaku gakujutsu hōkoku. Nōgaku"
+  } ]
+} ]

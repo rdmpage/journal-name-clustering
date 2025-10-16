@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5656888",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Phytotax. Geobot."
+  }, {
+    "@language" : "en",
+    "@value" : "APG"
+  }, {
+    "@language" : "de",
+    "@value" : "Acta Phytotax. Geobot."
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "17"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/apg/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1346-7565"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "apg"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1346-7565"
+  }, {
+    "@value" : "2189-7042"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Phytotaxonomica et Geobotanica"
+  }, {
+    "@language" : "en",
+    "@value" : "APG"
+  }, {
+    "@language" : "ja",
+    "@value" : "植物分類，地理"
+  } ]
+} ]

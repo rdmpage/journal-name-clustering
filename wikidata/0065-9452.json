@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27718151",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Anthropol Pap Am Mus Nat Hist"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "144465"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/16486"
+  }, {
+    "@id" : "http://digitallibrary.amnh.org/dspace/handle/2246/6"
+  }, {
+    "@id" : "http://digitallibrary.amnh.org/handle/2246/6"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0065-9452"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210213348"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0065-9452"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Anthropological papers of the American Museum of Natural History"
+  } ]
+} ]

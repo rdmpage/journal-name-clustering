@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15375181",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Overs. Kongel. Danske Vidensk. Selsk. Forh. Medlemmers Arbeider"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "42570"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1815"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0369-7169"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0369-7169"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de l'Académie royale des sciences et des lettres de Danemark"
+  }, {
+    "@language" : "da",
+    "@value" : "Oversigt over det Kongelige Danske Videnskabernes Selskabs Forhandlinger"
+  } ]
+} ]

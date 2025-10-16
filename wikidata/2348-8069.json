@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96710453",
+  "http://example.com/crossref" : [ {
+    "@value" : "301569"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ijarbs.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2348-8069"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764833750"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2348-8069"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International journal of advanced research in biological sciences"
+  } ]
+} ]

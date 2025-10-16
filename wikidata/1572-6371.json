@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385497",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1572-6371"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.spirula.nl/vita-malacologica-14/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1572-6371"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "CC629B68-9A1D-40DD-B96A-2327D8CA0146"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1572-6371"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Vita malacologica"
+  } ]
+} ]

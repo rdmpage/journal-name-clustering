@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27650438",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. Natl. Mus. Nat. Sci., Ser. B"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.kahaku.go.jp/english/research/publication/botany.html"
+  }, {
+    "@id" : "https://www.kahaku.go.jp/english/research/publication/botany_supplement.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1881-9060"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "bnmnsbot"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764741079"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2434-0936"
+  }, {
+    "@value" : "1881-9060"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the National Museum of Nature and Science. Series B, Botany"
+  } ]
+} ]

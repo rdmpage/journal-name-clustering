@@ -1,0 +1,63 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386125",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ann. Hist.-Nat. Mus. Natl. Hung."
+  }, {
+    "@language" : "en",
+    "@value" : "Annales Musei historico-naturalis hungarici"
+  }, {
+    "@language" : "fr",
+    "@value" : "Ann. Hist.-Nat. Mus. Natl. Hung."
+  }, {
+    "@language" : "en",
+    "@value" : "Természettudományi Múzeum evkönyve"
+  }, {
+    "@language" : "de",
+    "@value" : "Ann. Hist.-Nat. Mus. Natl. Hung."
+  }, {
+    "@language" : "en",
+    "@value" : "Annls hist.-nat. Mus. nat. hung."
+  }, {
+    "@language" : "es",
+    "@value" : "Ann. Hist.-Nat. Mus. Natl. Hung."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "151399"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1903"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://annales.nhmus.hu"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0521-4726"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306502210"
+  }, {
+    "@value" : "S4210174342"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1934"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "0AFDEC18-6F06-471E-9A90-DCF4C402B6EC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0521-4726"
+  }, {
+    "@value" : "2786-1368"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "hu",
+    "@value" : "Természettudományi Múzeum évkönyve"
+  }, {
+    "@language" : "la",
+    "@value" : "Annales historico-naturales Musei Nationalis Hungarici"
+  }, {
+    "@language" : "la",
+    "@value" : "Annales Musei historico-naturalis hungarici"
+  } ]
+} ]

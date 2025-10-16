@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1888806",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Botanical Review"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57312"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "239"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sciweb.nybg.org/science2/BotanicalReview.asp"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=0006-8101"
+  }, {
+    "@id" : "http://www.jstor.org/journals/000618101.html"
+  }, {
+    "@id" : "http://www.springerlink.com/content/0006-8101"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-8101"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "botarevi"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S285199"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "11385270-6EE7-4339-854B-DB238E7C2D2D"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0006-8101"
+  }, {
+    "@value" : "1874-9372"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Botanical Review"
+  } ]
+} ]

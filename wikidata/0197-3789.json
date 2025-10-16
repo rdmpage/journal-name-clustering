@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6455365",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0197-3789"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Amer. Bamboo Soc."
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of the American Bamboo Society"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://resolver.library.cornell.edu/misc/5113738"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/75424"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0197-3789"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0197-3789"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of the American Bamboo Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the American Bamboo Society"
+  } ]
+} ]

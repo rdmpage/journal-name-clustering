@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q53997685",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Ornithologische Fachzeitschrift aus Österreich"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1958"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.birdlife.at/page/egretta"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-2373"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0013-2373"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Egretta"
+  } ]
+} ]

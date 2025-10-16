@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q117834791",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Revista de la Academia de Ciencias Zaragoza"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista de la Academia de Ciencias Exactas, Físico-Químicas y Naturales de Zaragoza"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "5993"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-3207"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306526850"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-3207"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista de la Academia de Ciencias Exactas, Físicas, Químicas y Naturales de Zaragoza"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista de la Academia de Ciencias Exactas, Físico-Químicas y Naturales de Zaragoza"
+  } ]
+} ]

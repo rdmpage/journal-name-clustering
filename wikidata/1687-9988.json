@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96726357",
+  "http://example.com/crossref" : [ {
+    "@value" : "329207"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://jva.journals.ekb.eg"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1687-9988"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210199708"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1687-9988"
+  }, {
+    "@value" : "2357-0504"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Veterinary Anatomy"
+  } ]
+} ]

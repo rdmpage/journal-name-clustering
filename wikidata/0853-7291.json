@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50478689",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Indonesian Journal of Marine Sciences"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297516"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2406-7598"
+  }, {
+    "@value" : "0853-7291"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ejournal.undip.ac.id/index.php/ijms"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0853-7291"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0853-7291"
+  }, {
+    "@value" : "2406-7598"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Ilmu kelautan"
+  } ]
+} ]

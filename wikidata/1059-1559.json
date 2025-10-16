@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q37408732",
+  "http://example.com/bhl" : [ {
+    "@value" : "8145"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297341"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1913"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1059-1559"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764899708"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1926"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1059-1559"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Insecutor inscitiae menstruus"
+  } ]
+} ]

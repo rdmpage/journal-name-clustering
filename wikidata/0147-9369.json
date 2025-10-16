@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751505",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/84301"
+  }, {
+    "@id" : "http://books.google.com/books?id=GLggAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=prsgAQAAMAAJ"
+  }, {
+    "@id" : "http://digitalcommons.gaacademy.org/gjs/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0147-9369"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2169-8481"
+  }, {
+    "@value" : "0147-9369"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Georgia Journal of Science"
+  } ]
+} ]

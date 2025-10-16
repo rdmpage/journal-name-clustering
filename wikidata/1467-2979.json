@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755688",
+  "http://example.com/crossref" : [ {
+    "@value" : "3616"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=faf"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1467-2960"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S103284624"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1467-2979"
+  }, {
+    "@value" : "1467-2960"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fish and Fisheries"
+  } ]
+} ]

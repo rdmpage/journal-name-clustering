@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21384963",
+  "http://example.com/from_year" : [ {
+    "@value" : "1954"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-7264"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "9AACF952-5ACA-405A-AAB8-D577ED9A8B9B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-7264"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta zoologica Academiae Scientiarum Hungaricae"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Zoologica Academiae Scientiarum Hungaricae"
+  } ]
+} ]

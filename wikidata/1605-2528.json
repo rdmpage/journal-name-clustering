@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q20014648",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Ecologia en Bolivia"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "300358"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "9487"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://editorenjefe.ecologiabolivia.googlepages.com/"
+  }, {
+    "@id" : "http://www.scielo.org.bo/scielo.php?script=sci_issuetoc&pid=1605-252820140001&lng=en&nrm=iso"
+  }, {
+    "@id" : "http://www.scielo.org.bo/scielo.php?script=sci_serial&pid=1605-2528&lng=en&nrm=iso"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1605-2528"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210212764"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2075-5023"
+  }, {
+    "@value" : "1605-2528"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Ecología en Bolivia"
+  } ]
+} ]

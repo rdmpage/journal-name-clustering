@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726571",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Int J Biol Pharm Allied Sci"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "313979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ijbpas.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2277-4998"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210195347"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2277-4998"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International journal of biology, pharmacy and allied sciences"
+  } ]
+} ]

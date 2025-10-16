@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385039",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0778-4767"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0778-4767"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Gloria Maris"
+  }, {
+    "@language" : "und",
+    "@value" : "Gloria maris"
+  } ]
+} ]

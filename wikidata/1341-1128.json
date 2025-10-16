@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385117",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1341-1128"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1341-1128"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Special bulletin of the Japanese Society of Coleopterology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Special bulletin of the Japanese Society of Coleopterology"
+  } ]
+} ]

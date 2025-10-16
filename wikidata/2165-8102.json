@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26853826",
+  "http://example.com/crossref" : [ {
+    "@value" : "195365"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2013"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.annualreviews.org/journal/animal"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2165-8102"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2491293328"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2165-8110"
+  }, {
+    "@value" : "2165-8102"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annual review of animal biosciences"
+  } ]
+} ]

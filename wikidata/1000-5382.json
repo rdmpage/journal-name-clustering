@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722644",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Dongbei linye daxue xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Dongbei Lin Ye Da Xue Xue Bao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "DBLY"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-5382"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764556269"
+  }, {
+    "@value" : "S4306508337"
+  }, {
+    "@value" : "S4306541048"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-5382"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Dongbei linye daxue xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "东北林业大学学报"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Northeast Forestry University"
+  } ]
+} ]

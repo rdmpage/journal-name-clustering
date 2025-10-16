@@ -1,0 +1,15 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q105203183",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0023-1339"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0935-6215"
+  }, {
+    "@value" : "0023-1339"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Kieler Meeresforschungen"
+  } ]
+} ]

@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22110019",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "New J. Bot."
+  }, {
+    "@language" : "en",
+    "@value" : "New J. Bot."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "143665"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1949"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ingentaconnect.com/content/maney/njb"
+  }, {
+    "@id" : "http://www.maneyonline.com/loi/njb"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/ynjb20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2042-3489"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S148775277"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2042-3489"
+  }, {
+    "@value" : "2042-3497"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "New Journal of Botany"
+  } ]
+} ]

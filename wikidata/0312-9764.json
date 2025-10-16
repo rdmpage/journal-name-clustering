@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7697818",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Telopea - Journal of Plant Systematics"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "157010"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "193545"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1975"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://openjournals.library.sydney.edu.au/index.php/TEL/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0312-9764"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S74377273"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2200-4025"
+  }, {
+    "@value" : "0312-9764"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Telopea"
+  } ]
+} ]

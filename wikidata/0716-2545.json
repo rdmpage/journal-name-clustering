@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q20013547",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Bol. Mus. Nac. Chile"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletín del Museo Nacional de Chile"
+  }, {
+    "@language" : "en",
+    "@value" : "Bol. Mus. Nac. Chile"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "45466"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1908"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0716-2545"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1929"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0716-2545"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletín del Museo Nacional de Chile"
+  } ]
+} ]

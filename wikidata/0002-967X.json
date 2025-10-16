@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21384983",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of the American Killifish Association"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0002-967X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0002-967X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the American Killifish Association"
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of the American Killifish Association"
+  } ]
+} ]

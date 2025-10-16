@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385606",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1028-6764"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1028-6764"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Quadrifina"
+  } ]
+} ]

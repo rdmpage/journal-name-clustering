@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21173643",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zhongguo haiyang huzhao xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0254-4059"
+  }, {
+    "@language" : "en",
+    "@value" : "CJOL"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60884"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://cjol.qdio.ac.cn/"
+  }, {
+    "@id" : "http://www.jol343.com"
+  }, {
+    "@id" : "http://www.springer.com/west/home?SGWID=4-102-70-173618881-0&changeHeader=true"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0254-4059"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S106685023"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2017"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0254-4059"
+  }, {
+    "@value" : "1993-5005"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "中国海洋湖沼学报"
+  }, {
+    "@language" : "en",
+    "@value" : "Chinese journal of oceanology and limnology"
+  } ]
+} ]

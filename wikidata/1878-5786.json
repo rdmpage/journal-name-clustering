@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767179",
+  "http://example.com/crossref" : [ {
+    "@value" : "217346"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/13679120"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1367-9120"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S80045625"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1878-5786"
+  }, {
+    "@value" : "1367-9120"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Asian Earth Sciences"
+  } ]
+} ]

@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385327",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Latissimus: Newsletter of the Balfour-Browne Club"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0966-2235"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0966-2235"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Latissimus"
+  } ]
+} ]

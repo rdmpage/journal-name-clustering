@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758475",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Fern Gaz."
+  }, {
+    "@language" : "en",
+    "@value" : "Fern gaz."
+  }, {
+    "@language" : "en",
+    "@value" : "Fern Gaz."
+  }, {
+    "@language" : "en",
+    "@value" : "The Fern gazette"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "58803"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0308-0838"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0308-0838"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fern Gazette"
+  }, {
+    "@language" : "en",
+    "@value" : "The fern gazette"
+  } ]
+} ]

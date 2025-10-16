@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22227093",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Boll. Mus. Civico Storia Nat. Verona"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0392-0062"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "2238A769-89E5-429F-B613-1FE29BBF3B24"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0392-0062"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bollettino del Museo civico di storia naturale di Verona"
+  }, {
+    "@language" : "it",
+    "@value" : "Bollettino del Museo Civico di Storia Naturale di Verona"
+  } ]
+} ]

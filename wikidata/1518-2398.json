@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328263",
+  "http://example.com/crossref" : [ {
+    "@value" : "316761"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.pesquisasemgeociencias.ufrgs.br/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1518-2398"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210168328"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1518-2398"
+  }, {
+    "@value" : "1807-9806"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Pesquisas em geociências"
+  } ]
+} ]

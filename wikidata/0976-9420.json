@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329478",
+  "http://example.com/crossref" : [ {
+    "@value" : "300899"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://connectjournals.com/subscription_info.php?bookmark=CJ-002177"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0970-1893"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764556118"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0970-1893"
+  }, {
+    "@value" : "0976-9420"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Surface Science and Technology"
+  } ]
+} ]

@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q134452308",
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "41DE40C1-0D48-4829-A04E-6FFE54F11070"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0542-1535"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Mainzer naturwissenschaftliches Archiv"
+  } ]
+} ]

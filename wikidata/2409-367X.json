@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727226",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Zoobot Austria"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2014"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2409-367X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2409-367X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Acta ZooBot Austria"
+  } ]
+} ]

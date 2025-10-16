@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385440",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Monographs of the Upper Silesian Museum"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1508-9851"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1508-9851"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Monographs of the Upper Silesian Museum"
+  } ]
+} ]

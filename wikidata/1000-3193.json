@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q63769980",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Renleixue xuebao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "RLXB"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.anthropol.ac.cn/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-3193"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500250"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-3193"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "人类学学报"
+  } ]
+} ]

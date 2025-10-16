@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q24199498",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Z. Säugetierk."
+  }, {
+    "@language" : "en",
+    "@value" : "Z. Säugetierkd."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "85187"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1926"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0044-3468"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S122457620"
+  }, {
+    "@value" : "S4306535637"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0044-3468"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Zeitschrift für Säugetierkunde"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759453",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://hamadryad.org"
+  }, {
+    "@id" : "https://hamadryad.org/index.php/journal/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0972-205X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0972-205X"
+  }, {
+    "@value" : "2583-7818"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Hamadryad: journal of the centre for herpetology"
+  }, {
+    "@language" : "en",
+    "@value" : "Hamadryad"
+  } ]
+} ]

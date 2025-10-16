@@ -1,0 +1,55 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385585",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Museum of Comparative Zoology at Harvard College"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Mus. Comp. Zool."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "2803"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60707"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1863"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.mcz.harvard.edu/Publications/search_pubs.html?publication=bullmcz"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/40597"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/72898"
+  }, {
+    "@id" : "http://publications.mcz.harvard.edu/index.html?publication=bullmcz"
+  }, {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/2803#/summary"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0027-4100"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764543562"
+  }, {
+    "@value" : "S35074681"
+  }, {
+    "@value" : "S4210183126"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "51A84859-DD59-4E23-9461-03F287A29958"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0027-4100"
+  }, {
+    "@value" : "1938-2987"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Museum of Comparative Zoology at Harvard College"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the Museum of Comparative Zoology"
+  } ]
+} ]

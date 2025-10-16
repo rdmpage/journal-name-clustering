@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760970",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of experimental zoology. Part B, Molecular and developmental evolution"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "35118"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-5015"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/102521318"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1552-5007"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210222104"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1552-5015"
+  }, {
+    "@value" : "1552-5007"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Experimental Zoology. Part B: Molecular and Developmental Evolution"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of experimental zoology. Part B, Molecular and developmental evolution"
+  } ]
+} ]

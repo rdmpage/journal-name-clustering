@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385353",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Fieldiana Zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "Fieldiana. Zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "Fieldiana, Zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "Fieldiana Zool."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "42256"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "69214"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1945"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/76932"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/1426915.html"
+  }, {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/42256#/summary"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=0015-0754"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0015-0754"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S42395473"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0015-0754"
+  }, {
+    "@value" : "2162-4291"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fieldiana. Zoology"
+  } ]
+} ]

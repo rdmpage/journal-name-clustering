@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722050",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Open Respir Med J"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "70383"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://benthamopen.com/TORMJ/home/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1874-3064"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S58740271"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1874-3064"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The open respiratory medicine journal"
+  } ]
+} ]

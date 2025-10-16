@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7122499",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Pacific Insects Monographs"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0078-7515"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1961"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://hbs.bishopmuseum.org/pim/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-7515"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S157127429"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1986"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "6D3B9AFD-0CA6-48BC-8FA9-83B33E621B29"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0078-7515"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Pacific Insects Monograph"
+  } ]
+} ]

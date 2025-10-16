@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51459583",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Contrib. N.Y. Bot. Gard."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "4978"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1899"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0736-0509"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0736-0509"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Contributions from the New York Botanical Garden"
+  } ]
+} ]

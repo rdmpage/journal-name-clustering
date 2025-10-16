@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385315",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Rec. Canterbury Mus."
+  }, {
+    "@language" : "fr",
+    "@value" : "Rec. Canterbury Mus."
+  }, {
+    "@language" : "pt",
+    "@value" : "Rec. Canterbury Mus."
+  }, {
+    "@language" : "de",
+    "@value" : "Rec. Canterbury Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "Rec. Canterbury Mus."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "42577"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1907"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.canterburymuseum.com/research-education/publications"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-3878"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "AA4AF6D2-23F9-45F5-9177-48F3BA4555D2"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2381-9707"
+  }, {
+    "@value" : "0370-3878"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Records of the Canterbury Museum"
+  } ]
+} ]

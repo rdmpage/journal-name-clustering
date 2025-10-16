@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q332253",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Clin. Cancer Res."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "51259"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1995"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1078-0432"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S183149254"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1078-0432"
+  }, {
+    "@value" : "1557-3265"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Clinical Cancer Research"
+  } ]
+} ]

@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767379",
+  "http://example.com/crossref" : [ {
+    "@value" : "314944"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://search.ebscohost.com/direct.asp?db=a9h&jid=%2238OA%22&scope=site"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0544-540X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210232368"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0544-540X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Missouri Academy of Science"
+  } ]
+} ]

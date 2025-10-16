@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96333918",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0726-1888"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S3756509"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0726-1888"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Stilt"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96719644",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin - North Pacific Anadromous Fish Commission"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "304642"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1028-9127"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210229466"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1028-9127"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin - North Pacific Anadromous Fish Commission"
+  } ]
+} ]

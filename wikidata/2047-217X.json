@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q19969338",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Gigascience journal"
+  }, {
+    "@language" : "en",
+    "@value" : "Gigascience"
+  }, {
+    "@language" : "de",
+    "@value" : "Gigascience"
+  }, {
+    "@language" : "en",
+    "@value" : "GigaScience journal"
+  }, {
+    "@language" : "fr",
+    "@value" : "Gigascience"
+  }, {
+    "@language" : "en",
+    "@value" : "academic.oup.com/gigascience"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "179765"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2047-217X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2012"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://academic.oup.com/gigascience"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2047-217X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2735135405"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2047-217X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "GigaScience"
+  } ]
+} ]

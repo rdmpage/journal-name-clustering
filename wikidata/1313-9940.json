@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50515237",
+  "http://example.com/doaj" : [ {
+    "@value" : "1313-9940"
+  }, {
+    "@value" : "1314-0213"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://eb.bio.uni-plovdiv.bg/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1314-0213"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1314-0213"
+  }, {
+    "@value" : "1313-9940"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Ecologia Balkanica"
+  } ]
+} ]

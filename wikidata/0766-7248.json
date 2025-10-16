@@ -1,0 +1,68 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6045838",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Nouv. Arch. Mus. Hist. Nat."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Nouv. Arch. Mus. Hist. Nat."
+  }, {
+    "@language" : "en",
+    "@value" : "Nouvelles archives du Museum d'histoire naturelle"
+  }, {
+    "@language" : "de",
+    "@value" : "Nouvelles archives du Museum d'Histoire Naturelle"
+  }, {
+    "@language" : "en",
+    "@value" : "Nouvelles Archives du Muséum d'Histoire Naturelle de Paris, Bulletin"
+  }, {
+    "@language" : "es",
+    "@value" : "Nouv. Arch. Mus. Hist. Nat."
+  }, {
+    "@language" : "pt",
+    "@value" : "Nouv. Arch. Mus. Hist. Nat."
+  }, {
+    "@language" : "de",
+    "@value" : "Nouv. Arch. Mus. Hist. Nat."
+  }, {
+    "@language" : "en",
+    "@value" : "Nouv. Arch. Mus. Hist. Nat. Bull. Paris"
+  }, {
+    "@language" : "en",
+    "@value" : "Nouv. Arch. Mus. Hist. Nat."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "52015"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1865"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://catalog.hathitrust.org/Record/000642022"
+  }, {
+    "@id" : "https://catalog.hathitrust.org/Record/009547775"
+  }, {
+    "@id" : "https://catalog.hathitrust.org/Record/100009106"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0766-7248"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210221758"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1914"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "9C870387-41F5-4E0A-B4DE-FF615AEFEAD9"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0766-7248"
+  }, {
+    "@value" : "3040-861X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Nouvelles archives du Muséum d'histoire naturelle"
+  } ]
+} ]

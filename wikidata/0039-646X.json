@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6136581",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Svensk botanisk tidskrift"
+  }, {
+    "@language" : "en",
+    "@value" : "Svensk Bot. Tidskr."
+  }, {
+    "@language" : "de",
+    "@value" : "Svensk Bot. Tidskr."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "79156"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1907"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://svenskbotanik.se/svensk-botanisk-tidskrift/"
+  }, {
+    "@id" : "https://svenskbotanik.se/svensk-botanisk-tidskrift/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0039-646X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S71134974"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0039-646X"
+  }, {
+    "@value" : "2003-6310"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Svensk botanisk tidskrift"
+  } ]
+} ]

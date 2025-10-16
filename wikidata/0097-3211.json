@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385377",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ufdc.ufl.edu/UF00079423"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0097-3211"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0097-3211"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Allyn Museum"
+  } ]
+} ]

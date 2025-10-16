@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2036584",
+  "http://example.com/from_year" : [ {
+    "@value" : "1943"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://nhm2.uio.no/botanisk/nbf/blyttia/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-5269"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S124541144"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1894-3985"
+  }, {
+    "@value" : "0006-5269"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "no",
+    "@value" : "Blyttia"
+  } ]
+} ]

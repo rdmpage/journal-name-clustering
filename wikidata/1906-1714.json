@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50667998",
+  "http://example.com/doaj" : [ {
+    "@value" : "1906-1714"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1906-1714"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2738173130"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1906-1714"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Environment Asia"
+  } ]
+} ]

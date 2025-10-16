@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3575113",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Z. Naturforsch. C Bio. Sci."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zeitschrift fuer Naturforschung C"
+  }, {
+    "@language" : "en",
+    "@value" : "Zeitschrift fuer Naturforschung. Section C: A Journal of Biosciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Zeitschrift für Naturforschung. C, A journal of biosciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Zeitschrift fur Naturforschung C"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "160485"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1973"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.degruyter.com/view/j/znc"
+  }, {
+    "@id" : "http://www.znaturforsch.com/c.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0939-5075"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S67401564"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1865-7125"
+  }, {
+    "@value" : "0939-5075"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Zeitschrift für Naturforschung C"
+  }, {
+    "@language" : "en",
+    "@value" : "Zeitschrift für Naturforschung. C, A journal of biosciences"
+  } ]
+} ]

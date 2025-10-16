@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q45127664",
+  "http://example.com/crossref" : [ {
+    "@value" : "61367"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://springerlink.com/content/120446/?p=a29522a653b1436d8fc789b0ba6595e6&pi=0"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1007-662X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S155657358"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1993-0607"
+  }, {
+    "@value" : "1007-662X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Forestry Research"
+  } ]
+} ]

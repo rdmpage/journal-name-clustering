@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764467",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Plankton Res."
+  }, {
+    "@language" : "es",
+    "@value" : "J. Plankton Res."
+  }, {
+    "@language" : "fr",
+    "@value" : "J. Plankton Res."
+  }, {
+    "@language" : "de",
+    "@value" : "J. Plankton Res."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5054"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://plankt.oxfordjournals.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0142-7873"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S116120500"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0142-7873"
+  }, {
+    "@value" : "1464-3774"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Plankton Research"
+  } ]
+} ]

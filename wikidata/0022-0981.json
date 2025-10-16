@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750027",
+  "http://example.com/crossref" : [ {
+    "@value" : "1370"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/journal-of-experimental-marine-biology-and-ecology/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00220981"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-0981"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S155333626"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1879-1697"
+  }, {
+    "@value" : "0022-0981"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Experimental Marine Biology and Ecology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Journal of experimental marine biology and ecology"
+  } ]
+} ]

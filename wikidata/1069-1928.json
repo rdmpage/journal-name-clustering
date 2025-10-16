@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759237",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1069-1928"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1069-1928"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Herpetological Natural History"
+  } ]
+} ]

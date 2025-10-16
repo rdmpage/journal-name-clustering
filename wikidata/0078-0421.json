@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726650",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Newsl Stratigr"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "29497"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2158078"
+  }, {
+    "@id" : "http://www.ingentaconnect.com/content/schweiz/nis"
+  }, {
+    "@id" : "http://www.schweizerbart.de/journals/nos"
+  }, {
+    "@id" : "https://www.schweizerbart.de/journals/nos"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-0421"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S114466708"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0078-0421"
+  }, {
+    "@value" : "2363-6122"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Newsletters on stratigraphy"
+  }, {
+    "@language" : "mul",
+    "@value" : "Newsletters on stratigraphy"
+  } ]
+} ]

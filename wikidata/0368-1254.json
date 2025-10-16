@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q29890351",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Jahrb. Nassau. Ver. Naturkd."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7007"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1844"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0368-1254"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0368-1254"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Jahrbücher des Nassauischen Vereins für Naturkunde"
+  } ]
+} ]

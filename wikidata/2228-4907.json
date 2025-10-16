@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96325640",
+  "http://example.com/doaj" : [ {
+    "@value" : "1406-894X"
+  }, {
+    "@value" : "2228-4907"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://agronomy.emu.ee/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1406-894X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764690080"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2228-4907"
+  }, {
+    "@value" : "1406-894X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Agronomy Research"
+  } ]
+} ]

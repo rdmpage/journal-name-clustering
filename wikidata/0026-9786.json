@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385574",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "pt",
+    "@value" : "Monit. Zool. Ital."
+  }, {
+    "@language" : "en",
+    "@value" : "Monit. Zool. Ital."
+  }, {
+    "@language" : "es",
+    "@value" : "Monit. Zool. Ital."
+  }, {
+    "@language" : "en",
+    "@value" : "Monitore zoologico italiano"
+  }, {
+    "@language" : "fr",
+    "@value" : "Monit. Zool. Ital."
+  }, {
+    "@language" : "en",
+    "@value" : "Monit. zool. ital."
+  }, {
+    "@language" : "de",
+    "@value" : "Monit. Zool. Ital."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "82449"
+  }, {
+    "@value" : "8983"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297261"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1890"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0026-9786"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210217865"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1988"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0026-9786"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Monitore zoologico italiano"
+  } ]
+} ]

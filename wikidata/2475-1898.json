@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27717643",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Pa Acad Sci"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "309121"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=ArXaAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=irTaAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=sbTaAAAAMAAJ"
+  }, {
+    "@id" : "https://scholarlypublishingcollective.org/psup/pa-academy-of-science"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1044-6753"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jpennacadscie"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210223014"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1044-6753"
+  }, {
+    "@value" : "2475-1898"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Pennsylvania Academy of Science"
+  } ]
+} ]

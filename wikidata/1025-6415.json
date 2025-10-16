@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750560",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Reports of the National Academy of Sciences of Ukraine"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297187"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1025-6415"
+  }, {
+    "@value" : "2518-153X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dopovidi-nanu.org.ua/"
+  }, {
+    "@id" : "https://dopovidi-nanu.org.ua/ojs/index.php/dp/about"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1025-6415"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764547726"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2518-153X"
+  }, {
+    "@value" : "1025-6415"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Dopovìdì Nacìonalʹnoï akademìï nauk Ukraïni"
+  }, {
+    "@language" : "en",
+    "@value" : "Reports National Academy of Science of Ukraine"
+  } ]
+} ]

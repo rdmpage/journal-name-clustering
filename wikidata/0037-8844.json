@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15635398",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Atti Soc. ital. sci. nat., Mus. civ. stor. nat. Milano"
+  }, {
+    "@language" : "de",
+    "@value" : "Atti Soc. Ital. Sci. Nat. Mus. Civico Storia Nat. Milano"
+  }, {
+    "@language" : "es",
+    "@value" : "Atti Soc. Ital. Sci. Nat. Mus. Civico Storia Nat. Milano"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "16255"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297349"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1896"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sisn.pagepress.org/index.php/nhs"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0037-8844"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210185307"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2013"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "BBB4FCC8-CDE3-40B3-8889-FECA031A4D0B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0037-8844"
+  }, {
+    "@value" : "2284-3663"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Atti della Società Italiana di Scienze Naturali e del Museo Civico di Storia Naturale di Milano"
+  } ]
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756030",
+  "http://example.com/crossref" : [ {
+    "@value" : "4254"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://www.metapress.com/link.asp?id=103277"
+  }, {
+    "@id" : "http://www.tandfonline.com/openurl?genre=journal&issn=0282-7581"
+  }, {
+    "@id" : "https://www.tandfonline.com/loi/sfor20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0282-7581"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S79820318"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0282-7581"
+  }, {
+    "@value" : "1651-1891"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Scandinavian Journal of Forest Research"
+  } ]
+} ]

@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385944",
+  "http://example.com/crossref" : [ {
+    "@value" : "104945"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1914"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0044-2240"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210218336"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1985"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "2C7145DF-C194-482F-8838-B580957E9519"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0044-2240"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Zeitschrift für Angewandte Entomologie"
+  }, {
+    "@language" : "de",
+    "@value" : "Zeitschrift für Angewandte Entomologie"
+  } ]
+} ]

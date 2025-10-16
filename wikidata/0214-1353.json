@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5368612",
+  "http://example.com/from_year" : [ {
+    "@value" : "1987"
+  }, {
+    "@value" : "1988"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.biotaxa.org/elytron"
+  }, {
+    "@id" : "http://www.ub.edu/aec/index.php?option=com_content&view=article&id=5&Itemid=3"
+  }, {
+    "@id" : "https://www.biotaxa.org/Elytron/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0214-1353"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S26152480"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2014-623X"
+  }, {
+    "@value" : "0214-1353"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Elytron"
+  } ]
+} ]

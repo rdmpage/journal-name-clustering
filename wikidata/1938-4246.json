@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15716701",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Arct. Antarct. Alp Res."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "AAAR"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "55710"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "141"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1938-4246"
+  }, {
+    "@value" : "1523-0430"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1969"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://instaar.colorado.edu/AAAR"
+  }, {
+    "@id" : "http://instaar.colorado.edu/AAAR/index.php"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=1523-0430"
+  }, {
+    "@id" : "http://www.jstor.org/journals/15230430.html"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1523-0430"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "arctantaalpirese"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S111448270"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1938-4246"
+  }, {
+    "@value" : "1523-0430"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Arctic, Antarctic, and Alpine Research"
+  } ]
+} ]

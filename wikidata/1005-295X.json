@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q101067791",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zhongguo kun chong ke xue"
+  }, {
+    "@language" : "en",
+    "@value" : "中国昆虫科学"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1005-295X"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1005-295X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Entomologia Sinica"
+  }, {
+    "@language" : "zh",
+    "@value" : "中国昆虫科学"
+  }, {
+    "@language" : "en",
+    "@value" : "Entomologia Sinica"
+  } ]
+} ]

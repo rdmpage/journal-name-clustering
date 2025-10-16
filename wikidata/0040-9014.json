@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113476295",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://oacis.repo.nii.ac.jp/search?search_type=2&q=107"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0040-9014"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0040-9014"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Journal of the Tokyo University of Fisheries"
+  } ]
+} ]

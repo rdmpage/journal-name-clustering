@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757882",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Records of the Museum of New Zealand Te Papa Tongarewa"
+  }, {
+    "@language" : "en",
+    "@value" : "Tuhinga"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tepapa.govt.nz/ResearchAtTePapa/ResearchAndMuseumPapers/Pages/overview.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1173-4337"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "8E590D0C-B6E3-47B2-9904-13D19C544964"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1173-4337"
+  }, {
+    "@value" : "2253-5861"
+  }, {
+    "@value" : "1171-6908"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Tuhinga"
+  }, {
+    "@language" : "en",
+    "@value" : "Tuhinga: Records of the Museum of New Zealand Te Papa Tongarewa"
+  } ]
+} ]

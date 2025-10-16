@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386065",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Korean J. Zool."
+  }, {
+    "@language" : "en",
+    "@value" : "Korean Journal of Zoology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0440-2510"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306532524"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0440-2510"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ko",
+    "@value" : "한국동물학회지"
+  } ]
+} ]

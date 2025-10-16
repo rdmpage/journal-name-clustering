@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4033585",
+  "http://example.com/crossref" : [ {
+    "@value" : "3557"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://estar.bl.uk/cgi-bin/sciserv.pl?collection=journals&journal=14619555"
+  }, {
+    "@id" : "http://www.royensoc.co.uk/publications/agricultural_and_forest_entomology.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1461-9555"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S27810548"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1461-9555"
+  }, {
+    "@value" : "1461-9563"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Agricultural and Forest Entomology"
+  } ]
+} ]

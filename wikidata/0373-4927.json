@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385476",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc. Cotteswold Nat. Fld. Club"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Cotteswold Naturalists' Field Club"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "2366"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-4927"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-4927"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Cotteswold Naturalists' Field Club"
+  } ]
+} ]

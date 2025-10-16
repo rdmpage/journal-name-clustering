@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q864602",
+  "http://example.com/bhl" : [ {
+    "@value" : "101781"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "33580"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "3640"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1901"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://biomet.oupjournals.org/"
+  }, {
+    "@id" : "http://biomet.oxfordjournals.org"
+  }, {
+    "@id" : "http://www.ingenta.com/journals/browse/oup/biomet?mode=direct"
+  }, {
+    "@id" : "http://www.oup.co.uk/biomet/contents"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-3444"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "biometrika"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S172180718"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1464-3510"
+  }, {
+    "@value" : "0006-3444"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biometrika"
+  } ]
+} ]

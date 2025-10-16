@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385853",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0173-1076"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0173-1076"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Marburger entomologische Publikationen"
+  } ]
+} ]

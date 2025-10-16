@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764964",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0023-7051"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0023-7051"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Lacerta"
+  }, {
+    "@language" : "und",
+    "@value" : "Lacerta"
+  } ]
+} ]

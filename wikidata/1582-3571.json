@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50518091",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Annals of the ''Alexandru Ioan Cuza University'' Sect. II.a Genetics and Molecular Biology"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1582-3571"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.gbm.bio.uaic.ro"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1582-3571"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2248-3276"
+  }, {
+    "@value" : "1582-3571"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Analele ştiinţifice ale Universităţii \"Al.I. Cuza\" din Iaşi Genetică şi biologie moleculară"
+  } ]
+} ]

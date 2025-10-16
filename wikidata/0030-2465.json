@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753261",
+  "http://example.com/crossref" : [ {
+    "@value" : "107725"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2219-0635"
+  }, {
+    "@value" : "0030-2465"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.org.za/scielo.php?script=sci_serial&pid=0030-2465&lng=en&nrm=iso"
+  }, {
+    "@id" : "https://library.up.ac.za/c.php?g=646205"
+  }, {
+    "@id" : "https://ojvr.org/index.php/ojvr"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0030-2465"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S141167492"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0030-2465"
+  }, {
+    "@value" : "2219-0635"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Onderstepoort Journal of Veterinary Research"
+  } ]
+} ]

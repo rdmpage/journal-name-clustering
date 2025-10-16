@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96702133",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Communications Faculty of Sciences University of Ankara Series C: biology, geological engineering and geophysical engineering"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1303-6025"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "223539"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1303-6025"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210235780"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1303-6025"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Communications Faculty of Sciences University of Ankara Series C: biology, geological engineering and geophysical engineering"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15724548",
+  "http://example.com/crossref" : [ {
+    "@value" : "1816"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "4870"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/marine-environmental-research/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/01411136"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0141-1136"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S205788060"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1879-0291"
+  }, {
+    "@value" : "0141-1136"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Marine Environmental Research"
+  } ]
+} ]

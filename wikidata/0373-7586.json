@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385563",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Abh. Ber. Naturkundemus. Görlitz"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1954"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-7586"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2008"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-7586"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Abhandlungen und Berichte des Naturkundemuseums Görlitz"
+  }, {
+    "@language" : "mul",
+    "@value" : "Abhandlungen und Berichte des Naturkundemuseums Görlitz"
+  } ]
+} ]

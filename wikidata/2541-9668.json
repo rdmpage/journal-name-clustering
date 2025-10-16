@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96334792",
+  "http://example.com/crossref" : [ {
+    "@value" : "326208"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://vestnik.spbu.ru/s07.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2541-9668"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210232779"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2587-585X"
+  }, {
+    "@value" : "2541-9668"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Vestnik Sankt-Peterburgskogo universiteta. Nauki o Zemle"
+  } ]
+} ]

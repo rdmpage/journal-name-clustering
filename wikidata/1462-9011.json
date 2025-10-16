@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759071",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Environmental Science & Policy"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2032"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/01959255/"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/environmental-science-and-policy"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1462-9011"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S39803240"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1873-6416"
+  }, {
+    "@value" : "1462-9011"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environmental Science and Policy"
+  }, {
+    "@language" : "en",
+    "@value" : "Environmental science & policy"
+  } ]
+} ]

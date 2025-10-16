@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764825",
+  "http://example.com/doaj" : [ {
+    "@value" : "1439-040X"
+  }, {
+    "@value" : "1613-9216"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764689191"
+  }, {
+    "@value" : "S2765057878"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0066-1759"
+  }, {
+    "@value" : "0949-5460"
+  }, {
+    "@value" : "1439-040X"
+  }, {
+    "@value" : "1613-9216"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Applied Botany and Food Quality"
+  } ]
+} ]

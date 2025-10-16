@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q18246577",
+  "http://example.com/crossref" : [ {
+    "@value" : "211625"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "12034"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1983-0572"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.entomobrasilis.org/"
+  }, {
+    "@id" : "https://www.entomobrasilis.org/index.php/ebras"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1983-0572"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210228251"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://www.entomobrasilis.org/index.php/ebras/gateway/plugin/AnnouncementFeedGatewayPlugin/atom"
+  }, {
+    "@id" : "https://www.entomobrasilis.org/index.php/ebras/gateway/plugin/WebFeedGatewayPlugin/rss"
+  }, {
+    "@id" : "https://www.entomobrasilis.org/index.php/ebras/gateway/plugin/WebFeedGatewayPlugin/rss2"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "EEF745E3-2D9E-4A84-9FDC-DA9791E252B3"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1983-0572"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "EntomoBrasilis"
+  }, {
+    "@language" : "pt",
+    "@value" : "EntomoBrasilis"
+  } ]
+} ]

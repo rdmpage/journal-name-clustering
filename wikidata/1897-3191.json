@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753050",
+  "http://example.com/crossref" : [ {
+    "@value" : "64028"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1897-3191"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sciendo.com/journal/OANDHS"
+  }, {
+    "@id" : "http://www.oandhs.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1730-413X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S199943830"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1897-3191"
+  }, {
+    "@value" : "1730-413X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Oceanological and Hydrobiological Studies"
+  } ]
+} ]

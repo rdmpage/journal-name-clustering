@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q11509485",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Jpn. J. Ornithol."
+  }, {
+    "@language" : "de",
+    "@value" : "Jpn. J. Ornithol."
+  }, {
+    "@language" : "en",
+    "@value" : "Tori (1915–1986)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "66597"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jjo/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0913-400X"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jjo"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S189034559"
+  }, {
+    "@value" : "S4210169801"
+  }, {
+    "@value" : "S4306551676"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1881-9710"
+  }, {
+    "@value" : "0913-400X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "日本鳥学会誌"
+  }, {
+    "@language" : "mul",
+    "@value" : "Japanese journal of ornithology"
+  } ]
+} ]

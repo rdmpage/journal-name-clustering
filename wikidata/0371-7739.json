@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q106876584",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zoology | Tōkyō Daigaku Rigakubu kiyō"
+  }, {
+    "@language" : "ja",
+    "@value" : "東京大學理學部紀要. 第4類, 動物學"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0368-220X"
+  }, {
+    "@value" : "0371-7739"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0368-220X"
+  }, {
+    "@value" : "0371-7739"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Faculty of Science, the University of Tokyo, Section 4: Zoology"
+  } ]
+} ]

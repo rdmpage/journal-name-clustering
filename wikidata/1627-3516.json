@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q126888432",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Cahiers scientifiques (Muséum d'histoire naturelle de Lyon, Centre de conservation et d'étude des collections)"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.persee.fr/collection/mhnly"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1627-3516"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2823-2437"
+  }, {
+    "@value" : "1627-3516"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Cahiers scientifiques"
+  } ]
+} ]

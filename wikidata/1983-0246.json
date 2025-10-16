@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328794",
+  "http://example.com/crossref" : [ {
+    "@value" : "306258"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bjvp.org.br/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1983-0246"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764390461"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1983-0246"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Brazilian journal of veterinary pathology"
+  } ]
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q135002261",
+  "http://example.com/from_year" : [ {
+    "@value" : "1986"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1137-831X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ca",
+    "@value" : "Anuari ornitològic de les Balears"
+  } ]
+} ]

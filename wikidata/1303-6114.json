@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766438",
+  "http://example.com/crossref" : [ {
+    "@value" : "216323"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S39124255"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1011-0895"
+  }, {
+    "@value" : "1300-0179"
+  }, {
+    "@value" : "1303-6114"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Turkish Journal of Zoology"
+  } ]
+} ]

@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15731307",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Tap chi Sinh Hoc"
+  }, {
+    "@language" : "en",
+    "@value" : "Tạp chí Sinh Học"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0866-7160"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Biol. (Vietnam)"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Biology. Hanoi, Vietnam"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "254188"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0866-7160"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210219480"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0866-7160"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Sinh học"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Biology"
+  } ]
+} ]

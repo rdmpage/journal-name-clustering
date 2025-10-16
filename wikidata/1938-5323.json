@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7118127",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Palaios"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "46058"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1986"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://palaios.geoscienceworld.org/"
+  }, {
+    "@id" : "http://palaios.sepmonline.org/"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=0883-1351"
+  }, {
+    "@id" : "http://www.jstor.org/journals/08831351.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0883-1351"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "palaios"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S125561884"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0883-1351"
+  }, {
+    "@value" : "1938-5323"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "PALAIOS"
+  } ]
+} ]

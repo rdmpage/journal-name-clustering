@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714954",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Geol Rundsch"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Geol. Rdsch."
+  }, {
+    "@language" : "en",
+    "@value" : "Geolog. Rdsch."
+  }, {
+    "@language" : "ru",
+    "@value" : "Geol. Rdsch."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "152875"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "863"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.de/link/service/journals/00531/index.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0016-7835"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210191250"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "120E4670-36AD-46D6-8255-7731C5351EA6"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0016-7835"
+  }, {
+    "@value" : "1432-1149"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Geologische Rundschau"
+  }, {
+    "@language" : "de",
+    "@value" : "Geologische Rundschau : Zeitschrift fur allgemeine Geologie"
+  } ]
+} ]

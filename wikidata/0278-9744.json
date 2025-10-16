@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q134885502",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "University of Kansas paleontological contributions. Monograph"
+  }, {
+    "@language" : "en",
+    "@value" : "University of Kansas paleontological contributions. Monographs"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0278-9744"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0278-9744"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "University of Kansas Paleontological Contributions. Monograph"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q53870215",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Bull. Akiyoshi-dai Sci. Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Akiyoshi-dai Sci. Mus."
+  }, {
+    "@language" : "es",
+    "@value" : "Bull. Akiyoshi-dai Sci. Mus."
+  }, {
+    "@language" : "fr",
+    "@value" : "Bull. Akiyoshi-dai Sci. Mus."
+  }, {
+    "@language" : "pt",
+    "@value" : "Bull. Akiyoshi-dai Sci. Mus."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0065-5554"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0065-5554"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Akiyoshi-dai Science Museum"
+  }, {
+    "@language" : "mul",
+    "@value" : "Akiyoshi-dai Kagaku Hakubutsukan hōkoku"
+  } ]
+} ]

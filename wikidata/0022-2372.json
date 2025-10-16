@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1709857",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. mammal."
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of mammalogy"
+  }, {
+    "@language" : "ja",
+    "@value" : "ジャーナル・オヴ・マンマロジー"
+  }, {
+    "@language" : "zh",
+    "@value" : "哺乳動物學期刊"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "15056"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "37098"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1919"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jmammal.oxfordjournals.org/"
+  }, {
+    "@id" : "https://academic.oup.com/jmammal"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-2372"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jmammalogy"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S165569574"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "00A7FB9A-757E-46E2-807F-11F94B6D2020"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1545-1542"
+  }, {
+    "@value" : "0022-2372"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Mammalogy"
+  } ]
+} ]

@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1973202",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Philos. Mag."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Phil Mag"
+  }, {
+    "@language" : "de",
+    "@value" : "The Philosophical Magazine"
+  }, {
+    "@language" : "zh",
+    "@value" : "哲学杂志"
+  }, {
+    "@language" : "en",
+    "@value" : "Philos. Mag."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "17931"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1798"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.tandfonline.com/tphm20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1478-6435"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S168309380"
+  }, {
+    "@value" : "S4210192005"
+  }, {
+    "@value" : "S4306545630"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1478-6443"
+  }, {
+    "@value" : "1478-6435"
+  }, {
+    "@value" : "1364-2804"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Philosophical Magazine"
+  } ]
+} ]

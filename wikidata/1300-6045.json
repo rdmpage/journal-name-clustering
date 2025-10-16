@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724022",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Kafkas Universitesi Veteriner Fakultesi Dergisi"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Faculty of Veterinary Medicine, Kafkas University"
+  }, {
+    "@language" : "en",
+    "@value" : "Kafkas Univ Vet Fak Derg"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "192405"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1300-6045"
+  }, {
+    "@value" : "1309-2251"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://vetdergikafkas.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1300-6045"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S1014464595"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1309-2251"
+  }, {
+    "@value" : "1300-6045"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Kafkas üniversitesi veteriner fakültesi dergisi"
+  }, {
+    "@language" : "en",
+    "@value" : "Kafkas Universitesi veteriner fakultesi dergisi"
+  } ]
+} ]

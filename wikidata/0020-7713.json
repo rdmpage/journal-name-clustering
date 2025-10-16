@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26827892",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "IJSB"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "96485"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ejournals.ebsco.com/direct.asp?JournalID=103826"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0020-7713"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210170424"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1070-6259"
+  }, {
+    "@value" : "1465-2102"
+  }, {
+    "@value" : "0020-7713"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Systematic Bacteriology"
+  } ]
+} ]

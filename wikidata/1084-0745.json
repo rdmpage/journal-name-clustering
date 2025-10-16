@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385782",
+  "http://example.com/from_year" : [ {
+    "@value" : "1995"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.mapress.com/AP/contributions.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1084-0745"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1084-0745"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Contributions on entomology, international"
+  } ]
+} ]

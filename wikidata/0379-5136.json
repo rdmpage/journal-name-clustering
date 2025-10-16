@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754227",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://nopr.niscair.res.in/handle/123456789/3"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0379-5136"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S203375452"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0975-1033"
+  }, {
+    "@value" : "0379-5136"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Indian Journal of Marine Sciences"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q96331131",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Indian journal of marine sciences"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://nopr.niscair.res.in/handle/123456789/3"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0379-5136"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2475606089"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0975-1033"
+  }, {
+    "@value" : "0379-5136"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Indian journal of marine sciences"
+  } ]
+} ]

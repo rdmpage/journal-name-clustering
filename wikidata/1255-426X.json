@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51420619",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletins de la Société malacologique de France"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "14939"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1884"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://catalog.hathitrust.org/Record/000678287"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1255-426X"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1890"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "2064C0CB-664C-4775-A76B-F16FC3D47087"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "3075-240X"
+  }, {
+    "@value" : "1255-426X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletins de la Société malacologique de France."
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletins de la Société malacologique de France"
+  } ]
+} ]

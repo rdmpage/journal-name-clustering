@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761837",
+  "http://example.com/crossref" : [ {
+    "@value" : "48738"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scientificjournals.com/sj/jss"
+  }, {
+    "@id" : "http://www.springerlink.com/content/112850"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1439-0108"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S115998457"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1614-7480"
+  }, {
+    "@value" : "1439-0108"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of soils and sediments"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Soils and Sediments: protection, risk assessment and remediation"
+  } ]
+} ]

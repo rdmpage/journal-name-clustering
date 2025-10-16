@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5418673",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Evolutionary Bioinformatics Online"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "114347"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1176-9343"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/38943"
+  }, {
+    "@id" : "http://insights.sagepub.com/journal-evolutionary-bioinformatics-j17"
+  }, {
+    "@id" : "http://la-press.com/journal.php?journal_id=17"
+  }, {
+    "@id" : "http://www.la-press.com/evolutionary-bioinformatics-journal-j17"
+  }, {
+    "@id" : "https://journals.sagepub.com/home/evb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1176-9343"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S187114417"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1176-9343"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Evolutionary bioinformatics online"
+  }, {
+    "@language" : "en",
+    "@value" : "Evolutionary Bioinformatics"
+  } ]
+} ]

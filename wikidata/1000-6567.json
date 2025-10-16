@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15079707",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Zhuzu Yanjiu Huikan"
+  }, {
+    "@language" : "es",
+    "@value" : "J. Bamboo Res."
+  }, {
+    "@language" : "zh",
+    "@value" : "Zhuzi yanjiu huikan"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Bamboo Res."
+  }, {
+    "@language" : "en",
+    "@value" : "Zhuzi yanjiu huikan"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "ZZYJ"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bamboojbr.com/index.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-6567"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764402563"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://rss.cnki.net/kns/rss.aspx?Journal=ZZYJ&Virtual=knavi"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-6567"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "竹子研究汇刊"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Bamboo Research"
+  }, {
+    "@language" : "zh",
+    "@value" : "Zhuzi yanjiu huikan"
+  } ]
+} ]

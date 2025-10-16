@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752513",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Corporate Governance : the International Journal of Business in Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Corporate Governance (Bradford)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "16156"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://info.emeraldinsight.com/products/journals/journals.htm?id=cg"
+  }, {
+    "@id" : "http://rave.ohiolink.edu/ejournals/issn/14720701/"
+  }, {
+    "@id" : "http://www.emeraldinsight.com/1472-0701.htm"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1472-0701"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S173789977"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1472-0701"
+  }, {
+    "@value" : "1758-6054"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Corporate Governance: The International Journal of Business in Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Corporate governance"
+  } ]
+} ]

@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27720917",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Annals of Agricultural Sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Ann. Agric. Sci."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "149985"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0570-1783"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.elsevier.com/locate/inca/725792"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/05701783"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0570-1783"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764503192"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2090-8377"
+  }, {
+    "@value" : "0570-1783"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of agricultural science"
+  } ]
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50814789",
+  "http://example.com/doaj" : [ {
+    "@value" : "1846-6273"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://haw.nsk.hr/arhiva/vol2/1958/17869/image-thumb.jpg"
+  }, {
+    "@id" : "http://haw.nsk.hr/publikacija/1958/bulletin-of-the-international-association-for-paleodontology"
+  }, {
+    "@id" : "http://hrcak.srce.hr/paleodontology"
+  }, {
+    "@id" : "http://ojs.sfzg.hr/index.php/IAPO/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1846-6273"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1846-6273"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the International Association for Paleodontology"
+  } ]
+} ]

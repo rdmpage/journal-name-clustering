@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386212",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Sieboldia"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1952"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0559-9822"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0559-9822"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Sieboldia"
+  } ]
+} ]

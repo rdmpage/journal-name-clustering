@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1282144",
+  "http://example.com/crossref" : [ {
+    "@value" : "106005"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2150-8925"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/50453"
+  }, {
+    "@id" : "http://esapubs.org/esapubs/journals/ecosphere.htm"
+  }, {
+    "@id" : "http://www.esajournals.org/loi/ecsp"
+  }, {
+    "@id" : "https://esajournals.onlinelibrary.wiley.com/journal/21508925"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2150-8925"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S98723585"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2150-8925"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecosphere"
+  } ]
+} ]

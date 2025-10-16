@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753961",
+  "http://example.com/dialnet" : [ {
+    "@value" : "1803"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0556-655X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306527307"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0556-655X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista española de micropaleontología"
+  } ]
+} ]

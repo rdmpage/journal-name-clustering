@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q111343328",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-3994"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0078-3994"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Ohio Biological Survey"
+  } ]
+} ]

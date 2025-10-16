@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755642",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Myotis"
+  }, {
+    "@language" : "en",
+    "@value" : "Myotis"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0580-3896"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0580-3896"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Myotis: international journal of bat research"
+  }, {
+    "@language" : "mul",
+    "@value" : "Myotis"
+  } ]
+} ]

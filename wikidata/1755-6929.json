@@ -1,0 +1,85 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27715022",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Trans. Roy. Soc. Edinb. Earth Sci."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Trans R Soc Edinb Earth Sci"
+  }, {
+    "@language" : "es",
+    "@value" : "Transactions of the Royal Society of Edinburgh: Earth Sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Earth and environmental science transactions of the Royal Society of Edinburgh"
+  }, {
+    "@language" : "en",
+    "@value" : "Royal Society of Edinburgh. Transactions. Earth and Environmental Science"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Royal Society of Edinburgh: Earth Sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Royal Society of Edinburgh. Earth sciences"
+  }, {
+    "@language" : "es",
+    "@value" : "Royal Society of Edinburgh. Transactions. Earth and Environmental Science"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "67235"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=TRE"
+  }, {
+    "@id" : "http://www.ingentaconnect.com/content/rse/tes"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0263-5933"
+  }, {
+    "@value" : "1755-6910"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1755-6910"
+  }, {
+    "@value" : "0263-5933"
+  }, {
+    "@value" : "1755-6929"
+  }, {
+    "@value" : "1473-7116"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Royal Society of Edinburgh. Earth sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Royal Society of Edinburgh. Transactions. Earth and Environmental Science"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Royal Society of Edinburgh: Earth Sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Earth and environmental science transactions of the Royal Society of Edinburgh"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q45075602",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/TRE"
+  }, {
+    "@id" : "https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1755-6910"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S40727808"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1755-6910"
+  }, {
+    "@value" : "1755-6929"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Earth and Environmental Science Transactions of the Royal Society of Edinburgh"
+  } ]
+} ]

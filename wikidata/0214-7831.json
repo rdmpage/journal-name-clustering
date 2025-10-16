@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758122",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0214-7831"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0214-7831"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Batalleria"
+  }, {
+    "@language" : "und",
+    "@value" : "Batalleria"
+  } ]
+} ]

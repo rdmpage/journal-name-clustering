@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50521725",
+  "http://example.com/crossref" : [ {
+    "@value" : "141566"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1679-0367"
+  }, {
+    "@value" : "1676-5435"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.uel.br/revistas/uel/index.php/seminabio"
+  }, {
+    "@id" : "https://ojs.uel.br/revistas/uel/index.php/seminabio"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1676-5435"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210185782"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1679-0367"
+  }, {
+    "@value" : "1676-5435"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Semina. Ciências Biológicas e da Saúde"
+  } ]
+} ]

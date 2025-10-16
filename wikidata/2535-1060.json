@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328474",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.geologica-balcanica.eu/home"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0324-0894"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210236145"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0324-0894"
+  }, {
+    "@value" : "2535-1060"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Geologica Balcanica"
+  } ]
+} ]

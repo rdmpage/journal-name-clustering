@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15816310",
+  "http://example.com/crossref" : [ {
+    "@value" : "65828"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://springerlink.com/content/120773/?p=001a51d52e934a8cb584b359d96e43&pi=0"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1874-1738"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S199256515"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1874-1746"
+  }, {
+    "@value" : "1874-1738"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Theoretical ecology"
+  }, {
+    "@language" : "und",
+    "@value" : "Theoretical Ecology"
+  } ]
+} ]

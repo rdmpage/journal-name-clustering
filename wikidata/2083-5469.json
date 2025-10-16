@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96324922",
+  "http://example.com/crossref" : [ {
+    "@value" : "88169"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://versita.metapress.com/content/121348"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1644-7298"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S116839838"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1644-7298"
+  }, {
+    "@value" : "2083-5469"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecological Questions"
+  } ]
+} ]

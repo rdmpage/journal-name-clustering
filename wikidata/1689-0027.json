@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753071",
+  "http://example.com/crossref" : [ {
+    "@value" : "306573"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1963"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.ejournals.eu/Acta-Protozoologica/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0065-1583"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S176982244"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0065-1583"
+  }, {
+    "@value" : "1689-0027"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Protozoologica"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Protozoologica"
+  }, {
+    "@language" : "und",
+    "@value" : "Acta Protozoologica"
+  } ]
+} ]

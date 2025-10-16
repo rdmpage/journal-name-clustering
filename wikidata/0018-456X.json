@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96330125",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Honeyguide"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0018-456X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0018-456X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Honeyguide"
+  } ]
+} ]

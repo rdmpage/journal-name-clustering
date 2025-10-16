@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714912",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Int. J. Wild Silkmoth & Silk"
+  }, {
+    "@language" : "en",
+    "@value" : "International Journal of Wild Silkmoth & Silk"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/ijwss/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1340-4725"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "ijwss"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764450809"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2436-6218"
+  }, {
+    "@value" : "1340-4725"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Wild Silkmoth and Silk"
+  }, {
+    "@language" : "mul",
+    "@value" : "International journal of wild silkmoth & silk"
+  } ]
+} ]

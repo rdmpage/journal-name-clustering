@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6296124",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Br. Dragonfly Soc."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.british-dragonflies.org.uk/content/journal-0"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1357-2342"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S1025121518"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1357-2342"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the British Dragonfly Society"
+  } ]
+} ]

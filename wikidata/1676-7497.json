@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721218",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "LAJAM"
+  }, {
+    "@language" : "en",
+    "@value" : "Lat Am J Aquat Mamm"
+  }, {
+    "@language" : "en",
+    "@value" : "Latin American Journal of Aquatic Mammals"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "139605"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.lajamjournal.org/index.php/lajam"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1676-7497"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764641310"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1676-7497"
+  }, {
+    "@value" : "2236-1057"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Latin American Journal of Aquatic Mammals"
+  }, {
+    "@language" : "en",
+    "@value" : "The Latin American journal of aquatic mammals : (LAJAM)"
+  } ]
+} ]

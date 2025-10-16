@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761326",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Berliner und Munchener Tierarztliche Wochenschrift"
+  }, {
+    "@language" : "fr",
+    "@value" : "Berliner und Munchener Tierarztliche Wochenschrift"
+  }, {
+    "@language" : "en",
+    "@value" : "Berliner und Muenchener Tieraerztliche Wochenschrift"
+  }, {
+    "@language" : "en",
+    "@value" : "Berliner und Munchener Tierarztliche Wochenschrift"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1439-0299"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.vetline.de/bmtw/tieraerztliche%5Fwochenschrift%5Fbmtw.htm"
+  }, {
+    "@id" : "https://www.vetline.de/berliner-und-m%C3%BCnchener-tier%C3%A4rztliche-wochenschrift"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0005-9366"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S32725236"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0005-9366"
+  }, {
+    "@value" : "1439-0299"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Berliner und Münchener tierärztliche Wochenschrift"
+  }, {
+    "@language" : "de",
+    "@value" : "Berliner und Munchener Tierarztliche Wochenschrift"
+  } ]
+} ]

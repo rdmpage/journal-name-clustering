@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q125914517",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Riv. Patol. Veg."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "58804"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0035-6441"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "rivipatovege"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "49B4A4FF-97B6-4711-A87E-9E6356693060"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0035-6441"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Rivista di patologia vegetale"
+  }, {
+    "@language" : "it",
+    "@value" : "Rivista di patologia vegetale"
+  } ]
+} ]

@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q64223498",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Diqiu xuebao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "DQXB"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.cagsbulletin.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1006-3021"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500347"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1006-3021"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Geoscientica Sinica"
+  }, {
+    "@language" : "zh-hans",
+    "@value" : "地球学报"
+  }, {
+    "@language" : "mul",
+    "@value" : "Diqiu xuebao"
+  } ]
+} ]

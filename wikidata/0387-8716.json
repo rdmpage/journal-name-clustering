@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q112162893",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "Shiretoko Hakubutsukan kenkyū hōkoku"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0387-8716"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0387-8716"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "Shiretoko Hakubutsukan kenkyū hōkoku"
+  } ]
+} ]

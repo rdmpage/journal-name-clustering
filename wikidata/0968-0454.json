@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385332",
+  "http://example.com/bhl" : [ {
+    "@value" : "62801"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=BEN"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0968-0454"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S101733996"
+  }, {
+    "@value" : "S4210199606"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1475-2964"
+  }, {
+    "@value" : "0968-0454"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Natural History Museum. Entomology series"
+  } ]
+} ]

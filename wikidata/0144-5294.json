@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q135440145",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.geocurator.org/journal"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0144-5294"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Geological Curator"
+  } ]
+} ]

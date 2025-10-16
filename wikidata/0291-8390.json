@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q130211155",
+  "http://example.com/from_year" : [ {
+    "@value" : "1968"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/cb34369661q/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0291-8390"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2534-1065"
+  }, {
+    "@value" : "0291-8390"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin trimestriel de la Société d'Histoire Naturelle et des Amis du Muséum d'Autun"
+  } ]
+} ]

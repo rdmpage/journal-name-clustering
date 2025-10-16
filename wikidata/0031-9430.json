@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2230701",
+  "http://example.com/bhl" : [ {
+    "@value" : "12678"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297284"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1933"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=7vslAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=ghglAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=sBIlAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=XhklAQAAMAAJ"
+  }, {
+    "@id" : "https://www.phytologia.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0031-9430"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210178584"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2377-7583"
+  }, {
+    "@value" : "0031-9430"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Phytologia"
+  } ]
+} ]

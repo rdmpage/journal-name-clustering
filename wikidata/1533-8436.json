@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51409623",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Southeast. biol."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "136077"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1533-8436"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2010"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1533-8436"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Southeastern biology"
+  } ]
+} ]

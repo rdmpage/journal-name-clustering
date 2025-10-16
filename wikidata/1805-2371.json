@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96701999",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Folia Musei rerum naturalium Bohemiae occidentalis. Geologica et Paleobiologica"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "242706"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://folia.zcm.cz/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1805-2371"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210217257"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1805-2371"
+  }, {
+    "@value" : "1805-286X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Folia Musei rerum naturalium Bohemiae occidentalis. Geologica et Paleobiologica"
+  } ]
+} ]

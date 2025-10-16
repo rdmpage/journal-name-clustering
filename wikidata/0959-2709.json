@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q865040",
+  "http://example.com/crossref" : [ {
+    "@value" : "6074"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayjournal?jid=bci"
+  }, {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=BCI"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0959-2709"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S194129668"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0959-2709"
+  }, {
+    "@value" : "1474-0001"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bird Conservation International"
+  } ]
+} ]

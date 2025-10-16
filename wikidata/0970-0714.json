@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q54920633",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Records of the Zoological Survey of India. Miscellaneous Publication, Occasional Paper"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0970-0714"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0970-0714"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Records of the Zoological Survey of India, Occasional Papers"
+  }, {
+    "@language" : "en",
+    "@value" : "Records of the Zoological Survey of India. Miscellaneous Publication, Occasional Paper"
+  } ]
+} ]

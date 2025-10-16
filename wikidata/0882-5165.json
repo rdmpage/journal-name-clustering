@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96334760",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Research paper PNW"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.fs.fed.us/pnw/publications/rps.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0882-5165"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0882-5165"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Research paper PNW"
+  } ]
+} ]

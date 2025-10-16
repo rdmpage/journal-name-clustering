@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385302",
+  "http://example.com/bhl" : [ {
+    "@value" : "42578"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1988"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0952-7583"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764658831"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B5C55172-88CD-4180-AA13-456D673BFE25"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0952-7583"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "British Journal of Entomology and Natural History"
+  } ]
+} ]

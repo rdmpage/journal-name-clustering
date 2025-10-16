@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q55649658",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1881-9109"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1881-9109"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "National Museum of Nature and Science Monographs"
+  } ]
+} ]

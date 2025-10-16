@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2025772",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Braz. J. Med. Biol. Res."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "44759"
+  }, {
+    "@value" : "218126"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1414-431X"
+  }, {
+    "@value" : "0100-879X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.br/bjmbr"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0100-879X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S183843087"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1414-431X"
+  }, {
+    "@value" : "1678-4510"
+  }, {
+    "@value" : "0100-879X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Brazilian Journal of Medical and Biological Research"
+  } ]
+} ]

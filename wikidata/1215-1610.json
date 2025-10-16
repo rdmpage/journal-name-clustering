@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q14506800",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Ornis Hung."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "229356"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2061-9588"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1991"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ornis.hu"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1215-1610"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1215-1610"
+  }, {
+    "@value" : "2061-9588"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Ornis Hungarica"
+  } ]
+} ]

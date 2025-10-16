@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721031",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. Biol. Soc. Wash."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "41416"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60647"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1918"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=0097-0298"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=0097-0298"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0097-0298"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210237413"
+  }, {
+    "@value" : "S49295888"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1943-6335"
+  }, {
+    "@value" : "0097-0298"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Biological Society of Washington"
+  } ]
+} ]

@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763516",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Clin. Neurophysiol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1664"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1949"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/13882457/"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/clinical-neurophysiology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1388-2457"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S38337076"
+  }, {
+    "@value" : "S4210223581"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0301-150X"
+  }, {
+    "@value" : "1872-8952"
+  }, {
+    "@value" : "1388-2457"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Clinical Neurophysiology"
+  } ]
+} ]

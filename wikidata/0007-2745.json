@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7720447",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bryologist"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "84932"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "55679"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1898"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=0007-2745;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=0007-2745"
+  }, {
+    "@id" : "http://www.bioone.org/loi/bryo"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00072745.html"
+  }, {
+    "@id" : "https://bioone.org/journals/the-bryologist/issues"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0007-2745"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "bryologist"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S114265159"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1938-4378"
+  }, {
+    "@value" : "0007-2745"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Bryologist"
+  } ]
+} ]

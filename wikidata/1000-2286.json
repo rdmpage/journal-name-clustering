@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723893",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Jiangxi nongye daxue xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Jiangxi Nongye Daxue Xuebao"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "390615"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-2286"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500238"
+  }, {
+    "@value" : "S4306514989"
+  }, {
+    "@value" : "S4306553376"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-2286"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Jiangxi nongye daxue xuebao"
+  }, {
+    "@language" : "und",
+    "@value" : "Jiangxi nongye daxue xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta agriculturae universitatis jiangxiensis"
+  }, {
+    "@language" : "zh",
+    "@value" : "江西农业大学学报"
+  } ]
+} ]

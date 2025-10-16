@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4782630",
+  "http://example.com/crossref" : [ {
+    "@value" : "3141"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/10499"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0967-6120"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S195136871"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1573-143X"
+  }, {
+    "@value" : "0967-6120"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Aquaculture International"
+  }, {
+    "@language" : "en",
+    "@value" : "Aquaculture international"
+  } ]
+} ]

@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3618809",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Afr. Zool."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "71338"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.co.za/ej/ejour_afzoo.html"
+  }, {
+    "@id" : "http://www.zssa.co.za/"
+  }, {
+    "@id" : "https://www.tandfonline.com/loi/tafz20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1562-7020"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S5885750"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "04C02414-71BD-45A0-AADF-A4483A57F1F3"
+  }, {
+    "@value" : "A7E51254-74C0-4E1F-86E9-E863A6947BE4"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1562-7020"
+  }, {
+    "@value" : "2224-073X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "African Zoology"
+  } ]
+} ]

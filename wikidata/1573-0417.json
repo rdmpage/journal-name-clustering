@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767182",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "JoPL"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Palaeolimnology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2908"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1988"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.springer.com/journal/10933/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0921-2728"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S28101772"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0921-2728"
+  }, {
+    "@value" : "1573-0417"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Paleolimnology"
+  } ]
+} ]

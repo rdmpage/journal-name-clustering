@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4948499",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Bot. Not."
+  }, {
+    "@language" : "en",
+    "@value" : "Bot. not."
+  }, {
+    "@language" : "es",
+    "@value" : "Bot. Not."
+  }, {
+    "@language" : "en",
+    "@value" : "Botaniska notiser"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6050"
+  }, {
+    "@value" : "6060"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1839"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-8195"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S59114670"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1980"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "53940D69-CEA5-4B2E-8BF4-4CB5CFC31A8D"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0006-8195"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "sv",
+    "@value" : "Botaniska Notiser"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q106720810",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Shenyang Shifan Daxue xuebao. Ziran kexue ban"
+  }, {
+    "@language" : "zh",
+    "@value" : "Shenyang Shifan Daxue xuebao. Ziran kexue ban"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1673-5862"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764368665"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1673-5862"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Shenyang Shifan Daxue xuebao. Ziran kexue ban"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Shenyang Normal University (Natural Science Edition)"
+  }, {
+    "@language" : "zh",
+    "@value" : "沈阳师范大学学报（自然科学版）"
+  } ]
+} ]

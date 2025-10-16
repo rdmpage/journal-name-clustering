@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755817",
+  "http://example.com/crossref" : [ {
+    "@value" : "51549"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journalsonline.tandf.co.uk/app/home/journal.asp?wasp=ad309e195736459094177c241e415852&referrer=parent&backto=browsepublicationsresults,819,1215;"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/smar20#.Vvo-oFL2aic"
+  }, {
+    "@id" : "https://www.tandfonline.com/toc/smar20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1745-1000"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S80072481"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "BA8734C4-ECC7-451A-9B37-4A96079E04DC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1745-1019"
+  }, {
+    "@value" : "1745-1000"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Marine Biology Research"
+  } ]
+} ]

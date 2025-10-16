@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51397918",
+  "http://example.com/bhl" : [ {
+    "@value" : "121495"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1562-5273"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1562-5273"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of the Eastern Cape museums"
+  } ]
+} ]

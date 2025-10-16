@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51451331",
+  "http://example.com/bhl" : [ {
+    "@value" : "99903"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0266-836X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0266-836X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Amateur Entomologists' Society"
+  } ]
+} ]

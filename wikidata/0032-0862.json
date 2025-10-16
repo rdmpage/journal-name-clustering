@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4451081",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Plant Path."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3619"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1952"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3059"
+  }, {
+    "@id" : "http://www.blackwellpublishing.com/journal.asp?ref=0032-0862"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0032-0862"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S63107127"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0032-0862"
+  }, {
+    "@value" : "1365-3059"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Plant Pathology"
+  } ]
+} ]

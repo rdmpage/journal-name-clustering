@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q100689325",
+  "http://example.com/from_year" : [ {
+    "@value" : "1955"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/155865"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0452-9987"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764372292"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0452-9987"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Contributions from the Biological Laboratory, Kyoto University"
+  }, {
+    "@language" : "en",
+    "@value" : "Contributions from the Biological Laboratory, Kyoto University"
+  } ]
+} ]

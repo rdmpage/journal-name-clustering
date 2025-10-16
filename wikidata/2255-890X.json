@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722998",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Latvian Academy of Sciences. Section B, Natural, exact, and applied sciences = Latvijas Zinatnu akademijas vestis. B dala, Dabaszinatnes"
+  }, {
+    "@language" : "en",
+    "@value" : "Proc Latv Acad Sci B Nat Exact Appl Sci"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Latvian Academy of Sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Latvian Academy of Sciences. Section B, Natural, Exact and Applied Sciences"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "77223"
+  }, {
+    "@value" : "375478"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1407-009X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://sciendo.com/journal/PROLAS"
+  }, {
+    "@id" : "http://versita.metapress.com/content/121056/"
+  }, {
+    "@id" : "http://www.degruyter.com/view/j/prolas"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1407-009X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210184784"
+  }, {
+    "@value" : "S4306524260"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2199-5966"
+  }, {
+    "@value" : "1407-009X"
+  }, {
+    "@value" : "2255-890X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Latvian Academy of Sciences. Section B, Natural, Exact and Applied Sciences"
+  } ]
+} ]

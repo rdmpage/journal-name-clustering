@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q91229253",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Tettigonia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1341-6707"
+  } ],
+  "http://example.com/ndl" : [ {
+    "@value" : "10996141"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1341-6707"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Tettigonia"
+  }, {
+    "@language" : "ja",
+    "@value" : "日本直翅類学会会誌"
+  }, {
+    "@language" : "en",
+    "@value" : "Tettigonia : Memoirs of The Orthopterological Society of Japan"
+  } ]
+} ]

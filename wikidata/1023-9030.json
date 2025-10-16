@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96325826",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "IUCN Otter Specialist Group bulletin"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.otterspecialistgroup.org/Bulletin/IUCNOSGBull.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1023-9030"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1023-9030"
+  }, {
+    "@value" : "2224-8919"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "IUCN Otter Specialist Group bulletin"
+  } ]
+} ]

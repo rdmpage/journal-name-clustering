@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6051298",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Opera Bot"
+  }, {
+    "@language" : "en",
+    "@value" : "Opera Bot."
+  }, {
+    "@language" : "en",
+    "@value" : "Opera Botanica a Societate Botanica Lundensi"
+  }, {
+    "@language" : "en",
+    "@value" : "Opera botanica"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "136803"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-5237"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0078-5237"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Opera Botanica"
+  }, {
+    "@language" : "en",
+    "@value" : "Opera Botanica a Societate Botanica Lundensi"
+  } ]
+} ]

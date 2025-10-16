@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1345027",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.insecta-web.org/MWM/htmls/museum_entomo_satsphingia_en.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1866-7384"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1866-7384"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Entomo-Satsphingia"
+  }, {
+    "@language" : "und",
+    "@value" : "Entomo-Satsphingia"
+  } ]
+} ]

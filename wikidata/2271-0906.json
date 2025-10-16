@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386332",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2271-0906"
+  }, {
+    "@language" : "en",
+    "@value" : "Xenophora. Supplément"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2013"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2271-0906"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "F91A353B-4E31-4734-A197-364DDDB85F8A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2271-0906"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Xenophora taxonomy"
+  } ]
+} ]

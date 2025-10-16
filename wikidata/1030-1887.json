@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3668833",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Austral. Syst. Bot."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Austral. Syst. Bot."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5962"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1988"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.publish.csiro.au/journals/asb/"
+  }, {
+    "@id" : "http://www.publish.csiro.au/nid/150.htm"
+  }, {
+    "@id" : "http://www.publish.csiro.au/sb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1030-1887"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S57397647"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "http://www.bioone.org/action/showFeed?type=etoc&feed=rss&jc=ausb"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "82E80717-85C8-410B-9379-EAAE198597B0"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1446-5701"
+  }, {
+    "@value" : "1030-1887"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australian Systematic Botany"
+  } ]
+} ]

@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5738832",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Cactaceas y Suculentas Mexicanas"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0526-717X"
+  }, {
+    "@language" : "es",
+    "@value" : "Cactaceas y Suculentas Mexicanas"
+  }, {
+    "@language" : "de",
+    "@value" : "Cact. Suc. Mex."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://web.ecologia.unam.mx/cactsucmex/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0526-717X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306505367"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0526-717X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Cactaceas y suculentas mexicanas"
+  }, {
+    "@language" : "es",
+    "@value" : "Cactáceas y Suculentas Mexicanas"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757942",
+  "http://example.com/crossref" : [ {
+    "@value" : "3757"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=ter"
+  }, {
+    "@id" : "http://www.blackwellpublishing.com/journal.asp?ref=0954-4879"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0954-4879"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S98592585"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1365-3121"
+  }, {
+    "@value" : "0954-4879"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Terra Nova"
+  }, {
+    "@language" : "en",
+    "@value" : "Terra nova"
+  } ]
+} ]

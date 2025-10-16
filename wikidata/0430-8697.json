@@ -1,0 +1,10 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q130751974",
+  "http://schema.org/issn" : [ {
+    "@value" : "0430-8697"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Folia scientifica Africae centralis"
+  } ]
+} ]

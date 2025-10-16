@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727060",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2376-6808"
+  }, {
+    "@language" : "en",
+    "@value" : "Neotropical biodiversity"
+  }, {
+    "@language" : "es",
+    "@value" : "Neotropical biodiversity"
+  }, {
+    "@language" : "en",
+    "@value" : "Neotrop Biodivers"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "291786"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2376-6808"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandfonline.com/tneo"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2376-6808"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737295936"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2376-6808"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Neotropical biodiversity"
+  } ]
+} ]

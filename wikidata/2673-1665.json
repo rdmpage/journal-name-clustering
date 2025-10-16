@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96729994",
+  "http://example.com/crossref" : [ {
+    "@value" : "374780"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2673-1665"
+  }, {
+    "@value" : "2673-1673"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:ch:bel-1808568"
+  }, {
+    "@id" : "http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-1808568"
+  }, {
+    "@id" : "https://www.karger.com?ISSN=2673-1673"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2673-1665"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210238798"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2673-1665"
+  }, {
+    "@value" : "2673-1673"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Microbial physiology"
+  } ]
+} ]

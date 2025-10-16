@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51513076",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Occas. pap. Boston Soc. Nat. Hist."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Occas. pap. Boston Soc. Nat. Hist."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "50720"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1869"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0270-2452"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1941"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0270-2452"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Occasional papers of the Boston Society of Natural History"
+  } ]
+} ]

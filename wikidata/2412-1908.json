@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50817470",
+  "http://example.com/crossref" : [ {
+    "@value" : "296270"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2412-1908"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journal.asu.ru/index.php/biol"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2412-1908"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737068255"
+  }, {
+    "@value" : "S4306401093"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B370D425-2928-4E8E-81FE-7EC57FD033FD"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2412-1908"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Acta biologica Sibirica"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Biologica Sibirica"
+  } ]
+} ]

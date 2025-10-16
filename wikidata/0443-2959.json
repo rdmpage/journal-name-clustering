@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q106638674",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Exploratie van het Nationaal Albert Park"
+  }, {
+    "@language" : "en",
+    "@value" : "Exploration of National Park Albert"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0443-2959"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1937"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0443-2959"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0443-2959"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Exploration du Parc National Albert"
+  } ]
+} ]

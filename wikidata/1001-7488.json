@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764307",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Linye Kexue"
+  }, {
+    "@language" : "en",
+    "@value" : "Lin Ye Ke Xue"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1001-7488"
+  }, {
+    "@language" : "en",
+    "@value" : "Linye Kexue"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "LYKE"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.linyekexue.net/EN/1001-7488/home.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1001-7488"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306529301"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "50E49B20-E277-4888-BDD2-11B91131F71C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1001-7488"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh-hans",
+    "@value" : "林业科学"
+  } ]
+} ]

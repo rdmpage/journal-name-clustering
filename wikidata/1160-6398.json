@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96701924",
+  "http://example.com/crossref" : [ {
+    "@value" : "302770"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.persee.fr/collection/linly"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1160-6398"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210185976"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1160-6398"
+  }, {
+    "@value" : "2613-2923"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Annales de la Société linnéenne de Lyon"
+  } ]
+} ]

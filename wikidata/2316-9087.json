@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96703554",
+  "http://example.com/crossref" : [ {
+    "@value" : "214786"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.revistas.usp.br/gusppe"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1676-7829"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210192088"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2316-9087"
+  }, {
+    "@value" : "1676-7829"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Geologia USP. Publicação Especial"
+  } ]
+} ]

@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96718265",
+  "http://example.com/crossref" : [ {
+    "@value" : "80879"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1809-9939"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S3443350"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1809-9939"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Neotropical Biology and Conservation"
+  } ]
+} ]

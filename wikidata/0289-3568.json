@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q58889590",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0289-3568"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0289-3568"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "筑波実験植物園研究報告"
+  }, {
+    "@language" : "mul",
+    "@value" : "Tsukuba Jikken Shokubutsuen kenkyū hōkoku"
+  } ]
+} ]

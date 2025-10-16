@@ -1,0 +1,75 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5861628",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Fieldiana, Botany"
+  }, {
+    "@language" : "en",
+    "@value" : "Fieldiana, Bot."
+  }, {
+    "@language" : "es",
+    "@value" : "Fieldiana, Botany"
+  }, {
+    "@language" : "en",
+    "@value" : "Fieldiana, Botany"
+  }, {
+    "@language" : "fr",
+    "@value" : "Fieldiana, Bot."
+  }, {
+    "@language" : "en",
+    "@value" : "Fieldiana. Botany"
+  }, {
+    "@language" : "es",
+    "@value" : "Fieldiana, Bot."
+  }, {
+    "@language" : "fr",
+    "@value" : "Fieldiana. Botany"
+  }, {
+    "@language" : "es",
+    "@value" : "Fieldiana. Botany"
+  }, {
+    "@language" : "de",
+    "@value" : "Fieldiana, Bot."
+  }, {
+    "@language" : "fr",
+    "@value" : "Fieldiana, Botany"
+  }, {
+    "@language" : "de",
+    "@value" : "Fieldiana. Botany"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "42247"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "76358"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1946"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioone.org/loi/fbot"
+  }, {
+    "@id" : "http://books.google.com/books?id=hEEgcZvUVPIC"
+  }, {
+    "@id" : "http://books.google.com/books?id=nnRlhBn-AMIC"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/1780190.html"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=0015-0746"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0015-0746"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S134478052"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2162-4267"
+  }, {
+    "@value" : "0015-0746"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fieldiana. Botany"
+  } ]
+} ]

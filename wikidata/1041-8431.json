@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51437218",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Abstr. proc. Linnaean Soc. N.Y. City."
+  }, {
+    "@language" : "en",
+    "@value" : "Abstract of the proceedings of the Linnaean Society of New York City"
+  }, {
+    "@language" : "en",
+    "@value" : "Abstract of the proceedings of the Linnaean Society of New York City, for the official year ..."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "51522"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1889"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1041-8431"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1934"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1041-8431"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Abstract of the proceedings of the Linnaean Society of New York City"
+  }, {
+    "@language" : "en",
+    "@value" : "Abstract of the proceedings of the Linnaean Society of New York"
+  } ]
+} ]

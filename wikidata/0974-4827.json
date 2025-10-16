@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96324632",
+  "http://example.com/crossref" : [ {
+    "@value" : "379135"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://indianjournals.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0973-2667"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210169909"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0974-4827"
+  }, {
+    "@value" : "0973-2667"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International journal of oceans and oceanography"
+  } ]
+} ]

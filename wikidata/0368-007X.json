@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q130537036",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Explorations of the fauna of the seas"
+  }, {
+    "@language" : "ru",
+    "@value" : "Issledovaniâ fauny morej"
+  }, {
+    "@language" : "ru",
+    "@value" : "Исслед. фауны морей"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0368-007X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0368-007X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Issledovaniâ fauny morej"
+  }, {
+    "@language" : "ru",
+    "@value" : "Исследования фауны морей"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q59240045",
+  "http://example.com/crossref" : [ {
+    "@value" : "154420"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://apps.ug.edu.gh/wajae/"
+  }, {
+    "@id" : "https://www.ajol.info/index.php/wajae/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0855-4307"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764462469"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2661-9040"
+  }, {
+    "@value" : "0855-4307"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "West African journal of applied ecology"
+  } ]
+} ]

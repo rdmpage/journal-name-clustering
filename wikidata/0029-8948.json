@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22046832",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Oesterreichische botanische Zeitschrift"
+  }, {
+    "@language" : "en",
+    "@value" : "Oesterr. Bot. Z."
+  }, {
+    "@language" : "de",
+    "@value" : "Oesterreichische Botanische Zeitschrift"
+  }, {
+    "@language" : "de",
+    "@value" : "Oesterr. Bot. Z."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "40988"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "41598"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1858"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/action/showPublication?journalCode=ostebotazeit"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0029-8948"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "ostebotazeit"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210167987"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1973"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0029-8948"
+  }, {
+    "@value" : "2199-6881"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Österreichische botanische Zeitschrift"
+  } ]
+} ]

@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7135941",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Parasites & Vectors"
+  }, {
+    "@language" : "en",
+    "@value" : "Kinetoplastid Biology and Disease"
+  }, {
+    "@language" : "en",
+    "@value" : "Filaria Journal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "9569"
+  }, {
+    "@value" : "10696"
+  }, {
+    "@value" : "71298"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1756-3305"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2008"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.parasitesandvectors.com/"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S192012768"
+  }, {
+    "@value" : "S27995580"
+  }, {
+    "@value" : "S80413395"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1475-2883"
+  }, {
+    "@value" : "1475-9292"
+  }, {
+    "@value" : "1756-3305"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Parasites & Vectors"
+  } ]
+} ]

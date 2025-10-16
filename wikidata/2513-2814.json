@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96700208",
+  "http://example.com/crossref" : [ {
+    "@value" : "300655"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2513-230X"
+  }, {
+    "@value" : "2513-2814"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.pdn.ac.lk/cjsbs/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2513-2814"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S112423896"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2513-230X"
+  }, {
+    "@value" : "2513-2814"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ceylon journal of science"
+  } ]
+} ]

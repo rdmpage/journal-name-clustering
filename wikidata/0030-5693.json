@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q29043956",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ornis Scandinavica : Scandinavian journal of ornithology"
+  }, {
+    "@language" : "fr",
+    "@value" : "Ornis Scandinavica : Scandinavian journal of ornithology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "62929"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0030-5693"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "orniscan"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764800109"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0030-5693"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Ornis Scandinavica"
+  }, {
+    "@language" : "en",
+    "@value" : "Ornis Scandinavica"
+  } ]
+} ]

@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16584125",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "J. Asiat. Soc. Bengal"
+  }, {
+    "@language" : "de",
+    "@value" : "J. Asiat. Soc. Bengal"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Asiat. Soc. Bengal"
+  }, {
+    "@language" : "es",
+    "@value" : "J. Asiat. Soc. Bengal"
+  }, {
+    "@language" : "en",
+    "@value" : "The journal of the Asiatic Society of Bengal"
+  }, {
+    "@language" : "pt",
+    "@value" : "J. Asiat. Soc. Bengal"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "51678"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1832"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0368-1068"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1864"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0368-1068"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The journal of the Asiatic Society of Bengal"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Asiatic Society of Bengal"
+  } ]
+} ]

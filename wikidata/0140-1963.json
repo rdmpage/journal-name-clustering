@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15793506",
+  "http://example.com/crossref" : [ {
+    "@value" : "545"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0140-1963;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.journals.elsevier.com/journal-of-arid-environments"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/01401963"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0140-1963"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S128210042"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1095-922X"
+  }, {
+    "@value" : "0140-1963"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Arid Environments"
+  } ]
+} ]

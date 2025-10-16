@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q14565988",
+  "http://example.com/crossref" : [ {
+    "@value" : "421280"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2625-8498"
+  }, {
+    "@value" : "1864-5755"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2392087"
+  }, {
+    "@id" : "http://www.vertebrate-zoology.de/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1864-5755"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2498846612"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1864-5755"
+  }, {
+    "@value" : "2625-8498"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Vertebrate Zoology"
+  }, {
+    "@language" : "de",
+    "@value" : "Vertebrate zoology"
+  } ]
+} ]

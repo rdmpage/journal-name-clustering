@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757939",
+  "http://example.com/crossref" : [ {
+    "@value" : "1619"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/10534822"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/human-resource-management-review"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/human-resource-management-review/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1053-4822"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S185253248"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1873-7889"
+  }, {
+    "@value" : "1053-4822"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Human Resource Management Review"
+  } ]
+} ]

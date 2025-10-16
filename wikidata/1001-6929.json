@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96331322",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Huanjing kexue yanjiu"
+  }, {
+    "@language" : "zh",
+    "@value" : "Huanjing kexue yanjiu"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "HJKX"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.hjkxyj.org.cn/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1001-6929"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764554680"
+  }, {
+    "@value" : "S4306512410"
+  }, {
+    "@value" : "S4306554634"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1001-6929"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Huanjing kexue yanjiu"
+  } ]
+} ]

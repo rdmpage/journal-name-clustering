@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96325958",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of National Institute of Polar Research. Special issue"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://nipr.repo.nii.ac.jp/search?search_type=2&q=356"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0386-0744"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764560173"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0386-0744"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of National Institute of Polar Research. Special issue"
+  } ]
+} ]

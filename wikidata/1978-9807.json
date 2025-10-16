@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385978",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "pt",
+    "@value" : "SUGAPA"
+  }, {
+    "@language" : "en",
+    "@value" : "SUGAPA"
+  }, {
+    "@language" : "es",
+    "@value" : "Sugapa"
+  }, {
+    "@language" : "es",
+    "@value" : "SUGAPA"
+  }, {
+    "@language" : "fr",
+    "@value" : "SUGAPA"
+  }, {
+    "@language" : "de",
+    "@value" : "SUGAPA"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.sugapa.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1978-9807"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1978-9807"
+  }, {
+    "@value" : "2468-872X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "id",
+    "@value" : "Suara Serangga Papua: Jurnal Informasi Entomologi"
+  } ]
+} ]

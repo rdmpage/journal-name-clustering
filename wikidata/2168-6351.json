@@ -1,0 +1,55 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4767825",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Annales de la Societe Entomologique de France"
+  }, {
+    "@language" : "en",
+    "@value" : "Societe Entomologique de France. Annales"
+  }, {
+    "@language" : "en",
+    "@value" : "Annales de la Société Entomologique de France"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0037-9271"
+  }, {
+    "@language" : "fr",
+    "@value" : "Annales de la Société Entomologique de France"
+  }, {
+    "@language" : "en",
+    "@value" : "Ann. Soc. entomol. Fr."
+  }, {
+    "@language" : "en",
+    "@value" : "Annales de la Societe entomologique de France"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8188"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "216386"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1832"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.tandfonline.com/tase20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0037-9271"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S23906263"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "C1153734-8690-43D9-8333-0C8810711EBC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2168-6351"
+  }, {
+    "@value" : "0037-9271"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Annales de la Société entomologique de France"
+  } ]
+} ]

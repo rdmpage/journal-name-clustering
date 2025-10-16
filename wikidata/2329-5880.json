@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386361",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2329-5880"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "265967"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2013"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journals.ku.edu/index.php/paleoent"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2329-5880"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210223658"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2023"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "57E3F143-6135-47F0-BCC4-162966B5709A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2329-5880"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Novitates paleoentomologicae"
+  } ]
+} ]

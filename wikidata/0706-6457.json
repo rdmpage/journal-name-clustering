@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714208",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Can. Tech. Rep. Fish. Aquat. Sci."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.dfo-mpo.gc.ca/reports-rapports-eng.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0706-6457"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1488-5379"
+  }, {
+    "@value" : "0706-6457"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Canadian technical report of fisheries and aquatic sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Canadian technical report of fisheries and aquatic sciences"
+  } ]
+} ]

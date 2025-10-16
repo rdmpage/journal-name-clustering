@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50515249",
+  "http://example.com/crossref" : [ {
+    "@value" : "256427"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1312-1723"
+  }, {
+    "@value" : "1313-3551"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://tru.uni-sz.bg/tsj/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1312-1723"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764392677"
+  }, {
+    "@value" : "S4210184179"
+  }, {
+    "@value" : "S4210196508"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1313-3551"
+  }, {
+    "@value" : "1312-1723"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Trakia Journal of Sciences"
+  } ]
+} ]

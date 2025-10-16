@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q134776173",
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.fceia.unr.edu.ar/fisiografia/bifg.htm"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1666-115X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletín del Instituto de Fisiografía y Geología"
+  } ]
+} ]

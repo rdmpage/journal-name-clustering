@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96695833",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acarines: Journal of the Egyptian Society of Acarology"
+  }, {
+    "@language" : "en",
+    "@value" : "Acarines: Journal of the Egyptian Society of Acarology (Print)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "312215"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.esaeg.org"
+  }, {
+    "@id" : "https://ajesa.journals.ekb.eg/journal/about"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1687-4633"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210193567"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1687-4633"
+  }, {
+    "@value" : "2090-3790"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acarines: Journal of the Egyptian Society of Acarology"
+  } ]
+} ]

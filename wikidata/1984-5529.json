@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757545",
+  "http://example.com/crossref" : [ {
+    "@value" : "247978"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.cientifica.org.br"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0100-0039"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210227003"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0100-0039"
+  }, {
+    "@value" : "1984-5529"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Científica"
+  }, {
+    "@language" : "pt",
+    "@value" : "Cientifica: revista de agronomia"
+  } ]
+} ]

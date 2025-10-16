@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5681601",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Braz. J. Biol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "45120"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1678-4375"
+  }, {
+    "@value" : "1519-6984"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.scielo.br/bjb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1519-6984"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S90590500"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1519-6984"
+  }, {
+    "@value" : "1678-4375"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Brazilian Journal of Biology"
+  } ]
+} ]

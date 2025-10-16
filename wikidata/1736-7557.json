@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q12362408",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Estonian Academy of Sciences. Geology ="
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Estonian Academy of Sciences. Geology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "70959"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1406-0132"
+  }, {
+    "@value" : "1736-4728"
+  }, {
+    "@value" : "1736-7557"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://digar.nlib.ee/show/nlib-digar:12620"
+  }, {
+    "@id" : "http://www.eap.ee/earthsciences"
+  }, {
+    "@id" : "http://www.eap.ee/public/va_ge/con_u_geo.htm"
+  }, {
+    "@id" : "http://www.kirj.ee/earthsciences"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1406-0132"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S71470748"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1736-7913"
+  }, {
+    "@value" : "1406-0132"
+  }, {
+    "@value" : "1736-4728"
+  }, {
+    "@value" : "1736-7557"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Estonian Journal of Earth Sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Estonian Academy of Sciences. Geology"
+  } ]
+} ]

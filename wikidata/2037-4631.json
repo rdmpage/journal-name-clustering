@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714240",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Rend Lincei Sci Fis Nat"
+  }, {
+    "@language" : "en",
+    "@value" : "Rend. Lincei Sci. Fis. Nat."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2008"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/12210"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2037-4631"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210232576"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2037-4631"
+  }, {
+    "@value" : "2385-2623"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Rendiconti Lincei. Scienze fisiche e naturali"
+  } ]
+} ]

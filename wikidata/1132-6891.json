@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767408",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Archaeofauna, International Journal of archaeozoology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "326746"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "8542"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://revistas.uam.es/archaeofauna"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1132-6891"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S136319399"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1132-6891"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Archaeofauna"
+  }, {
+    "@language" : "en",
+    "@value" : "Archaeofauna"
+  } ]
+} ]

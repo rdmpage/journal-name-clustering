@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5863479",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Folia Geobot. Phytotax."
+  }, {
+    "@language" : "de",
+    "@value" : "Folia Geobot. Phytotax."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "75653"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://botany.natur.cuni.cz/herben/www-add/folia%2032-3-1997.pdf"
+  }, {
+    "@id" : "http://www.springerlink.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0015-5551"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "foligeobphyt"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210178945"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0015-5551"
+  }, {
+    "@value" : "1573-1170"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Folia geobotanica et phytotaxonomica"
+  }, {
+    "@language" : "und",
+    "@value" : "Folia Geobotanica et Phytotaxonomica"
+  } ]
+} ]

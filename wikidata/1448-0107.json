@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4824142",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Australian bird watcher"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1959"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.birdlife.org.au/education-publications/publications/australian-field-ornithology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0045-0316"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0045-0316"
+  }, {
+    "@value" : "1448-0107"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australian Field Ornithology"
+  }, {
+    "@language" : "en",
+    "@value" : "Australian bird watcher"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q96706258",
+  "http://example.com/crossref" : [ {
+    "@value" : "299211"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://birdlife.org.au/afo/index.php/afo/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1448-0107"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S36170653"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2206-3447"
+  }, {
+    "@value" : "1448-0107"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australian field ornithology"
+  } ]
+} ]

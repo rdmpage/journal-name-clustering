@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385676",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Al-Mağallaẗ al-Akādīmiyyaẗ al-Miṣriyyaẗ li-l-’Ulūm al-Bayūlūğiyyaẗ. A,Ḥašrāt"
+  }, {
+    "@language" : "en",
+    "@value" : "Egyptian Academic Journal of Biological Sciences A Entomology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "323740"
+  }, {
+    "@value" : "307651"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1687-8809"
+  }, {
+    "@value" : "2090-0813"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://eajbsa.journals.ekb.eg/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1687-8809"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210179817"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2090-0813"
+  }, {
+    "@value" : "1687-8809"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Egyptian Academic Journal of Biological Sciences. A, Entomology"
+  } ]
+} ]

@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727457",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Egypt J Aquat Res"
+  }, {
+    "@language" : "en",
+    "@value" : "Egyptian Journal of Aquatic Research"
+  }, {
+    "@language" : "en",
+    "@value" : "Egyptian Journal of Aquatic Research (Print)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "193050"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1687-4285"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.nodc-egypt.org/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/16874285?sdc=1"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/egyptian-journal-of-aquatic-research"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1687-4285"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764850074"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2090-3278"
+  }, {
+    "@value" : "1687-4285"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Egyptian journal of aquatic research"
+  }, {
+    "@language" : "en",
+    "@value" : "Egyptian Journal of Aquatic Research (Print)"
+  } ]
+} ]

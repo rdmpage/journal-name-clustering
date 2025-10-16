@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754252",
+  "http://example.com/crossref" : [ {
+    "@value" : "296465"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://researcherslinks.com/journal-details/Pakistan-Journal-of-Nematology/30/aims-and-scope"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0255-7576"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764703708"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2313-1942"
+  }, {
+    "@value" : "0255-7576"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Pakistan Journal of Nematology"
+  } ]
+} ]

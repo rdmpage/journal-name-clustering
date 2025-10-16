@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108698334",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.kahaku.go.jp/english/research/publication/geology.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1881-9079"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "bnmnsgeopaleo"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2434-0952"
+  }, {
+    "@value" : "1881-9079"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the National Museum of Nature and Science. Series C, Geology & paleontology"
+  } ]
+} ]

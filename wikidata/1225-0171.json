@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q20813134",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Korean J. Appl. Entomol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "KJAE"
+  }, {
+    "@language" : "en",
+    "@value" : "Korean J. Appl. Entomol."
+  }, {
+    "@language" : "en",
+    "@value" : "Korean journal of applied entomology"
+  }, {
+    "@language" : "en",
+    "@value" : "Han'gug eung'yong goncung haghoeji"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "134469"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.entomology2.or.kr/"
+  }, {
+    "@id" : "http://entomology2.or.kr/"
+  }, {
+    "@id" : "http://ocean.kisti.re.kr/IS_mvpopo210L.do?method=list&poid=entomo&kojic=OOGCBV&sFree="
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1225-0171"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2912868618"
+  }, {
+    "@value" : "S4306496514"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2287-545X"
+  }, {
+    "@value" : "1225-0171"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ko",
+    "@value" : "한국응용곤충학회지"
+  }, {
+    "@language" : "ko",
+    "@value" : "Han'gug eung'yong goncung haghoeji"
+  }, {
+    "@language" : "en",
+    "@value" : "Korean Journal of Applied Entomology"
+  } ]
+} ]

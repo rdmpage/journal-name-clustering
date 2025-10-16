@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96738319",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Linnean Society of London, 3rd series"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Linnean Society of London"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Linnean Society of London, third series"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1945-9467"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Linnean Society of London (1939)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "83868"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1939"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=anEkAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=zXcPAQAAMAAJ"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1945-936X/issues?activeYear=1939"
+  }, {
+    "@id" : "https://academic.oup.com/transactionslinnean"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1945-9467"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1955"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1945-936X"
+  }, {
+    "@value" : "1945-9467"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Linnean Society of London"
+  } ]
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754774",
+  "http://example.com/bhl" : [ {
+    "@value" : "109981"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "305840"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://museumvictoria.com.au/about/books-and-journals/journals/memoirs-of-museum-victoria/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1447-2546"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210194250"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "08938032-5BB6-4403-8F11-1D3D4223623F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1447-2554"
+  }, {
+    "@value" : "1447-2546"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of Museum Victoria"
+  } ]
+} ]

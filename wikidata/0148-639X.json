@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764281",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Muscle & Nerve"
+  }, {
+    "@language" : "en",
+    "@value" : "Muscle & Nerve"
+  }, {
+    "@language" : "de",
+    "@value" : "Muscle & Nerve"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "37178"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/109669987"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/32891"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/10974598"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0148-639X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S173274907"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1097-4598"
+  }, {
+    "@value" : "0148-639X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Muscle and Nerve"
+  }, {
+    "@language" : "en",
+    "@value" : "Muscle & nerve"
+  } ]
+} ]

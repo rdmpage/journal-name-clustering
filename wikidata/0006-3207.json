@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2904149",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Biological conservation. An international journal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1211"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1968"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/biological-conservation/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00063207/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-3207"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S80660208"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0006-3207"
+  }, {
+    "@value" : "1873-2917"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biological Conservation"
+  } ]
+} ]

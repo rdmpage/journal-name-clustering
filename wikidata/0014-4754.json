@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385347",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0014-4754"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210219280"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0014-4754"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Experientia"
+  } ]
+} ]

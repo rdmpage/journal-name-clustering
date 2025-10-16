@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15746709",
+  "http://example.com/crossref" : [ {
+    "@value" : "28957"
+  }, {
+    "@value" : "54707"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.exoticpetmedicine.com/"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S141630656"
+  }, {
+    "@value" : "S97311592"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1931-6283"
+  }, {
+    "@value" : "1557-5063"
+  }, {
+    "@value" : "1055-937X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Exotic Pet Medicine"
+  } ]
+} ]

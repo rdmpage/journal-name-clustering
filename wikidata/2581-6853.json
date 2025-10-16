@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96704831",
+  "http://example.com/crossref" : [ {
+    "@value" : "326668"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.grassrootsinstitute.net/journal1-natural-resources/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2581-6853"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210226724"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2581-6853"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Grassroots journal of natural resources"
+  } ]
+} ]

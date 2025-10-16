@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752611",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Veterinární Medicína"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "267021"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1805-9392"
+  }, {
+    "@value" : "0375-8427"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.agriculturejournals.cz/web/vetmed.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-8427"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S166242950"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1805-9392"
+  }, {
+    "@value" : "0375-8427"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "cs",
+    "@value" : "Veterinarni Medicina"
+  }, {
+    "@language" : "cs",
+    "@value" : "Veterinární medicína"
+  } ]
+} ]

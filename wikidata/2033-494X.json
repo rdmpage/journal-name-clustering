@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q71279456",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin de l'Institut royal des sciences naturelles de Belgique. Entomologie & biologie"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de l'Institut royal des sciences naturelles de Belgique. Entomologie & biologie"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2009"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2033-494X"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2010"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2033-494X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bulletin de l'Institut royal des sciences naturelles de Belgique. Entomologie & biologie"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de l'Institut Royal des Sciences Naturelles de Belgique, entomologie & biologie"
+  } ]
+} ]

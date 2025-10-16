@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28869248",
+  "http://example.com/crossref" : [ {
+    "@value" : "302212"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1966"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0374-9444"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210224939"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0374-9444"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Monitore zoologico italiano. Supplemento"
+  } ]
+} ]

@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6107120",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Revista Acad. Colomb. Ci. Exact."
+  }, {
+    "@language" : "de",
+    "@value" : "Revista Acad. Colomb. Ci. Exact."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "74828"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "283647"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "19893"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2382-4980"
+  }, {
+    "@value" : "0370-3908"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1936"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.raccefyn.co"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-3908"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210224960"
+  }, {
+    "@value" : "S4306526848"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-3908"
+  }, {
+    "@value" : "2382-4980"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales"
+  } ]
+} ]

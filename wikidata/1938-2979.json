@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385091",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0006-9698"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "3989"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60657"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1952"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/40518"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/47279"
+  }, {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/3989"
+  }, {
+    "@id" : "http://www.mcz.harvard.edu/Publications/search_pubs.html?publication=Breviora"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-9698"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S119709983"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1938-2979"
+  }, {
+    "@value" : "0006-9698"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Breviora"
+  } ]
+} ]

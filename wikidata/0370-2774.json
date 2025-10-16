@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q19622568",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc. Zool. Soc. London"
+  }, {
+    "@language" : "en",
+    "@value" : "P. Z. S."
+  }, {
+    "@language" : "en",
+    "@value" : "P.Z.S."
+  }, {
+    "@language" : "en",
+    "@value" : "Proc. Zool. Soc. Lond."
+  }, {
+    "@language" : "en",
+    "@value" : "PZS"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "44963"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "107345"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1833"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-2774"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210233551"
+  }, {
+    "@value" : "S4306524390"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1965"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "9A87EC98-6E9A-451D-BFA2-96623C7A3219"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-2774"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Zoological Society of London"
+  } ]
+} ]

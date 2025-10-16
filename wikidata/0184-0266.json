@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714775",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mem. Biospeol."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0184-0266"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306519688"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0184-0266"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Mémoires de Biospéologie"
+  } ]
+} ]

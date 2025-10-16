@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723106",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Snudebiller (Monchengladb)"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2851134"
+  }, {
+    "@id" : "http://www.curci.de/institute3/"
+  }, {
+    "@id" : "https://curci.de/institute/index.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1439-4650"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2197-036X"
+  }, {
+    "@value" : "1439-4650"
+  }, {
+    "@value" : "2197-3024"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Snudebiller"
+  }, {
+    "@language" : "en",
+    "@value" : "Snudebiller : studies on taxonomy, biology, and ecology of Curculionoidea"
+  } ]
+} ]

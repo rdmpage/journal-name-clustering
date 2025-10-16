@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385637",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biota Neotropica"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57809"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1676-0611"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210237188"
+  }, {
+    "@value" : "S97274939"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1676-0603"
+  }, {
+    "@value" : "1676-0611"
+  }, {
+    "@value" : "1806-129X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biota neotropica"
+  } ]
+} ]

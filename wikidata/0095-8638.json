@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51450919",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "51624"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1904"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0095-8638"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0095-8638"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin - State Geological and Natural History Survey of Connecticut"
+  } ]
+} ]

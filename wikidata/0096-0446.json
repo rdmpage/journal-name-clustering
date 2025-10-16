@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q61749128",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Geol. Surv. Prof. Pap."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Geol. Surv. Prof. Pap."
+  }, {
+    "@language" : "en",
+    "@value" : "Geol. Survey Prof. Paper"
+  }, {
+    "@language" : "en",
+    "@value" : "Geological Survey, Professional Paper"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1949"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ufdc.ufl.edu/AA00054952"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0096-0446"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0096-0446"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Geological Survey Professional Paper"
+  } ]
+} ]

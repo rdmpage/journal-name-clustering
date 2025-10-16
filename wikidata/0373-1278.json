@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q100428066",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the All-Union Entomological Society"
+  }, {
+    "@language" : "ru",
+    "@value" : "Trudy Vsesoûznogo èntomologičeskogo obŝestva"
+  }, {
+    "@language" : "en",
+    "@value" : "Trudy Vsesoûznogo èntomologičeskogo obŝestva"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1951"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-1278"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1988"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-1278"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Труды Всесоюзного энтомологического общества"
+  } ]
+} ]

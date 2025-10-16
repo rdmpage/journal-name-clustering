@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751524",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.digital-museum.hiroshima-u.ac.jp/~main/index.php/Contents_of_Hikobia"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/hikobia/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0046-7413"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "hikobia"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306512150"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/AF05S010NewRssDld?btnaction=JT0041&sryCd=hikobia&rssLang=en"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2758-9994"
+  }, {
+    "@value" : "0046-7413"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Hikobia"
+  }, {
+    "@language" : "mul",
+    "@value" : "Hikobia"
+  }, {
+    "@language" : "ja",
+    "@value" : "ヒコビア"
+  } ]
+} ]

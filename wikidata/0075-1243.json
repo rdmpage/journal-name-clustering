@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21112415",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Isr. J. Entomol."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1966"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ij-entomology.online"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0075-1243"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764455000"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "616691C2-111D-4C22-A5B2-0D59E9E1AE2E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2224-6304"
+  }, {
+    "@value" : "0075-1243"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Israel Journal of Entomology"
+  } ]
+} ]

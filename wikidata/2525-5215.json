@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50817896",
+  "http://example.com/crossref" : [ {
+    "@value" : "303677"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2525-5215"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.kentron.ifal.edu.br/index.php/diversitas_journal/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2525-5215"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737874919"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2525-5215"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Diversitas Journal"
+  } ]
+} ]

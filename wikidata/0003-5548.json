@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765997",
+  "http://example.com/crossref" : [ {
+    "@value" : "84565"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.schweizerbart.de/journals/anthranz"
+  }, {
+    "@id" : "https://www.schweizerbart.de/journals/anthranz"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-5548"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "anthanze"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S108000440"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2363-7099"
+  }, {
+    "@value" : "0003-5548"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Anthropologischer Anzeiger; Bericht uber die biologisch-anthropologische Literatur"
+  }, {
+    "@language" : "de",
+    "@value" : "Anthropologischer Anzeiger"
+  } ]
+} ]

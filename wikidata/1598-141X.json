@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721167",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ocean Polar Res."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "87086"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://opr.kordi.re.kr/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1598-141X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S177321501"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1598-141X"
+  }, {
+    "@value" : "2234-7313"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Ocean and Polar Research"
+  }, {
+    "@language" : "en",
+    "@value" : "Ocean and polar research"
+  } ]
+} ]

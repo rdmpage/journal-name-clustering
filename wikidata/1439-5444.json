@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757522",
+  "http://example.com/crossref" : [ {
+    "@value" : "10222"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.de/link/service/journals/10164/index.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0289-0771"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S166184565"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1439-5444"
+  }, {
+    "@value" : "0289-0771"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Ethology"
+  } ]
+} ]

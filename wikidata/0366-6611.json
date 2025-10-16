@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107020021",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Geological science"
+  }, {
+    "@language" : "ja",
+    "@value" : "チキュウカガク"
+  }, {
+    "@language" : "en",
+    "@value" : "Chikyu Kagaku"
+  }, {
+    "@language" : "en",
+    "@value" : "Earth Science (Chikyu Kagaku)"
+  }, {
+    "@language" : "en",
+    "@value" : "Earth science | Journal of the Association for the Geological Collaboration in Japan"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/article/agcjchikyukagaku/73/4/73_195/_article/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-6611"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "agcjchikyukagaku"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306508526"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0366-6611"
+  }, {
+    "@value" : "2189-7212"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "地球科学"
+  } ]
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763359",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biol Invasions"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2553"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dx.doi.org/10.1007/10530.1573-1464"
+  }, {
+    "@id" : "http://www.springer.com/journal/10530"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1387-3547"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S207083915"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1387-3547"
+  }, {
+    "@value" : "1573-1464"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biological Invasions"
+  } ]
+} ]

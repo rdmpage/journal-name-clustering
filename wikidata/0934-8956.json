@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385237",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0934-8956"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0934-8956"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Theses zoologicae"
+  } ]
+} ]

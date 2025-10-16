@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2573473",
+  "http://example.com/crossref" : [ {
+    "@value" : "308928"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.schweizerbart.de/journals/palb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-0299"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0375-0299"
+  }, {
+    "@value" : "2509-839X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Palaeontographica B"
+  }, {
+    "@language" : "mul",
+    "@value" : "Palaeontographica. Abteilung B Paläophytologie"
+  } ]
+} ]

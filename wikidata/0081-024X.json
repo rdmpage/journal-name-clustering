@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5678235",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Smithson. contrib. bot."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Smithsonian contributions to botany"
+  }, {
+    "@language" : "en",
+    "@value" : "Smithson. contrib. bot."
+  }, {
+    "@language" : "en",
+    "@value" : "Smithson contrib bot"
+  }, {
+    "@language" : "de",
+    "@value" : "Smithsonian Contr. Bot."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "100822"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "126005"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "20100"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1969"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://repository.si.edu/handle/10088/6943"
+  }, {
+    "@id" : "https://smithsonian.figshare.com/scb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0081-024X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210180553"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0081-024X"
+  }, {
+    "@value" : "1938-2812"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Smithsonian Contributions to Botany"
+  } ]
+} ]

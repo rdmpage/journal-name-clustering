@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385851",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0384-8159"
+  }, {
+    "@language" : "en",
+    "@value" : "Life sciences contributions. Royal Ontario Museum"
+  }, {
+    "@language" : "en",
+    "@value" : "Royal Ontario Museum Life Sciences Contributions"
+  }, {
+    "@language" : "en",
+    "@value" : "Royal Ontario Museum, Life Sciences Contributions"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0384-8159"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0384-8159"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Life sciences contributions"
+  }, {
+    "@language" : "en",
+    "@value" : "Life sciences contributions. Royal Ontario Museum"
+  } ]
+} ]

@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714772",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Shuichan xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "Shuichan Xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Shuichan Xuebao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "SCKX"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "102885"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1000-0615"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.china-fishery.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-0615"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306553178"
+  }, {
+    "@value" : "S56707038"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-0615"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "水产学报"
+  } ]
+} ]

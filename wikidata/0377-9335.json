@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763072",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ENTOMON"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "327776"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://entomon.in/index.php/Entomon/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0377-9335"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210191742"
+  }, {
+    "@value" : "S4306509532"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "69D27A35-EF0C-43F9-8954-FF3A864A3125"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0377-9335"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Entomon"
+  } ]
+} ]

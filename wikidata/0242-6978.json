@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51437586",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Actes de l'Académie nationale des sciences, belles-lettres et arts de Bordeaux"
+  }, {
+    "@language" : "en",
+    "@value" : "Act. Acad. R. Sci. Bordeaux"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "4198"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/cb34363194v/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0242-6978"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2540-3370"
+  }, {
+    "@value" : "0242-6978"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Actes de l'Académie nationale des sciences, belles-lettres et arts de Bordeaux"
+  }, {
+    "@language" : "fr",
+    "@value" : "Actes de l'Academie Royale (Nationale) des Sciences, Belles-Lettres et Arts de Bordeaux"
+  } ]
+} ]

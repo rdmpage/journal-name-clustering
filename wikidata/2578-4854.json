@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96321234",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Conserv Sci Pract"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "326516"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2578-4854"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://onlinelibrary.wiley.com/journal/25784854"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2578-4854"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210240746"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2578-4854"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Conservation science and practice"
+  } ]
+} ]

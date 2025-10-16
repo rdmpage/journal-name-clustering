@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96333517",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Science reports of the Institute of Geoscience, University of Tsukuba. Section B: Geological sciences"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0388-6182"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0388-6182"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Science reports of the Institute of Geoscience, University of Tsukuba. Section B: Geological sciences"
+  } ]
+} ]

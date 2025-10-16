@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721033",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ocean Sci. J."
+  }, {
+    "@language" : "en",
+    "@value" : "Ocean science journal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "83568"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springer.com/12601"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1738-5261"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S70934194"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1738-5261"
+  }, {
+    "@value" : "2005-7172"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ocean science journal"
+  }, {
+    "@language" : "en",
+    "@value" : "Ocean science journal : OSJ"
+  } ]
+} ]

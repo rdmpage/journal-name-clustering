@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385766",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "International Journal of Tropical Biology and Conservation"
+  }, {
+    "@language" : "fr",
+    "@value" : "International Journal of Tropical Biology and Conservation"
+  }, {
+    "@language" : "es",
+    "@value" : "International Journal of Tropical Biology and Conservation"
+  }, {
+    "@language" : "en",
+    "@value" : "International Journal of Tropical Biology and Conservation"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "251726"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0034-7744"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1953"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://revistas.ucr.ac.cr/index.php/rbt"
+  }, {
+    "@id" : "https://revistas.ucr.ac.cr/index.php/rbt/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0034-7744"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S91797957"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0034-7744"
+  }, {
+    "@value" : "2215-2075"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Tropical Biology and Conservation"
+  }, {
+    "@language" : "mul",
+    "@value" : "Revista de Biología Tropical"
+  } ]
+} ]

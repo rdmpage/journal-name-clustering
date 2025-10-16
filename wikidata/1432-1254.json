@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2129754",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Int. J. Biometeorol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "833"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0020-7128"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S84867234"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0020-7128"
+  }, {
+    "@value" : "1432-1254"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Biometeorology"
+  } ]
+} ]

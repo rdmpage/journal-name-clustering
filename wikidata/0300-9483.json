@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2571450",
+  "http://example.com/crossref" : [ {
+    "@value" : "4240"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://mclink.library.mcgill.ca/sfx?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=954925508363&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&"
+  }, {
+    "@id" : "http://books.google.com/books?id=bVmwAAAAIAAJ"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291502-3885"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/15023885"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0300-9483"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S109165080"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1502-3885"
+  }, {
+    "@value" : "0300-9483"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Boreas"
+  } ]
+} ]

@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760625",
+  "http://example.com/crossref" : [ {
+    "@value" : "72258"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1752-4598"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/loi/icd"
+  }, {
+    "@id" : "http://www.royensoc.co.uk/publications/insect_conservation_and_diversity.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1752-458X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S149404603"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1752-4598"
+  }, {
+    "@value" : "1752-458X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Insect Conservation and Diversity"
+  } ]
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719428",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Insect Biotechnol. Sericology"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jsss.or.jp/modules/pico3/"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jibs/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1346-8073"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jibs"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764792764"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1346-8073"
+  }, {
+    "@value" : "1884-7978"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of insect biotechnology and sericology"
+  } ]
+} ]

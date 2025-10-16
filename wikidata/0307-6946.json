@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4037913",
+  "http://example.com/crossref" : [ {
+    "@value" : "3547"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=een"
+  }, {
+    "@id" : "http://www.royensoc.co.uk/publications/ecological_entomology.htm"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2311/issues"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0307-6946"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S30982003"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0307-6946"
+  }, {
+    "@value" : "1365-2311"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecological entomology"
+  }, {
+    "@language" : "und",
+    "@value" : "Ecological Entomology"
+  } ]
+} ]

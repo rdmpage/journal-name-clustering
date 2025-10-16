@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751338",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Arquivo Brasileiro de Medicina Veterinária e Zootecnia"
+  }, {
+    "@language" : "en",
+    "@value" : "Brazilian Journal of Veterinary and Animal Sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Arquivo brasileiro de medicina veterinária e zootecnia Brazilian journal of veterinary and animal sciences"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "47000"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1678-4162"
+  }, {
+    "@value" : "0102-0935"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.br/scielo.php?script=sci_serial&pid=0102-0935&lng=en&nrm=iso"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0102-0935"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S178684819"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1678-4162"
+  }, {
+    "@value" : "0102-0935"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Arquivo Brasileiro de Medicina Veterinária e Zootecnia"
+  }, {
+    "@language" : "und",
+    "@value" : "Arquivo Brasileiro de Medicina Veterinaria e Zootecnia"
+  } ]
+} ]

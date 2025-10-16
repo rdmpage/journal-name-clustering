@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756204",
+  "http://example.com/crossref" : [ {
+    "@value" : "63569"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.degruyter.com/journals/mammalia"
+  }, {
+    "@id" : "https://www.degruyter.com/view/j/mamm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0025-1461"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S6145614"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "4ABD2EF2-43B7-41BD-80CC-AD5F635C2832"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1864-1547"
+  }, {
+    "@value" : "0025-1461"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Mammalia"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mammalia: journal de morphologie, biologie, systematique des mammiferes"
+  } ]
+} ]

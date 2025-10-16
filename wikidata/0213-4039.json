@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96722767",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0213-4039"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "308408"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ddd.uab.cat/record/34"
+  }, {
+    "@id" : "http://dialnet.unirioja.es/servlet/revista?codigo=4453"
+  }, {
+    "@id" : "http://www.raco.cat/index.php/Orsis/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0213-4039"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210208679"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0213-4039"
+  }, {
+    "@value" : "2014-9727"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Orsis"
+  } ]
+} ]

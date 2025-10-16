@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2874267",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Écologie et conservation des oiseaux"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "134325"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1712-6568"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://epe.lac-bac.gc.ca/100/201/300/avian_conservation_ecology-ef/index.html"
+  }, {
+    "@id" : "http://www.ace-eco.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1712-6568"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2486385061"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1712-6568"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Avian Conservation and Ecology"
+  } ]
+} ]

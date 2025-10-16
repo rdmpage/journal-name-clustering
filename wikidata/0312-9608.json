@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328570",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0312-9608"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0312-9608"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "BMR journal of Australian geology and geophysics"
+  } ]
+} ]

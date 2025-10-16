@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q106097089",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0378-5742"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1954"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0378-5742"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1965"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "4B37D963-C1E0-46BC-9868-5F5EAC4CD813"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0378-5742"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de l'Institut Français d'Afrique Noire. Série A, Sciences naturelles"
+  } ]
+} ]

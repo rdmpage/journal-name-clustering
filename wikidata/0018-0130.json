@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385397",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc Helminthol Soc Wash"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0018-0130"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306524087"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "26B0DFBD-A4F3-40F6-B351-8977C1E84E0F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0018-0130"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Helminthological Society of Washington"
+  } ]
+} ]

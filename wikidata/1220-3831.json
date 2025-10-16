@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51450899",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société roumaine des sciences"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "50027"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1911"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "bulesociromastii"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1915"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2537-1517"
+  }, {
+    "@value" : "1220-3831"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ro",
+    "@value" : "Buletinul Societății Române de Științe"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société roumaine des sciences"
+  } ]
+} ]

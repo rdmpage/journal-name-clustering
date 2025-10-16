@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386355",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://produccioncientificaluz.org/index.php/anartia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1315-642X"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "5FF8BE99-265A-441A-89FC-43004D682984"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2665-0347"
+  }, {
+    "@value" : "1315-642X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Anartia"
+  } ]
+} ]

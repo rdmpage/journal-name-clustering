@@ -1,0 +1,70 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1193201",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Proc. R. Soc."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Royal Society"
+  }, {
+    "@language" : "de",
+    "@value" : "Abstracts of the Papers Printed in the Philosophical Transactions of the Royal Society"
+  }, {
+    "@language" : "fr",
+    "@value" : "Proceedings of the Royal Society B"
+  }, {
+    "@language" : "zh",
+    "@value" : "皇家学会会志"
+  }, {
+    "@language" : "zh",
+    "@value" : "英国皇家学会会刊"
+  }, {
+    "@language" : "zh",
+    "@value" : "英国皇家学会会报"
+  }, {
+    "@language" : "zh",
+    "@value" : "英国皇家学会学报"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1800"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-1662"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Society"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q21385304",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc. R. Soc. Lond."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "67976"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1855"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "procroyasocilon3"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S3006142753"
+  }, {
+    "@value" : "S4210212881"
+  }, {
+    "@value" : "S4210226895"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1905"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-1662"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Society of London"
+  } ]
+} ]

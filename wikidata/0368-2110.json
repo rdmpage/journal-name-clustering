@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5946727",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "東京帝國大學紀要. 理科"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7002"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1887"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0368-2110"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764704496"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1925"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D4F3F5EB-B8C2-4E0B-B7F0-F5F672E7D15C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0368-2110"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the College of Science, Imperial University of Tokyo"
+  } ]
+} ]

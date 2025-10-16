@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4782787",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Aquat. Bot."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Aquatic Bot."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1205"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1975"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/aquatic-botany/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/03043770"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0304-3770"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S61969038"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1879-1522"
+  }, {
+    "@value" : "0304-3770"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Aquatic Botany"
+  } ]
+} ]

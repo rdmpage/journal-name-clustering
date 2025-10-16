@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2928049",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Bull. World Health Organ."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "World Health Organization. Bulletin"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin of the World Health Organization"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull World Health Organ"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de l’Organisation mondiale de la santé"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "53200"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1947"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.who.int/bulletin/en/"
+  }, {
+    "@id" : "http://www.who.int/bulletin/fr/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0042-9686"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S22004576"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1564-0604"
+  }, {
+    "@value" : "0042-9686"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bulletin of the World Health Organization"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de l'Organisation mondiale de la santé"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the World Health Organization"
+  } ]
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765099",
+  "http://example.com/crossref" : [ {
+    "@value" : "65371"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1750-2659"
+  }, {
+    "@value" : "1750-2640"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1750-2659"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/openurl?genre=journal&stitle=irv"
+  }, {
+    "@id" : "http://www.blackwellpublishing.com/journal.asp?ref=1750-2640&site=1"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1750-2640"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S93534766"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1750-2640"
+  }, {
+    "@value" : "1750-2659"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Influenza and Other Respiratory Viruses"
+  } ]
+} ]

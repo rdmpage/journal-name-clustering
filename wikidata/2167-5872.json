@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766635",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. NC Acad. Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "JNCAS"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "190645"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://meridian.allenpress.com/jncas"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2167-5880"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jnortcaroacadsci"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210222980"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2167-5872"
+  }, {
+    "@value" : "2167-5880"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the North Carolina Academy of Science"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q55869068",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "“Branta” Transactions of the Azov-Black Sea Ornithological Station"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "376193"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1994-1722"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210180556"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1994-1722"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Branta"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q18712350",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Int. J. Mosq. Res."
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2348-5906"
+  }, {
+    "@value" : "2348-7941"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2014"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.dipterajournal.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2348-5906"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764974302"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2348-7941"
+  }, {
+    "@value" : "2348-5906"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International journal of mosquito research"
+  } ]
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4050530",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Syst. Entomol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3535"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1932"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3113"
+  }, {
+    "@id" : "http://www.royensoc.co.uk/publications/Systematic_Entomology.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0307-6970"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S40752542"
+  }, {
+    "@value" : "C2776855079"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "94AA9CFD-6807-409B-BCC0-863D0AACA0CC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1365-3113"
+  }, {
+    "@value" : "0307-6970"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Systematic Entomology"
+  } ]
+} ]

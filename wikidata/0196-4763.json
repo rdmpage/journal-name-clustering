@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26839766",
+  "http://example.com/crossref" : [ {
+    "@value" : "241"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-4930"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1552-4957"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jtoc/102019902/2002"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jtoc/33945/2002"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0196-4763"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S75647499"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1097-0320"
+  }, {
+    "@value" : "0196-4763"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cytometry"
+  } ]
+} ]

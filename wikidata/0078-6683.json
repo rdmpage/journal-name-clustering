@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113478835",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://omnh.repo.nii.ac.jp/search?search_type=2&q=2"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-6683"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0078-6683"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Shizanshi kenkyū"
+  } ]
+} ]

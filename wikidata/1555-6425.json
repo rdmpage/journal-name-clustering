@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761376",
+  "http://example.com/crossref" : [ {
+    "@value" : "54501"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://www.maik.rssi.ru/cgi-bin/journal.pl?name=ichth&page=main"
+  }, {
+    "@id" : "https://www.springer.com/journal/11489"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0032-9452"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S189413238"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0032-9452"
+  }, {
+    "@value" : "1555-6425"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Ichthyology"
+  } ]
+} ]

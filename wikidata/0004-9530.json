@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765694",
+  "http://example.com/crossref" : [ {
+    "@value" : "25782"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1742-9536"
+  }, {
+    "@value" : "0004-9530"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=3ZYtAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=se4tAAAAMAAJ"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/1518827.html"
+  }, {
+    "@id" : "https://www.tandfonline.com/loi/raup20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0004-9530"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S156219422"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0004-9530"
+  }, {
+    "@value" : "1742-9536"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australian Journal of Psychology"
+  } ]
+} ]

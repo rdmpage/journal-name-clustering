@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q125554374",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Ann. géol. pays hell."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1942"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1105-0004"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1105-0004"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "el",
+    "@value" : "Γεωλογικά Χρονικά των Ελληνικών Χωρών"
+  }, {
+    "@language" : "mul",
+    "@value" : "Annales Géologiques des Pays Helléniques"
+  }, {
+    "@language" : "fr",
+    "@value" : "Annales géologiques des pays helléniques"
+  } ]
+} ]

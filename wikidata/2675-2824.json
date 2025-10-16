@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96720830",
+  "http://example.com/crossref" : [ {
+    "@value" : "392126"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2675-2824"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2675-2824"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210225637"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "010E9EE8-8385-42A0-8EC8-8CD0D4F6C230"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2675-2824"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ocean and Coastal Research"
+  } ]
+} ]

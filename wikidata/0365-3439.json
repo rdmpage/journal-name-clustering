@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723475",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Arch Razi Inst"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ARI"
+  }, {
+    "@language" : "en",
+    "@value" : "Archives of the Razi Institut"
+  }, {
+    "@language" : "en",
+    "@value" : "Arch Razi Inst"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2008-9872"
+  }, {
+    "@value" : "0365-3439"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.archrazi.com/index.php?slc_lang=en&sid=1"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0365-3439"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764576156"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2008-9872"
+  }, {
+    "@value" : "0365-3439"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Archives of Razi Institute"
+  }, {
+    "@language" : "fa",
+    "@value" : "Ārshīv-i Mu̓assisah-i Rāzī."
+  } ]
+} ]

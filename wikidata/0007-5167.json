@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759939",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "BZN"
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. zool. nomencl."
+  }, {
+    "@language" : "en",
+    "@value" : "The Bulletin of Zoological Nomenclature"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. zool. nomencl."
+  }, {
+    "@language" : "de",
+    "@value" : "The Bulletin of zoological nomenclature"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "51603"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297253"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1943"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioone.org/loi/bzno"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0007-5167"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764437286"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "82B7004E-449B-4EC9-8079-85A47B4AA541"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0007-5167"
+  }, {
+    "@value" : "2057-0570"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Bulletin of Zoological Nomenclature"
+  } ]
+} ]

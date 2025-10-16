@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51522364",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc. Entomol. Soc. Ont."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "118654"
+  }, {
+    "@value" : "70397"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1959"
+  }, {
+    "@value" : "1871"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0071-0768"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306524043"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0071-0768"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Entomological Society of Ontario"
+  } ]
+} ]

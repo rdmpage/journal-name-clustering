@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755125",
+  "http://example.com/crossref" : [ {
+    "@value" : "94125"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1965"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ingentaconnect.com/content/0036-9276"
+  }, {
+    "@id" : "https://www.lyellcollection.org/journal/sjg"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0036-9276"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S90123000"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2041-4951"
+  }, {
+    "@value" : "0036-9276"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Scottish Journal of Geology"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q9138987",
+  "http://example.com/crossref" : [ {
+    "@value" : "86585"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1954"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.zbs.bialowieza.pl/publikacje/?pole=acta%20theriologica"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S147001635"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-7051"
+  }, {
+    "@value" : "1509-4537"
+  }, {
+    "@value" : "2190-3743"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Theriologica"
+  } ]
+} ]

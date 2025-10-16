@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328027",
+  "http://example.com/doaj" : [ {
+    "@value" : "2420-9589"
+  }, {
+    "@value" : "0404-4266"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ciso-coi.it/avocetta"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0404-4266"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2420-9589"
+  }, {
+    "@value" : "0404-4266"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Avocetta"
+  } ]
+} ]

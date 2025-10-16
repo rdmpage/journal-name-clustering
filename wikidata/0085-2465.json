@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51506211",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Monogr. Mus. Nat. Hist., Univ. Kans."
+  }, {
+    "@language" : "en",
+    "@value" : "Monograph of the Museum of Natural History, University of Kansas"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "48440"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0085-2465"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0085-2465"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Monograph of the Museum of Natural History, University of Kansas"
+  } ]
+} ]

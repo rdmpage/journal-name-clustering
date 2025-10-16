@@ -1,0 +1,57 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385082",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0341-0145"
+  }, {
+    "@language" : "de",
+    "@value" : "Stuttgarter Beiträge zur Naturkunde. Serie A, Biologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Stuttgarter Beiträge zur Naturkunde. Serie A, Biologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Stuttg. Beitr. Naturkd., A"
+  }, {
+    "@language" : "de",
+    "@value" : "ISSN 0341-0145"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "49174"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "299550"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1973"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.naturkundemuseum-bw.de/publikationen/stuttgarter-beitraege-zur-naturkunde-serie-a"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0341-0145"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210205502"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2017"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "08412292-6D64-4DDF-991C-C72BBCC8A1B2"
+  }, {
+    "@value" : "A63F7A29-6914-4890-8B5D-2B1A03EE3E9B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0341-0145"
+  }, {
+    "@value" : "2193-5513"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Stuttgarter Beiträge zur Naturkunde, Serie A (Biologie)"
+  }, {
+    "@language" : "de",
+    "@value" : "Stuttgarter Beiträge zur Naturkunde. Serie A, Biologie"
+  } ]
+} ]

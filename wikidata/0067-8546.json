@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q36611747",
+  "http://example.com/crossref" : [ {
+    "@value" : "335721"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1848"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://brill.com/view/journals/ctoz/ctoz-overview.xml?rskey=PrJ3Lv&result=3"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0067-8546"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S158463809"
+  }, {
+    "@value" : "S4306504315"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1995"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0067-8546"
+  }, {
+    "@value" : "2666-0644"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Bijdragen tot de dierkunde"
+  } ]
+} ]

@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27713836",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Vopr Virusol"
+  }, {
+    "@language" : "en",
+    "@value" : "Vopr. Virusol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "290727"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0507-4088"
+  }, {
+    "@value" : "2411-2097"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://virusjour.elpub.ru/jour"
+  }, {
+    "@id" : "http://elibrary.ru/title_about.asp?id=7705"
+  }, {
+    "@id" : "http://www.medlit.ru/journalsview/virology/"
+  }, {
+    "@id" : "https://virusjour.crie.ru/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0507-4088"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2751906956"
+  }, {
+    "@value" : "S4306538947"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2411-2097"
+  }, {
+    "@value" : "0507-4088"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Вопросы Вирусологии"
+  }, {
+    "@language" : "mul",
+    "@value" : "Voprosy virusologii"
+  } ]
+} ]

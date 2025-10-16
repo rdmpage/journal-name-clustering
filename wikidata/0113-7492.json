@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759753",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mauri Ora"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ir.canterbury.ac.nz/handle/10092/12525"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0113-7492"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A509E1F8-56B3-4E37-9F9A-FF79E19E412F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0113-7492"
+  }, {
+    "@value" : "2423-0235"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "New Zealand Natural Sciences"
+  } ]
+} ]

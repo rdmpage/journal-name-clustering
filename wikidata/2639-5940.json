@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96699138",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Environmental pollutants & bioavailability"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "326941"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2639-5940"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.tandfonline.com/toc/tcsb20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2639-5940"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210202135"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2639-5932"
+  }, {
+    "@value" : "2639-5940"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environmental pollutants & bioavailability"
+  } ]
+} ]

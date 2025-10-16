@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96331288",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Communications - Geological Survey of Namibia"
+  }, {
+    "@language" : "en",
+    "@value" : "Communs geol. Surv. Namibia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1026-2954"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1026-2954"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Communications of the Geological Survey of Namibia"
+  } ]
+} ]

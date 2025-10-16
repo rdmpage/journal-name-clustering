@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759072",
+  "http://example.com/crossref" : [ {
+    "@value" : "5611"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://collection.nlc-bnc.ca/101/201/301/enviro%5Freview/index.html"
+  }, {
+    "@id" : "http://www.nrc.ca/cgi-bin/cisti/journals/rp/rp2%5Fdesc%5Fe?er"
+  }, {
+    "@id" : "http://www.nrc.ca/cgi-bin/cisti/journals/rp/rp2%5Fdesc%5Ff?er"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1181-8700"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "envirevi"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S79420083"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1181-8700"
+  }, {
+    "@value" : "1208-6053"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environmental Reviews"
+  }, {
+    "@language" : "mul",
+    "@value" : "Environmental reviews"
+  } ]
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27713682",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "Citologiâ"
+  }, {
+    "@language" : "en",
+    "@value" : "TSITOLOGIYA"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "314334"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://cytologyras.ru/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0041-3771"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2753356998"
+  }, {
+    "@value" : "S4306533377"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0041-3771"
+  }, {
+    "@value" : "3034-6061"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "ЦИТОЛОГИЯ"
+  } ]
+} ]

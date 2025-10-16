@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5477532",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Arq. Inst. Biol. Veg."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "115964"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1934"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jbrj.gov.br/publica/arquivos/arquivos.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0103-2526"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1938"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0103-2526"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Arquivos do Instituto de Biologia Vegetal"
+  } ]
+} ]

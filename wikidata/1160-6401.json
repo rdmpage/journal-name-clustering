@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96701928",
+  "http://example.com/crossref" : [ {
+    "@value" : "312342"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.persee.fr/collection/linly"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1160-6401"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210169986"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2613-2885"
+  }, {
+    "@value" : "1160-6401"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Annales de la Société linnéenne de Lyon... et des Société botanique de Lyon, Société d'anthropologie et de biologie de Lyon réunies"
+  } ]
+} ]

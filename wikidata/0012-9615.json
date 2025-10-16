@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3047085",
+  "http://example.com/crossref" : [ {
+    "@value" : "55409"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1557-7015"
+  }, {
+    "@id" : "http://www.esajournals.org/esaonline/?request=get-archive&issn=0012-9615"
+  }, {
+    "@id" : "http://www.esajournals.org/loi/emon"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00129615.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0012-9615"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "ecolmono"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S201386569"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1557-7015"
+  }, {
+    "@value" : "0012-9615"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecological Monographs"
+  } ]
+} ]

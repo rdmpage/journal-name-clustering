@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q81268600",
+  "http://example.com/from_year" : [ {
+    "@value" : "1989"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1015-8448"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D24B9F94-24F9-4D5E-A82C-D0A128554CD7"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1015-8448"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the National Museum of Natural Science"
+  } ]
+} ]

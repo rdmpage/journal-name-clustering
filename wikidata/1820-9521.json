@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96698472",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Natural History Museum in Belgrade"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "235646"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.nhmbeo.rs/bulletin"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1820-9521"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210172324"
+  }, {
+    "@value" : "S4210174328"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1820-9521"
+  }, {
+    "@value" : "2406-1360"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Natural History Museum in Belgrade"
+  } ]
+} ]

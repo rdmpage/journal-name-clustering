@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765533",
+  "http://example.com/crossref" : [ {
+    "@value" : "5533"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "993"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.schweizerbart.de/journals/nova_hedwigia?I=DE"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0029-5035"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S132244886"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0029-5035"
+  }, {
+    "@value" : "2363-7188"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Nova Hedwigia"
+  }, {
+    "@language" : "en",
+    "@value" : "Nova Hedwigia: journal of cryptogamic science"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27940650",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Kyoto Entomological Society"
+  }, {
+    "@language" : "ja",
+    "@value" : "あきつ"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0389-2751"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0389-2751"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "Akitu"
+  }, {
+    "@language" : "en",
+    "@value" : "Akitu"
+  } ]
+} ]

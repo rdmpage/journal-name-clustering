@@ -1,0 +1,54 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2573473",
+  "http://example.com/crossref" : [ {
+    "@value" : "308928"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.schweizerbart.de/journals/palb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-0299"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0375-0299"
+  }, {
+    "@value" : "2509-839X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Palaeontographica B"
+  }, {
+    "@language" : "mul",
+    "@value" : "Palaeontographica. Abteilung B Paläophytologie"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q96723363",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Palaeontographica Abteilung B"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297758"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.schweizerbart.de/journals/palb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-0299"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S953895714"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2509-839X"
+  }, {
+    "@value" : "2194-900X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Palaeontographica. Abteilung B, Paläophytologie"
+  }, {
+    "@language" : "mul",
+    "@value" : "Palaeontographica. Abteilung B, Palaophytologie, Palaeobotany, Palaeophytology"
+  } ]
+} ]

@@ -1,0 +1,88 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27711832",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "JOGN Nurs"
+  }, {
+    "@language" : "en",
+    "@value" : "JOGN nursing"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297876"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ovid.com/products/journals/journals_browse.cfm"
+  }, {
+    "@id" : "http://JOG.sagepub.com/"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1552-6909"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0090-0311"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2898537808"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0090-0311"
+  }, {
+    "@value" : "0884-2175"
+  }, {
+    "@value" : "1552-6909"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "JOGN nursing"
+  }, {
+    "@language" : "en",
+    "@value" : "JOGN nursing; journal of obstetric, gynecologic, and neonatal nursing"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q6295668",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "JOGN nursing"
+  }, {
+    "@language" : "en",
+    "@value" : "J Obstet Gynecol Neonatal Nurs."
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Obstetric, Gynecologic, and Neonatal Nursing"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "54369"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "4556"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://JOG.sagepub.com/"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1552-6909"
+  }, {
+    "@id" : "http://www.ovid.com/products/journals/journals_browse.cfm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0090-0311"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S48019687"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1552-6909"
+  }, {
+    "@value" : "0884-2175"
+  }, {
+    "@value" : "0090-0311"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Obstetric, Gynecologic, & Neonatal Nursing"
+  }, {
+    "@language" : "en",
+    "@value" : "JOGN nursing"
+  } ]
+} ]

@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757193",
+  "http://example.com/crossref" : [ {
+    "@value" : "739"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S55645480"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0941-2905"
+  }, {
+    "@value" : "1053-6426"
+  }, {
+    "@value" : "1436-2228"
+  }, {
+    "@value" : "1436-2236"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Marine Biotechnology"
+  } ]
+} ]

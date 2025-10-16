@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2584794",
+  "http://example.com/crossref" : [ {
+    "@value" : "118805"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1280-8571"
+  }, {
+    "@value" : "1639-4798"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://sciencepress.mnhn.fr/en/periodiques/adansonia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1280-8571"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S119583998"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1280-8571"
+  }, {
+    "@value" : "1639-4798"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Adansonia"
+  } ]
+} ]

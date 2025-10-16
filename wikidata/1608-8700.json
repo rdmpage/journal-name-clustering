@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385527",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1608-8700"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "26D1E505-1989-4642-9B8A-751EA6F3B4F9"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1608-8700"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Denisia"
+  }, {
+    "@language" : "mul",
+    "@value" : "Denisia"
+  } ]
+} ]

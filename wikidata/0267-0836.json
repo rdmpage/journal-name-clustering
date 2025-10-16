@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764442",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Materials science and technology : MST : a publication of the Institute of Metals"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "10884"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/11741814.html"
+  }, {
+    "@id" : "http://search.ebscohost.com/direct.asp?db=a9h&jid=%22PO9%22&scope=site"
+  }, {
+    "@id" : "http://www.ingentaconnect.com/content/0267-0836"
+  }, {
+    "@id" : "http://www.tandfonline.com/toc/ymst20/current"
+  }, {
+    "@id" : "https://www.tandfonline.com/journals/ymst20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0267-0836"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S82336448"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1743-2847"
+  }, {
+    "@value" : "0267-0836"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Materials Science and Technology"
+  } ]
+} ]

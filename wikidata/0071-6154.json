@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386329",
+  "http://example.com/from_year" : [ {
+    "@value" : "1956"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/54191"
+  }, {
+    "@id" : "http://www.flmnh.ufl.edu/bulletin/bulletin_vols.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0071-6154"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1989"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0071-6154"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Florida State Museum. Biological sciences"
+  } ]
+} ]

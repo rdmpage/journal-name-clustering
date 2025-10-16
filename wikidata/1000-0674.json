@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385402",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Weiti gushengwu xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "Weiti gushengwu xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "微體古生物學報"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-0674"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500414"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "56C10457-1F83-46AC-8698-40626C9317D6"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-0674"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Micropalaeontologica Sinica"
+  }, {
+    "@language" : "zh",
+    "@value" : "微体古生物学报"
+  } ]
+} ]

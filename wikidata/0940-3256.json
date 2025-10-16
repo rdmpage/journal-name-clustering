@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385251",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0940-3256"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0940-3256"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Ornithologischer Anzeiger"
+  } ]
+} ]

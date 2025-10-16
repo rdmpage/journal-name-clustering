@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385795",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Rec. zool. Surv. India"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "315165"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1963"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://recordsofzsi.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-1511"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764586305"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2581-8686"
+  }, {
+    "@value" : "0375-1511"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Records of the Zoological Survey of India"
+  } ]
+} ]

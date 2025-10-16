@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767671",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.uq.edu.au/%7ecsvguerr/jvet196a.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1328-925X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306521502"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1328-925X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Online Journal of Veterinary Research"
+  } ]
+} ]

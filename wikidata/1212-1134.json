@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q99747613",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1212-1134"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1212-1134"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Zprávy Vlastivědného muzea v Olomouci"
+  } ]
+} ]

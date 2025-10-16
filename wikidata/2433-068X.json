@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113961533",
+  "http://example.com/from_year" : [ {
+    "@value" : "1958"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/venusjjm/list/-char/ja"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/venusjjma/list/-char/ja"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/venusjjmc/list/-char/ja"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/vinuskz/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0042-3580"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "venusjjmb"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1958"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2433-068X"
+  }, {
+    "@value" : "2433-0698"
+  }, {
+    "@value" : "2433-0701"
+  }, {
+    "@value" : "2433-0671"
+  }, {
+    "@value" : "2432-9967"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Kairuigaku zasshi"
+  }, {
+    "@language" : "en",
+    "@value" : "Venus"
+  } ]
+} ]

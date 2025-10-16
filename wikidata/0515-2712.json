@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15830680",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Acta Albertina Ratisb."
+  }, {
+    "@language" : "es",
+    "@value" : "Acta Albertina Ratisbonensia. Regensburger Naturwissenschaften"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0515-2712"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0515-2712"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Albertina Ratisbonensia"
+  }, {
+    "@language" : "de",
+    "@value" : "Acta Albertina Ratisbonensia"
+  } ]
+} ]

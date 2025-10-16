@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q40532368",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Oreina: les papillons de France"
+  }, {
+    "@language" : "fr",
+    "@value" : "Oreina : les papillons de France"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2008"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://oreina.org/artemisiae/biblio/index.php?module=magazine&action=listemag"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1967-0133"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1967-0133"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Oreina"
+  } ]
+} ]

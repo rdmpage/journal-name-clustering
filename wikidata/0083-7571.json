@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q74958508",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0083-7571"
+  }, {
+    "@language" : "en",
+    "@value" : "Univ. Wash. Publ. Biol."
+  }, {
+    "@language" : "en",
+    "@value" : "University of Washington publications in biology"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1932"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0083-7571"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0083-7571"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "University of Washington Publications in Biology"
+  } ]
+} ]

@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3669583",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "RCHN"
+  }, {
+    "@language" : "fr",
+    "@value" : "Revista chilena de historia natural"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "14373"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "87491"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0717-6317"
+  }, {
+    "@value" : "0716-078X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1983"
+  }, {
+    "@value" : "1897"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rchn.biologiachile.cl/"
+  }, {
+    "@id" : "http://www.scielo.cl/rchnat.htm"
+  }, {
+    "@id" : "mailto:rchn@bio.puc.cl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0716-078X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S48572832"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0716-078X"
+  }, {
+    "@value" : "0717-6317"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista Chilena de Historia Natural"
+  } ]
+} ]

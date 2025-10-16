@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q114355957",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Abhandlungen und Berichte aus dem Museum für Naturkunde und Vorgeschichte in Magdeburg"
+  }, {
+    "@language" : "de",
+    "@value" : "Abhandlungen und Berichte aus dem Museum für Naturkunde und Vorgeschichte in Magdeburg"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0464-4263"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1948"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0464-4263"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1991"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0464-4263"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Abhandlungen und Berichte für Naturkunde und Vorgeschichte"
+  } ]
+} ]

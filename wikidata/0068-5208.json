@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108208147",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Cahiers - Office de la recherche scientifique et technique outre-mer. Série biologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Cahiers - ORSTOM. Série biologie"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0068-5208"
+  }, {
+    "@language" : "fr",
+    "@value" : "Cahiers - ORSTOM. Série biologie"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0068-5208"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0068-5208"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Cahiers - ORSTOM. Série biologie"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759363",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zeylanika"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1391-6270"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1391-6270"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zeylanika"
+  }, {
+    "@language" : "la",
+    "@value" : "Zeylanica"
+  } ]
+} ]

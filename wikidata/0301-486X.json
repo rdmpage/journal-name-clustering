@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763210",
+  "http://example.com/crossref" : [ {
+    "@value" : "2812"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1938"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/11046"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0301-486X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S154926289"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1573-0832"
+  }, {
+    "@value" : "0301-486X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Mycopathologia"
+  }, {
+    "@language" : "mul",
+    "@value" : "Mycopathologia"
+  } ]
+} ]

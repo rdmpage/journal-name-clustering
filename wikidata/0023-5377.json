@@ -1,0 +1,76 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16587055",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Kongliga Svenska Vetenskaps-Academiens Nya Handlingar"
+  }, {
+    "@language" : "en",
+    "@value" : "Kongl. Vetensk. Acad. Nya Handl."
+  }, {
+    "@language" : "en",
+    "@value" : "Kongl. Svenska Vetensk. Acad. Handl."
+  }, {
+    "@language" : "en",
+    "@value" : "K. svenska Vetenskaps Akad. Handl."
+  }, {
+    "@language" : "en",
+    "@value" : "K. Sven. vetensk. akad. handl."
+  }, {
+    "@language" : "en",
+    "@value" : "Kungliga Svenska Vetenskapsakademiens Handlingar"
+  }, {
+    "@language" : "en",
+    "@value" : "Kungl. Svenska vetenskapsakademiens handlingar"
+  }, {
+    "@language" : "de",
+    "@value" : "Kongl. Svenska Vetenskaps Academiens handlingar"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "50688"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297418"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1739"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0023-5377"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210233768"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1971"
+  }, {
+    "@value" : "1974"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0023-5377"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "sv",
+    "@value" : "Kongl. Swenska wetenskaps academiens handlingar"
+  }, {
+    "@language" : "sv",
+    "@value" : "Kongl. Svenska vetenskaps academiens handlingar"
+  }, {
+    "@language" : "sv",
+    "@value" : "Kongl. Vetenskapsakademiens handlingar"
+  }, {
+    "@language" : "sv",
+    "@value" : "Kungliga Svenska Vetenskapsakademiens handlingar"
+  }, {
+    "@language" : "sv",
+    "@value" : "Swenska wetenskaps academiens handlingar"
+  }, {
+    "@language" : "sv",
+    "@value" : "Kongl. Vetenskaps academiens nya handlingar"
+  }, {
+    "@language" : "sv",
+    "@value" : "Kongl. vetenskaps-academiens handlingar"
+  }, {
+    "@language" : "sv",
+    "@value" : "Kongl. vetenskaps academiens handlingar"
+  } ]
+} ]

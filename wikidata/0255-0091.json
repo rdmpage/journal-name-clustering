@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386128",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Ann. Naturh. Mus. Wien, A"
+  }, {
+    "@language" : "de",
+    "@value" : "Annalen des Natur-historischen Museums in Wien. Serie A für Mineralogie und Petrographie, Geologie und Paläontologie, Anthropologie und Prähistorie"
+  }, {
+    "@language" : "de",
+    "@value" : "Annalen des Naturhistorischen Museums in Wien. Serie A für Mineralogie und Petrographie, Geologie und Paläontologie, Anthropologie und Prähistorie"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.nhm-wien.ac.at/verlag/wissenschaftliche_serien/annalen"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0255-0091"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "annnatmuswiesera"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B85E5953-089C-4BA8-83D5-98E61BF247C3"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0255-0091"
+  }, {
+    "@value" : "2957-4536"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Annalen des Natur-historischen Museums in Wien. Serie A für Mineralogie und Petrographie, Geologie und Paläontologie, Anthropologie und Prähistorie"
+  } ]
+} ]

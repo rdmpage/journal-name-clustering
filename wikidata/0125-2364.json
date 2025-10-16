@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727456",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0125-2364"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0125-2364"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Witthayasat Mo Kho"
+  }, {
+    "@language" : "th",
+    "@value" : "Witthayasat Mo Kho"
+  } ]
+} ]

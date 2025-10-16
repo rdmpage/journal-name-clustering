@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51405479",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. Essex Inst."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "129936"
+  }, {
+    "@value" : "7933"
+  }, {
+    "@value" : "63727"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297276"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1869"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0732-4952"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210215473"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1898"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0732-4952"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Essex Institute"
+  } ]
+} ]

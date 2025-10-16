@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329493",
+  "http://example.com/crossref" : [ {
+    "@value" : "392274"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://jssm.umt.edu.my/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1823-8556"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210182797"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1823-8556"
+  }, {
+    "@value" : "2672-7226"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of sustainability science and management"
+  } ]
+} ]

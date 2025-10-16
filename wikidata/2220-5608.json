@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765630",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://palmm.fcla.edu/nematode/"
+  }, {
+    "@id" : "http://purl.fcla.edu/fcla/nematropica"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0099-5444"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S75294269"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2220-5608"
+  }, {
+    "@value" : "2220-5616"
+  }, {
+    "@value" : "0099-5444"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Nematropica"
+  }, {
+    "@language" : "en",
+    "@value" : "Nematropica"
+  } ]
+} ]

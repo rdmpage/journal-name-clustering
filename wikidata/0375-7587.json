@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1845923",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Scripta Geol."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1883"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.scriptageologica.nl/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-7587"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S206167473"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0375-7587"
+  }, {
+    "@value" : "1876-2077"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Scripta Geologica"
+  }, {
+    "@language" : "en",
+    "@value" : "Scripta geologica"
+  } ]
+} ]

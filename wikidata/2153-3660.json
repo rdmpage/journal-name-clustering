@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750454",
+  "http://example.com/crossref" : [ {
+    "@value" : "107305"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.informaworld.com/smpp/title~content=t917596259~db=all"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/ther20#.UrNeWE2Iqic"
+  }, {
+    "@id" : "https://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ther20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2156-4574"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S170012901"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "6A41902A-1E04-4EA8-A4D2-878BBF01442C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2153-3660"
+  }, {
+    "@value" : "2156-4574"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "African Journal of Herpetology"
+  } ]
+} ]

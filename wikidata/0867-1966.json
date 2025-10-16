@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385099",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://muzeum.bytom.pl/?page_id=5873"
+  }, {
+    "@id" : "http://muzeum.bytom.pl/page_id=5873"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0867-1966"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "24B7E9B6-D54C-42C6-9D06-DEB8EE82078F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2544-039X"
+  }, {
+    "@value" : "0867-1966"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Rocznik Muzeum Górnośląskiego w Bytomiu. Entomologia"
+  }, {
+    "@language" : "en",
+    "@value" : "Annals of the Upper Silesian Museum in Bytom. Entomology"
+  } ]
+} ]

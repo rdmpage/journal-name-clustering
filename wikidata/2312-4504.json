@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q55443187",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Karelian Research Centre of RAS"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of Karelian Research Centre RAS"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Karelian Research Centre"
+  }, {
+    "@language" : "ru",
+    "@value" : "Труды КарНЦ РАН"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "268589"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2312-4504"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1947"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.krc.karelia.ru"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1997-3217"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210176256"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1997-3217"
+  }, {
+    "@value" : "2312-4504"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Karelian Research Centre of the Russian Academy of Sciences"
+  } ]
+} ]

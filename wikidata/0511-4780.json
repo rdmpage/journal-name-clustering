@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q95993917",
+  "http://example.com/crossref" : [ {
+    "@value" : "277906"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0511-4780"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210167447"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0511-4780"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Wentia"
+  }, {
+    "@language" : "nl",
+    "@value" : "Wentia"
+  } ]
+} ]

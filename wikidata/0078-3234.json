@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759449",
+  "http://example.com/crossref" : [ {
+    "@value" : "133985"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0078-3234"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.iopan.gda.pl/oceanologia/index-pl.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-3234"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S176690450"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2300-7370"
+  }, {
+    "@value" : "0078-3234"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Oceanologia"
+  }, {
+    "@language" : "pl",
+    "@value" : "Oceanologia"
+  }, {
+    "@language" : "und",
+    "@value" : "Oceanologia"
+  } ]
+} ]

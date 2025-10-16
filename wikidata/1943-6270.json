@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765628",
+  "http://example.com/crossref" : [ {
+    "@value" : "61181"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=8756-971X"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=8756-971X"
+  }, {
+    "@id" : "http://www.mosquito.org/journal.php"
+  }, {
+    "@id" : "https://bioone.org/journals/journal-of-the-american-mosquito-control-association/issues"
+  }, {
+    "@id" : "https://mosquito-jamca.org/loi/moco"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "8756-971X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S193994340"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "8756-971X"
+  }, {
+    "@value" : "1943-6270"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the American Mosquito Control Association"
+  } ]
+} ]

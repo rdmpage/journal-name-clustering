@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751001",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "East Afr Med J"
+  }, {
+    "@language" : "de",
+    "@value" : "East Afr Med J"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "153867"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1932"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.ajol.info/index.php/eamj/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0012-835X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4140075"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0012-835X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "East African Medical Journal"
+  } ]
+} ]

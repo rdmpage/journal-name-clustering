@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51451245",
+  "http://example.com/bhl" : [ {
+    "@value" : "6387"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1895"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/cb34378568t/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-5869"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2825-791X"
+  }, {
+    "@value" : "0373-5869"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Station Biologique d'Arcachon"
+  } ]
+} ]

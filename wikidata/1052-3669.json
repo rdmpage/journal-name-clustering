@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q125738445",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/54191"
+  }, {
+    "@id" : "http://www.flmnh.ufl.edu/bulletin/bulletin_vols.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1052-3669"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1052-3669"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Florida Museum of Natural History. Biological sciences"
+  } ]
+} ]

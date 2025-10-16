@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96334858",
+  "http://example.com/crossref" : [ {
+    "@value" : "283887"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2058-8410"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210224201"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2058-8410"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Wader study"
+  } ]
+} ]

@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757044",
+  "http://example.com/crossref" : [ {
+    "@value" : "189927"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sekj.org/AnnZool.html"
+  }, {
+    "@id" : "http://www.annzool.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-455X"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "annazoolfenn"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S193683933"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "03EF1F62-8C0E-44B7-B300-9F91060D55D3"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0003-455X"
+  }, {
+    "@value" : "1797-2450"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Annales Zoologici Fennici"
+  }, {
+    "@language" : "en",
+    "@value" : "Annales zoologici Fennici"
+  } ]
+} ]

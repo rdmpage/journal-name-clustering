@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108705002",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0422-7700"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0422-7700"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Ehime Daigaku kiyō. Shizen kagaku. B shirīzu, Seibutsugaku"
+  } ]
+} ]

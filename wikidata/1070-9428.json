@@ -1,0 +1,63 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q19830024",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Hymenopt. Res."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Hymenoptera research"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Hymenopt. res."
+  }, {
+    "@language" : "de",
+    "@value" : "Journal of Hymenoptera research"
+  }, {
+    "@language" : "en",
+    "@value" : "JHR"
+  }, {
+    "@language" : "de",
+    "@value" : "J. Hymenopt. res."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "2680"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "122065"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1070-9428"
+  }, {
+    "@value" : "1314-2607"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.pensoft.net/journals/jhr"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/67682"
+  }, {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/2680"
+  }, {
+    "@id" : "https://jhr.pensoft.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1070-9428"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S158789388"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "55528528-5C97-4D79-A718-8B3D153B37CC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1070-9428"
+  }, {
+    "@value" : "1314-2607"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Hymenoptera Research"
+  } ]
+} ]

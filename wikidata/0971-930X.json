@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385360",
+  "http://example.com/crossref" : [ {
+    "@value" : "297504"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.informaticsjournals.com/index.php/jbc/issue/archive"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2230-7281"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764416458"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "00F36CAB-7B9F-435F-A14F-565CD67D41B7"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0971-930X"
+  }, {
+    "@value" : "2230-7281"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of biological control"
+  } ]
+} ]

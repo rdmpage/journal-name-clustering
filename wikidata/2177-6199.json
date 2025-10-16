@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15817903",
+  "http://example.com/crossref" : [ {
+    "@value" : "100545"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://revistas.ufrj.br/index.php/oa/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2177-6199"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S143728810"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2177-6199"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Oecologia Australis"
+  }, {
+    "@language" : "mul",
+    "@value" : "Oecologia Australis"
+  } ]
+} ]

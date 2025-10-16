@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385695",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Asia Life Sci."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0117-3375"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S64991610"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "1D19C74D-518D-40DD-BF7A-0A3BF21AEE0A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0117-3375"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Asia Life Sciences"
+  } ]
+} ]

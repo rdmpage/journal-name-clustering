@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2002777",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0369-5336"
+  }, {
+    "@language" : "en",
+    "@value" : "Nova Guinea; a Journal of Botany, Zoology, Anthropology, Ethnography, Geology and Palaeontology of the Papuan Region"
+  }, {
+    "@language" : "fr",
+    "@value" : "Nova Guinea : résultats de l'expédition scientifique néerlandaise à la Nouvelle-Guinée ..."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "10923"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1909"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0369-5336"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1936"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0369-5336"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Nova Guinea"
+  }, {
+    "@language" : "en",
+    "@value" : "Nova Guinea"
+  } ]
+} ]

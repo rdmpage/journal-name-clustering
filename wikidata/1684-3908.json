@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766218",
+  "http://example.com/crossref" : [ {
+    "@value" : "304153"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2225-4994"
+  }, {
+    "@value" : "1684-3908"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.antbase.de/monjobiol/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1684-3908"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210190451"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2225-4994"
+  }, {
+    "@value" : "1684-3908"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Mongolian Journal of Biological Sciences"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51447417",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biological lectures delivered at the Marine Biological Laboratory at Wood's Hole"
+  }, {
+    "@language" : "en",
+    "@value" : "Biol. lect. deliv. Mar. Biol. Lab. Wood's Hole"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "4963"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1890"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0275-1526"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1899"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0275-1526"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biological lectures delivered at the Marine Biological Laboratory at Wood's Hole"
+  } ]
+} ]

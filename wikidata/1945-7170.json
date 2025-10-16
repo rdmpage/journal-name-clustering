@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3054009",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Endocrinology"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Endocrinology (Philadelphia)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "38982"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "7315"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1917"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://endo.endojournals.org/"
+  }, {
+    "@id" : "http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=n&CSC=Y&PAGE=toc&D=ovft&AN=00003571-000000000-00000"
+  }, {
+    "@id" : "https://academic.oup.com/endo"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-7227"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S157527038"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1945-7170"
+  }, {
+    "@value" : "0013-7227"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Endocrinology"
+  } ]
+} ]

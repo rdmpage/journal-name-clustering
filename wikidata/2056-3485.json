@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50815342",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "RSE"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "265468"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2056-3485"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2056-3485"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%292056-3485"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2056-3485"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737234030"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2056-3485"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Remote sensing in ecology and conservation"
+  } ]
+} ]

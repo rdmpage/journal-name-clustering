@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761716",
+  "http://example.com/openalex" : [ {
+    "@value" : "S126954498"
+  }, {
+    "@value" : "S2756477810"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0026-9263"
+  }, {
+    "@value" : "0049-3864"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Tieraerztliche Umschau: Zeitschrift fuer alle Gebiete der Veterinaermedizin"
+  } ]
+} ]

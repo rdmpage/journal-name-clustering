@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760859",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0970-2903"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0970-2903"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Himalayan Journal of Environment and Zoology"
+  } ]
+} ]

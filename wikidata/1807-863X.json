@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757532",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Scientiarum : Biological Sciences"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "78900"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1679-9283"
+  }, {
+    "@value" : "1807-863X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://periodicos.uem.br/ojs/index.php/ActaSciBiolSci"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1679-9283"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S29120868"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1807-863X"
+  }, {
+    "@value" : "1679-9283"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta Scientiarum. Biological Sciences"
+  }, {
+    "@language" : "und",
+    "@value" : "Acta Scientiarum - Biological Sciences"
+  } ]
+} ]

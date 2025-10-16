@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4914958",
+  "http://example.com/crossref" : [ {
+    "@value" : "6365"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1480-9222"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1997"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springer.com/journal/12575/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1480-9222"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S93143966"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1480-9222"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biological Procedures Online"
+  } ]
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51423571",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ill. biol. monogr."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "3937"
+  }, {
+    "@value" : "16895"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1914"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0073-4748"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0073-4748"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Illinois Biological Monographs"
+  } ]
+} ]

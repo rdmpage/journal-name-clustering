@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16612420",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Museo Nacional de Historia Natural noticiario mensual | MNHN noticiario mensual | Noticiaro mensual del Museo Nacional de Historia Natural"
+  }, {
+    "@language" : "en",
+    "@value" : "Noticário Mensual Museo Nacional Histôria Natural"
+  }, {
+    "@language" : "es",
+    "@value" : "Noticiario mensual"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0376-2041"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Noticiario Mensual, Museo Nacional de Historia Natural"
+  } ]
+} ]

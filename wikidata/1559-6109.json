@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763143",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "American Association for Laboratory Animal Science. Journal"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the American Association for Laboratory Animal Science"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "314662"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://aalas.publisher.ingentaconnect.com/content/aalas/jaalas?originator=aalas&identity=id22503365&timestamp=20091021170704&signature=baf63f39db22c29594679163b2d82e82"
+  }, {
+    "@id" : "http://www.aalas.org/publications/index.asp"
+  }, {
+    "@id" : "http://www.ingentaconnect.com/content/aalas/jaalas"
+  }, {
+    "@id" : "http://www.ncbi.nlm.nih.gov/pmc/journals/817/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1559-6109"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S193386727"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1559-6109"
+  }, {
+    "@value" : "2769-6677"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the American Association for Laboratory Animals"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the American Association for Laboratory Animal Science"
+  } ]
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726313",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Open J Ecol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "137287"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/66856"
+  }, {
+    "@id" : "http://www.scirp.org/journal/oje/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2162-1993"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764578440"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2162-1993"
+  }, {
+    "@value" : "2162-1985"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Open journal of ecology"
+  } ]
+} ]

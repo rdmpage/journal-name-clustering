@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15716395",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Psychol. Sch."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Psychol. Schools"
+  }, {
+    "@language" : "fr",
+    "@value" : "Psychol. Schools"
+  }, {
+    "@language" : "en",
+    "@value" : "Psychol. Schools"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "254"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1520-6807"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/112418543"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/32084/"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/15206807"
+  }, {
+    "@id" : "https://search.ebscohost.com/direct.asp?db=eue&jid=PIS"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0033-3085"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S61821002"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0033-3085"
+  }, {
+    "@value" : "1520-6807"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Psychology in the Schools"
+  } ]
+} ]

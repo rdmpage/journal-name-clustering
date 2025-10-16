@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329026",
+  "http://example.com/crossref" : [ {
+    "@value" : "74995"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.uwm.edu.pl/polish-journal/pl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1643-9953"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S118658119"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1643-9953"
+  }, {
+    "@value" : "2083-456X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Polish Journal of Natural Sciences"
+  } ]
+} ]

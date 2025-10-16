@@ -1,0 +1,58 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q598789",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Astrophys. J."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ap.J."
+  }, {
+    "@language" : "en",
+    "@value" : "Astrophysical Journal"
+  }, {
+    "@language" : "en",
+    "@value" : "Astrophys. J."
+  }, {
+    "@language" : "ru",
+    "@value" : "Astrophys. J."
+  }, {
+    "@language" : "fr",
+    "@value" : "ApJ"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4876"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "3622"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1538-4357"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1895"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.iop.org/EJ/journal/apj"
+  }, {
+    "@id" : "https://iopscience.iop.org/journal/0004-637X"
+  }, {
+    "@id" : "http://adswww.harvard.edu/bib_abs.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0004-637X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210175824"
+  }, {
+    "@value" : "S1980519"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0004-637X"
+  }, {
+    "@value" : "1538-4357"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Astrophysical Journal"
+  } ]
+} ]

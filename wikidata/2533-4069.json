@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96327795",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2533-4050"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "301880"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://publikace.nm.cz/periodicke-publikace/fiamnpsbhn"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2533-4050"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210211802"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2533-4069"
+  }, {
+    "@value" : "2533-4050"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fossil Imprint"
+  } ]
+} ]

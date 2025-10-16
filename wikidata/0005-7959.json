@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763174",
+  "http://example.com/crossref" : [ {
+    "@value" : "5774"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1949"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://brill.publisher.ingentaconnect.com/content/brill/beh"
+  }, {
+    "@id" : "http://www.brill.com/behaviour"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0005-7959"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "behaviour"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S158656174"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3B4D9EED-5AB0-4DB0-8A59-364EA0F4444D"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1568-539X"
+  }, {
+    "@value" : "0005-7959"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Behaviour"
+  }, {
+    "@language" : "en",
+    "@value" : "Behaviour: an international journal of behaviourial biology"
+  } ]
+} ]

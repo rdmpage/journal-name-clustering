@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385581",
+  "http://example.com/crossref" : [ {
+    "@value" : "376658"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rjh.folium.ru/"
+  }, {
+    "@id" : "http://rjh.folium.ru/index.php/rjh/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1026-2296"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764529955"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2713-1467"
+  }, {
+    "@value" : "1026-2296"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Russian Journal of Herpetology"
+  } ]
+} ]

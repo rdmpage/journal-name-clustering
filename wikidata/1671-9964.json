@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724558",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Shanghai Jiaotong Daxue Xuebao. Nongye Kexueban"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1671-9964"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1671-9964"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Shanghai jiaotong daxue xuebao. Nongye kexueban"
+  }, {
+    "@language" : "zh",
+    "@value" : "Shanghai Jiaotong Daxue xuebao. Nongye kexueban"
+  } ]
+} ]

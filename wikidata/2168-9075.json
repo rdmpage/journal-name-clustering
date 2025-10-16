@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3668000",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Malacologia"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Malacologia: International Journal of Malacology"
+  }, {
+    "@language" : "en",
+    "@value" : "Malacologia: International Journal of Malacology"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "12920"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "81082"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1962"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://fieldmuseum.org/explore/malacologia/home"
+  }, {
+    "@id" : "http://rave.ohiolink.edu/ejournals/issn/00762997/"
+  }, {
+    "@id" : "http://www.biodiversitylibrary.org/bibliography/12920"
+  }, {
+    "@id" : "http://www.bioone.org/loi/mala"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0076-2997"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S176105862"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "45DFF445-FAB1-4865-B71E-A466DD46D8E4"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2168-9075"
+  }, {
+    "@value" : "0076-2997"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Malacologia"
+  } ]
+} ]

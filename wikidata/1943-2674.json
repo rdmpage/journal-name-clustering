@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756592",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "GSA Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Geological Society of America. Bulletin"
+  }, {
+    "@language" : "fr",
+    "@value" : "GSA Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "GSA Bulletin"
+  }, {
+    "@language" : "de",
+    "@value" : "GSA Bulletin"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5548"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=K1rzAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=RlvzAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=x1rzAAAAMAAJ"
+  }, {
+    "@id" : "http://www.geosociety.org/gsa/pubs/bulletin/home.aspx"
+  }, {
+    "@id" : "https://pubs.geoscienceworld.org/gsabulletin/list-of-years"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0016-7606"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S3271665"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1943-2674"
+  }, {
+    "@value" : "0016-7606"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Geological Society of America Bulletin"
+  } ]
+} ]

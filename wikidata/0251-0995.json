@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108744086",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0251-0995"
+  }, {
+    "@language" : "en",
+    "@value" : "Biology"
+  }, {
+    "@language" : "en",
+    "@value" : "Tap chi Sinh Vat Hoc"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0251-0995"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "21CB5394-F09C-4316-8672-C5A1F2C4F4FE"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0251-0995"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biology"
+  }, {
+    "@language" : "vi",
+    "@value" : "Tạp chí Sinh Vật Học"
+  } ]
+} ]

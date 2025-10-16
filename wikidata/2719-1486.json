@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q101084431",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Coleopterology"
+  }, {
+    "@language" : "en",
+    "@value" : "JTC"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 2718-9740"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 2719-1486"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jtcoleop.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2719-1486"
+  }, {
+    "@value" : "2718-9740"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210191120"
+  }, {
+    "@value" : "S4210206255"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2719-1486"
+  }, {
+    "@value" : "2718-9740"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Tropical Coleopterology"
+  } ]
+} ]

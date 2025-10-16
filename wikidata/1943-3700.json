@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753258",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "J. Wildl. Dis."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "189065"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1965"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=ML6zAAAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=UsezAAAAIAAJ"
+  }, {
+    "@id" : "http://www.bioone.org/loi/jwdi"
+  }, {
+    "@id" : "http://www.jwildlifedis.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0090-3558"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S113896437"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0090-3558"
+  }, {
+    "@value" : "1943-3700"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Wildlife Diseases"
+  } ]
+} ]

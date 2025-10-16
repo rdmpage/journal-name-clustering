@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765849",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Comparative Biochemistry and Physiology Part D: Genomics and Proteomics"
+  }, {
+    "@language" : "en",
+    "@value" : "Comparative biochemistry and physiology. Part D, Genomics & proteomics"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comparative Biochemistry and Physiology D"
+  }, {
+    "@language" : "en",
+    "@value" : "Comparative Biochemistry and Physiology D"
+  }, {
+    "@language" : "en",
+    "@value" : "Comparative biochemistry and physiology Part D, Genomics and proteomics"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "52402"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/1744117X"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/comparative-biochemistry-and-physiology-part-d-genomics-and-proteomics"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1744-117X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2898390257"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1878-0407"
+  }, {
+    "@value" : "1744-117X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Comparative Biochemistry and Physiology. Part D: Genomics and Proteomics"
+  }, {
+    "@language" : "en",
+    "@value" : "Comparative biochemistry and physiology. Part D, Genomics & proteomics"
+  } ]
+} ]

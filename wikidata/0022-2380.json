@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6295476",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The journal of management studies"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "14140"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "1498"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1963"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-6486"
+  }, {
+    "@id" : "http://www.blackwellpublishers.co.uk/asp/journal.asp?ref=0022-2380"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-2380"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S151705444"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-2380"
+  }, {
+    "@value" : "1467-6486"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Management Studies"
+  }, {
+    "@language" : "en",
+    "@value" : "The journal of management studies"
+  } ]
+} ]

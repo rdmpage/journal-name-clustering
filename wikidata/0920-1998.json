@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q25651889",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0920-1998"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0920-1998"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Orchid monographs"
+  } ]
+} ]

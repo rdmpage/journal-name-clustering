@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386131",
+  "http://example.com/crossref" : [ {
+    "@value" : "103346"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2075-4450"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2010"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:ch:bel-190609"
+  }, {
+    "@id" : "http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-190609"
+  }, {
+    "@id" : "http://www.mdpi.com/journal/insects"
+  }, {
+    "@id" : "https://www.mdpi.com/journal/insects"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2075-4450"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S28057480"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2075-4450"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Insects"
+  } ]
+} ]

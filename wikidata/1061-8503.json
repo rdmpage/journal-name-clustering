@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q100695968",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.odonatacentral.org/index.php/IssueAction.getAll"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1061-8503"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2690-8042"
+  }, {
+    "@value" : "1061-8503"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Argia"
+  }, {
+    "@language" : "en",
+    "@value" : "Argia: the news journal of the Dragonfly Society of America"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108292130",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "IJARIIE"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2015"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ijariie.com"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764370513"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2395-4396"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Advance Research and Innovative Ideas in Education"
+  } ]
+} ]

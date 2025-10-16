@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385864",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0176-148X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0176-148X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Geologie und Paläontologie in Westfalen"
+  } ]
+} ]

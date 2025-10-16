@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q111144702",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Papers of the Michigan Academy of Science, Arts and Letters"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0096-2694"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0096-2694"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Papers of the Michigan Academy of Science, Arts and Letters"
+  } ]
+} ]

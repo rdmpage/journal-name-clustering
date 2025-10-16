@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96325988",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Japanese journal of ecology"
+  }, {
+    "@language" : "en",
+    "@value" : "Nihon Seitai Gakkaishi"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/seitai/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-5007"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "seitai"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2913409221"
+  }, {
+    "@value" : "S4306551250"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2424-127X"
+  }, {
+    "@value" : "0021-5007"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "日本生態学会誌"
+  }, {
+    "@language" : "mul",
+    "@value" : "Nihon Seitai Gakkaishi"
+  } ]
+} ]

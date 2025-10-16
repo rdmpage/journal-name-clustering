@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96327854",
+  "http://example.com/crossref" : [ {
+    "@value" : "305044"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "mailto:archmv@uach.cl"
+  }, {
+    "@id" : "http://australjvs.cl/index.php/amv/index"
+  }, {
+    "@id" : "http://www.australjvs.cl/ajvs/"
+  }, {
+    "@id" : "https://scielo.conicyt.cl/australjvs.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0719-8000"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210215904"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0719-8000"
+  }, {
+    "@value" : "0719-8132"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Austral journal of veterinary sciences"
+  } ]
+} ]

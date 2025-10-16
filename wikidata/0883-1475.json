@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q41766449",
+  "http://example.com/from_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0883-1475"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0883-1475"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Sida, Botanical Miscellany"
+  } ]
+} ]

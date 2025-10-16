@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3931449",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of Agricultural Science"
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of agricultural science"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8643"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "6060"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1906"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayjournal?jid=ags"
+  }, {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=AGS"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S12429487"
+  }, {
+    "@value" : "S4210186936"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1469-5146"
+  }, {
+    "@value" : "0021-8596"
+  }, {
+    "@value" : "0354-3498"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Agricultural Science"
+  } ]
+} ]

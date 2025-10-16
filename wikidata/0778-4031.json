@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2030601",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.br.fgov.be/tmp/BJB"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0778-4031"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "belgjbota"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S89520968"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0778-4031"
+  }, {
+    "@value" : "1781-8656"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Belgian journal of botany"
+  }, {
+    "@language" : "mul",
+    "@value" : "Belgian journal of botany"
+  } ]
+} ]

@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q20014305",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Cuadernos de Herpetologia"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1852-5768"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "313913"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0326-551X"
+  }, {
+    "@value" : "1852-5768"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://cuadernosdeherpetologia.com/index.php/CdH"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0326-551X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2738418635"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1852-5768"
+  }, {
+    "@value" : "0326-551X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Cuadernos de herpetología"
+  }, {
+    "@language" : "es",
+    "@value" : "Cuadernos de Herpetología"
+  } ]
+} ]

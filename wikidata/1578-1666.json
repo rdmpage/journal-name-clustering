@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q89659512",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1578-1666"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "7355"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sociedadandaluzadeentomologia.com/index.php?option=com_content&view=article&id=48&Itemid=74"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1578-1666"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306504710"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2340-3276"
+  }, {
+    "@value" : "2254-8777"
+  }, {
+    "@value" : "1578-1666"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletín de la Sociedad Andaluza de Entomología"
+  } ]
+} ]

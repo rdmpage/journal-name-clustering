@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385840",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Rev. Acad. Canar. Cienc."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "66573"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "8147"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1989"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1130-4723"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1130-4723"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista de la Academia Canaria de Ciencias"
+  }, {
+    "@language" : "mul",
+    "@value" : "Revista de la Academia Canaria de Ciencias"
+  } ]
+} ]

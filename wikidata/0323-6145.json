@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385045",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "ISSN 0323-6145"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0323-6145"
+  }, {
+    "@language" : "en",
+    "@value" : "Berliner Entomologische Zeitschrift (1857–1874)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "46202"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "66410"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1857"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0323-6145"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210200522"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1874"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "2000BE24-D6B1-4C19-B637-257D892D6D84"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0323-6145"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Berliner Entomologische Zeitschrift"
+  } ]
+} ]

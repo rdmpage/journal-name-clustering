@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385337",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Natural History Museum, geology series"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin of the Natural History Museum, geology series"
+  }, {
+    "@language" : "es",
+    "@value" : "Bulletin of the Natural History Museum, geology series"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "53542"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "6342"
+  }, {
+    "@value" : "10819"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=BGE"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0968-0462"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S13284206"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0968-0462"
+  }, {
+    "@value" : "1475-2972"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Natural History Museum. Geology series"
+  } ]
+} ]

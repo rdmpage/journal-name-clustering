@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q33123815",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Occasional papers"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1526-3614"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1526-3614"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Occasional papers"
+  } ]
+} ]

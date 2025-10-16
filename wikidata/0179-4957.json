@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385894",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "DKG-Journal"
+  }, {
+    "@language" : "en",
+    "@value" : "DKG-Journal"
+  }, {
+    "@language" : "es",
+    "@value" : "DKG-Journal"
+  }, {
+    "@language" : "fr",
+    "@value" : "DKG-Journal"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0179-4957"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0179-4957"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Deutsche Killifisch Gemeinschaft Journal"
+  }, {
+    "@language" : "de",
+    "@value" : "DKG-Journal"
+  } ]
+} ]

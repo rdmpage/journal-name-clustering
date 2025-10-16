@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q37917191",
+  "http://example.com/from_year" : [ {
+    "@value" : "1905"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0150-9349"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1937"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0150-9349"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Annales des sciences naturelles. Zoologie"
+  } ]
+} ]

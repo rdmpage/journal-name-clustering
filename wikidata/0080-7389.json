@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q125022895",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Schweizerische paläontologische Abhandlungen"
+  }, {
+    "@language" : "en",
+    "@value" : "Mémoires suisses de paléontologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Memorie svizzere di paleontologia"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1940"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0080-7389"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2010"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "C84DA8E9-7F37-41A8-A4E6-A6AE4AABFA87"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0080-7389"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Mémoires suisses de paléontologie"
+  }, {
+    "@language" : "de",
+    "@value" : "Schweizerische paläontologische Abhandlungen"
+  }, {
+    "@language" : "it",
+    "@value" : "Memorie svizzere di paleontologia"
+  }, {
+    "@language" : "fr",
+    "@value" : "Schweizerische paläontologische Abhandlungen"
+  } ]
+} ]

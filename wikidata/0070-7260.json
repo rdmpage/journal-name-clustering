@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q134464169",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Malakologische Abhandlungen."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A69B294E-3E3B-4AA2-8145-DAD85CD7E67B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0070-7260"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Abhandlungen und Berichte aus dem Staatlichen Museum für Tierkunde in Dresden. Malakologische Abhandlungen"
+  } ]
+} ]

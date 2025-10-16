@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1127321",
+  "http://example.com/crossref" : [ {
+    "@value" : "75058"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1755-263X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1755-263X"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/%28issn%291755-263x/homepage/mostcited.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1755-263X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S133530468"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1755-263X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Conservation Letters"
+  } ]
+} ]

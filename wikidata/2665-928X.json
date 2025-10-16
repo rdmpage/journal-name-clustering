@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96704324",
+  "http://example.com/crossref" : [ {
+    "@value" : "373257"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2665-928X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.sciencedirect.com/journal/current-research-in-structural-biology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2665-928X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210227336"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2665-928X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Current research in structural biology"
+  } ]
+} ]

@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50498178",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Analele Universităţii din Oradea. Fascicula Biologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Analele Universităţii din Oradea Fascicula Biologie"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1224-5119"
+  }, {
+    "@value" : "1844-7589"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioresearch.ro/revistaen.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1224-5119"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2736765223"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1844-7589"
+  }, {
+    "@value" : "1842-6433"
+  }, {
+    "@value" : "1224-5119"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Analele Universităţii din Oradea. Fascicula Biologie"
+  } ]
+} ]

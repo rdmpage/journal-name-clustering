@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6150911",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Torreya"
+  }, {
+    "@language" : "fr",
+    "@value" : "Torreya"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "46286"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1901"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=DK8iAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=lWoiAQAAMAAJ"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/1641099.html"
+  }, {
+    "@id" : "http://www.jstor.org/action/showPublication?journalCode=torreya"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0096-3844"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "torreya"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1945"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2325-8063"
+  }, {
+    "@value" : "0096-3844"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Torreya"
+  } ]
+} ]

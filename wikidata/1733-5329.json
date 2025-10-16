@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752777",
+  "http://example.com/crossref" : [ {
+    "@value" : "62910"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://miranda.ingentaselect.com"
+  }, {
+    "@id" : "http://www.miiz.waw.pl/periodicals/acta-chiropterologica"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1508-1109"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S114405033"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "55799D76-135B-4C1D-9CB8-8FC31801DBDA"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1733-5329"
+  }, {
+    "@value" : "1508-1109"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta Chiropterologica"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Chiropterologica"
+  } ]
+} ]

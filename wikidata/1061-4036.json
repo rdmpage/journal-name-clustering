@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q976454",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Nat Genet"
+  }, {
+    "@language" : "en",
+    "@value" : "Nat. Genet."
+  }, {
+    "@language" : "de",
+    "@value" : "Nat Genet"
+  }, {
+    "@language" : "en",
+    "@value" : "Nat Genet"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3412"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "4944"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://genetics.nature.com/"
+  }, {
+    "@id" : "http://www.nature.com/ng/"
+  }, {
+    "@id" : "http://www.nature.com/ng/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1061-4036"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S137905309"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1061-4036"
+  }, {
+    "@value" : "1546-1718"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nature Genetics"
+  } ]
+} ]

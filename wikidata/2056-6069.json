@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7663757",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Syst. Appl. Acarol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Systematic and Applied Acarology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "195965"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.nhm.ac.uk/hosted_sites/acarology/saas/saa.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1362-1971"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S33674063"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A4068039-9886-4907-A549-5AF11C2F64E7"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2056-6069"
+  }, {
+    "@value" : "1362-1971"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Systematic and applied acarology"
+  }, {
+    "@language" : "en",
+    "@value" : "Systematic & Applied Acarology"
+  } ]
+} ]

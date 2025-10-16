@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4915053",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Biol. Philos."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biology & philosophy"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "22797"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1986"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dx.doi.org/10.1007/10539.1572-8404"
+  }, {
+    "@id" : "http://www.springer.com/philosophy/epistemology+and+philosophy+of+science/journal/10539"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0169-3867"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S75346102"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0169-3867"
+  }, {
+    "@value" : "1572-8404"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biology & philosophy"
+  }, {
+    "@language" : "en",
+    "@value" : "Biology and Philosophy"
+  } ]
+} ]

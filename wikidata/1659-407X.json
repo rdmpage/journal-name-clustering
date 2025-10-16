@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50521492",
+  "http://example.com/crossref" : [ {
+    "@value" : "259651"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "16280"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1659-455X"
+  }, {
+    "@value" : "1659-407X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.una.ac.cr/revmar/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1659-407X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2739451593"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1659-407X"
+  }, {
+    "@value" : "1659-455X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "REVMAR"
+  } ]
+} ]

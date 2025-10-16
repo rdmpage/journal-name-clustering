@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5030240",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Can. J. For. Res."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5599"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://collection.nlc-bnc.ca/101/201/301/cdn%5Fjrn%5Fforest/index.html"
+  }, {
+    "@id" : "http://www.nrc.ca/cgi-bin/cisti/journals/rp/rp2%5Fdesc%5Fe?cjfr"
+  }, {
+    "@id" : "http://www.nrc.ca/cgi-bin/cisti/journals/rp/rp2%5Fdesc%5Ff?cjfr"
+  }, {
+    "@id" : "http://www.nrcresearchpress.com/journal/cjfr"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0045-5067"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S115310785"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0045-5067"
+  }, {
+    "@value" : "1208-6037"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Canadian Journal of Forest Research"
+  }, {
+    "@language" : "mul",
+    "@value" : "Canadian journal of forest research"
+  } ]
+} ]

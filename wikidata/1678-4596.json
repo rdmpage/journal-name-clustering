@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2790228",
+  "http://example.com/crossref" : [ {
+    "@value" : "45362"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1678-4596"
+  }, {
+    "@value" : "0103-8478"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.br/scielo.php?pid=0103-8478&script=sci_serial"
+  }, {
+    "@id" : "https://www.scielo.br/j/cr"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0103-8478"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S140190424"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1678-4596"
+  }, {
+    "@value" : "0103-8478"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Ciência Rural"
+  }, {
+    "@language" : "pt",
+    "@value" : "Ciência rural"
+  } ]
+} ]

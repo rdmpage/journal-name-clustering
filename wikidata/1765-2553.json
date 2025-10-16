@@ -1,0 +1,57 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2399185",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Carnets de Geologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Carnets Geologie"
+  }, {
+    "@language" : "fr",
+    "@value" : "Carnets Geologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Notebooks on Geology"
+  }, {
+    "@language" : "en",
+    "@value" : "Carnets de Géologie -Notebooks on Geology"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1634-0744"
+  }, {
+    "@language" : "en",
+    "@value" : "Carnets de Géologie"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "108325"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1634-0744"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://paleopolis.rediris.es/cg/en-index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1634-0744"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S204255248"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1634-0744"
+  }, {
+    "@value" : "2108-5196"
+  }, {
+    "@value" : "1765-2553"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Carnets Geologie"
+  }, {
+    "@language" : "mul",
+    "@value" : "Carnets de géologie"
+  }, {
+    "@language" : "fr",
+    "@value" : "Carnets de Géologie"
+  } ]
+} ]

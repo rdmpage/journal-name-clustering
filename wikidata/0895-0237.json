@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28025436",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Field Museum of Natural History, Zoological Series"
+  }, {
+    "@language" : "en",
+    "@value" : "Publication. Field Museum of Natural History. Zoological series"
+  }, {
+    "@language" : "en",
+    "@value" : "Publication. Zoological series / Field Museum of Natural History"
+  }, {
+    "@language" : "de",
+    "@value" : "Publication. Zoological series"
+  }, {
+    "@language" : "en",
+    "@value" : "Publication - Field Museum of Natural History. Zoological series"
+  }, {
+    "@language" : "en",
+    "@value" : "Publication. Zoological series"
+  }, {
+    "@language" : "en",
+    "@value" : "Publ. - Field Mus. Nat. Hist., Zool. ser."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "42255"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297339"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1910"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0895-0237"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210218635"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1943"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0895-0237"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Publications of the Field Museum of Natural History, Zoological series"
+  }, {
+    "@language" : "en",
+    "@value" : "Publication - Field Museum of Natural History. Zoological series"
+  } ]
+} ]

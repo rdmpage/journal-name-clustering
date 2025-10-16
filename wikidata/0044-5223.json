@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385984",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "pt",
+    "@value" : "Ent. Mitt. Zool. Mus. Hamburg"
+  }, {
+    "@language" : "de",
+    "@value" : "Ent. Mitt. Zool. Mus. Hamburg"
+  }, {
+    "@language" : "en",
+    "@value" : "Ent. Mitt. Zool. Mus. Hamburg"
+  }, {
+    "@language" : "es",
+    "@value" : "Ent. Mitt. Zool. Mus. Hamburg"
+  }, {
+    "@language" : "fr",
+    "@value" : "Ent. Mitt. Zool. Mus. Hamburg"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0044-5223"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210234632"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0044-5223"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Entomologische Mitteilungen aus dem Zoologischen Museum Hamburg"
+  }, {
+    "@language" : "mul",
+    "@value" : "Entomologische Mitteilungen aus dem Zoologischen Museum Hamburg"
+  } ]
+} ]

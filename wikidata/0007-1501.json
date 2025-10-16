@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51451349",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0007-1501"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "62492"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1965"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0007-1501"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210208136"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1976"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0007-1501"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum (Natural History). Entomology. Supplement"
+  } ]
+} ]

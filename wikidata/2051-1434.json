@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16856040",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Conserv Physiol"
+  }, {
+    "@language" : "en",
+    "@value" : "Conservation physiology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "208365"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2051-1434"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://conphys.oxfordjournals.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2051-1434"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2734435911"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2051-1434"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Conservation Physiology"
+  } ]
+} ]

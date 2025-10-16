@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386176",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Acta Mus. Morav. Sci. Biol."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1997"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ammbiol.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1211-8788"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1211-8788"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta Musei Moraviae. Scientiae Biologicae"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Musei Moraviae, Scientiae Biologicae"
+  } ]
+} ]

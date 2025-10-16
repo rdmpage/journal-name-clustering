@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96332152",
+  "http://example.com/crossref" : [ {
+    "@value" : "316305"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.org.ar/scielo.php?script=sci_serial&pid=1669-6840&lng=es&nrm=iso"
+  }, {
+    "@id" : "https://revistas.unne.edu.ar/index.php/vet/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1668-4834"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210197797"
+  }, {
+    "@value" : "S4306528069"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1668-4834"
+  }, {
+    "@value" : "1669-6840"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista veterinaria"
+  } ]
+} ]

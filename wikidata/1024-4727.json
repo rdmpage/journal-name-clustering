@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385560",
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.zobodat.at/publikation_series.php?id=16959"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1024-4727"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Beiträge zur Paläontologie"
+  } ]
+} ]

@@ -1,0 +1,57 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q217906",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Vertebr. Paleontol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "古脊椎動物學雜誌"
+  }, {
+    "@language" : "zh",
+    "@value" : "古脊椎动物学杂志"
+  }, {
+    "@language" : "ja",
+    "@value" : "古脊椎動物学雑誌"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Vertebr. Paleontol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57436"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1980"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://199.245.200.220/bioone/?request=get-moreinfo&issn=0272-4634"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0272-4634;screen=info;ECOIP"
+  }, {
+    "@id" : "http://vertpaleo.org/publications/journal-of-vertebrate-paleontology.aspx"
+  }, {
+    "@id" : "http://www.vertpaleo.org/jvp/JVPContents.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0272-4634"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jvertpale"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S234478"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "72E64A85-E943-4FB2-B953-510D0A1FC07C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1937-2809"
+  }, {
+    "@value" : "0272-4634"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Vertebrate Paleontology"
+  } ]
+} ]

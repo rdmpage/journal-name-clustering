@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q111365383",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Sci. Rept. Yokosuka City Mus."
+  }, {
+    "@language" : "ja",
+    "@value" : "横須賀市博物館研究報告. 自然科学"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1956"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.museum.yokosuka.kanagawa.jp/?s=研究報告(自然科学)&mode=6&kind=研究報告(自然科学)"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0513-2622"
+  } ],
+  "http://example.com/ndl" : [ {
+    "@value" : "3381329"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "63B0D2A1-C321-4F40-8CDB-5117430A08AD"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0513-2622"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "横須賀市博研報"
+  }, {
+    "@language" : "mul",
+    "@value" : "Yokosuka-shi Hakubutsukan kenkyū hōkoku. Shizen kagaku"
+  }, {
+    "@language" : "en",
+    "@value" : "Science Report of the Yokosuka City Museum"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113585973",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Proc. Kon. Ned. Akad. Wetensch. B"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1976"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0023-3366"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0023-3366"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen. Series B, Palaeontology, geology, physics and chemistry"
+  } ]
+} ]

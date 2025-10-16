@@ -1,0 +1,78 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27711436",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Chromatogr"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Chromatogr."
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0021-9673"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Chromatography"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q902558",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Chromatogr. A"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "J. Chromatogr. A"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of chromatography"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Chrom. A"
+  }, {
+    "@language" : "fr",
+    "@value" : "J. Chrom. A"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Chromatography"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Chromatogr. A"
+  }, {
+    "@language" : "fr",
+    "@value" : "J. Chromatogr. A"
+  }, {
+    "@language" : "de",
+    "@value" : "J. Chrom. A"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1750"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1958"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.sciencedirect.com/journal/journal-of-chromatography-a"
+  }, {
+    "@id" : "http://www.elsevier.com/locate/chroma"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-9673"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4363606268"
+  }, {
+    "@value" : "S176136234"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0021-9673"
+  }, {
+    "@value" : "1873-3778"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of chromatography"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Chromatography A"
+  } ]
+} ]

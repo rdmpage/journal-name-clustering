@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755072",
+  "http://example.com/crossref" : [ {
+    "@value" : "35899"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2056487"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/0018442X"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/homo"
+  }, {
+    "@id" : "https://www.schweizerbart.de/journals/homo"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0018-442X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S136893510"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "6D00EFA1-AF04-4C5F-8278-BCAB7C420C5E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0018-442X"
+  }, {
+    "@value" : "1618-1301"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Homo"
+  }, {
+    "@language" : "en",
+    "@value" : "HOMO: journal of comparative human biology"
+  } ]
+} ]

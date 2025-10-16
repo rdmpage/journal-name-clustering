@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21384956",
+  "http://example.com/bhl" : [ {
+    "@value" : "181031"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0311-1881"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B6D1A5D7-D914-4844-A7E2-E940066CA502"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0311-1881"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australian entomological magazine"
+  } ]
+} ]

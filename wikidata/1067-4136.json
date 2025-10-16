@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764509",
+  "http://example.com/crossref" : [ {
+    "@value" : "2837"
+  }, {
+    "@value" : "202165"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S29270491"
+  }, {
+    "@value" : "S4210192571"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0367-0597"
+  }, {
+    "@value" : "1067-4136"
+  }, {
+    "@value" : "1608-3334"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Russian Journal of Ecology"
+  } ]
+} ]

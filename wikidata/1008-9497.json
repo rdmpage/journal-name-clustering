@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752197",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Zhejiang University (Science Edition)"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1008-9497"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1008-9497"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Zhejiang Daxue xuebao. Lixue ban"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Zhejiang University. Sciences Edition"
+  } ]
+} ]

@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q68835839",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biology methods & protocols"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "298509"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2396-8923"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://academic.oup.com/biomethods"
+  }, {
+    "@id" : "https://academic.oup.com/biomethods/article/2468067/BIOMAP-A-Home-for-All-Biology-Methods"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2396-8923"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2735234984"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2396-8923"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biology Methods and Protocols"
+  }, {
+    "@language" : "en",
+    "@value" : "Biology methods & protocols"
+  } ]
+} ]

@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15716493",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Affect. Disord."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "情感障礙期刊"
+  }, {
+    "@language" : "de",
+    "@value" : "J Affect Disord"
+  }, {
+    "@language" : "en",
+    "@value" : "J Affect Disord"
+  }, {
+    "@language" : "en",
+    "@value" : "JAD"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1169"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/journal-of-affective-disorders/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/01650327"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0165-0327"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S113871862"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1573-2517"
+  }, {
+    "@value" : "0165-0327"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Affective Disorders"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386288",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Discov. rep."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6168"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297311"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1929"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0070-6698"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210189928"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "F5894082-D367-4202-903C-8EA998242A04"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0070-6698"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Discovery reports"
+  } ]
+} ]

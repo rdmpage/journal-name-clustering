@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6729642",
+  "http://example.com/crossref" : [ {
+    "@value" : "87492"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0718-0209"
+  }, {
+    "@value" : "0718-2244"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.magallania.cl/index.php/magallania"
+  }, {
+    "@id" : "http://www.scielo.cl/magallania.htm"
+  }, {
+    "@id" : "mailto:fmorello@aoniken.fc.umag.cl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0718-0209"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S141015964"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0718-0209"
+  }, {
+    "@value" : "0718-2244"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Magallania"
+  }, {
+    "@language" : "es",
+    "@value" : "Magallania"
+  } ]
+} ]

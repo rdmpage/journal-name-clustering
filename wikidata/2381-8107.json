@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q55332399",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Bot. Lett."
+  }, {
+    "@language" : "en",
+    "@value" : "Bot. Lett."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297423"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandfonline.com/loi/tabg21"
+  }, {
+    "@id" : "https://www.tandfonline.com/toc/tabg21/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2381-8107"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210202872"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2381-8115"
+  }, {
+    "@value" : "2381-8107"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Botany Letters"
+  } ]
+} ]

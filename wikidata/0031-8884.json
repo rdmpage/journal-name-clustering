@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756146",
+  "http://example.com/crossref" : [ {
+    "@value" : "63491"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=FhBGAQAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=gwxGAQAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=vgxGAQAAIAAJ"
+  }, {
+    "@id" : "https://www.tandfonline.com/toc/uphy20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0031-8884"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S140906811"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0031-8884"
+  }, {
+    "@value" : "2330-2968"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Phycologia"
+  }, {
+    "@language" : "und",
+    "@value" : "Phycologia"
+  } ]
+} ]

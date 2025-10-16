@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q90888419",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0029-7240"
+  }, {
+    "@language" : "fr",
+    "@value" : "Cahiers"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0029-7240"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0029-7240"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Cahiers"
+  }, {
+    "@language" : "fr",
+    "@value" : "Cahiers de l'Office de la Recherche Scientifique et Technique d'Outre-Mer. Série Hydrobiologie"
+  } ]
+} ]

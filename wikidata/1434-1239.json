@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762075",
+  "http://example.com/crossref" : [ {
+    "@value" : "258046"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://tpg.schattauer.de/de/startseite.html"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S968125320"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0303-6286"
+  }, {
+    "@value" : "1434-1239"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Tieraerztliche Praxis. Ausgabe K: Kleintiere - Heimtiere"
+  } ]
+} ]

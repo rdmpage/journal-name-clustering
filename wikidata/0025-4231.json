@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q37848775",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Bull. Md. Herpetol. Soc."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. Md. Herpetol. Soc."
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the MdHs"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "140312"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1965"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.biodiversitylibrary.org/bibliography/140312#/summary"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0025-4231"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0025-4231"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Maryland Herpetological Society"
+  } ]
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386360",
+  "http://example.com/crossref" : [ {
+    "@value" : "265839"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.ku.edu/melittology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2325-4467"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210226150"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "DAF5AE41-19F1-4954-BC84-70F58BC04D6E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2325-4467"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Melittology"
+  } ]
+} ]

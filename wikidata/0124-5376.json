@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q56755448",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Biota Colomb."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "299083"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2539-200X"
+  }, {
+    "@value" : "0124-5376"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.humboldt.org.co/es/bibliotecaypublicaciones/biota"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0124-5376"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210212155"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2539-200X"
+  }, {
+    "@value" : "0124-5376"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Biota Colombiana"
+  } ]
+} ]

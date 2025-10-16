@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96714147",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Endocrinology and Reproduction"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297521"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ischolarglobal.com/index.php/JERSRBCE"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0971-913X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765065059"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0971-913X"
+  }, {
+    "@value" : "2455-1244"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Endocrinology and Reproduction"
+  } ]
+} ]

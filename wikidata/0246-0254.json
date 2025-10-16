@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q104972066",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Mémoires du Museum national d'histoire naturelle"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "166349"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1936"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0246-0254"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1950"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0246-0254"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Mémoires du Museum national d'histoire naturelle"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mémoires du Muséum national d'histoire naturelle"
+  } ]
+} ]

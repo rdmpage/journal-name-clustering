@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727648",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Field Mycol"
+  }, {
+    "@language" : "en",
+    "@value" : "Field mycology: a magazine for the study and identification of wild fungi"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "95510"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/14681641"
+  }, {
+    "@id" : "https://www.britmycolsoc.org.uk/society/publications/journals/field-mycology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1468-1641"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S124663017"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1468-1641"
+  }, {
+    "@value" : "2213-6843"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Field Mycology"
+  } ]
+} ]

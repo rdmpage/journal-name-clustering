@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756301",
+  "http://example.com/crossref" : [ {
+    "@value" : "25785"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=1064-1262;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.crcjournals.com/ejournals/issues/issue_archive.asp?section=1048"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/brfs21"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1064-1262"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S112413680"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1064-1262"
+  }, {
+    "@value" : "1547-6553"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Reviews in Fisheries Science"
+  } ]
+} ]

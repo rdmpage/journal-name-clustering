@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754511",
+  "http://example.com/crossref" : [ {
+    "@value" : "835"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1438-3896"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S45789726"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0386-4561"
+  }, {
+    "@value" : "1438-3896"
+  }, {
+    "@value" : "1438-390X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Population Ecology"
+  } ]
+} ]

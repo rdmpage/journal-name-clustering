@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q126896528",
+  "http://schema.org/issn" : [ {
+    "@value" : "1560-8425"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Бюллетень Дальневосточного малакологического общества"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q27724995",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull Dalnevost Malakol Obs"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1560-8425"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210169058"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1560-8425"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biulleten' Dal'nevostochnogo malakologicheskogo obshchestva"
+  }, {
+    "@language" : "ru",
+    "@value" : "Bûlletenʹ Dalʹnevostočnogo malakologičeskogo obŝestva"
+  } ]
+} ]

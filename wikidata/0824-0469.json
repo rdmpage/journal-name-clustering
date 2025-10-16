@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1680752",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "海洋哺乳动物科学"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "53969"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1985"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://apt.allenpress.com/aptonline/?request=get-archive&issn=0824-0469"
+  }, {
+    "@id" : "http://ejournals.ebsco.com/direct.asp?JournalID=114222"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1748-7692"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/loi/mms"
+  }, {
+    "@id" : "https://www.marinemammalscience.org/journal/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0824-0469"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S199286587"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3B2E15C0-35E7-4DF7-AD1B-F271059DE8F2"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0824-0469"
+  }, {
+    "@value" : "1748-7692"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Marine Mammal Science"
+  } ]
+} ]

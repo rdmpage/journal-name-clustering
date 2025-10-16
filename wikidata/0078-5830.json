@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q73105018",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-5830"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0078-5830"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Oregon State monographs. Studies in zoology"
+  } ]
+} ]

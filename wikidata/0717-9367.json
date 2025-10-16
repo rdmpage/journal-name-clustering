@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q20016036",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "International Journal of Morphology"
+  }, {
+    "@language" : "es",
+    "@value" : "International journal of morphology = Revista internacional de morfologia"
+  }, {
+    "@language" : "en",
+    "@value" : "Int J Morphol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "87461"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.cl/ijmorphol.htm"
+  }, {
+    "@id" : "mailto:mdelsol@ufro.cl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0717-9367"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S94779792"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0717-9367"
+  }, {
+    "@value" : "0717-9502"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista internacional de morfologia"
+  }, {
+    "@language" : "en",
+    "@value" : "International Journal of Morphology"
+  }, {
+    "@language" : "en",
+    "@value" : "International journal of morphology"
+  } ]
+} ]

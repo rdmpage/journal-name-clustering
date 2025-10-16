@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766710",
+  "http://example.com/crossref" : [ {
+    "@value" : "3744"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/%28issn%291439-0418"
+  }, {
+    "@id" : "http://www.onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0418"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0931-2048"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S87930725"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1439-0418"
+  }, {
+    "@value" : "0931-2048"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Applied Entomology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Journal of applied antomology"
+  } ]
+} ]

@@ -1,0 +1,56 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5729456",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Byull. Moskovsk. Obshch. Isp. Prir., Otd. Biol."
+  }, {
+    "@language" : "de",
+    "@value" : "Byulleten Moskovskogo Obshchestva Ispytatelei Prirody. Otdel Biologicheskii"
+  }, {
+    "@language" : "en",
+    "@value" : "Biull Mosk Ova Ispyt Prir (Biol)"
+  }, {
+    "@language" : "en",
+    "@value" : "Biulleten' Moskovskogo obshchestva ispytatelei prirody. Otdel biologicheskii"
+  }, {
+    "@language" : "en",
+    "@value" : "Bjulleten Moskovskogo Obačestva Ispytatelej Prirody, Otdel Biologičeskij"
+  }, {
+    "@language" : "en",
+    "@value" : "Byull. Mosk. Obshch. Isp. Prir., Otd. Biol."
+  }, {
+    "@language" : "en",
+    "@value" : "Byull. Moskovsk. Obshch. Isp. Prir., Otd. Biol."
+  }, {
+    "@language" : "en",
+    "@value" : "Byulleten Moskovskogo Obshchestva Ispytatelei Prirody. Otdel Biologicheskii"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0027-1403"
+  }, {
+    "@language" : "es",
+    "@value" : "Byulleten Moskovskogo Obshchestva Ispytatelei Prirody. Otdel Biologicheskii"
+  }, {
+    "@language" : "es",
+    "@value" : "ISSN 0027-1403"
+  }, {
+    "@language" : "ru",
+    "@value" : "Бюллетень МОИП. Отдел биологический"
+  }, {
+    "@language" : "ru",
+    "@value" : "Бюллетень Московского общества испытателей природы, Отдел биологический"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0027-1403"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0027-1403"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Бюллетень Московского общества испытателей природы. Отдел биологический"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of Moscow Society of Naturalists. Biological series"
+  } ]
+} ]

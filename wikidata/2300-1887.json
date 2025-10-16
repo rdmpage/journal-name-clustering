@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q11684227",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Acta Geol. Pol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "203907"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1950"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://geojournals.pgi.gov.pl/agp/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-5709"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S96739853"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "18B6BB62-EFCF-4E28-A7CB-45FBA82E3852"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2300-1887"
+  }, {
+    "@value" : "0001-5709"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Geologica Polonica"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Geologica Polonica"
+  } ]
+} ]

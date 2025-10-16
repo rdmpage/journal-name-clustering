@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96734802",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "Vestnik Adygejskogo gosudarstvennogo universiteta"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "288888"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.vestnik.adygnet.ru/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1999-7159"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306538369"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2074-1065"
+  }, {
+    "@value" : "1999-7159"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Vestnik Adygejskogo gosudarstvennogo universiteta"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27716653",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Chin. J. Prev. Vet. Med."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1008-0589"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764717153"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1008-0589"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Chinese journal of preventive veterinary medicine"
+  }, {
+    "@language" : "mul",
+    "@value" : "Zhongguo yufang shouyi xuebao"
+  } ]
+} ]

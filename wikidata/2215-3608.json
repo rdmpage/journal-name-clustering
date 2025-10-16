@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726471",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Agronomía Mesoamericana"
+  }, {
+    "@language" : "es",
+    "@value" : "Agronomía mesoamericana (Impresa)"
+  }, {
+    "@language" : "en",
+    "@value" : "Agron Mesoam"
+  }, {
+    "@language" : "es",
+    "@value" : "Agronomía mesoamericana"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "251707"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "23132"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2215-3608"
+  }, {
+    "@value" : "1021-7444"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://revistas.ucr.ac.cr/index.php/agromeso/"
+  }, {
+    "@id" : "http://www.eefb.ucr.ac.cr/esp_ragromeso.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1021-7444"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210206420"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2215-3608"
+  }, {
+    "@value" : "1021-7444"
+  }, {
+    "@value" : "1659-1321"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Agronomía mesoamericana (Impresa)"
+  }, {
+    "@language" : "en",
+    "@value" : "Agronomia mesoamericana : organo divulgativo del PCCMCA, Programa Cooperativo Centroamericano de Mejoramiento de Cultivos y Animales"
+  } ]
+} ]

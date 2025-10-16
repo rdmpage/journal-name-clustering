@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1127305",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Conserv. Biol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3530"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0888-8892;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=cb"
+  }, {
+    "@id" : "http://www.conbio.org/publications/conservation-biology"
+  }, {
+    "@id" : "http://www.jstor.org/journals/08888892.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0888-8892"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "consbiol"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S98137347"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0888-8892"
+  }, {
+    "@value" : "1523-1739"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Conservation Biology"
+  } ]
+} ]

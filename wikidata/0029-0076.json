@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766640",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nigerian Field"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0029-0076"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0029-0076"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nigerian Field"
+  }, {
+    "@language" : "en",
+    "@value" : "The Nigerian Field"
+  } ]
+} ]

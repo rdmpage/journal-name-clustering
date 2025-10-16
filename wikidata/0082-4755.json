@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q39357257",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Kokuritsu Kagaku Hakubutsukan senpō"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0082-4755"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764915739"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "8002FF40-0674-423F-A0B6-0119F455BEC8"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0082-4755"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Kokuritsu Kagaku Hakubutsukan senpō"
+  }, {
+    "@language" : "ja",
+    "@value" : "Kokuritsu Kagaku Hakubutsukan senpō"
+  }, {
+    "@language" : "en",
+    "@value" : "Memoirs of the National Science Museum"
+  } ]
+} ]

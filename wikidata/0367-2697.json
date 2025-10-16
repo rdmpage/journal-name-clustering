@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q115299242",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0367-2697"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0367-2697"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Fragmenta mineralogica et palaeontologica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Fragmenta mineralogica et palaeontologica"
+  } ]
+} ]

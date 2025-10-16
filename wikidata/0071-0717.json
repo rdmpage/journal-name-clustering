@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q118720177",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Misc. Publ. Entomol. Soc. Am."
+  }, {
+    "@language" : "en",
+    "@value" : "Miscellaneous Publications. Entomological Society of America"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0071-0717"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1959"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0071-0717"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1991"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0071-0717"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Miscellaneous Publications of the Entomological Society of America"
+  } ]
+} ]

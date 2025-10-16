@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4041881",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Econ. Entomol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of economic entomology"
+  }, {
+    "@language" : "en",
+    "@value" : "J. econ. entomol."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "9028"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60529"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "776"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1908"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jee.oxfordjournals.org/"
+  }, {
+    "@id" : "https://academic.oup.com/jee"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-0493"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S146976949"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-0493"
+  }, {
+    "@value" : "1938-291X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Economic Entomology"
+  } ]
+} ]

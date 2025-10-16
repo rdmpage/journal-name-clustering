@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26849272",
+  "http://example.com/crossref" : [ {
+    "@value" : "55391"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/journals/00040851.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0004-0851"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "arctalpirese"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764480276"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0004-0851"
+  }, {
+    "@value" : "2325-5153"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Arctic and alpine research"
+  } ]
+} ]

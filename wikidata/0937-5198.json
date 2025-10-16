@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28089891",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Mitteilungen - Entomologischer Verein Stuttgart 1869 e.V."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0937-5198"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0937-5198"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Mitteilungen des Entomologischen Vereins Stuttgart"
+  } ]
+} ]

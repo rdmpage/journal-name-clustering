@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725421",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ecol Process"
+  }, {
+    "@language" : "en",
+    "@value" : "Ecological Processes"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "163045"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2192-1709"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ecologicalprocesses.com/"
+  }, {
+    "@id" : "https://ecologicalprocesses.springeropen.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2192-1709"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764395403"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2097-1311"
+  }, {
+    "@value" : "2192-1709"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecological processes"
+  } ]
+} ]

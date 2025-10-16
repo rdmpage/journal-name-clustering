@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5468847",
+  "http://example.com/crossref" : [ {
+    "@value" : "1722"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.elsevier.com/locate/foreco"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/03781127/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0378-1127"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S195255895"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0378-1127"
+  }, {
+    "@value" : "1872-7042"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Forest Ecology and Management"
+  } ]
+} ]

@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6045723",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Notizbl. Bot. Gart. Berlin-Dahlem"
+  }, {
+    "@language" : "de",
+    "@value" : "Notizblatt des Königl. botanischen Gartens und Museums zu Berlin"
+  }, {
+    "@language" : "de",
+    "@value" : "Notizblatt des Königl. Botanischen Gartens und Museums zu Berlin-Dahlem"
+  }, {
+    "@language" : "de",
+    "@value" : "Notizbl. Königl. Bot. Gart. Berlin"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "41384"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "72421"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1895"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0258-1485"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "notikonibotagart"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210208282"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1918"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0258-1485"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Notizblatt des Königl. Botanischen Gartens und Museums zu Berlin"
+  } ]
+} ]

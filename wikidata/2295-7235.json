@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50808326",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Entomologie Faunistique"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2295-7235"
+  }, {
+    "@value" : "2030-6318"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://popups.ulg.ac.be/2030-6318/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2030-6318"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210204630"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A094BC6C-A6CE-4AFD-85AB-BD59C3BA180D"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2295-7235"
+  }, {
+    "@value" : "2030-6318"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Entomologie faunistique"
+  } ]
+} ]

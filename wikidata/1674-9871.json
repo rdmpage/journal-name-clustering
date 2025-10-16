@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28840823",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Geoscience Frontiers"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "111665"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1674-9871"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/16749871/8?sdc=1"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1674-9871"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764860519"
+  }, {
+    "@value" : "S4306546311"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2588-9192"
+  }, {
+    "@value" : "1674-9871"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Geoscience frontiers"
+  } ]
+} ]

@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755648",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://mjwetzel.inhs.illinois.edu/megadrilogica/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0380-9633"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0380-9633"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Megadrilogica"
+  }, {
+    "@language" : "und",
+    "@value" : "Megadrilogica"
+  } ]
+} ]

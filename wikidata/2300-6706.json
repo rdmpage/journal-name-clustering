@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q9372399",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Wiadomości Parazytologiczne"
+  }, {
+    "@language" : "en",
+    "@value" : "Wiadomości Parazytologiczne"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.annals-parasitology.eu"
+  }, {
+    "@id" : "https://annals-parasitology.eu/go.live.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0043-5163"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2755380548"
+  }, {
+    "@value" : "S2764473308"
+  }, {
+    "@value" : "S4306534759"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2300-6706"
+  }, {
+    "@value" : "0043-5163"
+  }, {
+    "@value" : "2299-0631"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Wiadomości Parazytologiczne"
+  }, {
+    "@language" : "en",
+    "@value" : "Annals of Parasitology"
+  } ]
+} ]

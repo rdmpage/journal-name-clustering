@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752774",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Soc. Zool. Bohem."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.zoospol.cz/?sekce=act"
+  }, {
+    "@id" : "https://www.zoospol.cz/publikace/acta-societatis-zoologicae-bohemicae/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1211-376X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500556"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1211-376X"
+  }, {
+    "@value" : "2788-1369"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta Societatis Zoologicae Bohemicae"
+  } ]
+} ]

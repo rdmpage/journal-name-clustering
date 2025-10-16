@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760481",
+  "http://example.com/crossref" : [ {
+    "@value" : "1153"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.journals.elsevier.com/human-movement-science"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/human-movement-science/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0167-9457"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S166684315"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1872-7646"
+  }, {
+    "@value" : "0167-9457"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Human Movement Science"
+  } ]
+} ]

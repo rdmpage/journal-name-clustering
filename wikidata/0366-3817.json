@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q20013649",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-3817"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "58A12D01-1361-4583-BD2F-E6953CB6B011"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0366-3817"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Tokyo Science Museum"
+  }, {
+    "@language" : "mul",
+    "@value" : "Tokyo Kagaku Hakubutsukan kenkyū hōkoku"
+  } ]
+} ]

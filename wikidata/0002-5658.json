@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q64797456",
+  "http://example.com/crossref" : [ {
+    "@value" : "297389"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1902"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.mbt-biologia.hu/gen/pro/mod/alo/alo_kiiras.php?i_szo_azo=9"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0002-5658"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210191522"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0002-5658"
+  }, {
+    "@value" : "2786-3565"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Állattani közlemények"
+  }, {
+    "@language" : "hu",
+    "@value" : "Állattani Közlemények"
+  } ]
+} ]

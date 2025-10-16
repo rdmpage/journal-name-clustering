@@ -1,0 +1,58 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385041",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Beiträge zur Entomologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Beitr. Ent."
+  }, {
+    "@language" : "de",
+    "@value" : "Contributions to Entomology"
+  }, {
+    "@language" : "fr",
+    "@value" : "Beiträge zur Entomologie"
+  }, {
+    "@language" : "es",
+    "@value" : "Beiträge zur Entomologie"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0005-805X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1951"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.contributions-to-entomology.org/issue/archive"
+  }, {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2882838"
+  }, {
+    "@id" : "https://contributions-to-entomology.arphahub.com/"
+  }, {
+    "@id" : "https://www.contributions-to-entomology.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0005-805X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210205621"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "1B123891-FEF1-4BDD-89B2-9AE9ED6230F1"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2511-6428"
+  }, {
+    "@value" : "0005-805X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Contributions to Entomology"
+  }, {
+    "@language" : "de",
+    "@value" : "Beiträge zur Entomologie"
+  }, {
+    "@language" : "de",
+    "@value" : "Contributions to entomology"
+  } ]
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751476",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Gait & Posture"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1726"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/09666362"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/gait-and-posture"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0966-6362"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S156006901"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0966-6362"
+  }, {
+    "@value" : "1879-2219"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Gait & posture"
+  }, {
+    "@language" : "en",
+    "@value" : "Gait and Posture"
+  } ]
+} ]

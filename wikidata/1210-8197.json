@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329703",
+  "http://example.com/crossref" : [ {
+    "@value" : "68374"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.geologickaspolecnost.cz/jcgs/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1210-8197"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210185407"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1210-8197"
+  }, {
+    "@value" : "1805-9414"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Czech Geological Society"
+  }, {
+    "@language" : "cs",
+    "@value" : "Časopis České Geologické Společnosti"
+  } ]
+} ]

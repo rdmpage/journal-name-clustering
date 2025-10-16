@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50815315",
+  "http://example.com/crossref" : [ {
+    "@value" : "284676"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2058-5543"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jue.oxfordjournals.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2058-5543"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2735509128"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2058-5543"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of urban ecology"
+  } ]
+} ]

@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q210185",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Acta Palaeontol. Pol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Acta Palaeontol. Polon."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "85326"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0567-7920"
+  }, {
+    "@value" : "1732-2421"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1956"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.app.pan.pl/home.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0567-7920"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S63318184"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "93C4C3BB-8CDE-4B8E-9141-51A1D9842EFE"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1732-2421"
+  }, {
+    "@value" : "0567-7920"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta Palaeontologica Polonica"
+  } ]
+} ]

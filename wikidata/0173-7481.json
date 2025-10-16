@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q81495891",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0173-7481"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0173-7481"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Abhandlungen des Naturwissenschaftlichen Vereins in Hamburg"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5946716",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Acad. Nat. Sci. Phila."
+  }, {
+    "@language" : "es",
+    "@value" : "J. Acad. Nat. Sci. Phila."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "34362"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1817"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ansp.org/library/digital_library/grant_imls_listings.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0885-3479"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1918"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0885-3479"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Academy of Natural Sciences of Philadelphia"
+  } ]
+} ]

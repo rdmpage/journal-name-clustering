@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725388",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Indian J Helminthol"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1948"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0019-5227"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764522286"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "F5305D88-3B6B-4D13-A1E2-7EEA855A87A5"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0019-5227"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Indian journal of helminthology"
+  } ]
+} ]

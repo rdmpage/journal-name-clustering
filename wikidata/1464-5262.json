@@ -1,0 +1,54 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1937345",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "J. Nat. Hist. (London)"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Nat. Hist. (London)"
+  }, {
+    "@language" : "zh",
+    "@value" : "自然歷史期刊"
+  }, {
+    "@language" : "es",
+    "@value" : "Magazine of Natural History"
+  }, {
+    "@language" : "es",
+    "@value" : "J. Nat. Hist. (London)"
+  }, {
+    "@language" : "de",
+    "@value" : "J. Nat. Hist. (London)"
+  }, {
+    "@language" : "pt",
+    "@value" : "J. Nat. Hist. (London)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4288"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandf.co.uk/journals/titles/00222933.asp"
+  }, {
+    "@id" : "http://www.tandfonline.com/toc/tnah20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-2933"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S194835164"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "DB8BECB5-EBBE-4E2F-986F-A6CD7A672F7F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1464-5262"
+  }, {
+    "@value" : "0022-2933"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Natural History"
+  } ]
+} ]

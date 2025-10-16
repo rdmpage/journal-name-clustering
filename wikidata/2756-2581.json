@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q134876061",
+  "http://example.com/issn_l" : [ {
+    "@value" : "2756-2581"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2756-2581"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Asian Ornithology"
+  } ]
+} ]

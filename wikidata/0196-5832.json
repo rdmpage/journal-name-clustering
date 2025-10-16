@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385972",
+  "http://example.com/bhl" : [ {
+    "@value" : "9614"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297408"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1881"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0196-5832"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210215510"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1884"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0196-5832"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Papilio"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725025",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Fish Wildl Manag"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "102285"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://purl.access.gpo.gov/GPO/LPS126825"
+  }, {
+    "@id" : "http://www.fwspubs.org/loi/fwma"
+  }, {
+    "@id" : "https://meridian.allenpress.com/jfwm/"
+  }, {
+    "@id" : "https://purl.fdlp.gov/GPO/LPS126825"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1944-687X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S124958044"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1944-687X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of fish and wildlife management"
+  } ]
+} ]

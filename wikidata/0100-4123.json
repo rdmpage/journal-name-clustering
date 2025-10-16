@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5731423",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Boletim do Museu Goeldi (Museu Paraense) de Historia Natural e Ethnographia"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletim do Museo Goeldi de Historia Natural e Ethnographia"
+  }, {
+    "@language" : "de",
+    "@value" : "Boletim do Museo Goeldi de Historia Natural e Ethnographia"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "44979"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1904"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0100-4123"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1912"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0100-4123"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Boletim do Museu Goeldi de História Natural e Ethnografia"
+  }, {
+    "@language" : "pt",
+    "@value" : "Boletim do Museu Goeldi (Museu Paraense) de Historia Natural e Ethnographia"
+  } ]
+} ]

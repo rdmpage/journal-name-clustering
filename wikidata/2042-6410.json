@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723474",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biol Sex Differ"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "113885"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2042-6410"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bsd-journal.com/"
+  }, {
+    "@id" : "https://bsd.biomedcentral.com"
+  }, {
+    "@id" : "https://link.springer.com/journal/13293"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2042-6410"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S184776610"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2042-6410"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biology of Sex Differences"
+  } ]
+} ]

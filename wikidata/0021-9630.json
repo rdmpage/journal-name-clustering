@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6294936",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Child Psychol. Psychiatry"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Child Psychol Psychiatry"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Child Psychology & Psychiatry"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of child psychology and psychiatry and allied disciplines"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Child Psychology and Psychiatry"
+  }, {
+    "@language" : "de",
+    "@value" : "J Child Psychol Psychiatry"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5493"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1960"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://estar.bl.uk/cgi-bin/sciserv.pl?collection=journals&journal=00219630"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1469-7610"
+  }, {
+    "@id" : "http://www.blackwellpublishing.com/journal.asp?ref=0021-9630"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-9630"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S177929781"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1469-7610"
+  }, {
+    "@value" : "0021-9630"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of child psychology and psychiatry and allied disciplines"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Child Psychology and Psychiatry"
+  } ]
+} ]

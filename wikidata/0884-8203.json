@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51494377",
+  "http://example.com/bhl" : [ {
+    "@value" : "84823"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1910"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0884-8203"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1942"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0884-8203"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Indiana University studies"
+  } ]
+} ]

@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723472",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Korean Fisheries Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Han'guk Susan Hakhoe chi"
+  }, {
+    "@language" : "en",
+    "@value" : "Han'guk Susan Hakhoe chi = Bulletin of the Korean Fisheries Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Hangug Susan Haghoi Ji"
+  }, {
+    "@language" : "es",
+    "@value" : "Han'guk Susan Hakhoe chi = Bulletin of the Korean Fisheries Society"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2914210501"
+  }, {
+    "@value" : "S4306496117"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0374-8111"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Han'guk Susan Hakhoe chi = Bulletin of the Korean Fisheries Society"
+  }, {
+    "@language" : "ko",
+    "@value" : "한국수산학회지"
+  } ]
+} ]

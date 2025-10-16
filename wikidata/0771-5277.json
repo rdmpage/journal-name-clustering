@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385006",
+  "http://example.com/bhl" : [ {
+    "@value" : "110135"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1973"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0771-5277"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306522423"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0771-5277"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Phegea"
+  }, {
+    "@language" : "nl",
+    "@value" : "Phegea"
+  } ]
+} ]

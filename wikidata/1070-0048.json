@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15686883",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1070-0048"
+  }, {
+    "@language" : "es",
+    "@value" : "Haseltonia"
+  }, {
+    "@language" : "es",
+    "@value" : "ISSN 1070-0048"
+  }, {
+    "@language" : "en",
+    "@value" : "Haseltonia"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60872"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=1070-0048"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=1070-0048"
+  }, {
+    "@id" : "https://cssa.myshopify.com/collections/haseltonia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1070-0048"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S20717564"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1938-2898"
+  }, {
+    "@value" : "1070-0048"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Haseltonia"
+  } ]
+} ]

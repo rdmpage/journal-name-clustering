@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385284",
+  "http://example.com/from_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ejournals.ukm.my/serangga/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1394-5130"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306529671"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "63FA12C7-7D7D-4033-A18B-CBD34A3C94E1"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1394-5130"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ms",
+    "@value" : "Serangga"
+  } ]
+} ]

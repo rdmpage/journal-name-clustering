@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726079",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Avian Res"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 2053-7166"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "256069"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2053-7166"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2014"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.avianres.com/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/journal/avian-research"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/avian-research"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2053-7166"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S1267573"
+  }, {
+    "@value" : "S4210204301"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2055-6187"
+  }, {
+    "@value" : "2053-7166"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Avian research"
+  } ]
+} ]

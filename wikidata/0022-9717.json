@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755860",
+  "http://example.com/crossref" : [ {
+    "@value" : "48859"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/kjm/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-9717"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "kjm"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S127027749"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-9717"
+  }, {
+    "@value" : "1880-1293"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Keio Journal of Medicine"
+  } ]
+} ]

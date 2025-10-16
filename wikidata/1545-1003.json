@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723969",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1545-1003"
+  }, {
+    "@language" : "en",
+    "@value" : "J Am Sci"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.americanscience.org/journals/"
+  }, {
+    "@id" : "http://www.jofamericanscience.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1545-1003"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764867569"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2375-7264"
+  }, {
+    "@value" : "1545-1003"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The journal of American science"
+  } ]
+} ]

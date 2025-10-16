@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7663761",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "系統動物學"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4298"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1952"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=1063-5157;screen=info;ECOIP"
+  }, {
+    "@id" : "http://sysbio.oxfordjournals.org/"
+  }, {
+    "@id" : "http://www.catchword.com/rpsv/cw/tandf/10635157/contp1.htm"
+  }, {
+    "@id" : "http://www.jstor.org/journals/10635157.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1063-5157"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "systbiol"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S65478581"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1063-5157"
+  }, {
+    "@value" : "1076-836X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Systematic Biology"
+  } ]
+} ]

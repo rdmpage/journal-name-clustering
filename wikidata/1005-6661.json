@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722356",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Zhongguo xuexichongbing fangzhi zazhi"
+  }, {
+    "@language" : "en",
+    "@value" : "Chinese journal of schistosomiasis control"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhongguo Xue Xi Chong Bing Fang Zhi Za Zhi"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.zgxfzz.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1005-6661"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2754712432"
+  }, {
+    "@value" : "S4306536057"
+  }, {
+    "@value" : "S4306542268"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1005-6661"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Zhongguo xuexichongbing fangzhi zazhi"
+  }, {
+    "@language" : "en",
+    "@value" : "Chinese journal of schistosomiasis control"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhongguo xue xi chong bing fang zhi za zhi"
+  } ]
+} ]

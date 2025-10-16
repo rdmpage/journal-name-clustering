@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752249",
+  "http://example.com/crossref" : [ {
+    "@value" : "64254"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.erica.demon.co.uk/EH.html"
+  }, {
+    "@id" : "http://www.ingentaconnect.com/content/whp/eh"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0967-3407"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "environmenthist"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S134321629"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0967-3407"
+  }, {
+    "@value" : "1752-7023"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environment and History"
+  } ]
+} ]

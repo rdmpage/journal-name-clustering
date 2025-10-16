@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15708571",
+  "http://example.com/crossref" : [ {
+    "@value" : "1847"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1976"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.elsevier.com/03064522/neuroscience/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/03064522/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0306-4522"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S30122339"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0306-4522"
+  }, {
+    "@value" : "1873-7544"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Neuroscience"
+  } ]
+} ]

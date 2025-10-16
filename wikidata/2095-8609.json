@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385433",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Kūnchóng fēnlèi xuébào"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "KCFL"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://xbkcflxb.alljournal.net/xbkcflxben/ch/index.aspx"
+  }, {
+    "@id" : "https://www.entomotaxonomia.net/xbkcflxb/ch/index.aspx"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764513018"
+  }, {
+    "@value" : "S4306551865"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-7482"
+  }, {
+    "@value" : "2095-8609"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Entomotaxonomia"
+  }, {
+    "@language" : "zh",
+    "@value" : "昆虫分类学报"
+  } ]
+} ]

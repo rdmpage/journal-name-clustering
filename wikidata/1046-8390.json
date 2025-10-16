@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96723385",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The University of Kansas paleontological contributions"
+  }, {
+    "@language" : "en",
+    "@value" : "The University of Kansas paleontological contributions. New series"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "296363"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/46764"
+  }, {
+    "@id" : "https://kuscholarworks.ku.edu/dspace/handle/1808/3601/browse?type=dateissued"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1046-8390"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210232840"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1046-8390"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The University of Kansas paleontological contributions"
+  } ]
+} ]

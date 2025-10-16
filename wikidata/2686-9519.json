@@ -1,0 +1,64 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386013",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "AZŽ"
+  }, {
+    "@language" : "en",
+    "@value" : "Amurskii Zoologicheskii Zhurnal"
+  }, {
+    "@language" : "en",
+    "@value" : "Amur"
+  }, {
+    "@language" : "en",
+    "@value" : "AZJ"
+  }, {
+    "@language" : "en",
+    "@value" : "Amurskij zoologičeskij žurnal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "366717"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2686-9519"
+  }, {
+    "@value" : "1999-4079"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://azjournal.ru/index.php/azjournal"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1999-4095"
+  }, {
+    "@value" : "1999-4079"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4363604566"
+  }, {
+    "@value" : "S4210192210"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://azjournal.ru/index.php/azjournal/gateway/plugin/WebFeedGatewayPlugin/rss2"
+  }, {
+    "@id" : "https://azjournal.ru/index.php/azjournal/gateway/plugin/WebFeedGatewayPlugin/atom"
+  }, {
+    "@id" : "https://azjournal.ru/index.php/azjournal/gateway/plugin/WebFeedGatewayPlugin/rss"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "FB0D9EC1-409E-48A1-BD3D-19C9C17CE9B9"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1999-4095"
+  }, {
+    "@value" : "1999-4079"
+  }, {
+    "@value" : "2686-9519"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Амурский зоологический журнал"
+  }, {
+    "@language" : "en",
+    "@value" : "Amurian Zoological Journal"
+  } ]
+} ]

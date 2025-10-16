@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q63475646",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "ISSN 2398-6336"
+  }, {
+    "@language" : "de",
+    "@value" : "Plant Gateway's The Global Flora"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 2398-6336"
+  }, {
+    "@language" : "en",
+    "@value" : "Plant Gateway's The Global Flora"
+  }, {
+    "@language" : "en",
+    "@value" : "The Global Flora: A practical flora to vascular plant species of the world"
+  }, {
+    "@language" : "es",
+    "@value" : "ISSN 2398-6336"
+  }, {
+    "@language" : "es",
+    "@value" : "Plant Gateway's The Global Flora"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.plantgateway.com/globalflora/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2398-6336"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2398-6344"
+  }, {
+    "@value" : "2398-6336"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Plant Gateway's the global flora"
+  } ]
+} ]

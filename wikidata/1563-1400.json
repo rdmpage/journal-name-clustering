@@ -1,0 +1,10 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q130967979",
+  "http://schema.org/issn" : [ {
+    "@value" : "1563-1400"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Beiträge zur Entomofaunistik"
+  } ]
+} ]

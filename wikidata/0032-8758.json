@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96324754",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0032-8758"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0032-8758"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0032-8758"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "cs",
+    "@value" : "Přírodovědné práce Ústavů Československé akademie věd v Brně"
+  } ]
+} ]

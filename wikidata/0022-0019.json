@@ -1,0 +1,58 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15716639",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Conchol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of conchology"
+  }, {
+    "@language" : "en",
+    "@value" : "J. conchol."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "45410"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1879"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.conchsoc.org/journal"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2755-3531"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S169076519"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "ACA2BCA2-11FD-4430-BD8F-F45A63035247"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-0019"
+  }, {
+    "@value" : "2755-3531"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Conchology"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q51422610",
+  "http://example.com/bhl" : [ {
+    "@value" : "16217"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1874"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1878"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-0019"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Quarterly journal of conchology"
+  } ]
+} ]

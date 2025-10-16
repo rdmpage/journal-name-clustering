@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2000008",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "elifesciences.org"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "189365"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2050-084X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2011"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://elifesciences.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2050-084X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S1336409049"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2050-084X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "eLife"
+  } ]
+} ]

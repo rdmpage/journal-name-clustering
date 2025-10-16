@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385222",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0081-0282"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "128145"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sil.si.edu/SmithsonianContributions/Zoology/"
+  }, {
+    "@id" : "https://repository.si.edu/handle/10088/5097"
+  }, {
+    "@id" : "https://smithsonian.figshare.com/scz"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0081-0282"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210189420"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1943-6696"
+  }, {
+    "@value" : "0081-0282"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Smithsonian Contributions to Zoology"
+  } ]
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386075",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0250-6386"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0250-6386"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Arnoldia Zimbabwe"
+  } ]
+} ]

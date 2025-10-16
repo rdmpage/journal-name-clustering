@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6296035",
+  "http://example.com/crossref" : [ {
+    "@value" : "83905"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1229-845X"
+  }, {
+    "@value" : "1976-555X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ksvs.or.kr"
+  }, {
+    "@id" : "http://www.vetsci.org"
+  }, {
+    "@id" : "mailto:ksvs@plaza.snu.ac.kr"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1229-845X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S116496814"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1229-845X"
+  }, {
+    "@value" : "1976-555X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Veterinary Science"
+  } ]
+} ]

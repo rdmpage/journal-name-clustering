@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q135654959",
+  "http://schema.org/issn" : [ {
+    "@value" : "0440-1298"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Erforschung biologischer Ressourcen der Mongolei"
+  }, {
+    "@language" : "en",
+    "@value" : "Exploration into the Biological Resources of Mongolia"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q27715340",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Wiss Beitr Martin Luther Univ Halle Wittenberg"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0440-1298"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0440-1298"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Wissenschaftliche Beitrage der Martin-Luther-Universitat Halle-Wittenberg"
+  }, {
+    "@language" : "mul",
+    "@value" : "Wissenschaftliche Beiträge - Martin-Luther-Universität Halle-Wittenberg"
+  } ]
+} ]

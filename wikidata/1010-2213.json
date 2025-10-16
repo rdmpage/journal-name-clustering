@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q109782350",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1010-2213"
+  }, {
+    "@language" : "en",
+    "@value" : "Tạp chí sinh vật-địa học"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1960"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1010-2213"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1010-2213"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "vi",
+    "@value" : "Tạp san sinh vật-địa học"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113633058",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1004-5589"
+  }, {
+    "@language" : "en",
+    "@value" : "Shijie dizhi"
+  }, {
+    "@language" : "en",
+    "@value" : "World Geology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1004-5589"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1004-5589"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "世界地质"
+  }, {
+    "@language" : "mul",
+    "@value" : "Shijie dizhi"
+  } ]
+} ]

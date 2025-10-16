@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q130588208",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Guangxi kexue"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "GXKK"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://gxkx.ijournal.cn/gxkx/ch/index.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1005-9164"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1005-9164"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Guangxi Sciences"
+  }, {
+    "@language" : "zh",
+    "@value" : "Guangxi kexue"
+  }, {
+    "@language" : "zh",
+    "@value" : "广西科学"
+  } ]
+} ]

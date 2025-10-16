@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3668410",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0570-7358"
+  }, {
+    "@language" : "es",
+    "@value" : "Ardeola (revista)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "235766"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "11757"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ardeola.org/"
+  }, {
+    "@id" : "http://www.bioone.org/toc/arla/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0570-7358"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S15478688"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0570-7358"
+  }, {
+    "@value" : "2341-0892"
+  }, {
+    "@value" : "2341-0825"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Ardeola: revista espanola de ornitologia"
+  }, {
+    "@language" : "es",
+    "@value" : "Ardeola"
+  } ]
+} ]

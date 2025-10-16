@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96734124",
+  "http://example.com/crossref" : [ {
+    "@value" : "314398"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2620-0465"
+  }, {
+    "@value" : "0514-5899"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.zzps.rs/novo/index.php?jezik=sr&strana=casopisi"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0514-5899"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210181288"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2620-0465"
+  }, {
+    "@value" : "0514-5899"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "sr",
+    "@value" : "Zaštita prirode"
+  } ]
+} ]

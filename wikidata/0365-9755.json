@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385181",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Bol. Real Soc. Esp. Hist. Nat."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6171"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1904"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://bibdigital.rjb.csic.es/records/item/10470-redirection"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0365-9755"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1949"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "79597688-60E8-45F0-88F4-E5990AEC29A1"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0365-9755"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletín de la Real Sociedad Española de Historia Natural"
+  } ]
+} ]

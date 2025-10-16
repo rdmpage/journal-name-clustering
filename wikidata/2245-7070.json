@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329349",
+  "http://example.com/crossref" : [ {
+    "@value" : "379614"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://2dgf.dk/publikationer/bulletin/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0011-6297"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S46388605"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2245-7070"
+  }, {
+    "@value" : "0011-6297"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Geological Society of Denmark"
+  } ]
+} ]

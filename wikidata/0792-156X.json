@@ -1,0 +1,15 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765723",
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210228061"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0005-4577"
+  }, {
+    "@value" : "0792-156X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Israeli Journal of Aquaculture - Bamidgeh: international journal on aquaculture"
+  } ]
+} ]

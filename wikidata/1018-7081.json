@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2661755",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Anim. Plant Sci."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "376158"
+  }, {
+    "@value" : "359657"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2071-7024"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.thejaps.org.pk"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S104851040"
+  }, {
+    "@value" : "S4210218942"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2071-7024"
+  }, {
+    "@value" : "1018-7081"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Animal and Plant Sciences"
+  } ]
+} ]

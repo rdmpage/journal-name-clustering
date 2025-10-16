@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2276769",
+  "http://example.com/crossref" : [ {
+    "@value" : "2148"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/03064565"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0306-4565"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S39195600"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1879-0992"
+  }, {
+    "@value" : "0306-4565"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Thermal Biology"
+  } ]
+} ]

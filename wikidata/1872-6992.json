@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753851",
+  "http://example.com/crossref" : [ {
+    "@value" : "1653"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.journals.elsevier.com/ecological-engineering"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/ecological-engineering/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0925-8574"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S134185576"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1872-6992"
+  }, {
+    "@value" : "0925-8574"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecological Engineering"
+  } ]
+} ]

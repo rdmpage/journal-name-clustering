@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764290",
+  "http://example.com/crossref" : [ {
+    "@value" : "26604"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.springer.com/philosophy/epistemology+and+philosophy+of+science/journal/40656"
+  }, {
+    "@id" : "http://link.springer.com/journal/40656"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0391-9714"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "histphillifescie"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S120468566"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0391-9714"
+  }, {
+    "@value" : "1742-6316"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "History and Philosophy of the Life Sciences"
+  }, {
+    "@language" : "mul",
+    "@value" : "History and philosophy of the life sciences"
+  } ]
+} ]

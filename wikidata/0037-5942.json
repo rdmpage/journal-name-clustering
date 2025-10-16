@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386055",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Sitzungs-berichte der Gesellschaft naturforschender Freunde zu Berlin"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0037-5942"
+  }, {
+    "@language" : "de",
+    "@value" : "Sitzungs-berichte der Gesellschaft naturforschender Freunde zu Berlin"
+  }, {
+    "@language" : "en",
+    "@value" : "Sitzungsberichte der Gesellschaft naturforschender Freunde zu Berlin"
+  }, {
+    "@language" : "en",
+    "@value" : "Sber. Ges. naturf. Freunde Berl."
+  }, {
+    "@language" : "en",
+    "@value" : "Sitzb. Ges. Naturf. Fr. Berlin"
+  }, {
+    "@language" : "de",
+    "@value" : "Sitzungs-Berichte der Gesellschaft Naturforschender Freunde zu Berlin"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7922"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297303"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1839"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0037-5942"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210215393"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "CC08FC72-8AD4-4592-8672-A81D38D37690"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0037-5942"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin"
+  } ]
+} ]

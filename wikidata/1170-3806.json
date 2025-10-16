@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q60609432",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Threatened Species Recovery Plans"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1991"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.doc.govt.nz/templates/page.aspx?id=39162"
+  }, {
+    "@id" : "https://www.doc.govt.nz/about-us/science-publications/series/threatened-species-recovery-plans/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1170-3806"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1178-0169"
+  }, {
+    "@value" : "1170-3806"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Threatened species recovery plan series"
+  } ]
+} ]

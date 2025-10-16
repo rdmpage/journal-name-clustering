@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386285",
+  "http://example.com/from_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.munisentzool.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1306-3022"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764435903"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "19612E0C-4EC8-4920-B1D6-844FEF3A38A7"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1306-3022"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Munis Entomology & Zoology"
+  } ]
+} ]

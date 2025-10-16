@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q10718718",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sofnet.org/sveriges-ornitologiska-forening/medlem/tidskrifter/var-fagelvarld/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0042-2649"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0042-2649"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "sv",
+    "@value" : "Vår fågelvärld"
+  } ]
+} ]

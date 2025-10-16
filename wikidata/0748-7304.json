@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2093446",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Biol. Rhythms"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "15258"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jbr.sagepub.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0748-7304"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S192515372"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0748-7304"
+  }, {
+    "@value" : "1552-4531"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal Of Biological Rhythms"
+  } ]
+} ]

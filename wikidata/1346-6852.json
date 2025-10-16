@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q40186046",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "Bunrui"
+  }, {
+    "@language" : "ja",
+    "@value" : "日本植物分類学会誌"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/bunrui/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1346-6852"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "bunrui"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2017"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1346-6852"
+  }, {
+    "@value" : "2189-7034"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "分類 : bunrui : 日本植物分類学会誌"
+  }, {
+    "@language" : "en",
+    "@value" : "Bunrui"
+  }, {
+    "@language" : "ja",
+    "@value" : "Bunrui"
+  } ]
+} ]

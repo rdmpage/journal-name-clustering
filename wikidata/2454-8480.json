@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6295773",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Plant. Crops"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "296578"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1973"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0304-5242"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S62356652"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0304-5242"
+  }, {
+    "@value" : "2454-8480"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Plantation Crops"
+  } ]
+} ]

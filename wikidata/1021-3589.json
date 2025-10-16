@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4033499",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "Journal of the Entomological Society of Southern Africa"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "81158"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2224-8854"
+  }, {
+    "@value" : "1021-3589"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://content.ajarchive.org/cdm4/index_10213589.php?CISOROOT=/10213589"
+  }, {
+    "@id" : "http://journals.sabinet.co.za/ej/ejour_ento.html"
+  }, {
+    "@id" : "http://www.bioone.org/loi/afen"
+  }, {
+    "@id" : "http://www.journals.co.za/ej/ejour_ento.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1021-3589"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S117207475"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "421FA4A1-A3D2-4D5B-BA6C-B6F62607F32C"
+  }, {
+    "@value" : "993953B5-6A6A-42B5-8107-8F31AA549162"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1021-3589"
+  }, {
+    "@value" : "2224-8854"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "African Entomology"
+  } ]
+} ]

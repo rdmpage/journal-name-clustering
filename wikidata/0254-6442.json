@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16609158",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Moscosoa"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "101603"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1976"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0254-6442"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0254-6442"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Moscosoa : contribuciones científicas del Jardín Botánico Nacional \"Dr. Rafael M. Moscoso\"."
+  }, {
+    "@language" : "es",
+    "@value" : "Moscosoa"
+  } ]
+} ]

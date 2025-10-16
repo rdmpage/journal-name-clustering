@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328556",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Philippine journal of systematic biology (Print)"
+  }, {
+    "@language" : "de",
+    "@value" : "Philipp. J. Syst. Biol."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1908-6865"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Philippine Systematic Biology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "85445"
+  }, {
+    "@value" : "367377"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://asbp.org.ph/journals/"
+  }, {
+    "@id" : "https://asbp.org.ph/journals/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1908-6865"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S185795861"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://asbp.org.ph/feed/"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2243-8025"
+  }, {
+    "@value" : "1908-6865"
+  }, {
+    "@value" : "2508-0342"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Philippine journal of systematic biology (Print)"
+  } ]
+} ]

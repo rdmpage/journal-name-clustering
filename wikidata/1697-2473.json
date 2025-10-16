@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96325024",
+  "http://example.com/crossref" : [ {
+    "@value" : "198086"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1697-2473"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dialnet.unirioja.es/servlet/revista?codigo=1887"
+  }, {
+    "@id" : "http://www.aeet.org/ecosistemas/portada.htm"
+  }, {
+    "@id" : "https://www.revistaecosistemas.net/index.php/ecosistemas"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1697-2473"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210219643"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1697-2473"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Ecosistemas"
+  } ]
+} ]

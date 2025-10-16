@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96325455",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Naturschutz und Landschaftsplanung. Zeitschrift für angewandte Ökologie"
+  }, {
+    "@language" : "de",
+    "@value" : "NuL"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.nul-online.de"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0940-6808"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210171300"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1869-5191"
+  }, {
+    "@value" : "0940-6808"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Naturschutz und Landschaftsplanung"
+  } ]
+} ]

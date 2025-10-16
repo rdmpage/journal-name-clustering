@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752567",
+  "http://example.com/crossref" : [ {
+    "@value" : "812"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer-ny.com/link/service/journals/10071/index.htm"
+  }, {
+    "@id" : "http://link.springer.de/link/service/journals/10071/index.htm"
+  }, {
+    "@id" : "https://link.springer.com/journal/10071"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1435-9448"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S173545869"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1435-9448"
+  }, {
+    "@value" : "1435-9456"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Animal cognition"
+  }, {
+    "@language" : "und",
+    "@value" : "Animal Cognition"
+  } ]
+} ]

@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15716769",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Rev. Mex. Cienc. Geol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Revista Mexicana de Ciencias Geologicas"
+  }, {
+    "@language" : "en",
+    "@value" : "Revista Mexicana de Ciencias Geologicas"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista mexicana de ciencias geológicas (en línea)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "309243"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "2114"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1026-8774"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1976"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.rmcg.unam.mx"
+  }, {
+    "@id" : "http://www.rmcg.unam.mx/home.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2007-2902"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210173579"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2007-2902"
+  }, {
+    "@value" : "1026-8774"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista mexicana de ciencias geológicas (en línea)"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista Mexicana de Ciencias Geológicas"
+  } ]
+} ]

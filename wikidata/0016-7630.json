@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757357",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Chishitsugaku Zasshi"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "135946"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/geosoc/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0016-7630"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "geosoc"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764775439"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1349-9963"
+  }, {
+    "@value" : "0016-7630"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "地質学雑誌"
+  } ]
+} ]

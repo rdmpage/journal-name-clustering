@@ -1,0 +1,92 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q47089483",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Jahresh. Ver. vaterl. Naturkd. Wb."
+  }, {
+    "@language" : "de",
+    "@value" : "Jahresh. Vereins Vaterl. Naturk. Wurttemberg"
+  }, {
+    "@language" : "fr",
+    "@value" : "Jahreshefte d. Ver. f. vaterl. Naturk. in Wurtt."
+  }, {
+    "@language" : "pt",
+    "@value" : "Jahresh. Ver. vaterl. Naturkd. Württemb."
+  }, {
+    "@language" : "en",
+    "@value" : "Jahresh. Ver. vaterl. Naturkd. Wb."
+  }, {
+    "@language" : "de",
+    "@value" : "Jahresh. Ver. vaterl. Naturkd. Wb."
+  }, {
+    "@language" : "es",
+    "@value" : "Jahreshefte d. Ver. f. vaterl. Naturk. in Wurtt."
+  }, {
+    "@language" : "fr",
+    "@value" : "Jahresh. Ver. vaterl. Naturkd. Württemb."
+  }, {
+    "@language" : "en",
+    "@value" : "Jahreshefte d. Ver. f. vaterl. Naturk. in Wurtt."
+  }, {
+    "@language" : "es",
+    "@value" : "Jahresh. Ver. vaterl. Naturkd. Württemb."
+  }, {
+    "@language" : "de",
+    "@value" : "Jahreshefte d. Ver. f. vaterl. Naturk. in Wurtt."
+  }, {
+    "@language" : "pt",
+    "@value" : "Jahresh. Vereins Vaterl. Naturk. Wurttemberg"
+  }, {
+    "@language" : "en",
+    "@value" : "Jahresh. Ver. vaterl. Naturkd. Württemb."
+  }, {
+    "@language" : "de",
+    "@value" : "Jahresh. Ver. vaterl. Naturkd. Württemb."
+  }, {
+    "@language" : "fr",
+    "@value" : "Jahresh. Vereins Vaterl. Naturk. Wurttemberg"
+  }, {
+    "@language" : "pt",
+    "@value" : "Jahresh. Ver. vaterl. Naturkd. Wb."
+  }, {
+    "@language" : "en",
+    "@value" : "Jahreshefte d. Ver. f. vaterl. Naturk. in Württ."
+  }, {
+    "@language" : "es",
+    "@value" : "Jahresh. Vereins Vaterl. Naturk. Wurttemberg"
+  }, {
+    "@language" : "fr",
+    "@value" : "Jahresh. Ver. vaterl. Naturkd. Wb."
+  }, {
+    "@language" : "pt",
+    "@value" : "Jahreshefte d. Ver. f. vaterl. Naturk. in Wurtt."
+  }, {
+    "@language" : "en",
+    "@value" : "Jahresh. Vereins Vaterl. Naturk. Wurttemberg"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7923"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297417"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1845"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0368-4717"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210190403"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1968"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0368-4717"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Jahreshefte des Vereins für vaterländische Naturkunde in Württemberg"
+  } ]
+} ]

@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27715111",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Rend Accad Naz XL"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0370-3460"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-3460"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Rendiconti / Accademia Nazionale Del Xl"
+  }, {
+    "@language" : "it",
+    "@value" : "Rendiconti della Accademia nazionale dei XL"
+  } ]
+} ]

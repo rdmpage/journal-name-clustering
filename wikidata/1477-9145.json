@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1355917",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Exp. Biol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "Journal of Experimental Biology"
+  }, {
+    "@language" : "de",
+    "@value" : "Journal of Exp Biol"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Experimental Biology"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Exp Biol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "11176"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1923"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journals.biologists.com/jeb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-0949"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S20257348"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1477-9145"
+  }, {
+    "@value" : "0022-0949"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of experimental biology"
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of Experimental Biology"
+  } ]
+} ]

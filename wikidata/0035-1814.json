@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385771",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Rev. Zool. Bot. Afr."
+  }, {
+    "@language" : "es",
+    "@value" : "Rev. Zool. Bot. Afr."
+  }, {
+    "@language" : "pt",
+    "@value" : "Rev. Zool. Bot. Afr."
+  }, {
+    "@language" : "en",
+    "@value" : "Rev. Zool. Bot. Afr."
+  }, {
+    "@language" : "de",
+    "@value" : "Rev. Zool. Bot. Afr."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0035-1814"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306528282"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "63D0D39E-F69F-460D-95BB-BC0638452FDC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0035-1814"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revue de zoologie et de botanique africaines"
+  }, {
+    "@language" : "fr",
+    "@value" : "Revue de zoologie et de botanique africaines"
+  } ]
+} ]

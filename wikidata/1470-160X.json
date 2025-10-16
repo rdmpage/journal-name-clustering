@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1282041",
+  "http://example.com/crossref" : [ {
+    "@value" : "1654"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1872-7034"
+  }, {
+    "@value" : "1470-160X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/ecological-indicators/"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/ecological-indicators/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1470-160X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S194154261"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1872-7034"
+  }, {
+    "@value" : "1470-160X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecological Indicators"
+  } ]
+} ]

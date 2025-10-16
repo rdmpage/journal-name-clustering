@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1709836",
+  "http://example.com/crossref" : [ {
+    "@value" : "45618"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "4572"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=1551-5036"
+  }, {
+    "@id" : "http://www.jcronline.org/perlserv/?request=index-html"
+  }, {
+    "@id" : "http://www.jstor.org/journals/07490208.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0749-0208"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jcoasrese"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S130567056"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0749-0208"
+  }, {
+    "@value" : "1551-5036"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Coastal Research"
+  } ]
+} ]

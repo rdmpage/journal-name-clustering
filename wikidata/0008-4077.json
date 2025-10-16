@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5030234",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Can. J. Earth Sci."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "カナディアン・ジャーナル・オヴ・アース・サイエンスィズ"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5610"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1963"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=fEFSAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=MYNQAQAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=uDxSAQAAMAAJ"
+  }, {
+    "@id" : "http://epe.lac-bac.gc.ca/101/201/301/cdn_jrn_earth/index.html"
+  }, {
+    "@id" : "https://cdnsciencepub.com/journal/cjes"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0008-4077"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4305354"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0008-4077"
+  }, {
+    "@value" : "1480-3313"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Canadian Journal of Earth Sciences"
+  }, {
+    "@language" : "mul",
+    "@value" : "Canadian journal of earth sciences"
+  } ]
+} ]

@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760887",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Hormones and Behavior"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "490"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1969"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=0018-506x;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.apnet.com/www/journal/hb.htm"
+  }, {
+    "@id" : "http://www.journals.elsevier.com/hormones-and-behavior/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/0018506X"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0018-506X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S170105747"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1095-6867"
+  }, {
+    "@value" : "0018-506X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Hormones and Behaviour"
+  }, {
+    "@language" : "en",
+    "@value" : "Hormones and behavior"
+  } ]
+} ]

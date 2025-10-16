@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756021",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0016-7746"
+  }, {
+    "@language" : "en",
+    "@value" : "Geologie en Mijnbouw"
+  }, {
+    "@language" : "en",
+    "@value" : "Netherlands Journal of Geosciences – Geologie en Mijnbouw"
+  }, {
+    "@language" : "en",
+    "@value" : "Geology and Mining"
+  }, {
+    "@language" : "en",
+    "@value" : "Geologie & mijnbouw"
+  }, {
+    "@language" : "en",
+    "@value" : "Geology & Mining"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3264"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1573-9708"
+  }, {
+    "@value" : "0016-7746"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.cambridge.org/core/journals/netherlands-journal-of-geosciences"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0016-7746"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S194068381"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1573-9708"
+  }, {
+    "@value" : "0016-7746"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Netherlands Journal of Geosciences"
+  }, {
+    "@language" : "nl",
+    "@value" : "Geologie en Mijnbouw"
+  } ]
+} ]

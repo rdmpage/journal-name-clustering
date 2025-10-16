@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q47161189",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Entomologicheskoe Obozrenie"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "54928"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0013-8738;screen=info;ECOIP"
+  }, {
+    "@id" : "http://pleiades.online/en/journal/enteng/"
+  }, {
+    "@id" : "https://www.pleiades.online/en/journal/enteng/"
+  }, {
+    "@id" : "https://www.springer.com/journal/11474"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-8738"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S17264655"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "AE85C372-9551-4F01-B7F6-F45E2BCCFC29"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0013-8738"
+  }, {
+    "@value" : "1555-6689"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Entomological Review"
+  } ]
+} ]

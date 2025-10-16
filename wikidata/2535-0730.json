@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q29440092",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2535-0730"
+  }, {
+    "@language" : "de",
+    "@value" : "Mitteilungen aus dem Hamburgischen zoologischen Museum und Institut"
+  }, {
+    "@language" : "en",
+    "@value" : "Mitteilungen aus dem Hamburgischen Zoologischen Museum und Institut"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "311716"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2535-0730"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2535-0730"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210215492"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2535-0730"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Evolutionary Systematics"
+  } ]
+} ]

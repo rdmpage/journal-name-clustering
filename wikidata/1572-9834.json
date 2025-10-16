@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3567568",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Wetlands Ecol. Manage"
+  }, {
+    "@language" : "fr",
+    "@value" : "Wetlands ecology and management"
+  }, {
+    "@language" : "fr",
+    "@value" : "Mangroves and Salt Marshes"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2905"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/11273"
+  }, {
+    "@id" : "http://www.springerlink.com/content/m743101t33x4/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0923-4861"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S41353823"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0923-4861"
+  }, {
+    "@value" : "1572-9834"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Wetlands Ecology and Management"
+  } ]
+} ]

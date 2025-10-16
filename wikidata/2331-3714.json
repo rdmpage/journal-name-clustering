@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764285",
+  "http://example.com/crossref" : [ {
+    "@value" : "94325"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.caves.org/pub/journal/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1090-6924"
+  }, {
+    "@value" : "0146-9517"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S112933683"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2331-3714"
+  }, {
+    "@value" : "1090-6924"
+  }, {
+    "@value" : "0146-9517"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Cave and Karst Studies"
+  } ]
+} ]

@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96327324",
+  "http://example.com/crossref" : [ {
+    "@value" : "58314"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1002-0705"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S12790062"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1002-0705"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of China University of Geosciences"
+  } ]
+} ]

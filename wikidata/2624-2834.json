@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q79130103",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2624-2826"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "327573"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.mapress.com/j/pe/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2624-2834"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210233173"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2624-2834"
+  }, {
+    "@value" : "2624-2826"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Palaeoentomology"
+  } ]
+} ]

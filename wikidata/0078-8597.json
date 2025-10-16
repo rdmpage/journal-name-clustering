@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385100",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Memoir - Paleontological Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Memoir (Paleontological Society)"
+  }, {
+    "@language" : "es",
+    "@value" : "Paleontological Society Memoir"
+  }, {
+    "@language" : "en",
+    "@value" : "Paleontological Society Memoir"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0078-8597"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=1qwoAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=iqkoAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=JbAoAQAAMAAJ"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00788597.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-8597"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "memopalesoci"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1937-2833"
+  }, {
+    "@value" : "0078-8597"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoir - Paleontological Society"
+  } ]
+} ]

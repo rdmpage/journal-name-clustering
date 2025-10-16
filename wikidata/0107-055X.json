@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2686388",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Nord. J. Bot."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Nordic J. Bot."
+  }, {
+    "@language" : "en",
+    "@value" : "Nord. J. Bot."
+  }, {
+    "@language" : "ja",
+    "@value" : "ノルディック・ジャーナル・オヴ・ボタニー"
+  }, {
+    "@language" : "en",
+    "@value" : "Nordic J. Bot."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "73645"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1981"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1756-1051"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/journal/118902517/home"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0107-055X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S178451187"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1756-1051"
+  }, {
+    "@value" : "0107-055X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nordic Journal of Botany"
+  } ]
+} ]

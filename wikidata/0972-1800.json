@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q111731154",
+  "http://example.com/from_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://entosocindia.org/journal/Bionotes"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0972-1800"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306504424"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0972-1800"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bionotes"
+  } ]
+} ]

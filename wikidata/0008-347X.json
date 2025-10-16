@@ -1,0 +1,66 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4035802",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Can. Entomol."
+  }, {
+    "@language" : "ru",
+    "@value" : "Can. Entomol."
+  }, {
+    "@language" : "en",
+    "@value" : "Canadian Entomologist"
+  }, {
+    "@language" : "en",
+    "@value" : "The Canadian entomologist"
+  }, {
+    "@language" : "en",
+    "@value" : "Can. entomol."
+  }, {
+    "@language" : "en",
+    "@value" : "Can. Entomol."
+  }, {
+    "@language" : "de",
+    "@value" : "Can. Entomol."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "122154"
+  }, {
+    "@value" : "7422"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "81081"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1868"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://pubs.nrc-cnrc.gc.ca/ent/entomology.html"
+  }, {
+    "@id" : "http://books.google.com/"
+  }, {
+    "@id" : "http://journals.cambridge.org/action/displayBackIssues?jid=TCE"
+  }, {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=TCE"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0008-347X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S197406704"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "DEE65FD5-9E01-42C7-932B-2DC307CE7B25"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0008-347X"
+  }, {
+    "@value" : "1918-3240"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Canadian Entomologist"
+  }, {
+    "@language" : "en",
+    "@value" : "The Canadian entomologist"
+  } ]
+} ]

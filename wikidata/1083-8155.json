@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758245",
+  "http://example.com/crossref" : [ {
+    "@value" : "2747"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=1083-8155;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.kluweronline.com/issn/1083-8155/contents"
+  }, {
+    "@id" : "https://link.springer.com/journal/volumesAndIssues/11252"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1083-8155"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S194236184"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1573-1642"
+  }, {
+    "@value" : "1083-8155"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Urban Ecosystems"
+  } ]
+} ]

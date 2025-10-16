@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385461",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "ニュー・ジーランドの動物相"
+  }, {
+    "@language" : "en",
+    "@value" : "FNZ"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.landcareresearch.co.nz/publications/fauna-of-new-zealand-series/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0111-5383"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "1BC066D2-6E1B-41ED-87BF-309E1B0A2CA0"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1179-7193"
+  }, {
+    "@value" : "0111-5383"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fauna of New Zealand"
+  }, {
+    "@language" : "mi",
+    "@value" : "Ko te Aitanga Pepeke o Aotearoa"
+  } ]
+} ]

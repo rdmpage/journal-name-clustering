@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749569",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "古脊椎动物与古人类"
+  }, {
+    "@language" : "zh",
+    "@value" : "Gujizhui dongwu xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1000-3118"
+  }, {
+    "@language" : "es",
+    "@value" : "Vertebrata PalAsiatica"
+  }, {
+    "@language" : "en",
+    "@value" : "Gujizhui Dongwu Xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Vertebrate Paleontology"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1984"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.vertpala.ac.cn/CN/2096-9899/home.shtml"
+  }, {
+    "@id" : "http://www.vertpala.ac.cn/EN/2096-9899/home.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-3118"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306534151"
+  }, {
+    "@value" : "S4306545296"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2020"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-3118"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Vertebrata PalAsiatica"
+  }, {
+    "@language" : "zh-hans",
+    "@value" : "古脊椎动物学报"
+  } ]
+} ]

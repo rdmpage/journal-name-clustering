@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765679",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Rev. Esp. Herpetol."
+  }, {
+    "@language" : "de",
+    "@value" : "Rev. Esp. Herpetol."
+  }, {
+    "@language" : "fr",
+    "@value" : "Rev. Esp. Herpetol."
+  }, {
+    "@language" : "es",
+    "@value" : "Rev. Esp. Herpetol."
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "6702"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1986"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dialnet.unirioja.es/servlet/revista?codigo=6702"
+  }, {
+    "@id" : "http://www.herpetologica.es/publicaciones/revista-espanola-de-herpetologia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0213-6686"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2010"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0213-6686"
+  }, {
+    "@value" : "2255-1484"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista española de herpetología"
+  } ]
+} ]

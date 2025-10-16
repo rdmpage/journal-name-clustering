@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q134885510",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0325-0369"
+  }, {
+    "@language" : "en",
+    "@value" : "Physis. Sección C. Los continentes y los organismos terrestres"
+  }, {
+    "@language" : "es",
+    "@value" : "Physis. Sección C. Los continentes y los organismos terrestres"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0325-0369"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0325-0369"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Physis. Sección C. Los continentes y los organismos terrestres"
+  } ]
+} ]

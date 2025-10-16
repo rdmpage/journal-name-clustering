@@ -1,0 +1,77 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q900472",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Chem. Phys"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Chem Phys"
+  }, {
+    "@language" : "ru",
+    "@value" : "J Chem Phys"
+  }, {
+    "@language" : "ru",
+    "@value" : "The Journal of Chemical Physics"
+  }, {
+    "@language" : "fr",
+    "@value" : "J. Chem. Phys."
+  }, {
+    "@language" : "en",
+    "@value" : "J. Chem. Phys."
+  }, {
+    "@language" : "de",
+    "@value" : "The Journal of Chemical Physics"
+  }, {
+    "@language" : "ru",
+    "@value" : "J. Chem. Phys."
+  }, {
+    "@language" : "de",
+    "@value" : "J. Chem. Phys."
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of Chemical Physics"
+  }, {
+    "@language" : "es",
+    "@value" : "J. Chem. Phys."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4130"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "4385"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1933"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jcp.aip.org/"
+  }, {
+    "@id" : "http://jcp.aip.org/jcp/"
+  }, {
+    "@id" : "http://ojps.aip.org/jcpo/"
+  }, {
+    "@id" : "http://jcp-bcp.aip.org/bcp/"
+  }, {
+    "@id" : "http://ojps.aip.org/journals/doc/JCPSA6-home/top.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-9606"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S77047749"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1520-9032"
+  }, {
+    "@value" : "1089-7690"
+  }, {
+    "@value" : "0021-9606"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of chemical physics"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Chemical Physics"
+  } ]
+} ]

@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q460745",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Ameghiniana"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "139925"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1964"
+  }, {
+    "@value" : "1957"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ameghiniana.org.ar/index.php/ameghiniana"
+  }, {
+    "@id" : "http://www.scielo.org.ar/revistas/ameg/eaboutj.htm"
+  }, {
+    "@id" : "http://www.scielo.org.ar/scielo.php?script=sci_serial&pid=0002-7014&lng=es&nrm=iso"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0002-7014"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S168523221"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A1BE5D30-5CF9-4E70-8864-8022B1B5F76C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1851-8044"
+  }, {
+    "@value" : "0002-7014"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Ameghiniana"
+  }, {
+    "@language" : "en",
+    "@value" : "Ameghiniana"
+  } ]
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758985",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Developmental & Comparative Immunology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1646"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/0145305X"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/developmental-and-comparative-immunology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0145-305X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S81563257"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1879-0089"
+  }, {
+    "@value" : "0145-305X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Developmental and Comparative Immunology"
+  } ]
+} ]

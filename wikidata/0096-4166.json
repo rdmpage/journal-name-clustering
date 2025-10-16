@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51419822",
+  "http://example.com/bhl" : [ {
+    "@value" : "14681"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297410"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1889"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0096-4166"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210184684"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0096-4166"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Rochester Academy of Science"
+  } ]
+} ]

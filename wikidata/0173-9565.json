@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761278",
+  "http://example.com/crossref" : [ {
+    "@value" : "3548"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "4866"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.blackwell-synergy.com/loi/mae"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0173-9565"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S170816358"
+  }, {
+    "@value" : "S2499571333"
+  }, {
+    "@value" : "S4210180394"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0173-9565"
+  }, {
+    "@value" : "1439-0485"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Marine Ecology"
+  } ]
+} ]

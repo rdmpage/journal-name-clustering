@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5694355",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Anales Inst. Bot. Cavanilles"
+  }, {
+    "@language" : "en",
+    "@value" : "Anales del Instituto Botanico A. J. Cavanilles"
+  }, {
+    "@language" : "es",
+    "@value" : "Anales del Instituto Botanico A. J. Cavanilles"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "71238"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0365-0790"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0365-0790"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Anales del Instituto Botanico A. J. Cavanilles"
+  }, {
+    "@language" : "es",
+    "@value" : "Anales del Instituto Botánico A. J. Cavanilles"
+  } ]
+} ]

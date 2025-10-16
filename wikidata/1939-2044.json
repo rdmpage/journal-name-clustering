@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762165",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "MFR"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "221787"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rzblx1.uni-regensburg.de/ezeit/warpto.phtml?colors=7&jour_id=37662"
+  }, {
+    "@id" : "https://purl.fdlp.gov/GPO/LPS5007"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0090-1830"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210240371"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0090-1830"
+  }, {
+    "@value" : "1939-2044"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Marine Fisheries Review"
+  } ]
+} ]

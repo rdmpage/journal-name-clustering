@@ -1,0 +1,64 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726518",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Fauna och flora : populär tidskrift för biologi."
+  }, {
+    "@language" : "en",
+    "@value" : "Fauna Flora"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6469"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1906"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.artdata.slu.se/FaunaochFlora/tidigare.asp"
+  }, {
+    "@id" : "https://runeberg.org/faunaflora/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0014-8903"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4363606937"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2002-4320"
+  }, {
+    "@value" : "0014-8903"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "sv",
+    "@value" : "Fauna och flora"
+  }, {
+    "@language" : "en",
+    "@value" : "Fauna och flora"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q78902927",
+  "http://example.com/from_year" : [ {
+    "@value" : "2003"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.artdata.slu.se/FaunaochFlora/tidigare.asp"
+  }, {
+    "@id" : "https://runeberg.org/faunaflora/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0014-8903"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0014-8903"
+  }, {
+    "@value" : "2002-4320"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "sv",
+    "@value" : "Fauna och flora"
+  }, {
+    "@language" : "sv",
+    "@value" : "Fauna & flora [Elektronisk resurs]"
+  } ]
+} ]

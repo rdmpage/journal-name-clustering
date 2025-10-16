@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762225",
+  "http://example.com/crossref" : [ {
+    "@value" : "71760"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springerlink.com/content/120945/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0015-5632"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S68090309"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0015-5632"
+  }, {
+    "@value" : "1874-9356"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Folia Microbiologica"
+  }, {
+    "@language" : "en",
+    "@value" : "Folia microbiologica"
+  } ]
+} ]

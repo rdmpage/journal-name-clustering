@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q55365812",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0311-4538"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0311-4538"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Contributions from Herbarium Australiense"
+  } ]
+} ]

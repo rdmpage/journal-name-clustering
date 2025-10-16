@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385965",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Boll. Mus. Regionale. Sci. Nat. Torino"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "161299"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0392-758X"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "39EEA660-B466-48A3-9F94-714F5BF5F296"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0392-758X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Bollettino - Museo regionale di scienze naturali"
+  }, {
+    "@language" : "it",
+    "@value" : "Bollettino del Museo Regionale di Scienze Naturali di Torino"
+  } ]
+} ]

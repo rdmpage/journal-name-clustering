@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764481",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0001-6594"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "219947"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2082-0259"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://botany.pl/ibwyd/acta_paleo/act-p.htm"
+  }, {
+    "@id" : "http://www.botany.pl/ibwyd/acta_paleo/act-p.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-6594"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2736449006"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-6594"
+  }, {
+    "@value" : "2082-0259"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Palaeobotanica"
+  }, {
+    "@language" : "und",
+    "@value" : "Acta Palaeobotanica"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Palaeobotanica"
+  } ]
+} ]

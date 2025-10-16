@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763796",
+  "http://example.com/crossref" : [ {
+    "@value" : "1717"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/fisheries-research/"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/fisheries-research/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0165-7836"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "C2781032902"
+  }, {
+    "@value" : "S20111203"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0165-7836"
+  }, {
+    "@value" : "1872-6763"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fisheries Research"
+  } ]
+} ]

@@ -1,0 +1,54 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2451468",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "TIG"
+  }, {
+    "@language" : "es",
+    "@value" : "Trends Genet."
+  }, {
+    "@language" : "de",
+    "@value" : "Trends Genet."
+  }, {
+    "@language" : "en",
+    "@value" : "Trends Genet."
+  }, {
+    "@language" : "fr",
+    "@value" : "Trends Genet."
+  }, {
+    "@language" : "de",
+    "@value" : "TIG"
+  }, {
+    "@language" : "en",
+    "@value" : "TIG"
+  }, {
+    "@language" : "es",
+    "@value" : "TIG"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1503"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1985"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.cell.com/trends/genetics/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/01689525"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0168-9525"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S139283865"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1362-4555"
+  }, {
+    "@value" : "0168-9525"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Trends in Genetics"
+  } ]
+} ]

@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754821",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.urbanfischer.de/journals/archfish/fishery.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0944-1921"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S964135162"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0944-1921"
+  }, {
+    "@value" : "1618-0410"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Archive of Fishery and Marine Research"
+  }, {
+    "@language" : "mul",
+    "@value" : "Archive of fishery and marine research"
+  } ]
+} ]

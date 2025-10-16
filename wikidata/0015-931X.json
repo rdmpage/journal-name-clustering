@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q8962139",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Fragm. Florist. Geobot."
+  }, {
+    "@language" : "en",
+    "@value" : "Fragm. Florist. Geobot."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1953"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0015-931X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306510863"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0015-931X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Fragmenta Floristica et Geobotanica"
+  }, {
+    "@language" : "en",
+    "@value" : "Fragmenta Floristica et Geobotanica"
+  } ]
+} ]

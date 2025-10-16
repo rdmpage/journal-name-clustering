@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750379",
+  "http://example.com/dialnet" : [ {
+    "@value" : "3908"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://recyt.fecyt.es/index.php/geogaceta/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0213-683X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306511290"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0213-683X"
+  }, {
+    "@value" : "2173-6545"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Geogaceta"
+  }, {
+    "@language" : "mul",
+    "@value" : "Geogaceta"
+  } ]
+} ]

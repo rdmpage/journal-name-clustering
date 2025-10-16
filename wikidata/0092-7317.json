@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51389230",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. comp. neurol. comparative neurology (1891)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "11277"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "37158"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1891"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1096-9861/issues"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jtoc/109668540/1899"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jtoc/109668540/1901"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jtoc/109668540/1903"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0092-7317"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1903"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0092-7317"
+  }, {
+    "@value" : "1550-7130"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The journal of comparative neurology"
+  } ]
+} ]

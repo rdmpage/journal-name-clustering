@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6296010",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Transcult. Nurs."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "15283"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1989"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.sagepub.com/home/tcn"
+  }, {
+    "@id" : "http://tcn.sagepub.com/"
+  }, {
+    "@id" : "http://www.uk.sagepub.com/journals/Journal200814/title"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1043-6596"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S158751353"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1552-7832"
+  }, {
+    "@value" : "1043-6596"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Transcultural Nursing"
+  } ]
+} ]

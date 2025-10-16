@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758132",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Bangladesh J. Pl. Taxon."
+  }, {
+    "@language" : "en",
+    "@value" : "Bangladesh J. Pl. Taxon."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "75959"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1028-2092"
+  }, {
+    "@value" : "2224-7297"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.banglajol.info/index.php/BJPT"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1028-2092"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S172215151"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1028-2092"
+  }, {
+    "@value" : "2224-7297"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bangladesh Journal of Plant Taxonomy"
+  } ]
+} ]

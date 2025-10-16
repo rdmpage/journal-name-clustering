@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50815340",
+  "http://example.com/crossref" : [ {
+    "@value" : "307009"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2056-3744"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://academic.oup.com/evlett"
+  }, {
+    "@id" : "https://evolutionletters.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2056-3744"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210186268"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2056-3744"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Evolution Letters"
+  }, {
+    "@language" : "en",
+    "@value" : "Evolution letters"
+  } ]
+} ]

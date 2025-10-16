@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724895",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Haiyang Yuye"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1004-2490"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210213512"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1004-2490"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Haiyang yuye = Marine fisheries"
+  }, {
+    "@language" : "zh",
+    "@value" : "Haiyang yuye"
+  } ]
+} ]

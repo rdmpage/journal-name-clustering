@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2403915",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ecological Management & Restoration"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3626"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1442-8903"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291442-8903"
+  }, {
+    "@id" : "http://www.ecolsoc.org.au/journals.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1839-3330"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S123559217"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1442-7001"
+  }, {
+    "@value" : "1839-3330"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecological Management & Restoration"
+  }, {
+    "@language" : "en",
+    "@value" : "Ecological Management and Restoration"
+  } ]
+} ]

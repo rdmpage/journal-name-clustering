@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15708634",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Vic. Nat."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Victorian Naturalist"
+  }, {
+    "@language" : "en",
+    "@value" : "Victorian nat."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "43746"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297405"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1884"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://nla.gov.au/nla.obj-530171913"
+  }, {
+    "@id" : "http://www.fncv.org.au/the-victorian-naturalist/"
+  }, {
+    "@id" : "http://www.fncv.org.au/vicnat.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0042-5184"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764497710"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "http://search.informit.com.au/rss;res=IELHSS;issn=0042-5184"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3E12BB1A-6DC3-496D-AACF-E879D7C0F6D7"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0042-5184"
+  }, {
+    "@value" : "2208-6277"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Victorian Naturalist"
+  } ]
+} ]

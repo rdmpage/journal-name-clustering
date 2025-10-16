@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3283945",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of geology"
+  }, {
+    "@language" : "en",
+    "@value" : "J. geol."
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Geology"
+  }, {
+    "@language" : "es",
+    "@value" : "Journal of Geology"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "44171"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4899"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "4619"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1893"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.journals.uchicago.edu/toc/jg/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-1376"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jgeology"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S99859448"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-1376"
+  }, {
+    "@value" : "1537-5269"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of Geology"
+  } ]
+} ]

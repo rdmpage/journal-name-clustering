@@ -1,0 +1,67 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q11822687",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin entomologique de Pologne"
+  }, {
+    "@language" : "en",
+    "@value" : "Polskie Pismo Entomologiczne"
+  }, {
+    "@language" : "en",
+    "@value" : "Pol. pis. entomol."
+  }, {
+    "@language" : "en",
+    "@value" : "Polish journal of entomology"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin entomologique de Pologne"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "10013"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "128705"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2299-9884"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1922"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://sparrow.up.poznan.pl/pte/ppe/index.html"
+  }, {
+    "@id" : "https://pje-journal.com/resources/html/cms/MAINPAGE"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0032-3780"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306522794"
+  }, {
+    "@value" : "S2739134625"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "893AE9D7-CC7D-44D7-909E-DEC6D09B165E"
+  }, {
+    "@value" : "CDFE76E6-9B5B-41FC-83B3-6209B614E3C6"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0032-3780"
+  }, {
+    "@value" : "2299-9884"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Polish Journal of Entomology"
+  }, {
+    "@language" : "pl",
+    "@value" : "Polskie Pismo Entomologiczne"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin entomologique de Pologne"
+  } ]
+} ]

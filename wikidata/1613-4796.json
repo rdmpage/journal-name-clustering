@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754479",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ESR"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "66761"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1863-5407"
+  }, {
+    "@value" : "1613-4796"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.int-res.com/journals/esr/contents.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1613-4796"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S116285706"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1863-5407"
+  }, {
+    "@value" : "1613-4796"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Endangered Species Research"
+  } ]
+} ]

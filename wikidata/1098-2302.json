@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5266795",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Dev. Psychobiol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "19"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1968"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2302"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/109668546"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/29287"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/10982302"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0012-1630"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S119146558"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0012-1630"
+  }, {
+    "@value" : "1098-2302"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Developmental Psychobiology"
+  } ]
+} ]

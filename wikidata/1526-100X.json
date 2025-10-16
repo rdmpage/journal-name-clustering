@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3427989",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Restor Ecol"
+  }, {
+    "@language" : "de",
+    "@value" : "Restor Ecol"
+  }, {
+    "@language" : "en",
+    "@value" : "Restor Ecol"
+  }, {
+    "@language" : "en",
+    "@value" : "Restor. Ecol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3534"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=1061-2971;screen=info;ECOIP"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1526-100X"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=rec"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/1526100X"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1061-2971"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S191257319"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1061-2971"
+  }, {
+    "@value" : "1526-100X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Restoration Ecology"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22110429",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "[Bulletin de la Société d'étude des sciences naturelles de Vaucluse]"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société d'étude des sciences naturelles de Vaucluse"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1148-8565"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1148-8565"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société d'Etude des Sciences Naturelles de Vaucluse"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société d'étude des sciences naturelles de Vaucluse"
+  } ]
+} ]

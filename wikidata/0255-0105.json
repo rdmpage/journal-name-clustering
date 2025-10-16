@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759777",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Annalen des Naturhistorischen Museums in Wien. Serie B: Botanik und Zoologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Naturhistorisches Museum in Wien. Annalen. Serie B: Botanik und Zoologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Ann. Naturhist. Mus. Wien, B"
+  }, {
+    "@language" : "de",
+    "@value" : "Annalen des Naturhistorischen Museums in Wien. Serie B für Botanik und Zoologie"
+  }, {
+    "@language" : "de",
+    "@value" : "Ann. Naturhist. Mus. Wien, B"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297287"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1980"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.nhm-wien.ac.at/verlag/wissenschaftliche_serien/annalen"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0255-0105"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "annnatmuswieserb"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210232366"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "989C54B8-7C71-49AD-90D8-B04CA95AC28C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2957-4544"
+  }, {
+    "@value" : "0255-0105"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Annalen des Naturhistorischen Museums in Wien, Serie B: Botanik und Zoologie"
+  }, {
+    "@language" : "de",
+    "@value" : "Annalen des Naturhistorischen Museums in Wien. Serie B für Botanik und Zoologie"
+  } ]
+} ]

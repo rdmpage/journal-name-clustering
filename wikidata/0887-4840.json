@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96334756",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Gen. tech. rep. PNW"
+  }, {
+    "@language" : "en",
+    "@value" : "General technical report P.N.W."
+  }, {
+    "@language" : "en",
+    "@value" : "General technical report PNW"
+  }, {
+    "@language" : "en",
+    "@value" : "General technical report PNW-GTR"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0887-4840"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0887-4840"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "General technical report PNW"
+  } ]
+} ]

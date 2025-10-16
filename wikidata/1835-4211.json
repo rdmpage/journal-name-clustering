@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96734328",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Technical Reports of the Australian Museum (Online)"
+  }, {
+    "@language" : "en",
+    "@value" : "Technical Reports of the Australian Museum online"
+  }, {
+    "@language" : "en",
+    "@value" : "Technical reports of the Australian Museum"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "106965"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://australianmuseum.net.au/journalfinder"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1835-4211"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S111679109"
+  }, {
+    "@value" : "S4210221205"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1835-4211"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Technical reports of the Australian Museum"
+  }, {
+    "@language" : "en",
+    "@value" : "Technical Reports of the Australian Museum online"
+  } ]
+} ]

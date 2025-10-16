@@ -1,0 +1,64 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27715449",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull Séanc Acad r Sci Outre-Mer"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull Seances Acad R Sci Outre Mer"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin des séances de l’Académie royale des sciences d’Outre-mer"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin des séances de l'Académie Royale des Sciences Coloniales"
+  }, {
+    "@language" : "en",
+    "@value" : "Meded Zitt K Acad overzeese Wet"
+  }, {
+    "@language" : "en",
+    "@value" : "Mededelingen der zittingen van de Koninlijke Academie voor Koloniale Wetenschappen"
+  }, {
+    "@language" : "en",
+    "@value" : "Mededelingen der zittingen van de koninlijke Academie voor Overzeese Wetenschappen"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin des Séances / Mededelingen der Zittingen"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1955"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.kaowarsom.be/fr/bulletins"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-4176"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306505156"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-4176"
+  }, {
+    "@value" : "2983-4864"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Mededelingen der zittingen van de koninlijke Academie voor Overzeese Wetenschappen"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin des séances de l'Académie Royale des Sciences d'Outre-Mer"
+  }, {
+    "@language" : "mul",
+    "@value" : "Bulletin des séances de l'Académie royale des sciences d'Outre-mer"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin des séances de l'Académie Royale des Sciences Coloniales"
+  }, {
+    "@language" : "nl",
+    "@value" : "Mededelingen der zittingen van de Koninlijke Academie voor Koloniale Wetenschappen"
+  }, {
+    "@language" : "mul",
+    "@value" : "Bulletin des Séances / Mededelingen der Zittingen"
+  } ]
+} ]

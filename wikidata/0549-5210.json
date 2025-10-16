@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q117449338",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0549-5210"
+  }, {
+    "@language" : "en",
+    "@value" : "Nippon Rinshi Gakkai tokubetsu hōkoku"
+  }, {
+    "@language" : "en",
+    "@value" : "Spec. Bull. Lepidopt. Soc. Japan"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0549-5210"
+  } ],
+  "http://example.com/ndl" : [ {
+    "@value" : "10387690"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0549-5210"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "日本鱗翅学会特別報告"
+  }, {
+    "@language" : "mul",
+    "@value" : "Nippon Rinshi Gakkai tokubetsu hōkoku"
+  }, {
+    "@language" : "en",
+    "@value" : "Special Bulletin of Lepidopterological Society of Japan"
+  } ]
+} ]

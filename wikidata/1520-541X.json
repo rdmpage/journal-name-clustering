@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5418582",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Evol. Dev."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Evolution and Development"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "46598"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=1520-541x;screen=info;ECOIP"
+  }, {
+    "@id" : "http://search.ebscohost.com/direct.asp?db=a9h&jid=EUI&scope=site"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/issuelist.asp?journal=ede"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/servlet/useragent?func=showIssues&code=ede"
+  }, {
+    "@id" : "http://www.wiley.com/bw/journal.asp?ref=1520-541x"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1520-541X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S51549918"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1520-541X"
+  }, {
+    "@value" : "1525-142X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Evolution & Development"
+  } ]
+} ]

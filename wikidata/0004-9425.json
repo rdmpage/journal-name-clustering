@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q781542",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Austr. J. Chem."
+  }, {
+    "@language" : "en",
+    "@value" : "Aust. J. Chem."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5952"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1948"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0004-9425;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.publish.csiro.au/journals/ajc/"
+  }, {
+    "@id" : "http://www.publish.csiro.au/journals/ajc/index.html"
+  }, {
+    "@id" : "http://www.publish.csiro.au/nid/51.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0004-9425"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S91238560"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1445-0038"
+  }, {
+    "@value" : "0004-9425"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australian Journal of Chemistry"
+  } ]
+} ]

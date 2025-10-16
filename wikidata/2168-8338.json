@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761915",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.tennacadofsci.org/journal/JTASHome.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0040-313X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764902454"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2168-8338"
+  }, {
+    "@value" : "0040-313X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Tennessee Academy of Science"
+  } ]
+} ]

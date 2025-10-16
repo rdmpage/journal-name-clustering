@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3620957",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Crustaceana"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5792"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1960"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.brill.nl/crustaceana"
+  }, {
+    "@id" : "http://www.brill.nl/ejournals"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0011-216X"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "crustaceana"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S174901760"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0011-216X"
+  }, {
+    "@value" : "1568-5403"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Crustaceana"
+  } ]
+} ]

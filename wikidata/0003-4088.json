@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767436",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Limnology"
+  }, {
+    "@language" : "en",
+    "@value" : "Annales de Limnologie - International Journal of Limnology"
+  }, {
+    "@language" : "en",
+    "@value" : "IJL"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "81061"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.limnology-journal.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-4088"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S120571559"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0003-4088"
+  }, {
+    "@value" : "2100-000X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Annales de limnologie"
+  }, {
+    "@language" : "en",
+    "@value" : "International Journal of Limnology"
+  }, {
+    "@language" : "fr",
+    "@value" : "Annales de Limnologie"
+  } ]
+} ]

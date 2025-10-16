@@ -1,0 +1,68 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2504738",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bot. Zhurn."
+  }, {
+    "@language" : "en",
+    "@value" : "Journal de Botanique"
+  }, {
+    "@language" : "ru",
+    "@value" : "Botaničeskij žurnal"
+  }, {
+    "@language" : "ru",
+    "@value" : "Журнал Русского ботанического общества при Академии наук"
+  }, {
+    "@language" : "es",
+    "@value" : "Botaničeskij Žurnal (Moscow & Leningrad)"
+  }, {
+    "@language" : "ru",
+    "@value" : "Журнал Русского ботанического общества при императорской Академии наук"
+  }, {
+    "@language" : "ru",
+    "@value" : "Бот. журн."
+  }, {
+    "@language" : "ru",
+    "@value" : "Ботанический журнал СССР"
+  }, {
+    "@language" : "de",
+    "@value" : "Bot. Zhurn. (Moscow & Leningrad)"
+  }, {
+    "@language" : "en",
+    "@value" : "Botanicheskii Zhurnal (Moscow & Leningrad)"
+  }, {
+    "@language" : "ru",
+    "@value" : "Журнал Русского ботанического общества при Академии наук СССР"
+  }, {
+    "@language" : "ru",
+    "@value" : "Журнал Русского ботанического общества"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "326182"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1916"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.binran.ru/science/periodicheskiye-izdaniya/botanicheskij-zhurnal/"
+  }, {
+    "@id" : "http://www.sciencejournals.ru/journal/botjou/"
+  }, {
+    "@id" : "https://botjournras.ru/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-8136"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764651988"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2658-6339"
+  }, {
+    "@value" : "0006-8136"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Ботанический журнал"
+  } ]
+} ]

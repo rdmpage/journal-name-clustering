@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753743",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Genet. Mol. Biol"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1415-4757"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "45579"
+  }, {
+    "@value" : "45122"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1678-4685"
+  }, {
+    "@value" : "1415-4757"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.br/scielo.php?pid=1415-4757&script=sci_serial"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S151355818"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1415-4757"
+  }, {
+    "@value" : "0100-8455"
+  }, {
+    "@value" : "1678-4685"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Genetics and Molecular Biology"
+  } ]
+} ]

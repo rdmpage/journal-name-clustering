@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722161",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Commun Integr Biol"
+  }, {
+    "@language" : "en",
+    "@value" : "Communicative & Integrative Biology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "85919"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1942-0889"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/76129"
+  }, {
+    "@id" : "http://www.ncbi.nlm.nih.gov/pmc/journals/807/"
+  }, {
+    "@id" : "http://www.tandfonline.com/kcib"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1942-0889"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S197152527"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1942-0889"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Communicative & integrative biology"
+  } ]
+} ]

@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6440472",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Great Basin Naturalist"
+  }, {
+    "@language" : "en",
+    "@value" : "Great Basin naturalist"
+  }, {
+    "@language" : "en",
+    "@value" : "Great Basin nat."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7928"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297282"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1939"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/19403"
+  }, {
+    "@id" : "http://www.lib.byu.edu/dlib/spc/wnan/"
+  }, {
+    "@id" : "https://ojs.lib.byu.edu/spc/index.php/wnan/index"
+  }, {
+    "@id" : "https://www.biodiversitylibrary.org/bibliography/7928"
+  }, {
+    "@id" : "https://www.jstor.org/journal/greabasinatu"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0017-3614"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "greabasinatu"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764943721"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0017-3614"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Great Basin naturalist"
+  } ]
+} ]

@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721675",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Rev Bras Bot"
+  }, {
+    "@language" : "en",
+    "@value" : "Revista Brasileira de Botânica"
+  }, {
+    "@language" : "en",
+    "@value" : "Revista Brasileira de Botanica"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista Brasileira de Botânica"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "173365"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://link.springer.com/journal/40415"
+  }, {
+    "@id" : "https://www.scielo.br/rbb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0100-8404"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2497724177"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0100-8404"
+  }, {
+    "@value" : "1806-9959"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Revista brasileira de botanica"
+  }, {
+    "@language" : "en",
+    "@value" : "Brazilian Journal of Botany"
+  }, {
+    "@language" : "mul",
+    "@value" : "Revista Brasileira de Botânica"
+  } ]
+} ]

@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754763",
+  "http://example.com/crossref" : [ {
+    "@value" : "338677"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://bluejayjournal.ca/index.php/bluejay/issue/archive"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-5099"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210167831"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2562-5667"
+  }, {
+    "@value" : "0006-5099"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Blue jay"
+  }, {
+    "@language" : "und",
+    "@value" : "Blue Jay"
+  } ]
+} ]

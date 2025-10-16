@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763142",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Avian Dis."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "55706"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1957"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://www.aaap.info/aviandiseases"
+  }, {
+    "@id" : "http://www.aaapjournals.info/"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=0005-2086"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00052086.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0005-2086"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "aviandiseases"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S68792902"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0005-2086"
+  }, {
+    "@value" : "1938-4351"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Avian Diseases"
+  } ]
+} ]

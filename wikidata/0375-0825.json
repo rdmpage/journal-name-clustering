@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385785",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0375-0825"
+  }, {
+    "@language" : "fr",
+    "@value" : "ISSN 0375-0825"
+  }, {
+    "@language" : "de",
+    "@value" : "ISSN 0375-0825"
+  }, {
+    "@language" : "es",
+    "@value" : "ISSN 0375-0825"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1931"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-0825"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1951"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "7054E22C-679C-4056-ADEF-744565A827DD"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0375-0825"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Revista de Entomologia"
+  } ]
+} ]

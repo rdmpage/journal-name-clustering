@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765125",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Revta. Bras. Zool."
+  }, {
+    "@language" : "fr",
+    "@value" : "Revta. Bras. Zool."
+  }, {
+    "@language" : "de",
+    "@value" : "Revta. Bras. Zool."
+  }, {
+    "@language" : "en",
+    "@value" : "Revta. Bras. Zool."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "45738"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0101-8175"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.br/rbzool"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0101-8175"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S43805471"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0101-8175"
+  }, {
+    "@value" : "1806-969X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt-br",
+    "@value" : "Revista Brasileira de Zoologia"
+  }, {
+    "@language" : "mul",
+    "@value" : "Revista Brasileira de Zoologia"
+  } ]
+} ]

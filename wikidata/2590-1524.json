@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96319274",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of structural biology X"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of structural biology. X"
+  }, {
+    "@language" : "en",
+    "@value" : "J Struct Biol X"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "327160"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2590-1524"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.sciencedirect.com/journal/journal-of-structural-biology-x"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2590-1524"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210234285"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2590-1524"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of structural biology. X"
+  } ]
+} ]

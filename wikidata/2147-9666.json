@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96727347",
+  "http://example.com/crossref" : [ {
+    "@value" : "330062"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2147-9666"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.masteb.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2147-9666"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210189206"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2147-9666"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Marine science and technology bulletin"
+  } ]
+} ]

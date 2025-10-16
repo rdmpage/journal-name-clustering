@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50815499",
+  "http://example.com/crossref" : [ {
+    "@value" : "182805"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2084-8838"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://versita.com/am/"
+  }, {
+    "@id" : "https://www.degruyter.com/view/j/ami"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2084-8838"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737922656"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2084-8838"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Animal Migration"
+  } ]
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766638",
+  "http://example.com/crossref" : [ {
+    "@value" : "81080"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=eGo9AQAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=S2g9AQAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=tmg9AQAAIAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=umE9AQAAIAAJ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0029-344X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S83590352"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2161-9859"
+  }, {
+    "@value" : "0029-344X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Northwest Science"
+  } ]
+} ]

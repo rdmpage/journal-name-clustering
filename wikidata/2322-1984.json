@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842053",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Arthropod-Borne Diseases"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2322-1984"
+  }, {
+    "@value" : "2322-2271"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jad.tums.ac.ir/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2322-1984"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210196490"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2322-1984"
+  }, {
+    "@value" : "2322-2271"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of arthropod-borne diseases"
+  } ]
+} ]

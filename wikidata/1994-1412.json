@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96718301",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nepal jounal of science and technology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "98445"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1994-1412"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S100366567"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1994-1412"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nepal jounal of science and technology"
+  } ]
+} ]

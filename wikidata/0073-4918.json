@@ -1,0 +1,59 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21384946",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin - Illinois Natural History Survey"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Ill. Nat. Hist. Surv."
+  }, {
+    "@language" : "en",
+    "@value" : "Illinois Natural History Survey Bulletin"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "14605"
+  }, {
+    "@value" : "15103"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "390721"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1987"
+  }, {
+    "@value" : "1918"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=JbsUw86s8bYC"
+  }, {
+    "@id" : "http://books.google.com/books?id=niJMAQAAMAAJ"
+  }, {
+    "@id" : "https://iopn.library.illinois.edu/journals/inhs/index"
+  }, {
+    "@id" : "http://books.google.com/books?id=c6MjAQAAMAAJ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0073-4918"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210232698"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1985"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2644-0687"
+  }, {
+    "@value" : "0073-4918"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin - Illinois Natural History Survey"
+  }, {
+    "@language" : "en",
+    "@value" : "Illinois Natural History Survey bulletin"
+  } ]
+} ]

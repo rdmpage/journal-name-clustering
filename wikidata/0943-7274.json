@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385261",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0943-7274"
+  }, {
+    "@language" : "en",
+    "@value" : "Arthropoda: das Fachmagazin für Wirbellose"
+  }, {
+    "@language" : "en",
+    "@value" : "Arthropoda: Das Fachmagazin für ZAG Wirbellose e. V."
+  }, {
+    "@language" : "de",
+    "@value" : "Arthropoda: das Fachmagazin für Wirbellose"
+  }, {
+    "@language" : "de",
+    "@value" : "Arthropoda: Das Fachmagazin für ZAG Wirbellose e. V."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0943-7274"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2009"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "139E53CB-4F60-448C-974B-D65208AB9A91"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0943-7274"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Arthropoda"
+  } ]
+} ]

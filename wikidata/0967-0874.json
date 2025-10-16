@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759907",
+  "http://example.com/crossref" : [ {
+    "@value" : "4329"
+  }, {
+    "@value" : "146086"
+  }, {
+    "@value" : "316781"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S127979628"
+  }, {
+    "@value" : "S4210182217"
+  }, {
+    "@value" : "S4210194758"
+  }, {
+    "@value" : "S4210239711"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0030-7793"
+  }, {
+    "@value" : "0143-6147"
+  }, {
+    "@value" : "0967-0874"
+  }, {
+    "@value" : "1366-5863"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Pest Management"
+  } ]
+} ]

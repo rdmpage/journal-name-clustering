@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385474",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "蛛形学报"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhuxing xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "Zhuxing xuebao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "ZXXB"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1005-9628"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500253"
+  }, {
+    "@value" : "S4306557840"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1005-9628"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh-hant",
+    "@value" : "蛛形學報"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Arachnologica Sinica"
+  }, {
+    "@language" : "zh-hans",
+    "@value" : "蛛形学报"
+  } ]
+} ]

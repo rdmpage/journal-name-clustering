@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385876",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0387-5733"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1973"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0387-5733"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2010"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "5A3F1FA0-91EA-48E9-BE55-DC2525F575EF"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0387-5733"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Elytra"
+  }, {
+    "@language" : "mul",
+    "@value" : "Elytra"
+  } ]
+} ]

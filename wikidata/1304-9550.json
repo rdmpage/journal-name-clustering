@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727542",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Black Sea Mediterr Environ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1304-9550"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1304-9550"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "tr",
+    "@value" : "Journal of the black sea : mediterranean environment"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Black Sea/Mediterranean environment"
+  } ]
+} ]

@@ -1,0 +1,57 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754783",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of the Queensland Museum"
+  }, {
+    "@language" : "en",
+    "@value" : "Memoirs of the Queensland Museum - Nature"
+  }, {
+    "@language" : "en",
+    "@value" : "Queensland Museum. Memoirs"
+  }, {
+    "@language" : "en",
+    "@value" : "Mem. Queensl. Mus"
+  }, {
+    "@language" : "en",
+    "@value" : "Memoirs of the Queensland Museum | NATURE"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "61449"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "263146"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1912"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.qm.qld.gov.au/Research/Publications"
+  }, {
+    "@id" : "https://www.qm.qld.gov.au/about+us/publications/memoirs+of+the+queensland+museum"
+  }, {
+    "@id" : "http://www.biodiversitylibrary.org/Search.aspx?searchTerm=memoirs%20of%20the%20queensland%20museum&searchCat"
+  }, {
+    "@id" : "http://www.network.qm.qld.gov.au/About+Us/Publications/Memoirs+of+the+Queensland+Museum#.VDxYJIccSg1"
+  }, {
+    "@id" : "http://www.qm.qld.gov.au/About+Us/Publications/Memoirs+of+the+Queensland+Museum"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0079-8835"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764783180"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "2470EBF2-A27C-4928-80AE-CC14E2994980"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2204-1478"
+  }, {
+    "@value" : "0079-8835"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en-au",
+    "@value" : "Memoirs of the Queensland Museum – Nature"
+  } ]
+} ]

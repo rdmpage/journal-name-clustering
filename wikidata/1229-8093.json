@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26853810",
+  "http://example.com/crossref" : [ {
+    "@value" : "95306"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2092-9323"
+  }, {
+    "@value" : "1229-8093"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://mclink.library.mcgill.ca/sfx?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=991042723488144&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&"
+  }, {
+    "@id" : "http://www.mycobiology.or.kr/"
+  }, {
+    "@id" : "http://www.ncbi.nlm.nih.gov/pmc/journals/1826/"
+  }, {
+    "@id" : "https://www.ncbi.nlm.nih.gov/pmc/journals/1826/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1229-8093"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S44504596"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2092-9323"
+  }, {
+    "@value" : "1229-8093"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Mycobiology"
+  } ]
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6398990",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. New York Bot. Gard."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "44786"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1900"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=1zwtAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=e8szAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=pM4zAQAAMAAJ"
+  }, {
+    "@id" : "https://www.biodiversitylibrary.org/bibliography/44786"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "8755-4801"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1932"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "3066-6864"
+  }, {
+    "@value" : "8755-4801"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the New York Botanical Garden"
+  } ]
+} ]

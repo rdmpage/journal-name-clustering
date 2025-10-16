@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385869",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Ann. Mycol."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0176-3970"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0176-3970"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "F0AEFFA8-F1CC-4421-9449-7C925889F87C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0176-3970"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Annales Mycologici"
+  }, {
+    "@language" : "mul",
+    "@value" : "Annales mycologici"
+  } ]
+} ]

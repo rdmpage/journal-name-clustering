@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842385",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "Medicinskaâ parazitologiâ i parazitarnye bolezni"
+  }, {
+    "@language" : "ru",
+    "@value" : "МЕДИЦИНСКАЯ ПАРАЗИТОЛОГИЯ И ПАРАЗИТАРНЫЕ БОЛЕЗНИ"
+  }, {
+    "@language" : "en",
+    "@value" : "Medical parasitology and parasitic diseases"
+  }, {
+    "@language" : "en",
+    "@value" : "Meditsinsk. Parazitol. Parazit. Bolezni"
+  }, {
+    "@language" : "en",
+    "@value" : "Medit︠s︡inskai︠a︡ parazitologii︠a︡ i parazitarnye bolezni"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "328730"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://medparasitology.com/"
+  }, {
+    "@id" : "http://medparasitology.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0025-8326"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2750864764"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2713-1777"
+  }, {
+    "@value" : "0025-8326"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Медицинская паразитология и паразитарные болезни"
+  } ]
+} ]

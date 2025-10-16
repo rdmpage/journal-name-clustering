@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q118397793",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Sichuan linye ke-ji"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "SCLK"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sjfsci.com/indexen.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1003-5508"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1003-5508"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Sichuan Forestry Science and Technology"
+  }, {
+    "@language" : "zh",
+    "@value" : "Sichuan linye ke-ji"
+  }, {
+    "@language" : "zh",
+    "@value" : "四川林业科技"
+  } ]
+} ]

@@ -1,0 +1,66 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386219",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Rec. Aust. Mus."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0067-1975"
+  }, {
+    "@language" : "es",
+    "@value" : "Rec. Aust. Mus."
+  }, {
+    "@language" : "fr",
+    "@value" : "Rec. Aust. Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "Rec. Aust. Mus."
+  }, {
+    "@language" : "de",
+    "@value" : "Rec. Aust. Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "Australian Museum. Records"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8075"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "76078"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2201-4349"
+  }, {
+    "@value" : "0067-1975"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1890"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://nla.gov.au/nla.obj-749968082"
+  }, {
+    "@id" : "http://search.ebscohost.com/direct.asp?db=anh&jid=C8A&scope=site"
+  }, {
+    "@id" : "http://search.ebscohost.com/direct.asp?db=aph&jid=C8A&scope=site"
+  }, {
+    "@id" : "https://journals.australianmuseum.net.au/?journal=1"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0067-1975"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S37847780"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A61A2293-9FEF-436D-98B4-2E176A6723AF"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0067-1975"
+  }, {
+    "@value" : "2201-4349"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Records of the Australian Museum"
+  } ]
+} ]

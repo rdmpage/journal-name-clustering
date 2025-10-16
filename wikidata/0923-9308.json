@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759942",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.hetnatuurhistorisch.nl/het-museum/publicaties/deinsea.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0923-9308"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0923-9308"
+  }, {
+    "@value" : "2468-8983"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Deinsea: Annual of the Natural History Museum Rotterdam"
+  }, {
+    "@language" : "mul",
+    "@value" : "Deinsea"
+  }, {
+    "@language" : "nl",
+    "@value" : "Deinsea"
+  } ]
+} ]

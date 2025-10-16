@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96702954",
+  "http://example.com/crossref" : [ {
+    "@value" : "185885"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dialnet.unirioja.es/servlet/revista?codigo=6457"
+  }, {
+    "@id" : "http://secem.es/galemys/index.php/Galemys/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1137-8700"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210220343"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1137-8700"
+  }, {
+    "@value" : "2254-8408"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Galemys"
+  } ]
+} ]

@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385788",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Scientific papers"
+  }, {
+    "@language" : "en",
+    "@value" : "Scientific papers - University of Kansas. Natural History Museum"
+  }, {
+    "@language" : "en",
+    "@value" : "Scientific Papers, University of Kansas. Natural History Museum"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "48421"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297293"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1997"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1094-0782"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210229571"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "4E4EFE7B-2502-4EDE-9E0C-6D4252C7E465"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1094-0782"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Scientific Papers, University of Kansas. Natural History Museum"
+  }, {
+    "@language" : "en",
+    "@value" : "Scientific papers - University of Kansas. Natural History Museum"
+  } ]
+} ]

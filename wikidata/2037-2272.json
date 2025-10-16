@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328623",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jmes.uniroma1.it"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2037-2272"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2037-2272"
+  }, {
+    "@value" : "2280-6148"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Mediterranean earth sciences"
+  } ]
+} ]

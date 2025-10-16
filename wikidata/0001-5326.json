@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3229252",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Acta Biol. Venez."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://izt.ciens.ucv.ve/rabv.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-5326"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500273"
+  }, {
+    "@value" : "S4306500274"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "FE59A0B2-6C40-4CC4-B583-9BDE6F04CA57"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-5326"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Biologica Venezuelica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Acta biologica venezuelica"
+  } ]
+} ]

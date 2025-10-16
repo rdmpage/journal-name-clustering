@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q14914936",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Beitr. Biol. Pflanzen"
+  }, {
+    "@language" : "en",
+    "@value" : "Beitr. Biol. Pflanzen"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "5917"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1870"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0005-8041"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0005-8041"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Beiträge zur Biologie der Pflanzen"
+  } ]
+} ]

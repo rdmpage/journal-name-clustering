@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723997",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bonn Zool Monogr"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "82295"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0302-671X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0302-671X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Bonner zoologische Monographien"
+  }, {
+    "@language" : "en",
+    "@value" : "Bonner zoologische Monographien"
+  } ]
+} ]

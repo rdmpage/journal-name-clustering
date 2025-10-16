@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722846",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Small Carniv Conserv"
+  }, {
+    "@language" : "en",
+    "@value" : "Small carnivore conservation"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://smallcarnivoreconservation.com/index.php/sccg"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1019-5041"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2957-4439"
+  }, {
+    "@value" : "1019-5041"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Small carnivore conservation"
+  }, {
+    "@language" : "en",
+    "@value" : "Small carnivore conservation : the newsletter and journal of the IUCN/SSC Mustelid, Viverrid & Procynid Specialist Group"
+  } ]
+} ]

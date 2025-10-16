@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q34445416",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1964-4078"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1964-4078"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Lépidoptères"
+  }, {
+    "@language" : "fr",
+    "@value" : "Revue des Lépidoptéristes de France"
+  } ]
+} ]

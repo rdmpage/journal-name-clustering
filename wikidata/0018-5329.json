@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q99982082",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "ホーティカルチャー"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1904"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.hortmag.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0018-5329"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0018-5329"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Horticulture"
+  } ]
+} ]

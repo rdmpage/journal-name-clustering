@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50435030",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0301-9187"
+  }, {
+    "@language" : "fr",
+    "@value" : "Travaux de l'Institut de Spéologie \"Émile Racovitza\""
+  }, {
+    "@language" : "en",
+    "@value" : "Travaux de Institut de Speologie Emile Racovitza"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0301-9187"
+  }, {
+    "@value" : "2067-9033"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.travaux-racovitza.com/revista.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0301-9187"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2736348376"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0301-9187"
+  }, {
+    "@value" : "2067-9033"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Travaux de l'Institut de Spéologie \"Émile Racovitza\""
+  } ]
+} ]

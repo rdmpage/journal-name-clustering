@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1709815",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Zeitschrift für Ökologie und Naturschutz (1.1992-9.2000)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "30564"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.elsevier.de/artikel/805090"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/16171381"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1617-1381"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S77407326"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1618-1093"
+  }, {
+    "@value" : "1617-1381"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal for Nature Conservation"
+  }, {
+    "@language" : "de",
+    "@value" : "Zeitschrift für Ökologie und Naturschutz (1.1992-9.2000)"
+  } ]
+} ]

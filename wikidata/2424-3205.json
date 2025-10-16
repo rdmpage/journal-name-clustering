@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96703578",
+  "http://example.com/crossref" : [ {
+    "@value" : "283066"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.lmaleidykla.lt/ojs/index.php/geologija-geografija"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2351-7549"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2351-7549"
+  }, {
+    "@value" : "2424-3205"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Geologija. Geografija"
+  } ]
+} ]

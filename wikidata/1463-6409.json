@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3666464",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zoologica Scripta: An International Journal of Systematic Zoology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3725"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  }, {
+    "@value" : "1971"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1463-6409"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0300-3256"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4078192"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A2F794AA-2039-4F44-8B5C-30916460A731"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1463-6409"
+  }, {
+    "@value" : "0300-3256"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zoologica Scripta"
+  } ]
+} ]

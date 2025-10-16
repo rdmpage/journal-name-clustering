@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26829031",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-0752"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-0752"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of embryology and experimental morphology"
+  } ]
+} ]

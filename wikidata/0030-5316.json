@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754251",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Oriental insect"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "134785"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandfonline.com/loi/toin20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0030-5316"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S126370035"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "http://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=toin20"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "9CD5F82F-8607-4A4B-9140-B085AA16E13A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2157-8745"
+  }, {
+    "@value" : "0030-5316"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Oriental Insects"
+  } ]
+} ]

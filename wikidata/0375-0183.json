@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758632",
+  "http://example.com/from_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.odonatologica.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-0183"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S174624779"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "F416B92A-23A7-4CDC-9736-E45C1326E06D"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2751-0875"
+  }, {
+    "@value" : "0375-0183"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Odonatologica"
+  }, {
+    "@language" : "en",
+    "@value" : "Odonatologica"
+  }, {
+    "@language" : "nl",
+    "@value" : "Odonatologica"
+  } ]
+} ]

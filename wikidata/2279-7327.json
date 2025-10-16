@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96325840",
+  "http://example.com/doaj" : [ {
+    "@value" : "2279-7335"
+  }, {
+    "@value" : "2279-7327"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://amq.aiqua.it/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2279-7327"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2279-7327"
+  }, {
+    "@value" : "2279-7335"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Alpine and Mediterranean Quaternary"
+  } ]
+} ]

@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q99341251",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sciencepress.mnhn.fr/en/collections/faune-et-flore-tropicales"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1286-4994"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210204997"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1286-4994"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Faune et Flore tropicales"
+  }, {
+    "@language" : "mul",
+    "@value" : "Faune et flore tropicales"
+  } ]
+} ]

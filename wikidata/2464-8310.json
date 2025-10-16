@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757535",
+  "http://example.com/crossref" : [ {
+    "@value" : "210025"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2464-8310"
+  }, {
+    "@value" : "1211-8516"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://acta.mendelu.cz"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1211-8516"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737826994"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1211-8516"
+  }, {
+    "@value" : "2464-8310"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis"
+  } ]
+} ]

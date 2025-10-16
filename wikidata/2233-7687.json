@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723940",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Korean J Syst Zool"
+  }, {
+    "@language" : "en",
+    "@value" : "The Korean Journal of Systematic Zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 2233-7687"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "135446"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2233-7687"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2011"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2233-7687"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Korean journal of systematic zoology"
+  } ]
+} ]

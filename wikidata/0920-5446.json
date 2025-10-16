@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96332742",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/bookseries/09205446/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0920-5446"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764545644"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0920-5446"
+  }, {
+    "@value" : "2352-2852"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Developments in palaeontology and stratigraphy"
+  } ]
+} ]

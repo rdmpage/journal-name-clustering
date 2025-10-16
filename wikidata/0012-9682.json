@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q375835",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Econometrica"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "计量经济学杂志"
+  }, {
+    "@language" : "zh",
+    "@value" : "计量经济学"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "20536"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "443"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1933"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0012-9682;screen=info;ECOIP"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-0262"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00129682.html"
+  }, {
+    "@id" : "https://www.econometricsociety.org/publications/econometrica/browse"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0012-9682"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "econometrica"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S95464858"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0012-9682"
+  }, {
+    "@value" : "1468-0262"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Econometrica"
+  } ]
+} ]

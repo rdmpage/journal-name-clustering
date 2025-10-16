@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21384952",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1316-2284"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1991"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1316-2284"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306504645"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "430B68F1-1A9E-445D-AC67-22850AFE336C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1316-2284"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Boletín de entomología venezolana"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletín de Entomología Venezolana"
+  } ]
+} ]

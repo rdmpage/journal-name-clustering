@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752566",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Am. malacol. bull."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "94759"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "81083"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://erato.acnatsci.org/ams/publications/amb.html"
+  }, {
+    "@id" : "http://www.bioone.org/loi/malb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0740-2783"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S32133967"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "816D874A-C7AC-44DA-AB36-5F95355FBE5F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0740-2783"
+  }, {
+    "@value" : "2162-2698"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "American Malacological Bulletin"
+  } ]
+} ]

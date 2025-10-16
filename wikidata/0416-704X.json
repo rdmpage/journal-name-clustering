@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386014",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Galathea reports"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0416-704X"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E8F4CC3B-71E4-491C-9A15-A62AFEA36407"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0416-704X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Galathea report"
+  } ]
+} ]

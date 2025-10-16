@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722238",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Arquipelago"
+  }, {
+    "@language" : "en",
+    "@value" : "Arquipelago : boletim da Universidade dos Acores. Ciencias biologicas e marinhas = Bulletin of the University of the Azores. Life and marine sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Arquipelago : Life and Marine Sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Arquipélago. Ciências biológicas e marinhas"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0873-4704"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.horta.uac.pt/intradop/index.php/arquipgo-life-and-marine-sciences-topmenu2-198"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0873-4704"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0873-4704"
+  }, {
+    "@value" : "2182-9799"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Arquipelago : boletim da Universidade dos Acores. Ciencias biologicas e marinhas = Bulletin of the University of the Azores. Life and marine sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Arquipelago : Life and Marine Sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Arquipélago. Ciências biológicas e marinhas"
+  } ]
+} ]

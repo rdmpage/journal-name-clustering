@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21384976",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Los Angeles County Museum of Natural History Contributions in Science"
+  }, {
+    "@language" : "en",
+    "@value" : "Natural History Museum of Los Angeles County science series"
+  }, {
+    "@language" : "en",
+    "@value" : "Science Series - Natural History Museum of Los Angeles County"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.nhm.org/site/research-collections/research-tools/publications"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0076-0943"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0076-0943"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Science Series"
+  } ]
+} ]

@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766388",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Italian journal of zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "The European Zoological Journal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "63671"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1930"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandf.co.uk/journals/titles/11250003.asp"
+  }, {
+    "@id" : "https://www.tandfonline.com/toc/tizo21/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1125-0003"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S24679186"
+  }, {
+    "@value" : "S4210215843"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1125-0003"
+  }, {
+    "@value" : "1748-5851"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Italian Journal of Zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "The Italian journal of zoology"
+  } ]
+} ]

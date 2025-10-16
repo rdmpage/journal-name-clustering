@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q41521962",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Soc. Fauna Flora Fenn."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "13345"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1875"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-6660"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1980"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-6660"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta Societatis pro fauna et flora Fennica"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Societatis pro Fauna et Flora Fennica"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15817098",
+  "http://example.com/crossref" : [ {
+    "@value" : "66697"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springerlink.com/content/120597/?p=4bac17fa0a8b45e9ba5ee76f8c3fd63a&pi=0"
+  }, {
+    "@id" : "https://link.springer.com/journal/11721"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1935-3812"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S120411249"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1935-3812"
+  }, {
+    "@value" : "1935-3820"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Swarm Intelligence"
+  } ]
+} ]

@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385468",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Euscorpius: Occasional Publications in Scorpiology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "307858"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://mds.marshall.edu/euscorpius/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1536-9293"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210187784"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://mds.marshall.edu/euscorpius/recent.rss"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "7A122591-82EF-417F-8851-2EF5A49B39D0"
+  }, {
+    "@value" : "ABEF32A4-6BFB-479D-B8E8-BCA7E6171206"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1536-9307"
+  }, {
+    "@value" : "1536-9293"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Euscorpius"
+  }, {
+    "@language" : "la",
+    "@value" : "Euscorpius"
+  } ]
+} ]

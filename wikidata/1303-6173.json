@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2072490",
+  "http://example.com/crossref" : [ {
+    "@value" : "216315"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.tubitak.gov.tr/agriculture/"
+  }, {
+    "@id" : "http://journals.tubitak.gov.tr/agriculture/index.php"
+  }, {
+    "@id" : "http://www.tubitak.gov.tr/journals/agriculture/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1300-011X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S148591575"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1303-6173"
+  }, {
+    "@value" : "1300-011X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Turkish journal of agriculture and forestry :"
+  }, {
+    "@language" : "en",
+    "@value" : "Turkish Journal of Agriculture and Forestry Sciences"
+  } ]
+} ]

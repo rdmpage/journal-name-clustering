@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764463",
+  "http://example.com/crossref" : [ {
+    "@value" : "2953"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dx.doi.org/10.1007/10872.1573-868X"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0916-8370"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S193228948"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0916-8370"
+  }, {
+    "@value" : "1573-868X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Oceanography"
+  } ]
+} ]

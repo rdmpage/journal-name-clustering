@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751120",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Carolinea"
+  }, {
+    "@language" : "en",
+    "@value" : "Carolinea. Beiträge zur Naturkundlichen Forschung in Südwestdeutschland"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0176-3997"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0176-3997"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Carolinea: Beitraege zur Naturkundlichen Forschung in Suedwestdeutschland"
+  }, {
+    "@language" : "mul",
+    "@value" : "Carolinea"
+  } ]
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763798",
+  "http://example.com/crossref" : [ {
+    "@value" : "3675"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=0046-5070;screen=info;ECOIP"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2427"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=fwb"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0046-5070"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S162100826"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "CF322322-F17E-4CAC-98C4-17C1B89184F3"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1365-2427"
+  }, {
+    "@value" : "0046-5070"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Freshwater Biology"
+  } ]
+} ]

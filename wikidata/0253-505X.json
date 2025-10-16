@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750986",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "海洋学报英文版"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "96286"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.hyxb.org.cn/aosen/ch/index.aspx"
+  }, {
+    "@id" : "http://www.springerlink.com/content/121547"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0253-505X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306553970"
+  }, {
+    "@value" : "S55118949"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1869-1099"
+  }, {
+    "@value" : "0253-505X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta Oceanologica Sinica"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Oceanologica Sinica"
+  } ]
+} ]

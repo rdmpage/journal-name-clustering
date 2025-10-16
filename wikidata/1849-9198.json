@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96724286",
+  "http://example.com/crossref" : [ {
+    "@value" : "307305"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://haw.nsk.hr/publikacija/7097/larus"
+  }, {
+    "@id" : "https://hrcak.srce.hr/larus"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0350-5189"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210216079"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1849-9198"
+  }, {
+    "@value" : "0350-5189"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "hr",
+    "@value" : "Larus"
+  } ]
+} ]

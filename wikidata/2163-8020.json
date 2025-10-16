@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759036",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Jeffersoniana : contributions from the Virginia Museum of Natural History"
+  }, {
+    "@language" : "en",
+    "@value" : "Jeffersoniana (Martinsv. Va.)"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1061-1878"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "123258"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/47623"
+  }, {
+    "@id" : "http://search.ebscohost.com/direct.asp?db=a9h&jid=%229V5%22&scope=site"
+  }, {
+    "@id" : "https://www.vmnh.net/research-collections/vmnh-scientific-publications/jeffersoniana"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1061-1878"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2163-8020"
+  }, {
+    "@value" : "1061-1878"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Jeffersoniana"
+  } ]
+} ]

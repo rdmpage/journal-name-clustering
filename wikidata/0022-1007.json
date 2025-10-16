@@ -1,0 +1,60 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3186912",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Exp. Med."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "J. Exp. Med."
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of experimental medicine"
+  }, {
+    "@language" : "pt",
+    "@value" : "J. Exp. Med."
+  }, {
+    "@language" : "de",
+    "@value" : "J. Exp. Med."
+  }, {
+    "@language" : "zh",
+    "@value" : "实验医学期刊"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Exp. Med."
+  }, {
+    "@language" : "fr",
+    "@value" : "J. Exp. Med."
+  }, {
+    "@language" : "en",
+    "@value" : "J Exp Med"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4869"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1896"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jem.org/"
+  }, {
+    "@id" : "http://www.ncbi.nlm.nih.gov/pmc/journals/483/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-1007"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S22947807"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-1007"
+  }, {
+    "@value" : "1540-9538"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of experimental medicine"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Experimental Medicine"
+  } ]
+} ]

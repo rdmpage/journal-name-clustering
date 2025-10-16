@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3261170",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://paleoitalia.org/contribute/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-7633"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S196419826"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0375-7633"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bollettino della Società paleontologica italiana"
+  } ]
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385416",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0104-6497"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "226486"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0104-6497"
+  }, {
+    "@value" : "2358-2936"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://crustacea.org.br/production/nauplius/"
+  }, {
+    "@id" : "http://www.scielo.br/scielo.php?script=sci_serial&pid=0104-6497&lng=en&nrm=iso"
+  }, {
+    "@id" : "http://www.scielo.br/scielo.php?script=sci_serial&pid=0104-6497&lng=pt&nrm=iso"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0104-6497"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2738567291"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0104-6497"
+  }, {
+    "@value" : "2358-2936"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nauplius"
+  } ]
+} ]

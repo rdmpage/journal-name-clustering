@@ -1,0 +1,64 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16013353",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Revista Peru. Biol."
+  }, {
+    "@language" : "en",
+    "@value" : "Revista Peruana de Biología"
+  }, {
+    "@language" : "de",
+    "@value" : "Revista Peru. Biol."
+  }, {
+    "@language" : "es",
+    "@value" : "Revista peruana de biología"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "71454"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "245667"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "7091"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1561-0837"
+  }, {
+    "@value" : "1727-9933"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.unmsm.edu.pe/biologia/index.html"
+  }, {
+    "@id" : "http://www.redalyc.org/revista.oa?id=1950"
+  }, {
+    "@id" : "http://sisbib.unmsm.edu.pe/BVRevistas/biologia/biologiaNEW.htm"
+  }, {
+    "@id" : "http://revistasinvestigacion.unmsm.edu.pe/index.php/rpb/index"
+  }, {
+    "@id" : "http://revistasinvestigacion.unmsm.edu.pe/index.php/rpb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1561-0837"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306401070"
+  }, {
+    "@value" : "S2738546657"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1561-0837"
+  }, {
+    "@value" : "1727-9933"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista Peruana de Biologia"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista peruana de biología"
+  } ]
+} ]

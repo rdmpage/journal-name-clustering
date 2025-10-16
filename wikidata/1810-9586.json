@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q116551421",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Folia Crypt. Petrop."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://fcp.ucoz.ru"
+  }, {
+    "@id" : "https://supergroups.ru/fcp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1810-9586"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1810-9586"
+  }, {
+    "@value" : "2220-9301"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Folia Cryptogamica Petropolitana"
+  }, {
+    "@language" : "ru",
+    "@value" : "Folia Cryptogamica Petropolitana"
+  } ]
+} ]

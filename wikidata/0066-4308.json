@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762820",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "心理学年次レビュー"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5702"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "3584"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1950"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://arjournals.annualreviews.org/loi/psych"
+  }, {
+    "@id" : "http://psych.annualreviews.org"
+  }, {
+    "@id" : "http://search.ebscohost.com/direct.asp?db=a9h&jid=ARP"
+  }, {
+    "@id" : "http://www.annualreviews.org/journal/psych"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0066-4308"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S90670110"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0066-4308"
+  }, {
+    "@value" : "1545-2085"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annual Review of Psychology"
+  } ]
+} ]

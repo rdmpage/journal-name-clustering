@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q25653967",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0389-9047"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0389-9047"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Special publications from the Osaka Museum of Natural History"
+  }, {
+    "@language" : "mul",
+    "@value" : "Osaka Shiritsu Shizenshi Hakubutsukan shūzō shiryō mokuroku"
+  } ]
+} ]

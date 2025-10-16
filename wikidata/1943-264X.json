@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2509773",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Foraminiferal Research"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "42939"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jfr.geoscienceworld.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0096-1191"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S94515338"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0096-1191"
+  }, {
+    "@value" : "1943-264X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of foraminiferal research"
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of Foraminiferal Research"
+  } ]
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750758",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Eighteenth century life"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "52626"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ecl.dukejournals.org/"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0098-2601;screen=info;ECOIP"
+  }, {
+    "@id" : "http://muse.jhu.edu/journals/eighteenth-century_life/"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0098-2601"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S161618848"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0098-2601"
+  }, {
+    "@value" : "1086-3192"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Eighteenth-Century Life"
+  }, {
+    "@language" : "en",
+    "@value" : "Eighteenth century life"
+  } ]
+} ]

@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757996",
+  "http://example.com/crossref" : [ {
+    "@value" : "298325"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.oie.int/eng/publicat/RT/en%5FnumerosRT.htm"
+  }, {
+    "@id" : "http://www.oie.int/es/publicaciones-y-documentacion/revista-cientifica-y-tecnica-aceso-libre"
+  }, {
+    "@id" : "http://www.oie.int/esp/publicat/RT/es%5FnumerosRT.htm"
+  }, {
+    "@id" : "http://www.oie.int/fr/publicat/RT/fr%5FnumerosRT.htm"
+  }, {
+    "@id" : "http://www.oie.int/publications-and-documentation/scientific-and-technical-review-free-access/list-of-issues/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0253-1933"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2486125978"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0253-1933"
+  }, {
+    "@value" : "1608-0637"
+  }, {
+    "@value" : "1608-0645"
+  }, {
+    "@value" : "1608-0653"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revue scientifique et technique - Office international des épizooties"
+  }, {
+    "@language" : "fr",
+    "@value" : "OIE Revue Scientifique et Technique"
+  } ]
+} ]

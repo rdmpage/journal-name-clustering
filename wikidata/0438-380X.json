@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386060",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Haiyang kexue jikan"
+  }, {
+    "@language" : "en",
+    "@value" : "Hǎiyáng kēxué jíkān"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0438-380X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1962"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://qdhys.ijournal.cn/hykxjk/ch/index.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0438-380X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306531073"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0438-380X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "海洋科学集刊"
+  } ]
+} ]

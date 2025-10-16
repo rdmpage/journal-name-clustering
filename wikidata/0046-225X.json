@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763071",
+  "http://example.com/crossref" : [ {
+    "@value" : "59968"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "499"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ee.oxfordjournals.org/"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0046-225x;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=0046-225X"
+  }, {
+    "@id" : "http://www.bioone.org/loi/enve"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0046-225X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S92562763"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1938-2936"
+  }, {
+    "@value" : "0046-225X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environmental Entomology"
+  } ]
+} ]

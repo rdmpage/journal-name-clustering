@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22965468",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "IMA Fungus: The Global Mycological Journal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "125406"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2210-6340"
+  }, {
+    "@value" : "2210-6359"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2210-6340"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210170475"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2210-6340"
+  }, {
+    "@value" : "2210-6359"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "IMA Fungus"
+  } ]
+} ]

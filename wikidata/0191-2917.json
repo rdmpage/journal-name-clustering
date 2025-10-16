@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766309",
+  "http://example.com/crossref" : [ {
+    "@value" : "64409"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1922"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://apsjournals.apsnet.org/loi/pdis"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/84153"
+  }, {
+    "@id" : "http://www.apsnet.org/pd/top.asp"
+  }, {
+    "@id" : "http://www.apsnet.org/publications/plantdisease/Pages/default.aspx"
+  }, {
+    "@id" : "https://search.proquest.com/publication/35889"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0191-2917"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S135458494"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1943-7692"
+  }, {
+    "@value" : "0191-2917"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Plant Disease: an international journal of applied plant pathology"
+  }, {
+    "@language" : "en",
+    "@value" : "Plant disease"
+  } ]
+} ]

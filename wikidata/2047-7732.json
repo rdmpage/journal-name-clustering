@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4767869",
+  "http://example.com/crossref" : [ {
+    "@value" : "176185"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2012"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ingentaconnect.com/content/maney/pgh"
+  }, {
+    "@id" : "http://www.maneyonline.com/loi/pgh"
+  }, {
+    "@id" : "http://www.tandfonline.com/toc/ypgh20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2047-7724"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2505153014"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2047-7724"
+  }, {
+    "@value" : "2047-7732"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Pathogens and Global Health"
+  } ]
+} ]

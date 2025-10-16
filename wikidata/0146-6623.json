@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764827",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0146-6623"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S28361319"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0146-6623"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Aquatic Plant Management"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385751",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Quaest. entomol."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "119522"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1965"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0033-5037"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0033-5037"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Quaestiones entomologicae"
+  } ]
+} ]

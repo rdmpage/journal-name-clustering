@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385675",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0114-2283"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://shop.gns.cri.nz/publications/monographs/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0114-2283"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2538-1008"
+  }, {
+    "@value" : "0114-2283"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "New Zealand Geological Survey paleontological bulletin"
+  } ]
+} ]

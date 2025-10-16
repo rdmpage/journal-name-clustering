@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755683",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Can. J. Fish. Aquat. Sci."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Canadian Journal of Fisheries and Aquatic Sciences"
+  }, {
+    "@language" : "fr",
+    "@value" : "Can. J. Fish. Aquat. Sci."
+  }, {
+    "@language" : "de",
+    "@value" : "Can. J. Fish. Aquat. Sci."
+  }, {
+    "@language" : "es",
+    "@value" : "Can. J. Fish. Aquat. Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "Can. J. Fish. Aquat. Sci."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5598"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://cdnsciencepub.com/journal/cjfas"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0706-652X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S57183551"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0706-652X"
+  }, {
+    "@value" : "1205-7533"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Canadian journal of fisheries and aquatic sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Canadian Journal of Fisheries and Aquatic Sciences"
+  }, {
+    "@language" : "fr",
+    "@value" : "Journal canadien des sciences halieutiques et aquatiques"
+  } ]
+} ]

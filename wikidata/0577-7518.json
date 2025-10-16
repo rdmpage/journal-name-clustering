@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721083",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Zhiwu baohu xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhi Wu Bao Hu Xue Bao"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhi wu bao hu xue bao = Acta phytophylacica sinica"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta phytophylacica sinica"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "ZWBF"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.zwbhxb.cn/ch/index.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0577-7518"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764823668"
+  }, {
+    "@value" : "S4306552801"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0577-7518"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Zhiwu baohu xuebao"
+  }, {
+    "@language" : "zh-hans",
+    "@value" : "植物保护学报"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhi wu bao hu xue bao = Acta phytophylacica sinica"
+  } ]
+} ]

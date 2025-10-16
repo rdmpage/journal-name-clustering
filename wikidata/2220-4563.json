@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386269",
+  "http://example.com/issn_l" : [ {
+    "@value" : "2220-4563"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2220-4563"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of the Ditsong National Museum of Natural History"
+  } ]
+} ]

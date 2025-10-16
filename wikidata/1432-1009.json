@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761971",
+  "http://example.com/crossref" : [ {
+    "@value" : "1121"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springerlink.com/link.asp?id=100370"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0364-152X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S131852149"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0364-152X"
+  }, {
+    "@value" : "1432-1009"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environmental Management"
+  } ]
+} ]

@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q8050997",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Yeast"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Yeast (Chichester, England)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "127"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1985"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1097-0061"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/10970061"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0749-503X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S80252601"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1097-0061"
+  }, {
+    "@value" : "0749-503X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Yeast"
+  } ]
+} ]

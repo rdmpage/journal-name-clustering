@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2243682",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Novon a journal of botanical nomenclature from the Missouri Botanical Garden"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "744"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57908"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "20110"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1991"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://novon.mobot.org"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=1055-3177"
+  }, {
+    "@id" : "http://www.bioone.org/loi/novo"
+  }, {
+    "@id" : "http://www.jstor.org/journals/10553177.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1055-3177"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "novon"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S26135258"
+  }, {
+    "@value" : "S2764980587"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1945-6174"
+  }, {
+    "@value" : "1055-3177"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Novon"
+  } ]
+} ]

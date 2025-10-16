@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21384991",
+  "http://example.com/crossref" : [ {
+    "@value" : "2231"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/07644469"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0764-4469"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306506707"
+  }, {
+    "@value" : "S83672204"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0764-4469"
+  }, {
+    "@value" : "1878-5565"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Comptes rendus de l'Académie des sciences. Série 3, Sciences de la vie"
+  } ]
+} ]

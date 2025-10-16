@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q131545171",
+  "http://example.com/from_year" : [ {
+    "@value" : "2013"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://dragonflyfund.org/faun-studies-se-asia/"
+  }, {
+    "@id" : "https://publikationen.ub.uni-frankfurt.de/solrsearch/index/search/searchtype/series/id/16208"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2195-4534"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2195-4534"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Faunistic Studies in South-East Asian and Pacific Island Odonata"
+  } ]
+} ]

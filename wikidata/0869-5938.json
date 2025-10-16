@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7622201",
+  "http://example.com/crossref" : [ {
+    "@value" : "54363"
+  }, {
+    "@value" : "204766"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=0869-5938;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.proquest.com/en-US/"
+  }, {
+    "@id" : "http://www.springer.com/earth+sciences+and+geography/geology/journal/11506"
+  }, {
+    "@id" : "https://www.springer.com/journal/11506"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0869-5938"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S15359176"
+  }, {
+    "@value" : "S4210174512"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0869-5938"
+  }, {
+    "@value" : "0869-592X"
+  }, {
+    "@value" : "1555-6263"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Stratigraphy and Geological Correlation"
+  } ]
+} ]

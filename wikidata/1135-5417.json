@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763866",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1135-5417"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1135-5417"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista - Real Academia Galega de Ciencias"
+  }, {
+    "@language" : "und",
+    "@value" : "Real Academia Gallega de Ciencias. Revista"
+  } ]
+} ]

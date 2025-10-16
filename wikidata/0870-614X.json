@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q47171911",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Comp. Diamant. Angola. Serv. Cult."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0870-614X"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "262BCBA3-0C5B-4C5F-9C7D-829830C89526"
+  }, {
+    "@value" : "6895D6E2-D52C-4419-9C13-CEE0F9D41120"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0870-614X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Publicações culturais / Companhia de diamantes de Angola (Diamang)"
+  } ]
+} ]

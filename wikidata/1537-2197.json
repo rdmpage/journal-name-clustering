@@ -1,0 +1,71 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2664693",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Am. J. Bot."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "Am. j. bot."
+  }, {
+    "@language" : "en",
+    "@value" : "Am. j. bot."
+  }, {
+    "@language" : "de",
+    "@value" : "Amer. J. Bot."
+  }, {
+    "@language" : "fr",
+    "@value" : "Amer. J. Bot."
+  }, {
+    "@language" : "pt",
+    "@value" : "Amer. J. Bot."
+  }, {
+    "@language" : "en",
+    "@value" : "American journal of botany"
+  }, {
+    "@language" : "ja",
+    "@value" : "American journal of botany"
+  }, {
+    "@language" : "es",
+    "@value" : "Amer. J. Bot."
+  }, {
+    "@language" : "de",
+    "@value" : "Am J Bot"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "101582"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "55383"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1914"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://onlinelibrary.wiley.com/journal/15372197"
+  }, {
+    "@id" : "http://www.amjbot.org/"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00029122.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0002-9122"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "americanjbotany"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S205086949"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "677C5D64-0071-438E-9F4E-FEFF841A2347"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0002-9122"
+  }, {
+    "@value" : "1537-2197"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "American Journal of Botany"
+  } ]
+} ]

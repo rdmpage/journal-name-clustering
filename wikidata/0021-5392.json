@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q116378135",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Japanese Society of Scientific Fisheries"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "51658"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/suisan/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-5392"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "suisan"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S175484146"
+  }, {
+    "@value" : "S2764488034"
+  }, {
+    "@value" : "S4210186241"
+  }, {
+    "@value" : "S4306551129"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1349-998X"
+  }, {
+    "@value" : "0021-5392"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "日本水産学会誌"
+  } ]
+} ]

@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386148",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Publications of the Seto Marine Biological Laboratory"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1981"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0258-462X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764815017"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0258-462X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Chinese journal of entomology"
+  }, {
+    "@language" : "nan",
+    "@value" : "Tiong-hôa Khun-thiông"
+  }, {
+    "@language" : "mul",
+    "@value" : "Zhōnghuá Kūnchóng"
+  }, {
+    "@language" : "zh",
+    "@value" : "中華昆蟲"
+  } ]
+} ]

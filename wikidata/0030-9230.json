@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752695",
+  "http://example.com/crossref" : [ {
+    "@value" : "18018"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "5856"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandfonline.com/toc/cpdh20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0030-9230"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S194633539"
+  }, {
+    "@value" : "S4210172716"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0030-9230"
+  }, {
+    "@value" : "1477-674X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Paedagogica Historica: international journal of the history of education"
+  }, {
+    "@language" : "mul",
+    "@value" : "Paedagogica historica"
+  } ]
+} ]

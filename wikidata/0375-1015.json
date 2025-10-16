@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107018535",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-1015"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0375-1015"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "hr",
+    "@value" : "Rad Jugoslavenske akademije znanosti i umjetnosti"
+  } ]
+} ]

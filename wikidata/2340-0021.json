@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727247",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nova Acta Cient Compostel Biol"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "7464"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://dialnet.unirioja.es/servlet/revista?codigo=7464"
+  }, {
+    "@id" : "https://revistas.usc.gal/index.php/nacc"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1130-9717"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210183616"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1130-9717"
+  }, {
+    "@value" : "2340-0021"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "NACC. Bioloxía"
+  }, {
+    "@language" : "gl",
+    "@value" : "Nova acta cientifica compostelana. Bioloxia"
+  } ]
+} ]

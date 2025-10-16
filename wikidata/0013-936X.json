@@ -1,0 +1,57 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q689027",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Environ. Sci. Technol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Environmental Science and Technology"
+  }, {
+    "@language" : "zh",
+    "@value" : "环境科学与科技"
+  }, {
+    "@language" : "es",
+    "@value" : "Environ Sci Technol"
+  }, {
+    "@language" : "es",
+    "@value" : "ES&T"
+  }, {
+    "@language" : "de",
+    "@value" : "Environ. Sci. Technol."
+  }, {
+    "@language" : "de",
+    "@value" : "ES&T"
+  }, {
+    "@language" : "ja",
+    "@value" : "エンヴァイロンメンタル・サイエンス&テクノロジー"
+  }, {
+    "@language" : "es",
+    "@value" : "Environ. Sci. Technol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2497"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://pubs.acs.org/journals/esthag/"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S13479253"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1068-4980"
+  }, {
+    "@value" : "1520-5851"
+  }, {
+    "@value" : "0013-936X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environmental Science & Technology"
+  } ]
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4046924",
+  "http://example.com/crossref" : [ {
+    "@value" : "109526"
+  }, {
+    "@value" : "3525"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.royensoc.co.uk/publications/physiological_entomology.htm"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S100662317"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0047-2409"
+  }, {
+    "@value" : "0307-6962"
+  }, {
+    "@value" : "1365-3032"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Physiological Entomology"
+  } ]
+} ]

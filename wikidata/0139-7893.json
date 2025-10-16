@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750000",
+  "http://example.com/crossref" : [ {
+    "@value" : "311995"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ivb.cz/folia-zoologica.html"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S14031017"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0139-7893"
+  }, {
+    "@value" : "1210-9681"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Folia Zoologica"
+  } ]
+} ]

@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q135231918",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://zkxb.csuft.edu.cn/"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-2502"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Central South Forestry University"
+  }, {
+    "@language" : "zh",
+    "@value" : "中南林学院学报"
+  } ]
+} ]

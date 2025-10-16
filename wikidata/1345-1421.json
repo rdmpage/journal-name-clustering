@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96724623",
+  "http://example.com/crossref" : [ {
+    "@value" : "81024"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jcrs/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1345-1421"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jcrs"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210231113"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1882-5710"
+  }, {
+    "@value" : "1345-1421"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Nihon Sangoshō Gakkaishi"
+  } ]
+} ]

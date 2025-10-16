@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2193260",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Ann. Paleontol."
+  }, {
+    "@language" : "en",
+    "@value" : "Ann. Paleontol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2267"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.elsevier.com/wps/find/journaldescription.cws%5Fhome/600780/description#description"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/07533969"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0753-3969"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S159429175"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "BB9C4107-4C23-4520-9F72-22F67E5C714D"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0753-3969"
+  }, {
+    "@value" : "1778-3666"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Annales de Paléontologie"
+  } ]
+} ]

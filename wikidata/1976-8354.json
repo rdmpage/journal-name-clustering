@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754776",
+  "http://example.com/crossref" : [ {
+    "@value" : "137105"
+  }, {
+    "@value" : "106489"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1976-8354"
+  }, {
+    "@value" : "2151-2485"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandfonline.com/TACS"
+  }, {
+    "@id" : "http://www.tandfonline.com/toc/tacs20/current"
+  }, {
+    "@id" : "http://www.zsk.or.kr"
+  }, {
+    "@id" : "mailto:zsk@zsk.or.kr"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1976-8354"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S90343918"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2151-2485"
+  }, {
+    "@value" : "1976-8354"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Animal Cells and Systems"
+  } ]
+} ]

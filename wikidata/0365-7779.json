@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5674332",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Anales Univ. Chile"
+  }, {
+    "@language" : "en",
+    "@value" : "Anales Univ. Chile"
+  }, {
+    "@language" : "en",
+    "@value" : "An. Univ. Chile"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "106804"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "117305"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1844"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.anales.uchile.cl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0365-7779"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210188963"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0365-7779"
+  }, {
+    "@value" : "0717-8883"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Anales de la Universidad de Chile"
+  } ]
+} ]

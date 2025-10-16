@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385460",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Boll. Soc. entom. Ital."
+  }, {
+    "@language" : "pt",
+    "@value" : "Boll. Soc. entom. Ital."
+  }, {
+    "@language" : "en",
+    "@value" : "Boll. Soc. entomol. ital."
+  }, {
+    "@language" : "es",
+    "@value" : "Boll. Soc. entom. Ital."
+  }, {
+    "@language" : "fr",
+    "@value" : "Boll. Soc. entom. Ital."
+  }, {
+    "@language" : "en",
+    "@value" : "Boll. Soc. entom. Ital."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "9612"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "223026"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1869"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sei.pagepress.org/bollettino"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-3491"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210168675"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "99945971-FC03-4E78-B35A-056D3F6B5FA4"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-3491"
+  }, {
+    "@value" : "2281-9282"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Bollettino della Società Entomologica Italiana"
+  } ]
+} ]

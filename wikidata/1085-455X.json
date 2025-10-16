@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124292850",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bishop Museum technical report"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/29522"
+  }, {
+    "@id" : "http://hbs.bishopmuseum.org/publications/tech-reports.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1085-455X"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "2B80FC09-823C-4316-91C8-BC9A47274FEE"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1085-455X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bishop Museum Technical Reports"
+  }, {
+    "@language" : "en",
+    "@value" : "Bishop Museum technical report"
+  } ]
+} ]

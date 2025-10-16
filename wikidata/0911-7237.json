@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113475942",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://koara.lib.keio.ac.jp/xoonips/modules/xoonips/listitem.php?index_id=37"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0911-7237"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0911-7237"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Keiō Gijuku Daigaku Hiyoshi kiyō. Shizen kagaku"
+  } ]
+} ]

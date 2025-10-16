@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1821243",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Ann. Bot."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Ann. Bot. (Oxford)"
+  }, {
+    "@language" : "en",
+    "@value" : "Annals of Botany. London"
+  }, {
+    "@language" : "en",
+    "@value" : "Annals of botany"
+  }, {
+    "@language" : "en",
+    "@value" : "Ann Bot"
+  }, {
+    "@language" : "zh",
+    "@value" : "植物學年報"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "136214"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "617"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1887"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://academic.oup.com/aob"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0305-7364"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "annabota"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2254258"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0305-7364"
+  }, {
+    "@value" : "1095-8290"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of Botany"
+  } ]
+} ]

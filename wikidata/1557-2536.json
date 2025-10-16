@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1962302",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Mycologia"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "95559"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "63401"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1909"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/journals/00275514.html"
+  }, {
+    "@id" : "http://www.mycologia.org"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/umyc20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0027-5514"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "mycologia"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S188770946"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1557-2536"
+  }, {
+    "@value" : "0027-5514"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Mycologia"
+  } ]
+} ]

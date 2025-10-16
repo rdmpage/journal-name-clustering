@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752849",
+  "http://example.com/crossref" : [ {
+    "@value" : "20851"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=1066-8926;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.informaworld.com/1521-0413"
+  }, {
+    "@id" : "https://www.tandfonline.com/toc/ucjc20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1066-8926"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S21299528"
+  }, {
+    "@value" : "S2764485365"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1521-0413"
+  }, {
+    "@value" : "1066-8926"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Community College Journal of Research and Practice"
+  } ]
+} ]

@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3619222",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Aust. J. Zool."
+  }, {
+    "@language" : "fr",
+    "@value" : "Aust. J. Zool."
+  }, {
+    "@language" : "en",
+    "@value" : "Aust. J. Zool."
+  }, {
+    "@language" : "de",
+    "@value" : "Aust. J. Zool."
+  }, {
+    "@language" : "ru",
+    "@value" : "Aust. J. Zool."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5963"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1953"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.publish.csiro.au/nid/90.htm"
+  }, {
+    "@id" : "https://www.publish.csiro.au/zo"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0004-959X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S185825760"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3E470E2A-7188-44C8-9501-F5DE20FFC3B4"
+  }, {
+    "@value" : "622E98F0-F4A9-4F62-BC48-103DE946B430"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0004-959X"
+  }, {
+    "@value" : "1446-5698"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australian Journal of Zoology"
+  } ]
+} ]

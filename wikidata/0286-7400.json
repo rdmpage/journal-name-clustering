@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4996849",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Bull. Nat. Mus. Jap. Hist."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "Kokuritsu Rekishi Minzoku Hakubutsukan kenkyū hōkoku"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.rekihaku.ac.jp/english/publication/titles/index.html"
+  }, {
+    "@id" : "https://rekihaku.repo.nii.ac.jp/search?page=1&size=20&sort=custom_sort&search_type=2&q=21"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0286-7400"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306545963"
+  }, {
+    "@value" : "S961873093"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0286-7400"
+  }, {
+    "@value" : "2759-453X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "Kokuritsu Rekishi Minzoku Hakubutsukan kenkyū hōkoku"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the National Museum of Japanese History"
+  } ]
+} ]

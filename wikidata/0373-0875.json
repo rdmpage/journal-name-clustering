@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721524",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Bull. Soc. Linn. Provence"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull Soc Linn Provence"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Soc. Linn. Provence"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-0875"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-0875"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "[Bulletin de la Société linnéenne de Provence]"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société linnéenne de Provence"
+  } ]
+} ]

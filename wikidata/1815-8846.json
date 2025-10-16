@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96718259",
+  "http://example.com/crossref" : [ {
+    "@value" : "100045"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.makhillpublications.co/journal-detail/1815-8846"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1815-8846"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S51455234"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1993-6087"
+  }, {
+    "@value" : "1815-8846"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Research Journal of Biological Sciences"
+  } ]
+} ]

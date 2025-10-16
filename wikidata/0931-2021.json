@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96734350",
+  "http://example.com/crossref" : [ {
+    "@value" : "107705"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0931-2021"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210213173"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0931-2021"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Zentralblatt für Veterinärmedizin. Reihe B, Infectious diseases, immunology, food hygiene, veterinary public health"
+  } ]
+} ]

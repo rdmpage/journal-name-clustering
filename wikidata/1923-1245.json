@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4787488",
+  "http://example.com/crossref" : [ {
+    "@value" : "238166"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1948"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://arctic.synergiesprairies.ca/arctic/index.php/arctic/index"
+  }, {
+    "@id" : "http://arctic.ucalgary.ca/publications/arctic-journal"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0004-0843"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "arctic"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S108820144"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1923-1245"
+  }, {
+    "@value" : "0004-0843"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Arctic"
+  }, {
+    "@language" : "mul",
+    "@value" : "Arctic"
+  } ]
+} ]

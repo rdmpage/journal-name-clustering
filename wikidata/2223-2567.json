@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96327821",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Pakistan journal of scientific and industrial research. Series B: biological sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Pakistan journal of scientific and industrial research. Series B:, biological sciences"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.pjsir.org/arc.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2221-6421"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210196871"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2223-2567"
+  }, {
+    "@value" : "2221-6421"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Pakistan journal of scientific and industrial research. Series B: biological sciences"
+  } ]
+} ]

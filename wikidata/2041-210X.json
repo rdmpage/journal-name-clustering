@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15710059",
+  "http://example.com/crossref" : [ {
+    "@value" : "91145"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2041-210X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2010"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2041-210X"
+  }, {
+    "@id" : "http://www.methodsinecologyandevolution.org/view/0/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2041-210X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S1131227"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2041-210X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Methods in Ecology and Evolution"
+  } ]
+} ]

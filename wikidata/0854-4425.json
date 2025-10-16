@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721223",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Biologi Indones"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0854-4425"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210216032"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0854-4425"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "id",
+    "@value" : "Jurnal Biologi Indonesia"
+  }, {
+    "@language" : "en",
+    "@value" : "Jurnal biologi Indonesia"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q68558476",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://molluscan.com/omp/"
+  }, {
+    "@id" : "https://www.molluscan.com/omp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1793-8708"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "07468838-5A16-4973-92D6-B7D14E5B0C86"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1793-8716"
+  }, {
+    "@value" : "1793-8708"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Occasional Molluscan Papers"
+  } ]
+} ]

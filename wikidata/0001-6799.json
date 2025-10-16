@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q100375972",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Shokubutsu bunrui, chiri"
+  }, {
+    "@language" : "ja",
+    "@value" : "植物分類，地理"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "17"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1932"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/bunruichiri/list/-char/ja/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-6799"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "bunruichiri"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500485"
+  }, {
+    "@value" : "S4306500486"
+  }, {
+    "@value" : "S4306552804"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-6799"
+  }, {
+    "@value" : "2189-7050"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Shokubutsu bunrui, chiri"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta phytotaxonomica et geobotanica"
+  }, {
+    "@language" : "ja",
+    "@value" : "植物分類, 地理"
+  } ]
+} ]

@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727044",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Macedonian Veterinary Review"
+  }, {
+    "@language" : "en",
+    "@value" : "Maced Vet Rev"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "231986"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1857-7415"
+  }, {
+    "@value" : "1409-7621"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.macvetrev.mk"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1409-7621"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764596584"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1857-7415"
+  }, {
+    "@value" : "1409-7621"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Macedonian veterinary review"
+  }, {
+    "@language" : "en",
+    "@value" : "Macedonian veterinary review"
+  } ]
+} ]

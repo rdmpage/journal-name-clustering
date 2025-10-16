@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761919",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Va. j. sci."
+  }, {
+    "@language" : "en",
+    "@value" : "Virginia journal of science"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "146242"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1940"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=cUkqAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=YEwoAAAAMAAJ"
+  }, {
+    "@id" : "https://digitalcommons.odu.edu/vjs/"
+  }, {
+    "@id" : "https://www.biodiversitylibrary.org/bibliography/146242"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0042-658X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764411101"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0042-658X"
+  }, {
+    "@value" : "3064-7576"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Virginia Journal of Science"
+  } ]
+} ]

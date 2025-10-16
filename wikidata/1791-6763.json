@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726608",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mediterr Mar Sci"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "203589"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1791-6763"
+  }, {
+    "@value" : "1108-393X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1108-393X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S207270806"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1791-6763"
+  }, {
+    "@value" : "1108-393X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Mediterranean Marine Science"
+  } ]
+} ]

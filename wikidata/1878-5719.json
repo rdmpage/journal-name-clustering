@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13901393",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Nonlinear Analysis: Real World Applications"
+  }, {
+    "@language" : "en",
+    "@value" : "Nonlinear Analysis: Real World Applications"
+  }, {
+    "@language" : "en",
+    "@value" : "Nonlinear analysis. Real world applications"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2081"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/0362546X"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/14681218"
+  }, {
+    "@id" : "https://elsevier.marketing/journal/Nonlinear-Analysis--Real-World-Applications"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1468-1218"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S114104845"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1468-1218"
+  }, {
+    "@value" : "1878-5719"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nonlinear Analysis"
+  }, {
+    "@language" : "en",
+    "@value" : "Nonlinear analysis: real world applications"
+  } ]
+} ]

@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765006",
+  "http://example.com/crossref" : [ {
+    "@value" : "3567"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1365-2095"
+  }, {
+    "@value" : "1353-5773"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2095"
+  }, {
+    "@id" : "https://www.hindawi.com/journals/anu/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1353-5773"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S126023004"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1353-5773"
+  }, {
+    "@value" : "1365-2095"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Aquaculture Nutrition"
+  } ]
+} ]

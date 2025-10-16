@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714066",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Insect Biochem."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "12768"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/00201790"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0020-1790"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S116254318"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0020-1790"
+  }, {
+    "@value" : "1879-2928"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Insect biochemistry"
+  } ]
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96724223",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The journal of the Cameroon Academy of Sciences"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "324740"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.ajol.info/index.php/jcas"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2617-393X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764407610"
+  }, {
+    "@value" : "S4210232756"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2617-3948"
+  }, {
+    "@value" : "2617-393X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The journal of the Cameroon Academy of Sciences"
+  } ]
+} ]

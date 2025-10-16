@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1796854",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Toxicol. Lett."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Toxicol Lett"
+  }, {
+    "@language" : "en",
+    "@value" : "Toxicol Lett"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1483"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1977"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/03784274"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/toxicology-letters/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0378-4274"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S205878144"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1879-3169"
+  }, {
+    "@value" : "0378-4274"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Toxicology Letters"
+  } ]
+} ]

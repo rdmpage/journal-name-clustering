@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3666489",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Zool. Verh."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Zool. Verh."
+  }, {
+    "@language" : "en",
+    "@value" : "Zool. Verh."
+  }, {
+    "@language" : "es",
+    "@value" : "Zool. Verh."
+  }, {
+    "@language" : "fr",
+    "@value" : "Zool. Verh."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1948"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S53503386"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0024-1652"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Zoologische Verhandelingen"
+  } ]
+} ]

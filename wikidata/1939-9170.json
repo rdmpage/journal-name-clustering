@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1013420",
+  "http://example.com/crossref" : [ {
+    "@value" : "55410"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=-BIuAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=MBIuAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=Og0uAAAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=qhAuAAAAMAAJ"
+  }, {
+    "@id" : "http://esajournals.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1939-9170/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0012-9658"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "ecology"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S35917800"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1939-9170"
+  }, {
+    "@value" : "0012-9658"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecology"
+  } ]
+} ]

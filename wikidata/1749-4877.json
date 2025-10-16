@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766189",
+  "http://example.com/crossref" : [ {
+    "@value" : "217625"
+  }, {
+    "@value" : "57427"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=1749-4868;screen=info;ECOIP"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1749-4877"
+  }, {
+    "@id" : "http://www.blackwellpublishing.com/journal.asp?ref=1749-4869&site=1"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1749-4869"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S90680744"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1749-4869"
+  }, {
+    "@value" : "1749-4877"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Integrative Zoology"
+  } ]
+} ]

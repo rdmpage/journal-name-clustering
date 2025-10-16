@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724808",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Brazilian Journal of Veterinary Research and Animal Science"
+  }, {
+    "@language" : "en",
+    "@value" : "Braz J Vet Res Anim Sci"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "45140"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1413-9596"
+  }, {
+    "@value" : "1678-4456"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.revistas.usp.br/bjvras/index"
+  }, {
+    "@id" : "https://www.scielo.br/bjvras"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1413-9596"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S159610610"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1678-4456"
+  }, {
+    "@value" : "1413-9596"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Brazilian journal of veterinary research and animal science"
+  }, {
+    "@language" : "mul",
+    "@value" : "Brazilian Journal of Veterinary Research and Animal Science"
+  } ]
+} ]

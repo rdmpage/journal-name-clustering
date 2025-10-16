@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q111239180",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.heteropteron.de"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1432-3761"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2195-1586"
+  }, {
+    "@value" : "1432-3761"
+  }, {
+    "@value" : "2105-1586"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Heteropteron"
+  } ]
+} ]

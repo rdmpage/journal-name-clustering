@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4041416",
+  "http://example.com/crossref" : [ {
+    "@value" : "3580"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=imb"
+  }, {
+    "@id" : "http://www.royensoc.co.uk/publications/insect_molecular_biology.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0962-1075"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S137961447"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0962-1075"
+  }, {
+    "@value" : "1365-2583"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Insect molecular biology"
+  }, {
+    "@language" : "und",
+    "@value" : "Insect Molecular Biology"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96326120",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Xibei dizhi"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "XBDI"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.xbdz.net.cn/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1009-6248"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764550328"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1009-6248"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Xibei dizhi"
+  } ]
+} ]

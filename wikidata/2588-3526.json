@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q108365847",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. wildl. biodivers."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2017"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://jwb.araku.ac.ir/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2588-3526"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306516410"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "FF3FA9BA-ECFA-4EEE-8FE3-01F6CCFD1F81"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2588-3526"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Wildlife and Biodiversity"
+  } ]
+} ]

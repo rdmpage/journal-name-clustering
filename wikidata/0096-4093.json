@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722266",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Rep. (Annual) Board Regents Smithsonian Inst."
+  }, {
+    "@language" : "en",
+    "@value" : "Annu Rep Board Regents Smithson Inst"
+  }, {
+    "@language" : "en",
+    "@value" : "Annu. rep. Board Regents Smithson. Inst."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7964"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1846"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0096-4093"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0096-4093"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annual report of the Board of Regents of the Smithsonian Institution"
+  } ]
+} ]

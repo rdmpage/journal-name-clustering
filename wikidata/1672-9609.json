@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760066",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "中国昆虫科学"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "46098"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/dbname=ECO;journal=1672-9609;screen=available;done=referer;FSIP"
+  }, {
+    "@id" : "http://ins.ioz.ac.cn/"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-7917"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1744-7917/issues"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/loi/ins"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1672-9609"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S77581241"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1744-7917"
+  }, {
+    "@value" : "1672-9609"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Insect Science"
+  } ]
+} ]

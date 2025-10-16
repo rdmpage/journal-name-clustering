@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766737",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of the History of Sport"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "26544"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandfonline.com/fhsp"
+  }, {
+    "@id" : "https://scoretitans.online"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S18307414"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0952-3367"
+  }, {
+    "@value" : "1462-1495"
+  }, {
+    "@value" : "1743-9035"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The International Journal of the History of Sport"
+  } ]
+} ]

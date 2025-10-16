@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757257",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Advances in Ethology"
+  }, {
+    "@language" : "en",
+    "@value" : "Ethology (journal)"
+  }, {
+    "@language" : "zh",
+    "@value" : "行为学"
+  }, {
+    "@language" : "zh",
+    "@value" : "行為學"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "108165"
+  }, {
+    "@value" : "3670"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://onlinelibrary.wiley.com/journal/14390310"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S147866836"
+  }, {
+    "@value" : "S4210192784"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0179-1613"
+  }, {
+    "@value" : "0931-4202"
+  }, {
+    "@value" : "1439-0310"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ethology"
+  } ]
+} ]

@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3623864",
+  "http://example.com/crossref" : [ {
+    "@value" : "85381"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1975"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.informaworld.com/taca"
+  }, {
+    "@id" : "http://www.internationaljournalofacarology.com"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/taca20#.U2fMn00U-mQ"
+  }, {
+    "@id" : "https://www.tandfonline.com/toc/taca20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0164-7954"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210222972"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D1AD5C6A-F843-4AFE-A9B5-6A2737279CAB"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0164-7954"
+  }, {
+    "@value" : "1945-3892"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Acarology"
+  } ]
+} ]

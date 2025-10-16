@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96325057",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://monografies.museucienciesjournals.cat"
+  }, {
+    "@id" : "http://www.raco.cat/index.php/MonografiesMCN/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1695-8950"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1695-8950"
+  }, {
+    "@value" : "2385-4332"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Monografíes del Museu de Ciènces Naturals"
+  } ]
+} ]

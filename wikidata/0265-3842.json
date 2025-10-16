@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q58063943",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Bot. Mag. (Kew Mag.)"
+  }, {
+    "@language" : "en",
+    "@value" : "Bot. Mag. (Kew Mag.)"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1984"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstor.org/journal/kewmagazine"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0265-3842"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2732-4958"
+  }, {
+    "@value" : "0265-3842"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Kew Magazine"
+  } ]
+} ]

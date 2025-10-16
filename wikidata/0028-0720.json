@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q131717723",
+  "http://example.com/bhl" : [ {
+    "@value" : "48988"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0028-0720"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0028-0720"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Natural History Society of Northumberland, Durham and Newcastle-upon-Tyne"
+  } ]
+} ]

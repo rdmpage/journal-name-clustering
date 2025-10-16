@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726135",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Botanica Pacifica"
+  }, {
+    "@language" : "en",
+    "@value" : "Bot Pac"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "267115"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2410-3713"
+  }, {
+    "@value" : "2226-4701"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2226-4701"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210225000"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2410-3713"
+  }, {
+    "@value" : "2226-4701"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Botanica Pacifica"
+  } ]
+} ]

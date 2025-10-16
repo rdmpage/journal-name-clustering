@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96706935",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Bangladesh veterinarian"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "96528"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.banglajol.info/index.php/BVET/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1012-5949"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S83007638"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1012-5949"
+  }, {
+    "@value" : "2224-7289"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Bangladesh veterinarian"
+  } ]
+} ]

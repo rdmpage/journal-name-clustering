@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760022",
+  "http://example.com/crossref" : [ {
+    "@value" : "49891"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1746-4269"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ethnobiomed.biomedcentral.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1746-4269"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S83197289"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1746-4269"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Ethnobiology and Ethnomedicine"
+  } ]
+} ]

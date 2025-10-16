@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329409",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Polish Academy of Sciences. Earth Sciences"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0239-7277"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764915536"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0239-7277"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Polish Academy of Sciences. Earth Sciences"
+  } ]
+} ]

@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765143",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Fish Physiology & Biochemistry"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2936"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dx.doi.org/10.1007/10695.1573-5168"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0920-1742"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S188633547"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0920-1742"
+  }, {
+    "@value" : "1573-5168"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fish Physiology and Biochemistry"
+  } ]
+} ]

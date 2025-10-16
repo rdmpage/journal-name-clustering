@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386006",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0211-8327"
+  }, {
+    "@language" : "es",
+    "@value" : "Stvdia geologica salmanticensia"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "5745"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://revistas.usal.es/index.php/0211-8327/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0211-8327"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306531037"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0211-8327"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Stvdia geologica salmanticensia"
+  } ]
+} ]

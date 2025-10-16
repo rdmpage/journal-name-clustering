@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766714",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Apicultural Research & Bee World"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "77860"
+  }, {
+    "@value" : "273226"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S118045308"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0005-772X"
+  }, {
+    "@value" : "0021-8839"
+  }, {
+    "@value" : "1751-2891"
+  }, {
+    "@value" : "2078-6913"
+  }, {
+    "@value" : "2376-7618"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Apicultural Research and Bee World"
+  } ]
+} ]

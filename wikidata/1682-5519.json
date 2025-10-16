@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16763516",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Travaux scientifiques du Musée national d'histoire naturelle de  Luxembourg"
+  }, {
+    "@language" : "fr",
+    "@value" : "Travaux scientifiques du Musée national d'histoire naturelle de Luxembourg"
+  }, {
+    "@language" : "fr",
+    "@value" : "Ferrantia, Travaux scientifiques du Musée national d'histoire naturelle de Luxembourg"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1980"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.mnhn.lu/"
+  }, {
+    "@id" : "https://www.mnhn.lu/science/ferrantia/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1017-3366"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1812-0539"
+  }, {
+    "@value" : "1682-5519"
+  }, {
+    "@value" : "1017-3366"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Travaux scientifiques du Musée national d'histoire naturelle de  Luxembourg"
+  }, {
+    "@language" : "fr",
+    "@value" : "Ferrantia, Travaux scientifiques du Musée national d'histoire naturelle de Luxembourg"
+  } ]
+} ]

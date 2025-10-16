@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6296118",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "J. Bombay Nat. Hist. Soc."
+  }, {
+    "@language" : "de",
+    "@value" : "JBNHS"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Bombay Nat. Hist. Soc."
+  }, {
+    "@language" : "en",
+    "@value" : "JBNHS"
+  }, {
+    "@language" : "en",
+    "@value" : "The journal of the Bombay Natural History Society"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7414"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "266071"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1886"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bnhs.org/publications/journal-of-bnhs.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-6982"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S92230973"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0006-6982"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Bombay Natural History Society"
+  } ]
+} ]

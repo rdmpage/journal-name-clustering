@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385985",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nat. sicil."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "10663"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1882"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sssn.it/naturalista.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0394-0063"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0394-0063"
+  }, {
+    "@value" : "2240-3442"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Il Naturalista siciliano"
+  } ]
+} ]

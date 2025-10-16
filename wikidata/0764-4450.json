@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27715077",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "C R Acad Sci II"
+  }, {
+    "@language" : "fr",
+    "@value" : "Comptes rendus de l'Académie des sciences. Série 2, Mécanique, physique, chimie, sciences de l'univers, sciences de la terre"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://gallica.bnf.fr/ark:/12148/cb343942015/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0764-4450"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2419-8773"
+  }, {
+    "@value" : "0764-4450"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Comptes rendus de l'Académie des sciences. Série 2, Mécanique, physique, chimie, sciences de l'univers, sciences de la terre"
+  }, {
+    "@language" : "en",
+    "@value" : "Comptes rendus de l'Academie des sciences. Serie II, Mecanique, physique, chimie, sciences de l'univers, sciences de la terre"
+  } ]
+} ]

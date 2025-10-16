@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15724515",
+  "http://example.com/crossref" : [ {
+    "@value" : "80"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/%28issn%291099-0461"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/38998"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/10990461"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1095-6670"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S124830628"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1095-6670"
+  }, {
+    "@value" : "1099-0461"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Biochemical and Molecular Toxicology"
+  } ]
+} ]

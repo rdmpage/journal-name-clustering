@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q90264877",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "JMBRAS"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1923"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2304-7550"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jmalayanras"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1963"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2304-7550"
+  }, {
+    "@value" : "2304-7569"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Malayan Branch of the Royal Asiatic Society"
+  } ]
+} ]

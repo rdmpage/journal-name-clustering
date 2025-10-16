@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27720832",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Doc. Mycol."
+  }, {
+    "@language" : "en",
+    "@value" : "Doc. Mycol."
+  }, {
+    "@language" : "es",
+    "@value" : "Doc. Mycol."
+  }, {
+    "@language" : "fr",
+    "@value" : "Doc. Mycol."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0291-8420"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0291-8420"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Documents mycologiques"
+  } ]
+} ]

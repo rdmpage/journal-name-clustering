@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5405702",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "ジャーナル・オヴ・ザ・ワシントン・アカデミー・オヴ・サイエンスィズ"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Washington Acad. Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "J. Wash. Acad. Sci."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "2087"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297299"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1911"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/84177"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/84179"
+  }, {
+    "@id" : "http://www.washacadsci.org/Journal/journalscans/J%201-10.htm"
+  }, {
+    "@id" : "https://search.proquest.com/publication/1126336"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0043-0439"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jwashacadscie"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764425017"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "40FF76CF-6F49-4DD6-9F86-DB0FA6E2A2DC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2573-2110"
+  }, {
+    "@value" : "0043-0439"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Washington Academy of Sciences"
+  } ]
+} ]

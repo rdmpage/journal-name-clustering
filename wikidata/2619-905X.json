@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96696587",
+  "http://example.com/crossref" : [ {
+    "@value" : "315502"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2619-905X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://actavet.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2618-639X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210237154"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2619-905X"
+  }, {
+    "@value" : "2618-639X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta veterinaria eurasia"
+  } ]
+} ]

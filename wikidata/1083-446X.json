@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385775",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Amphib. reptile conserv."
+  }, {
+    "@language" : "en",
+    "@value" : "Amphibian and reptile conservation"
+  }, {
+    "@language" : "es",
+    "@value" : "Amphibian and reptile conservation"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "57881"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://amphibian-reptile-conservation.org"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/6906"
+  }, {
+    "@id" : "http://www.redlist-arc.org/Current-Issues/"
+  }, {
+    "@id" : "https://www.ncbi.nlm.nih.gov/pmc/journals/218/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1083-446X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1083-446X"
+  }, {
+    "@value" : "1525-9153"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Amphibian & Reptile Conservation"
+  } ]
+} ]

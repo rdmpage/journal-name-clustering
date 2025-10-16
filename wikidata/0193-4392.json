@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51400395",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Farmer's Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Farmers Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Farmers' bull. (Washington)"
+  }, {
+    "@language" : "en",
+    "@value" : "Farmers' bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Farmers' Bulletin (USDA)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "12371"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1889"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0193-4392"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0193-4392"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Farmers' bulletin"
+  } ]
+} ]

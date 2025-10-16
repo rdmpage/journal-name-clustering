@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329995",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0971-8966"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S166340194"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0971-8966"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Himalayan geology"
+  } ]
+} ]

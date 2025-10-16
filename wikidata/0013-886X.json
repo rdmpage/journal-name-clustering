@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5380616",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Entomol. tidskr."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0013-886X"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "10616"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297280"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1880"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://et-online.nu/index.php/contents/index"
+  }, {
+    "@id" : "http://www.sef.nu/entomologisk-tidskrift/om-entomologisk-tidskrift/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-886X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S35921383"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "http://et-online.nu/index.php/contents/gateway/plugin/WebFeedGatewayPlugin/atom"
+  }, {
+    "@id" : "http://et-online.nu/index.php/contents/gateway/plugin/WebFeedGatewayPlugin/rss2"
+  }, {
+    "@id" : "http://et-online.nu/index.php/contents/gateway/plugin/WebFeedGatewayPlugin/rss"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0013-886X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Entomologisk tidskrift"
+  }, {
+    "@language" : "sv",
+    "@value" : "Entomologisk Tidskrift"
+  }, {
+    "@language" : "mul",
+    "@value" : "Entomologisk Tidskrift"
+  } ]
+} ]

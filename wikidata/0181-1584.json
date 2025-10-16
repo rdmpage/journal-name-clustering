@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759426",
+  "http://example.com/crossref" : [ {
+    "@value" : "2284"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sciencepress.mnhn.fr/fr/periodiques/mycologie"
+  }, {
+    "@id" : "http://www.cryptogamie.com/pagint_en/editeur/revue_myco.php"
+  }, {
+    "@id" : "https://bioone.org/journals/cryptogamie-mycologie/issues"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/cryptogamie-mycologie"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0181-1584"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S173817438"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1776-100X"
+  }, {
+    "@value" : "0181-1584"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Cryptogamie. Mycologie"
+  }, {
+    "@language" : "und",
+    "@value" : "Cryptogamie Mycologie"
+  } ]
+} ]

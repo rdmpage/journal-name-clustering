@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q109320391",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1133-6889"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "8156"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://publicacions.iec.cat/PopulaFitxa.do?moduleName=revistes_cientifiques&subModuleName=&idCatalogacio=10928"
+  }, {
+    "@id" : "http://www.raco.cat/index.php/ButlletiICHN"
+  }, {
+    "@id" : "https://blogs.iec.cat/ichn/publicacions/butlleti-de-la-ichn/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1133-6889"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "C83636FE-F490-4535-ADEF-A3EC42FE2ADE"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1133-6889"
+  }, {
+    "@value" : "2013-3987"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ca",
+    "@value" : "Butlletí de la Institució Catalana d'Historia Natural"
+  } ]
+} ]

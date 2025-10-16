@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96718648",
+  "http://example.com/crossref" : [ {
+    "@value" : "309668"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/crustacea/list/-char/en"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/rcrustaceasn/list/-char/en"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/rcustacea/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0287-3478"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "rcustacea"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764753162"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2433-0108"
+  }, {
+    "@value" : "2433-0973"
+  }, {
+    "@value" : "0287-3478"
+  }, {
+    "@value" : "2189-5317"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "甲殻類の研究"
+  } ]
+} ]

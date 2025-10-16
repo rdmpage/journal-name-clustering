@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q18712516",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "R. Soc. Open Sci."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "249419"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2054-5703"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2014"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rsos.royalsocietypublishing.org"
+  }, {
+    "@id" : "https://royalsocietypublishing.org/journal/rsos"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2054-5703"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737558550"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "42957A76-DE61-4450-BC8A-CD137F3F4227"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2054-5703"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Royal Society open science"
+  } ]
+} ]

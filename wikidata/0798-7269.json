@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q60561004",
+  "http://example.com/dialnet" : [ {
+    "@value" : "8489"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0798-7269"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306536276"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0798-7269"
+  }, {
+    "@value" : "2542-3436"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Zootecnia tropical"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385745",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1805-5648"
+  }, {
+    "@language" : "es",
+    "@value" : "Studies and Reports, Taxonomical Series"
+  }, {
+    "@language" : "en",
+    "@value" : "Studies and Reports, Taxonomical Series"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2013"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://sar.fld.czu.cz/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1805-5648"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1805-5648"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Studies and Reports. Taxonomical Series"
+  } ]
+} ]

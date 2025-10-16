@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113477332",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ir.lib.hiroshima-u.ac.jp/ja/journal/JFacFishAnimHusb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0440-8756"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764881927"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0440-8756"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Hiroshima Daigaku Sui-Chikusangakubu Kiyo"
+  } ]
+} ]

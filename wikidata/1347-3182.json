@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842414",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Magn Reson Med Sci"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Magnetic resonance in medical sciences"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "52538"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1347-3182"
+  }, {
+    "@value" : "1880-2206"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/mrms/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1347-3182"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "mrms"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S90653425"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1880-2206"
+  }, {
+    "@value" : "1347-3182"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Magnetic resonance in medical sciences"
+  } ]
+} ]

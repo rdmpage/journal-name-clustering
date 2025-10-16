@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763005",
+  "http://example.com/crossref" : [ {
+    "@value" : "223545"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://miiz.waw.pl/pl/wydawnictwa/fragmenta-faunistica.html"
+  }, {
+    "@id" : "https://www.miiz.waw.pl/en/wydawnictwa/fragmenta-faunistica.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0015-9301"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210178663"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2391-5846"
+  }, {
+    "@value" : "0015-9301"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Fragmenta Faunistica"
+  }, {
+    "@language" : "la",
+    "@value" : "Fragmenta Faunistica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Fragmenta Faunistica"
+  } ]
+} ]

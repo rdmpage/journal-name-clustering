@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385624",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. N.Y. Entomol. Soc."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0028-7199"
+  }, {
+    "@language" : "de",
+    "@value" : "J. N. York Ent. Soc."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8089"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57408"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1893"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=0028-7199;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/loi/nynt"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00287199.html"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0028-7199"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jnewyorkentosoci"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S144855099"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2007"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1937-2361"
+  }, {
+    "@value" : "0028-7199"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the New York Entomological Society"
+  } ]
+} ]

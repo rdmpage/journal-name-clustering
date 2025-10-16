@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107718398",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull.- Okla. Geol. Surv."
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin - Oklahoma Geological Survey"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin (Oklahoma Geological Survey)"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.ou.edu/ogs/publications/bulletins"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-4389"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0078-4389"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin - Oklahoma Geological Survey"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin / Oklahoma Geological Survey"
+  } ]
+} ]

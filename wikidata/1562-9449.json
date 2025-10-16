@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q29035416",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.museum-joanneum.at/de/geologie/publikationen-6/joannea"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1562-9449"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1562-9449"
+  }, {
+    "@value" : "2225-8140"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Joannea Geologie und Paläontologie"
+  } ]
+} ]

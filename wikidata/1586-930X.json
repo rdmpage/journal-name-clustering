@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96702462",
+  "http://example.com/crossref" : [ {
+    "@value" : "267151"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1586-930X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210203303"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1586-930X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fragmenta palaeontologica Hungarica"
+  } ]
+} ]

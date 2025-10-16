@@ -1,0 +1,12 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q62594559",
+  "http://schema.org/issn" : [ {
+    "@value" : "0121-733X"
+  }, {
+    "@value" : "1909-2822"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletin del Museo de Entomologia de la Universidad del Valle"
+  } ]
+} ]

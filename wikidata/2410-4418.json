@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765135",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://wiredspace.wits.ac.za/handle/10539/13253"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-8554"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2410-4418"
+  }, {
+    "@value" : "0078-8554"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Palaeontologia Africana"
+  }, {
+    "@language" : "en",
+    "@value" : "Palaeontologia africana"
+  } ]
+} ]

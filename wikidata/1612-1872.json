@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761289",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Chemistry & Biodiversity"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "23037"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jhome/106056929"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1612-1872"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S206700086"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1612-1880"
+  }, {
+    "@value" : "1612-1872"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Chemistry & biodiversity"
+  }, {
+    "@language" : "en",
+    "@value" : "Chemistry and Biodiversity"
+  } ]
+} ]

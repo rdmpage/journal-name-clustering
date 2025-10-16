@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385180",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mem. San Diego Soc. Nat. Hist."
+  }, {
+    "@language" : "en",
+    "@value" : "Memoir - San Diego Society of Natural History"
+  }, {
+    "@language" : "en",
+    "@value" : "San Diego Society of Natural History Memoir"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0080-5920"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "3234"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1931"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0080-5920"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1989"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0080-5920"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoir - San Diego Society of Natural History"
+  } ]
+} ]

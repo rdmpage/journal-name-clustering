@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50434994",
+  "http://example.com/doaj" : [ {
+    "@value" : "0328-0543"
+  }, {
+    "@value" : "1851-3026"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://fcf.unse.edu.ar/rev_quebracho.htm"
+  }, {
+    "@id" : "http://www.redalyc.org/revista.oa?id=481"
+  }, {
+    "@id" : "http://www.scielo.org.ar/scielo.php?script=sci_serial&pid=1851-3026&lng=es&nrm=iso"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0328-0543"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0328-0543"
+  }, {
+    "@value" : "1851-3026"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Quebracho"
+  } ]
+} ]

@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765990",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Anuário Igeo"
+  }, {
+    "@language" : "en",
+    "@value" : "Anuário do Instituto de Geociências"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "193825"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1982-3908"
+  }, {
+    "@value" : "0101-9759"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://revistas.ufrj.br/index.php/aigeo"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0101-9759"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210226437"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1982-3908"
+  }, {
+    "@value" : "0101-9759"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Anuario do Instituto de Geociencias"
+  }, {
+    "@language" : "pt",
+    "@value" : "Anuário do Instituto de Geociências"
+  } ]
+} ]

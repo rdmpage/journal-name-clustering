@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q89659435",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Kalikasan, Philippine Journal of Biology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0115-0553"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0115-0553"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Kalikasan, the Philippine journal of biology"
+  } ]
+} ]

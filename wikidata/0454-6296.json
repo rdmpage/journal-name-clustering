@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386079",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Kunchong Xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "Kunchong Xuebao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "KCXB"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1950"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.insect.org.cn/CN/0454-6296/home.shtml"
+  }, {
+    "@id" : "http://www.insect.org.cn/EN/0454-6296/home.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0454-6296"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500326"
+  }, {
+    "@value" : "S4306500327"
+  }, {
+    "@value" : "S4306517889"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E66DE3B9-CFE5-420C-80AF-CE474BC89DF8"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0454-6296"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "昆虫学报"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Entomologica Sinica"
+  } ]
+} ]

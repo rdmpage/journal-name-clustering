@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26849564",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Freshw Sci"
+  }, {
+    "@language" : "en",
+    "@value" : "Freshwater science (Print)"
+  }, {
+    "@language" : "en",
+    "@value" : "FWS"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "160745"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioone.org/loi/jnbs.1"
+  }, {
+    "@id" : "http://www.jstor.org/action/showPublication?journalCode=fresscie"
+  }, {
+    "@id" : "https://www.journals.uchicago.edu/toc/fws/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2161-9549"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "fresscie"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2490919458"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2161-9565"
+  }, {
+    "@value" : "2161-9549"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Freshwater science"
+  } ]
+} ]

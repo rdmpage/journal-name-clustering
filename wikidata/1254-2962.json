@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q66438495",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ornithos: revue d'ornithologie de terrain"
+  }, {
+    "@language" : "fr",
+    "@value" : "Ornithos : revue d'ornithologie de terrain"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.lpo.fr/revues/ornithos"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1254-2962"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1254-2962"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Ornithos"
+  } ]
+} ]

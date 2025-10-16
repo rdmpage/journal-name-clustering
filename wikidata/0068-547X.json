@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51522336",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc. Calif. Acad. Sci. (1907)"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "3943"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1907"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0068-547X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the California Academy of Sciences, 4th series"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q6087086",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc. Calif. Acad. Sci."
+  }, {
+    "@language" : "de",
+    "@value" : "Proc. Calif. Acad. Sci."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7411"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1854"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://research.calacademy.org/scipubs"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210201159"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1896"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0068-547X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the California Academy of Sciences"
+  } ]
+} ]

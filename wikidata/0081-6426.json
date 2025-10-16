@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96333961",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Studia Geologica Polonica"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sgp.ing.pan.pl/his_sgp.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0081-6426"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306531036"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0081-6426"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Studia Geologica Polonica"
+  } ]
+} ]

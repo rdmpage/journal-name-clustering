@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6104807",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Reinwardtia: A Journal on Taxonomy Botany, Plant Sociology and Ecology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "298516"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2337-8824"
+  }, {
+    "@value" : "0034-365X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://e-journal.biologi.lipi.go.id/index.php/reinwardtia/index"
+  }, {
+    "@id" : "https://biologyjournal.brin.go.id/index.php/reinwardtia"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0034-365X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737320053"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E85702BF-DB6C-4C1B-AB11-7CF2A4794A86"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0034-365X"
+  }, {
+    "@value" : "2337-8824"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Reinwardtia"
+  }, {
+    "@language" : "en",
+    "@value" : "Reinwardtia"
+  } ]
+} ]

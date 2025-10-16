@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q40186042",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://helda.helsinki.fi/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0365-8627"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0365-8627"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fi",
+    "@value" : "Suomalaisen Eläin- ja Kasvitieteellisen Seuran Vanamon eläintieteellisiä julkaisuja"
+  }, {
+    "@language" : "la",
+    "@value" : "Annales zoologici Societatis zoologicae-botanicae Fennicae Vanamo"
+  }, {
+    "@language" : "mul",
+    "@value" : "Annales zoologici Societatis zoologicae-botanicae Fennicae Vanamo"
+  } ]
+} ]

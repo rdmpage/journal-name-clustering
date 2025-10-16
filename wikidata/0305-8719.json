@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15817216",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "GSL SPs"
+  }, {
+    "@language" : "en",
+    "@value" : "GSL SPs"
+  }, {
+    "@language" : "en",
+    "@value" : "Special publication - Geological Society of London"
+  }, {
+    "@language" : "en",
+    "@value" : "Special publication of the Geological Society of London"
+  }, {
+    "@language" : "ru",
+    "@value" : "Геологическое общество Лондона, специальные публикации"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "65091"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sp.lyellcollection.org/"
+  }, {
+    "@id" : "https://www.geolsoc.org.uk/sp"
+  }, {
+    "@id" : "https://www.lyellcollection.org/book/sp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0305-8719"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S29311329"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0305-8719"
+  }, {
+    "@value" : "2041-4927"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Special publication - Geological Society of London"
+  }, {
+    "@language" : "en",
+    "@value" : "Geological Society Special Publication"
+  } ]
+} ]

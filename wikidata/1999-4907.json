@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726711",
+  "http://example.com/crossref" : [ {
+    "@value" : "91546"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1999-4907"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2010"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.mdpi.com/journal/forests"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1999-4907"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S71324801"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1999-4907"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Forests"
+  } ]
+} ]

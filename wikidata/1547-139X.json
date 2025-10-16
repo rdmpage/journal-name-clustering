@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765767",
+  "http://example.com/crossref" : [ {
+    "@value" : "310977"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://micropress.org/journals/stratigraphy/"
+  }, {
+    "@id" : "http://www.micropress.org/stratigraphy/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2331-656X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S25214041"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1547-139X"
+  }, {
+    "@value" : "2331-656X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Stratigraphy"
+  } ]
+} ]

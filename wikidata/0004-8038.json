@@ -1,0 +1,61 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2300649",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Auk"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "The Auk: Ornithological Advances"
+  }, {
+    "@language" : "zh",
+    "@value" : "海雀"
+  }, {
+    "@language" : "fr",
+    "@value" : "The Auk - A quarterly Journal of Ornithology"
+  }, {
+    "@language" : "zh",
+    "@value" : "海雀：鸟类学进展"
+  }, {
+    "@language" : "en",
+    "@value" : "Auk"
+  }, {
+    "@language" : "en",
+    "@value" : "The Auk: Ornithological Advances"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "15959"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57288"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1884"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://academic.oup.com/auk"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0004-8038"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "auk"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S152904045"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3F3F951F-B494-44B0-B286-AF9BCB097966"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1938-4254"
+  }, {
+    "@value" : "0004-8038"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Auk"
+  }, {
+    "@language" : "en",
+    "@value" : "The Auk: Ornithological Advances"
+  } ]
+} ]

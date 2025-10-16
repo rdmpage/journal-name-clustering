@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q53953418",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Yamashina Chōrui Kenkyūjo Kenkyū hōkoku"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jyio1952/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0044-0183"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jyio1952"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210187024"
+  }, {
+    "@value" : "S4306548047"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "449D4656-3122-41EB-8F31-11807D3ED576"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0044-0183"
+  }, {
+    "@value" : "1883-3659"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Yamashina Chōrui Kenkyūjo Kenkyū hōkoku"
+  } ]
+} ]

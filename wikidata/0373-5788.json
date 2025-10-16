@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21034214",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Publicaciones del Museo de historia natural \"Javier Prado\". Serie B, Botánica"
+  }, {
+    "@language" : "en",
+    "@value" : "Publicaciones del Museo de Historia Natural, Serie (B) Botánica"
+  }, {
+    "@language" : "es",
+    "@value" : "Publicaciones del Museo de historia natural \"Javier Prado\". Serie B, Botánica"
+  }, {
+    "@language" : "es",
+    "@value" : "Publicaciones del Museo de Historia Natural Javier Prado. Serie B. Botanica"
+  }, {
+    "@language" : "es",
+    "@value" : "Publicaciones del Museo de Historia Natural, Serie (B) Botánica"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-5788"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-5788"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Publicaciones del Museo de historia natural \"Javier Prado\". Serie B, Botánica"
+  } ]
+} ]

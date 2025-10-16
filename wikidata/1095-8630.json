@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757726",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Environ. Manage."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1973"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.journals.elsevier.com/journal-of-environmental-management"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0301-4797"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S44455300"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://rss.sciencedirect.com/publication/science/03014797"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0301-4797"
+  }, {
+    "@value" : "1095-8630"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Environmental Management"
+  } ]
+} ]

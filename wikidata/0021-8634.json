@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1895843",
+  "http://example.com/crossref" : [ {
+    "@value" : "702"
+  }, {
+    "@value" : "495"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "755"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S65230043"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0021-8634"
+  }, {
+    "@value" : "1095-9246"
+  }, {
+    "@value" : "1537-5110"
+  }, {
+    "@value" : "1537-5129"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biosystems Engineering"
+  } ]
+} ]

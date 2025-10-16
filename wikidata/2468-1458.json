@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50817666",
+  "http://example.com/crossref" : [ {
+    "@value" : "297602"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/agriculture-and-natural-resources"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2452-316X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764371852"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2468-1458"
+  }, {
+    "@value" : "2452-316X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Agriculture and natural resources"
+  } ]
+} ]

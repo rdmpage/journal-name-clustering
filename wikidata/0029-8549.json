@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3349418",
+  "http://example.com/crossref" : [ {
+    "@value" : "789"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1968"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/442"
+  }, {
+    "@id" : "http://www.springer.com/journal/442"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0029-8549"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "oecologia"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S67154222"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1432-1939"
+  }, {
+    "@value" : "0029-8549"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Oecologia"
+  } ]
+} ]

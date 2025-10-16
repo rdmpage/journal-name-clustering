@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q104684853",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Kyouto Furitsu Daigaku gakujutsu houkoku. Seimei kankyougaku"
+  }, {
+    "@language" : "en",
+    "@value" : "The Scientific Reports of Kyoto Prefectural University (Life and Environmental Sciences)"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1882-6946"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2008"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://kpu.repo.nii.ac.jp/search?search_type=2&q=269"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1882-6946"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1882-6946"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Scientific Reports of Kyoto Prefectural University. Life and Environmental Sciences"
+  }, {
+    "@language" : "ja",
+    "@value" : "京都府立大学学術報告．生命環境学"
+  }, {
+    "@language" : "mul",
+    "@value" : "Kyouto Furitsu Daigaku gakujutsu houkoku. Seimei kankyougaku"
+  } ]
+} ]

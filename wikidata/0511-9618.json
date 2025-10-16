@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2675951",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Willdenowia"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "67914"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "20104"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1953"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0511-9618"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "willdenowia"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S107729305"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1868-6397"
+  }, {
+    "@value" : "0511-9618"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Willdenowia"
+  }, {
+    "@language" : "mul",
+    "@value" : "Willdenowia"
+  } ]
+} ]

@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3153326",
+  "http://example.com/from_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.waderstudygroup.org/pubs/iws.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1354-9944"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1354-9944"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International wader studies"
+  } ]
+} ]

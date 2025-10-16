@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385990",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0210-8984"
+  }, {
+    "@language" : "en",
+    "@value" : "Boln. Asoc. esp. Ent."
+  }, {
+    "@language" : "en",
+    "@value" : "Boletín de la AeE"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "6854"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1977"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.entomologica.es/publicaciones-boletin/en"
+  }, {
+    "@id" : "http://www.entomologica.es/publicaciones-boletin"
+  }, {
+    "@id" : "http://www.entomologica.es/publicaciones-boletin#numeros_publicados"
+  }, {
+    "@id" : "http://www.entomologica.es/publicaciones-suplementos"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0210-8984"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306504679"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "C95A4F4A-3C4E-4F14-8ECA-155F8E025D9C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2792-2456"
+  }, {
+    "@value" : "0210-8984"
+  }, {
+    "@value" : "2792-2464"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Boletín de la Asociación Española de Entomología"
+  } ]
+} ]

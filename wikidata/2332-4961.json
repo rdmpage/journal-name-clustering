@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727017",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Reptiles & amphibians"
+  }, {
+    "@language" : "en",
+    "@value" : "Reptiles & amphibians : conservation and natural history"
+  }, {
+    "@language" : "en",
+    "@value" : "Reptiles Amphib"
+  }, {
+    "@language" : "es",
+    "@value" : "Reptiles & amphibians : conservation and natural history"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2009"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journals.ku.edu/reptilesandamphibians"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2330-3956"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210171513"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2332-4961"
+  }, {
+    "@value" : "2330-3956"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Reptiles & amphibians"
+  } ]
+} ]

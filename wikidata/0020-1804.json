@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385413",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "Insecta matsumurana. Series entomology : journal of the Faculty of Agriculture, Hokkaido University"
+  }, {
+    "@language" : "fr",
+    "@value" : "Ins. Mats."
+  }, {
+    "@language" : "fr",
+    "@value" : "Insecta Matsum."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sustain.hokudai.ac.jp/2007/07/journal_insecta_matsumurana.php"
+  }, {
+    "@id" : "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/8947?langMode="
+  }, {
+    "@id" : "https://eprints.lib.hokudai.ac.jp/journals/index.php?jname=188"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0020-1804"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764587926"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "99B1BBD2-0DAE-4C5B-88CA-684ACA6DCB42"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0020-1804"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Insecta Matsumurana"
+  }, {
+    "@language" : "mul",
+    "@value" : "Insecta Matsumurana"
+  } ]
+} ]

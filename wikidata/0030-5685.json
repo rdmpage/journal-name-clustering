@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3356540",
+  "http://example.com/from_year" : [ {
+    "@value" : "1924"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ornisfennica.org/"
+  }, {
+    "@id" : "https://www.ornisfennica.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0030-5685"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S13255006"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2736-898X"
+  }, {
+    "@value" : "0030-5685"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ornis Fennica"
+  }, {
+    "@language" : "und",
+    "@value" : "Ornis Fennica"
+  } ]
+} ]

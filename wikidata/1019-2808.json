@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385525",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://entomology-iev.org/iev_mitt.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1019-2808"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1019-2808"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Mitteilungen des Internationalen Entomologischen Vereins"
+  }, {
+    "@language" : "de",
+    "@value" : "Mitteilungen des Internationalen Entomologischen Vereins e.V. Frankfurt a.M. gegr. 1884"
+  } ]
+} ]

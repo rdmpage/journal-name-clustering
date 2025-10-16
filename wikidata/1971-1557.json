@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385973",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1971-1557"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1971-1557"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1971-1557"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs on biodiversity"
+  } ]
+} ]

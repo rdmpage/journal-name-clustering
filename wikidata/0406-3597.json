@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96696600",
+  "http://example.com/crossref" : [ {
+    "@value" : "301273"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dergipark.gov.tr/bitkorb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0406-3597"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210172883"
+  }, {
+    "@value" : "S4306504471"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0406-3597"
+  }, {
+    "@value" : "1308-8122"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "tr",
+    "@value" : "Bitki koruma bulteni"
+  } ]
+} ]

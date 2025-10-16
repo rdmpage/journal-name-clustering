@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766274",
+  "http://example.com/crossref" : [ {
+    "@value" : "1328"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "4172"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.fsijournal.org/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/03790738/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0379-0738"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S15336283"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0379-0738"
+  }, {
+    "@value" : "1872-6283"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Forensic Science International"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51523503",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Publicaciones del Departamento de Zoología - Universidad de Barcelona"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "98362"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1976"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0210-4814"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1988"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0210-4814"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Publicaciones del Departamento de Zoología."
+  }, {
+    "@language" : "es",
+    "@value" : "Publicaciones del Departamento de Zoología - Universidad de Barcelona"
+  } ]
+} ]

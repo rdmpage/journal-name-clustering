@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q55088261",
+  "http://example.com/crossref" : [ {
+    "@value" : "306996"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1932-5231"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)2471-5646"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2471-5638"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210175218"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2471-5638"
+  }, {
+    "@value" : "2471-5646"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of experimental zoology. Part A, Ecological and integrative physiology"
+  } ]
+} ]

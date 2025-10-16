@@ -1,0 +1,59 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760238",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Memórias do Instituto Oswaldo Cruz."
+  }, {
+    "@language" : "en",
+    "@value" : "Mem. Inst. Oswaldo Cruz."
+  }, {
+    "@language" : "fr",
+    "@value" : "Memorias do Instituto Oswaldo Cruz, Rio de Janeiro"
+  }, {
+    "@language" : "en",
+    "@value" : "An International Journal of Biological and Biomedical Research"
+  }, {
+    "@language" : "en",
+    "@value" : "Mem. Inst. Oswaldo Cruz"
+  }, {
+    "@language" : "en",
+    "@value" : "Instituto Oswaldo Cruz, Rio de Janeiro. Memorias"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "13264"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "46127"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0074-0276"
+  }, {
+    "@value" : "1678-8060"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1909"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://memorias.ioc.fiocruz.br/"
+  }, {
+    "@id" : "https://www.scielo.br/mioc"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0074-0276"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S165991124"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1678-8060"
+  }, {
+    "@value" : "0074-0276"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Memórias do Instituto Oswaldo Cruz."
+  }, {
+    "@language" : "en",
+    "@value" : "Memórias do Instituto Oswaldo Cruz"
+  } ]
+} ]

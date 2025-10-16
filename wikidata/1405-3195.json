@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766667",
+  "http://example.com/dialnet" : [ {
+    "@value" : "6108"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.colpos.mx/agrocien/agrociencia.htm"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210195476"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0188-302X"
+  }, {
+    "@value" : "0188-3089"
+  }, {
+    "@value" : "1405-3195"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Agrociencia"
+  }, {
+    "@language" : "es",
+    "@value" : "Agrociencia"
+  } ]
+} ]

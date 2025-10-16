@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16796108",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Med. Rijks Herb. Leiden"
+  }, {
+    "@language" : "en",
+    "@value" : "Meded. Rijks-Herb."
+  }, {
+    "@language" : "en",
+    "@value" : "Mededeelingen van 's Rijks-Herbarium"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "49095"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1910"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1570-3223"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1933"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1570-3223"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Mededeelingen van 's-Rijks Herbarium"
+  }, {
+    "@language" : "nl",
+    "@value" : "Mededeelingen van's Rijks-Herbarium"
+  } ]
+} ]

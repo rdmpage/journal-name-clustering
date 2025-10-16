@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1006144",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "F. K."
+  }, {
+    "@language" : "en",
+    "@value" : "Foldtani Kozlony"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "10604"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "306358"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1871"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://epa.oszk.hu/foldtani_kozlony/"
+  }, {
+    "@id" : "http://ojs3.mtak.hu/index.php/foldtanikozlony/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0015-542X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210187998"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2559-902X"
+  }, {
+    "@value" : "0015-542X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Földtani Közlöny"
+  } ]
+} ]

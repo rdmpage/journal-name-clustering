@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4689831",
+  "http://example.com/crossref" : [ {
+    "@value" : "64170"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1966"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ingentaselect.com/"
+  }, {
+    "@id" : "http://www.nisc.co.za/"
+  }, {
+    "@id" : "http://www.tandfonline.com/action/aboutThisJournal?journalCode=tarf20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1022-0119"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S98916874"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1727-9380"
+  }, {
+    "@value" : "1022-0119"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "African Journal of Range & Forage Science"
+  } ]
+} ]

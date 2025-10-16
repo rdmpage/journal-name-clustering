@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q60590340",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.floramontiberica.org/entrada.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1988-4257"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1988-4257"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Bouteloua"
+  } ]
+} ]

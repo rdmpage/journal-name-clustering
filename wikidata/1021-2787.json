@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96705564",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Dhaka University journal of biological sciences"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "152725"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.banglajol.info/index.php/DUJBS"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1021-2787"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764692436"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1021-2787"
+  }, {
+    "@value" : "2408-8501"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Dhaka University journal of biological sciences"
+  } ]
+} ]

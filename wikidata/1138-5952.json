@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16012807",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Flora Montiber."
+  }, {
+    "@language" : "de",
+    "@value" : "Flora Montiber."
+  }, {
+    "@language" : "es",
+    "@value" : "Fl. Montiber."
+  }, {
+    "@language" : "es",
+    "@value" : "Flora montibérica"
+  }, {
+    "@language" : "es",
+    "@value" : "Flora Montiberica : (vehículo de expresión del Grupo de Trabajo sobre la Flora del Sistema Ibérico)."
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "7171"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1988-799X"
+  }, {
+    "@value" : "1138-5952"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.floramontiberica.org"
+  }, {
+    "@id" : "https://dialnet.unirioja.es/servlet/revista?codigo=7171"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1138-5952"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737297938"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1988-799X"
+  }, {
+    "@value" : "1138-5952"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Flora Montiberica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Flora montibérica"
+  } ]
+} ]

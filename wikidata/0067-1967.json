@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386214",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Austral. Mus. Mem."
+  }, {
+    "@language" : "en",
+    "@value" : "Memoir"
+  }, {
+    "@language" : "de",
+    "@value" : "Memoirs of the Australian Museum"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "100231"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "83046"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1851"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://australianmuseum.net.au/journalfinder"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0067-1967"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S77714077"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B0930F52-DD5A-4FA1-8046-72872D040E52"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0067-1967"
+  }, {
+    "@value" : "1839-4760"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoir"
+  }, {
+    "@language" : "en",
+    "@value" : "The Australian Museum Memoir"
+  }, {
+    "@language" : "en",
+    "@value" : "Australian Museum Mémoires"
+  } ]
+} ]

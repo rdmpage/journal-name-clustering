@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q29043709",
+  "http://example.com/crossref" : [ {
+    "@value" : "42943"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=G1scAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=iFocAQAAMAAJ"
+  }, {
+    "@id" : "http://books.google.com/books?id=sFocAQAAMAAJ"
+  }, {
+    "@id" : "http://rmg.geoscienceworld.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1555-7332"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210191052"
+  }, {
+    "@value" : "S45220261"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1555-7332"
+  }, {
+    "@value" : "0010-7980"
+  }, {
+    "@value" : "1555-7340"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Rocky Mountain geology"
+  } ]
+} ]

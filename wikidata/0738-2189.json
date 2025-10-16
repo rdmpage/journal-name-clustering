@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26849562",
+  "http://example.com/crossref" : [ {
+    "@value" : "55676"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/journals/07382189.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0738-2189"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "fresinvebiol"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764384906"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0738-2189"
+  }, {
+    "@value" : "2326-3954"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Freshwater invertebrate biology"
+  } ]
+} ]

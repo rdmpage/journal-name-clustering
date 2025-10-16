@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719530",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Taiwan Lin Ye Ke Xue"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1026-4469"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764359246"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1026-4469"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Taiwan lin ye ke xue"
+  }, {
+    "@language" : "mul",
+    "@value" : "Táiwān línyè kēxué"
+  } ]
+} ]

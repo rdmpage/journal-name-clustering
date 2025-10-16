@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27711829",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nihon Juigaku Zasshi"
+  }, {
+    "@language" : "ja",
+    "@value" : "日本獸醫學雜誌"
+  }, {
+    "@language" : "en",
+    "@value" : "The Japanese Journal of Veterinary Science"
+  }, {
+    "@language" : "en",
+    "@value" : "Japanese Journal of Veterinary Science"
+  }, {
+    "@language" : "en",
+    "@value" : "Nippon Juigaku Zasshi"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "141705"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jvms1939/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-5295"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jvms1939"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306551223"
+  }, {
+    "@value" : "S2754997917"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1881-1442"
+  }, {
+    "@value" : "0021-5295"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Japanese Journal of Veterinary Science"
+  }, {
+    "@language" : "mul",
+    "@value" : "Japanese journal of veterinary science"
+  }, {
+    "@language" : "ja",
+    "@value" : "Nihon Juigaku zasshi"
+  } ]
+} ]

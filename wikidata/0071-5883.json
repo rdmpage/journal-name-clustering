@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5862981",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bis.wur.nl/uk/publications/flore+du+gabon/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0071-5883"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0071-5883"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Flore du Gabon"
+  } ]
+} ]

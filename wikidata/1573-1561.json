@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15734655",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Chem. Ecol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Chem. Ecol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2574"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1975"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0098-0331;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.kluweronline.com/issn/0098-0331/contents"
+  }, {
+    "@id" : "http://www.springer.com/life+sciences/ecology/journal/10886"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0098-0331"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S134698528"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0098-0331"
+  }, {
+    "@value" : "1573-1561"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Chemical Ecology"
+  } ]
+} ]

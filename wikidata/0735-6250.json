@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386349",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0735-6250"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0735-6250"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210239360"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1985"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B6C1C590-3B7C-48C4-8E88-498D80B35901"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0735-6250"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Entomology"
+  } ]
+} ]

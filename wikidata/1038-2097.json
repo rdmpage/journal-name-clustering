@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7122408",
+  "http://example.com/crossref" : [ {
+    "@value" : "277206"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://atoz.ebsco.com/link.asp?id=11393&RID=1137356"
+  }, {
+    "@id" : "http://pcb.murdoch.edu.au/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1038-2097"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S71161756"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2204-4604"
+  }, {
+    "@value" : "1038-2097"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Pacific Conservation Biology"
+  } ]
+} ]

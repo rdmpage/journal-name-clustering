@@ -1,0 +1,89 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4037265",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Dtsc. Entomol. Z."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Dtsc. Entomol. Z."
+  }, {
+    "@language" : "en",
+    "@value" : "Mitteilungen aus dem Museum für Naturkunde in Berlin. Deutsche entomologische Zeitschrift"
+  }, {
+    "@language" : "en",
+    "@value" : "DEDEZ"
+  }, {
+    "@language" : "fr",
+    "@value" : "Dtsc. Entomol. Z."
+  }, {
+    "@language" : "ru",
+    "@value" : "Berliner Entomologische Zeitschrift"
+  }, {
+    "@language" : "pt",
+    "@value" : "Berliner Entomologische Zeitschrift"
+  }, {
+    "@language" : "en",
+    "@value" : "Dtsc. Entomol. Z."
+  }, {
+    "@language" : "en",
+    "@value" : "Deutsche entomologische Zeitschrift"
+  }, {
+    "@language" : "en",
+    "@value" : "Dtsch. entomol. Z."
+  }, {
+    "@language" : "de",
+    "@value" : "Berliner Entomologische Zeitschrift"
+  }, {
+    "@language" : "en",
+    "@value" : "Mitteilungen aus dem Museum für Naturkunde in Berlin, Deutsche Entomologische Zeitschrift"
+  }, {
+    "@language" : "en",
+    "@value" : "Berliner Entomologische Zeitschrift"
+  }, {
+    "@language" : "en",
+    "@value" : "DEZ"
+  }, {
+    "@language" : "fr",
+    "@value" : "Berliner Entomologische Zeitschrift"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "48608"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "66241"
+  }, {
+    "@value" : "46498"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1435-1951"
+  }, {
+    "@value" : "1860-1324"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1998"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://dez.pensoft.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1435-1951"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210193854"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "777322AB-37CC-4A41-B3C2-83A76AAD4F84"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1435-1951"
+  }, {
+    "@value" : "1860-1324"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Mitteilungen aus dem Museum für Naturkunde in Berlin. Deutsche entomologische Zeitschrift"
+  }, {
+    "@language" : "de",
+    "@value" : "Deutsche Entomologische Zeitschrift"
+  } ]
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1455822",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Kulturpflanzen"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1867-0911"
+  }, {
+    "@value" : "1867-0938"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2484277"
+  }, {
+    "@id" : "https://ojs.openagrar.de/index.php/Kulturpflanzenjournal"
+  }, {
+    "@id" : "https://ojs.openagrar.de/index.php/Kulturpflanzenjournal/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1867-0911"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306515251"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1867-0911"
+  }, {
+    "@value" : "1867-0938"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal fur Kulturpflanzen = Journal of cultivated plants"
+  }, {
+    "@language" : "de",
+    "@value" : "Journal für Kulturpflanzen"
+  } ]
+} ]

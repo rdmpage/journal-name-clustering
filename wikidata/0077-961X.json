@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385005",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin - New Zealand Department of Scientific and Industrial Research"
+  }, {
+    "@language" : "en",
+    "@value" : "D.S.I.R. Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "DSIR Bulletin"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0077-961X"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "CA800F37-3619-4DB5-8697-7F394B9152F9"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0077-961X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "DSIR bulletin"
+  } ]
+} ]

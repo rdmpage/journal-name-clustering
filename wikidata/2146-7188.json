@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96705603",
+  "http://example.com/crossref" : [ {
+    "@value" : "327974"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://dergipark.org.tr/tr/pub/huvfd"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2146-717X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210186313"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2146-717X"
+  }, {
+    "@value" : "2146-7188"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Harran üniversitesi veteriner fakültesi dergisi"
+  } ]
+} ]

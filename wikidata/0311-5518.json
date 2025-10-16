@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q210044",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Alcheringa"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Alcheringa: An Australasian Journal of Palaeontology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "63593"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandf.co.uk/journals/titles/03115518.asp"
+  }, {
+    "@id" : "https://www.tandfonline.com/action/journalInformation?journalCode=talc20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0311-5518"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S77999381"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "70B2A63B-2DFF-45A3-9407-B6BA527B1C18"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1752-0754"
+  }, {
+    "@value" : "0311-5518"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Alcheringa"
+  } ]
+} ]

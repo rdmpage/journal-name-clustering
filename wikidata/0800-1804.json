@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q11977376",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.entomologi.no/journals/insektnytt/Insekt-Nytt.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0800-1804"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0800-1804"
+  }, {
+    "@value" : "1890-9361"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nb",
+    "@value" : "Insekt-Nytt"
+  }, {
+    "@language" : "no",
+    "@value" : "Insekt-nytt"
+  } ]
+} ]

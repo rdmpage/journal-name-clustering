@@ -1,0 +1,64 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2455930",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Fossil Rec."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Fossil Rec."
+  }, {
+    "@language" : "de",
+    "@value" : "Fossil Rec."
+  }, {
+    "@language" : "en",
+    "@value" : "FR"
+  }, {
+    "@language" : "en",
+    "@value" : "Fossil Record (FR)"
+  }, {
+    "@language" : "en",
+    "@value" : "Fossil Rec."
+  }, {
+    "@language" : "en",
+    "@value" : "Foss. Rec."
+  }, {
+    "@language" : "de",
+    "@value" : "FR"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "52021"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2193-0074"
+  }, {
+    "@value" : "2193-0066"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.fossil-record.net/"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1860-1014"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2193-0066"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S137571962"
+  }, {
+    "@value" : "C2776110070"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A96E9753-134C-4D08-A2E3-31C66B0459C6"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2193-0074"
+  }, {
+    "@value" : "2193-0066"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Fossil record"
+  } ]
+} ]

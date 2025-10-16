@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5195083",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Curr. Sci."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "當代科學"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "293286"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1932"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.currentscience.ac.in/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0011-3891"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "currentscience"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S29607422"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0011-3891"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Current Science"
+  } ]
+} ]

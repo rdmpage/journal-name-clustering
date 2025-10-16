@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3186954",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Wildl. Manag."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "Журнал по управлению природой"
+  }, {
+    "@language" : "en",
+    "@value" : "The journal of wildlife management"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "63447"
+  }, {
+    "@value" : "49703"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1937"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291937-2817"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=0022-5413"
+  }, {
+    "@id" : "http://www.bioone.org/loi/wild"
+  }, {
+    "@id" : "http://www.jstor.org/journals/0022541X.html"
+  }, {
+    "@id" : "http://www.wildlife.org/publications/index.cfm?tname=journal"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-541X"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jwildmana"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S72902805"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1937-2817"
+  }, {
+    "@value" : "0022-541X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The journal of wildlife management"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Wildlife Management"
+  } ]
+} ]

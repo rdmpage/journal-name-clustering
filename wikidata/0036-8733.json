@@ -1,0 +1,83 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q39379",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Sci. Amer."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "环球科学"
+  }, {
+    "@language" : "zh",
+    "@value" : "Scientific American"
+  }, {
+    "@language" : "zh",
+    "@value" : "科學人"
+  }, {
+    "@language" : "en",
+    "@value" : "SciAm"
+  }, {
+    "@language" : "es",
+    "@value" : "Investigacion y Ciencia"
+  }, {
+    "@language" : "ru",
+    "@value" : "Sci Am"
+  }, {
+    "@language" : "ja",
+    "@value" : "Scientific American"
+  }, {
+    "@language" : "zh",
+    "@value" : "SciAm"
+  }, {
+    "@language" : "ru",
+    "@value" : "SciAm"
+  }, {
+    "@language" : "zh",
+    "@value" : "科學美國人"
+  }, {
+    "@language" : "es",
+    "@value" : "Investigación y Ciencia"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "90525"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "5341"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1845"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.scientificamerican.com"
+  }, {
+    "@id" : "http://www.nature.com/scientificamerican"
+  }, {
+    "@id" : "http://search.epnet.com/login.aspx?authtype=ip,uid&profile=sciamehost&defaultdb=sfh"
+  }, {
+    "@id" : "http://bibpurl.oclc.org/web/9566"
+  }, {
+    "@id" : "http://cdl.library.cornell.edu/moa/browse.journals/scia.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0036-8733"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "scieamer"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306554649"
+  }, {
+    "@value" : "S100460328"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "http://rss.sciam.com/ScientificAmerican-Global"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1946-7087"
+  }, {
+    "@value" : "0036-8733"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Scientific American"
+  } ]
+} ]

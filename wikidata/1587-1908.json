@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385512",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.smmi.hu/termtud/ns/ns.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1587-1908"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210217679"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2062-9990"
+  }, {
+    "@value" : "1587-1908"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Natura Somogyiensis"
+  } ]
+} ]

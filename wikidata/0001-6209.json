@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27713853",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0001-6209"
+  }, {
+    "@language" : "es",
+    "@value" : "Acta microbiologica Sinica"
+  }, {
+    "@language" : "zh",
+    "@value" : "微生物學報"
+  }, {
+    "@language" : "en",
+    "@value" : "Wei Sheng Wu Xue Bao"
+  }, {
+    "@language" : "zh",
+    "@value" : "Weishengwu xuebao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "WSXB"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1953"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://actamicro.ijournals.cn/actamicrocn/home"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-6209"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306534700"
+  }, {
+    "@value" : "S64849818"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-6209"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "微生物学报"
+  }, {
+    "@language" : "la",
+    "@value" : "Acta Microbiologica Sinica"
+  }, {
+    "@language" : "zh",
+    "@value" : "Weishengwu xuebao"
+  } ]
+} ]

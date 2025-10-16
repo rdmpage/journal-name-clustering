@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3799633",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "IJS"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "121505"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0392-6672"
+  }, {
+    "@value" : "1827-806X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ijs.speleo.it"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0392-6672"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S132059986"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1827-7713"
+  }, {
+    "@value" : "1827-806X"
+  }, {
+    "@value" : "0392-6672"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "International Journal of Speleology"
+  }, {
+    "@language" : "en",
+    "@value" : "International Journal of Speleology"
+  } ]
+} ]

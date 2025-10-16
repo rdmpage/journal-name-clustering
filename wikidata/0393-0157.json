@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767569",
+  "http://example.com/dialnet" : [ {
+    "@value" : "7042"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.muse.it/it/Editoria-Muse/Preistoria-Alpina/Pagine/Volumi_e_articoli.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0393-0157"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306523104"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0393-0157"
+  }, {
+    "@value" : "2532-5957"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Preistoria alpina"
+  }, {
+    "@language" : "und",
+    "@value" : "Preistoria Alpina"
+  } ]
+} ]

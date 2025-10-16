@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96330004",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://palaeontologicalsociety.in/publication.php"
+  }, {
+    "@id" : "https://journals.sagepub.com/home/JPI"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0552-9360"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2482653965"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2753-7269"
+  }, {
+    "@value" : "0552-9360"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Palaeontological Society of India"
+  } ]
+} ]

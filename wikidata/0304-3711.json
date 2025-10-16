@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386315",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0304-3711"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0304-3711"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Brenesia"
+  } ]
+} ]

@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756317",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "Ann. Rev. Entomol."
+  }, {
+    "@language" : "es",
+    "@value" : "Ann. Rev. Entomol."
+  }, {
+    "@language" : "fr",
+    "@value" : "Ann. Rev. Entomol."
+  }, {
+    "@language" : "en",
+    "@value" : "Ann. Rev. Entomol."
+  }, {
+    "@language" : "de",
+    "@value" : "Ann. Rev. Entomol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5708"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "94"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1956"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.annualreviews.org/journal/ento"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0066-4170"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S92576693"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "18162660-EEBD-49A8-A594-A49735FC582B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1545-4487"
+  }, {
+    "@value" : "0066-4170"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annual Review of Entomology"
+  } ]
+} ]

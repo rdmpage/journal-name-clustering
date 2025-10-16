@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726918",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Appl Environ Soil Sci"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "79978"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1687-7667"
+  }, {
+    "@value" : "1687-7675"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1687-7667"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S35029637"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1687-7667"
+  }, {
+    "@value" : "1687-7675"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Applied and Environmental Soil Science"
+  } ]
+} ]

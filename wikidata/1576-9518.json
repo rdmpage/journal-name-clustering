@@ -1,0 +1,74 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385502",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Revista ibérica de aracnología"
+  }, {
+    "@language" : "pt",
+    "@value" : "Revista de aracnología"
+  }, {
+    "@language" : "en",
+    "@value" : "Revista ibérica de aracnología"
+  }, {
+    "@language" : "de",
+    "@value" : "Revista de aracnología"
+  }, {
+    "@language" : "pt",
+    "@value" : "Revista ibérica de aracnología"
+  }, {
+    "@language" : "de",
+    "@value" : "Revista ibérica de aracnología"
+  }, {
+    "@language" : "fr",
+    "@value" : "Revista ibérica de aracnología"
+  }, {
+    "@language" : "fr",
+    "@value" : "Revista de aracnología"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista Iberica de Aracnologia"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista de aracnología"
+  }, {
+    "@language" : "de",
+    "@value" : "Revista Iberica de Aracnologia"
+  }, {
+    "@language" : "en",
+    "@value" : "Revista Iberica de Aracnologia"
+  }, {
+    "@language" : "pt",
+    "@value" : "Revista Iberica de Aracnologia"
+  }, {
+    "@language" : "en",
+    "@value" : "Revista de aracnología"
+  }, {
+    "@language" : "fr",
+    "@value" : "Revista Iberica de Aracnologia"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "2130"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sea-entomologia.org/Publicaciones/RevistaIbericaAracnologia/RevistaIbericaAracnologia.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1576-9518"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306527470"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1576-9518"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista Ibérica de Aracnología"
+  }, {
+    "@language" : "mul",
+    "@value" : "Revista de aracnología"
+  } ]
+} ]

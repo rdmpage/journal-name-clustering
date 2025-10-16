@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386199",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Entomological Review of Japan"
+  }, {
+    "@language" : "en",
+    "@value" : "Konchūgaku hyōron"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0286-9810"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764946631"
+  }, {
+    "@value" : "S4306551867"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A9281188-49A1-4FAC-893A-9BB98CD94121"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0286-9810"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Konchūgaku hyōron"
+  }, {
+    "@language" : "en",
+    "@value" : "The Entomological Review of Japan"
+  }, {
+    "@language" : "ja",
+    "@value" : "昆虫学評論"
+  } ]
+} ]

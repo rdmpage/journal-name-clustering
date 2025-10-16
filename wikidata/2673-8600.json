@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q131062883",
+  "http://example.com/doaj" : [ {
+    "@value" : "2673-8600"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2021"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.frontiersin.org/journals/insect-science#articles"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2673-8600"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210210584"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2673-8600"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Frontiers in Insect Science"
+  } ]
+} ]

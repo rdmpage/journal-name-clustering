@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5643138",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Feddes Repert."
+  }, {
+    "@language" : "zh",
+    "@value" : "Feddes Repertorium"
+  }, {
+    "@language" : "ru",
+    "@value" : "Feddes Repertorium"
+  }, {
+    "@language" : "en",
+    "@value" : "Feddes Repert."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "10137"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1522-239X"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jtoc?ID=60500205"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0014-8962"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S119469123"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1522-239X"
+  }, {
+    "@value" : "0014-8962"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Feddes Repertorium"
+  }, {
+    "@language" : "la",
+    "@value" : "Feddes Repertorium"
+  } ]
+} ]

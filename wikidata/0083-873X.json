@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385267",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Special publications - Western Australian Museum"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0083-873X"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "304434A0-7047-4022-A0A0-A132291FACA3"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0083-873X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Special publications - Western Australian Museum"
+  } ]
+} ]

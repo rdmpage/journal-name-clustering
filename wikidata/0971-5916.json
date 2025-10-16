@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6020786",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Indian J. Med. Res."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "156525"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0971-5916"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1913"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ijmr.org.in/"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S147245081"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0970-9568"
+  }, {
+    "@value" : "0971-5916"
+  }, {
+    "@value" : "0970-955X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Indian Journal of Medical Research"
+  } ]
+} ]

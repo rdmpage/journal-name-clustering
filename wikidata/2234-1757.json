@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726864",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Fish Aquatic Sci"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "298731"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2234-1757"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://fas.biomedcentral.com/"
+  }, {
+    "@id" : "https://www.e-fas.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2234-1749"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2738360252"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2234-1757"
+  }, {
+    "@value" : "2234-1749"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fisheries and aquatic sciences"
+  } ]
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96734475",
+  "http://example.com/crossref" : [ {
+    "@value" : "295740"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1965"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0044-5096"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210169221"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "1844BE5A-0544-40ED-BB45-F5D21A4AC887"
+  }, {
+    "@value" : "D75B3990-0D5D-4893-BCAB-B0CEE354A4C6"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0044-5096"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zoologica Africana"
+  }, {
+    "@language" : "mul",
+    "@value" : "Zoologica Africana"
+  } ]
+} ]

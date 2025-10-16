@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q62607034",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2458-942X"
+  }, {
+    "@language" : "en",
+    "@value" : "Fishtaxa Journal of fish taxonomy"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2015"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.fishtaxa.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2458-942X"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "CB56322F-CE36-451A-B3FA-05030AC0F06F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2458-942X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "FishTaxa: Journal of fish taxonomy"
+  }, {
+    "@language" : "tr",
+    "@value" : "Fishtaxa Journal of fish taxonomy"
+  } ]
+} ]

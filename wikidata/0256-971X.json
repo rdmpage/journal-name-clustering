@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766440",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Uttarpradesh Journal of Zoology"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1981"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://mbimph.com/index.php/UPJOZ"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0256-971X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764565682"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "2CCFAC19-B4ED-45F2-AB36-24E0ED112EA4"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0256-971X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Uttar Pradesh Journal of Zoology"
+  } ]
+} ]

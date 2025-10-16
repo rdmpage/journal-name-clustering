@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386241",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2185-9787"
+  }, {
+    "@language" : "en",
+    "@value" : "Sayabane (new series)"
+  }, {
+    "@language" : "ja",
+    "@value" : "Sayabane nyu shirizu"
+  }, {
+    "@language" : "ja",
+    "@value" : "Sayabane nyu sirizu"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2185-9787"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2185-9787"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "さやばね"
+  } ]
+} ]

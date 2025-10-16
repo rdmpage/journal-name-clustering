@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26250611",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Stapfia: Publikation der Botanischen Arbeitsgemeinschaft am O. Ö. Landesmuseum"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://sciendo.com/issue/STAPFIA/113/1"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0252-192X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2960-4087"
+  }, {
+    "@value" : "0252-192X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Stapfia"
+  }, {
+    "@language" : "la",
+    "@value" : "Stapfia"
+  } ]
+} ]

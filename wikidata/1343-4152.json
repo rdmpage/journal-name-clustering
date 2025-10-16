@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719510",
+  "http://example.com/bhl" : [ {
+    "@value" : "61272"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60656"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/mammalstudy/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1343-4152"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "mammalstudy"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S153676216"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1348-6160"
+  }, {
+    "@value" : "1343-4152"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Mammal Study"
+  } ]
+} ]

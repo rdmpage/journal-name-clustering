@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q22108838",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0547-9789"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0547-9789"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Jahresberichte des Naturwissenschaftlichen Vereins in Wuppertal"
+  }, {
+    "@language" : "mul",
+    "@value" : "Jahresberichte des Naturwissenschaftlichen Vereins in Wuppertal"
+  } ]
+} ]

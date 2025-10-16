@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755651",
+  "http://example.com/crossref" : [ {
+    "@value" : "13864"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.metapress.com/link.asp?id=102819"
+  }, {
+    "@id" : "http://www.springerlink.com/content/1618-5641/"
+  }, {
+    "@id" : "http://www.springerlink.com/link.asp?id=102819"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1618-5641"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210222653"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1618-5641"
+  }, {
+    "@value" : "1618-565X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Comparative Clinical Pathology"
+  } ]
+} ]

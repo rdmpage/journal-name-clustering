@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765162",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "N Z J Mar Fresh"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "102265"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.royalsociety.org.nz/publications/journals/nzjm/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0028-8330"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S33142482"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "440DF52E-D1CB-46E4-A8D0-03DAD0480C14"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1175-8805"
+  }, {
+    "@value" : "0028-8330"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "New Zealand Journal of Marine and Freshwater Research"
+  } ]
+} ]

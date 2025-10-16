@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q112671483",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of FFPRI"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ffpri.affrc.go.jp/pubs/bulletin/index.html"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/ffpri/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0916-4405"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "ffpri"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306552789"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2189-9363"
+  }, {
+    "@value" : "0916-4405"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "森林総合研究所研究報告"
+  } ]
+} ]

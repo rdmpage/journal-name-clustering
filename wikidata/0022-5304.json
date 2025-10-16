@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26842227",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0022-5304"
+  }, {
+    "@language" : "en",
+    "@value" : "The journal of tropical medicine and hygiene"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-5304"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2756068992"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0022-5304"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of tropical medicine and hygiene"
+  } ]
+} ]

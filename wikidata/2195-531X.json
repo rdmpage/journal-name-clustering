@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15746126",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://public.bibliothek.uni-halle.de/index.php/hercynia/issue/archive"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0018-0637"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2195-531X"
+  }, {
+    "@value" : "0018-0637"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Hercynia: Beitraege zur Erforschung und Pflege der Natuerlichen Ressourcen"
+  }, {
+    "@language" : "mul",
+    "@value" : "Hercynia"
+  } ]
+} ]

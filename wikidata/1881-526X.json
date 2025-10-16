@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q11418481",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mammalian Science"
+  }, {
+    "@language" : "ja",
+    "@value" : "Honyūrui kagaku"
+  }, {
+    "@language" : "en",
+    "@value" : "Honyurui Kagaku"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0385-437X"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "mammalianscience"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306545631"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0385-437X"
+  }, {
+    "@value" : "1881-526X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "哺乳類科学"
+  }, {
+    "@language" : "ja",
+    "@value" : "日本哺乳類学会誌"
+  }, {
+    "@language" : "en",
+    "@value" : "Mammalian Science"
+  }, {
+    "@language" : "ja",
+    "@value" : "Honyūrui kagaku"
+  } ]
+} ]

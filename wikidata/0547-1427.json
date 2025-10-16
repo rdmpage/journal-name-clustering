@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113477082",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://nagasaki-u.repo.nii.ac.jp/search?search_type=2&q=79"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0547-1427"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306559419"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0547-1427"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Nagasaki Daigaku Suisangakubu Kenkyu Hokoku"
+  } ]
+} ]

@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q111031320",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ancefn.org.ar/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0365-1185"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0365-1185"
+  }, {
+    "@value" : "2451-8182"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Anales de la Academia Nacional de Ciencias Exactas, Físicas y Naturales de Buenos Aires"
+  } ]
+} ]

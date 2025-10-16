@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107121827",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0100-2481"
+  }, {
+    "@language" : "pt",
+    "@value" : "Arquivos da Universidade Federal Rural do Rio de Janeiro"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://siarq.ufrj.br/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0100-2481"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0100-2481"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Arquivos da Universidade Federal Rural do Rio de Janeiro"
+  }, {
+    "@language" : "und",
+    "@value" : "Arquivos da Universidade Federal Rural do Rio de Janeiro"
+  } ]
+} ]

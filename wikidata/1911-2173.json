@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761803",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1911-2173"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "71520"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://epe.lac-bac.gc.ca/100/201/301/cdn%5Fjrn%5Fof%5Farthro%5Fidentification/index.html"
+  }, {
+    "@id" : "http://www.biology.ualberta.ca/bsc/ejournal/ejournal.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1911-2173"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S20553892"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1911-2173"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Canadian Journal of Arthropod Identification"
+  } ]
+} ]

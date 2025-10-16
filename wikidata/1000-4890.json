@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96330456",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Shengtaixue zazhi"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "STXZ"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.cje.net.cn/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-4890"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2948018973"
+  }, {
+    "@value" : "S4306529810"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-4890"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Shengtaixue zazhi"
+  } ]
+} ]

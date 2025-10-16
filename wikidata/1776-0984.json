@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751119",
+  "http://example.com/bhl" : [ {
+    "@value" : "174750"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2175"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1980"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sciencepress.mnhn.fr/fr/periodiques/algologie"
+  }, {
+    "@id" : "http://www.bioone.org/loi/crya"
+  }, {
+    "@id" : "http://www.cryptogamie.com/pagint_en/editeur/revues.php"
+  }, {
+    "@id" : "https://bioone.org/journals/cryptogamie-algologie/issues"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/cryptogamie-algologie"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0181-1568"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S179032277"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1776-0984"
+  }, {
+    "@value" : "0181-1568"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cryptogamie, Algologie"
+  }, {
+    "@language" : "mul",
+    "@value" : "Cryptogamie. Algologie"
+  } ]
+} ]

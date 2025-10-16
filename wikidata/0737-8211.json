@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6136937",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Syst. Bot. Monogr."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "114407"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/journals/07378211.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0737-8211"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "systbotamono"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210168266"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0737-8211"
+  }, {
+    "@value" : "2328-2398"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Systematic botany monographs"
+  }, {
+    "@language" : "und",
+    "@value" : "Systematic Botany Monographs"
+  } ]
+} ]

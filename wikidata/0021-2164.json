@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96325672",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Israel Journal of Earth-Sciences"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "9958"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.israelsciencejournals.com/earth.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-2164"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S170182230"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0021-2164"
+  }, {
+    "@value" : "2223-8972"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Israel Journal of Earth-Sciences"
+  } ]
+} ]

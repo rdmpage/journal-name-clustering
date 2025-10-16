@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385794",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1818-3557"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1818-3557"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Mémoires de l'Institut scientifique de Madagascar. Série E. Entomologie"
+  } ]
+} ]

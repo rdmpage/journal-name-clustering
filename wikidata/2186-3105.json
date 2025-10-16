@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96720850",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Umi no kenkyū"
+  }, {
+    "@language" : "ja",
+    "@value" : "Umi no kenkyū"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "165590"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/kaiyou1992/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0916-8362"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "kaiyou"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764889102"
+  }, {
+    "@value" : "S4210189602"
+  }, {
+    "@value" : "S4306553995"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2186-3105"
+  }, {
+    "@value" : "0916-8362"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "海の研究"
+  } ]
+} ]

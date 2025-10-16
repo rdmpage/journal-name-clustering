@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765727",
+  "http://example.com/crossref" : [ {
+    "@value" : "16988"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=1045-4438;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.haworthpress.com/store/product.asp?sku=J028"
+  }, {
+    "@id" : "https://www.tandfonline.com/toc/wjaa20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1045-4438"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S137932894"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1045-4438"
+  }, {
+    "@value" : "1545-0805"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Applied Aquaculture"
+  } ]
+} ]

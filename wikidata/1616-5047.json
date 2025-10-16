@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1713659",
+  "http://example.com/crossref" : [ {
+    "@value" : "134406"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.elsevier-deutschland.de/mammbiol"
+  }, {
+    "@id" : "http://www.mammalianbiology.org/index.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1616-5047"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S28739527"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1618-1476"
+  }, {
+    "@value" : "1616-5047"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Mammalian Biology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Mammalian biology"
+  } ]
+} ]

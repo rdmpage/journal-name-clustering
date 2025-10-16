@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q20664557",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. East Afr. Nat. Hist"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. East Afr. Nat. Hist."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60835"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://naturekenya.org/publications/jeanh/"
+  }, {
+    "@id" : "http://www.bioone.org/loi/eanh"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1026-1613"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S105436461"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1026-1613"
+  }, {
+    "@value" : "2224-8862"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of East African Natural History"
+  } ]
+} ]

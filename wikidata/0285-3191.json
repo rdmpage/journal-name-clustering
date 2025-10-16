@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q63432406",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "爬蟲兩棲類學雑誌"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Herpetologica Japonica"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "309444"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/hsj1964/list/-char/ja"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/hsj1972/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0285-3191"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "hsj1964"
+  }, {
+    "@value" : "hsj1972"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764415337"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1883-4493"
+  }, {
+    "@value" : "0285-3191"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "爬虫両棲類学雑誌"
+  } ]
+} ]

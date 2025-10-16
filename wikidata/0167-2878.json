@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q687092",
+  "http://example.com/from_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.dutchbirding.nl/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0167-2878"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0167-2878"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Dutch birding"
+  }, {
+    "@language" : "en",
+    "@value" : "Dutch Birding"
+  } ]
+} ]

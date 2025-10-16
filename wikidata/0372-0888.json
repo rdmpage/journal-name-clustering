@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6151607",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Trans. & Proc. Roy. Soc. South Australia"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "168318"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0372-0888"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0372-0888"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions and Proceedings of the Royal Society of South Australia"
+  } ]
+} ]

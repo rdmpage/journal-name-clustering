@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759434",
+  "http://example.com/crossref" : [ {
+    "@value" : "66759"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.int-res.com/journals/dao/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0177-5103"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S49731288"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0177-5103"
+  }, {
+    "@value" : "1616-1580"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Diseases of Aquatic Organisms"
+  } ]
+} ]

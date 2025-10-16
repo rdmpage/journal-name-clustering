@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385818",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mitt. Schweiz. entomol. Ges."
+  }, {
+    "@language" : "de",
+    "@value" : "Mitteilungen der Schweizerischen Entomologischen Gesellschaft = Bulletin de la Société entomologique suisse."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "9650"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297298"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1862"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.e-periodica.ch/digbib/vollist?var=true&UID=seg-001"
+  }, {
+    "@id" : "http://www.e-periodica.ch/digbib/volumes?UID=seg-001"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0036-7575"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210225521"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2016"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0036-7575"
+  }, {
+    "@value" : "2297-539X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Mitteilungen der Schweizerischen Entomologischen Gesellschaft"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Swiss Entomological Society"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société entomologique suisse"
+  } ]
+} ]

@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751782",
+  "http://example.com/crossref" : [ {
+    "@value" : "325435"
+  }, {
+    "@value" : "238127"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S184337958"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0006-3029"
+  }, {
+    "@value" : "0006-3509"
+  }, {
+    "@value" : "1555-6654"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Биофизика"
+  } ]
+} ]

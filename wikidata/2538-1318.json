@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386192",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2147-7612"
+  }, {
+    "@language" : "en",
+    "@value" : "JIB"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "211306"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://mapress.com/jib"
+  }, {
+    "@id" : "https://www.mapress.com/j/jib"
+  }, {
+    "@id" : "https://www.mapress.com/j/jib/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2147-7612"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210236017"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "1A60A204-EFCE-436A-93B8-332BE072A8B9"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2538-1318"
+  }, {
+    "@value" : "2147-7612"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Insect Biodiversity"
+  } ]
+} ]

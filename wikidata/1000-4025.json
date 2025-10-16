@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721266",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Xibei Zhiwu Xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "Xibei zhiwu xuebao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "DNYX"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1981"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://xbzwxb.cnjournals.com/xbzwxb/ch/index.aspx"
+  }, {
+    "@id" : "http://caod.oriprobe.com/journals/xbzwxb/Acta_Botanica_Boreali_Occidentalia_Sinica.htm"
+  }, {
+    "@id" : "http://xbzwxb.alljournal.net/xbzwxben/ch/index.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-4025"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500284"
+  }, {
+    "@value" : "S4306557929"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-4025"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta botanica Boreali-Occidentalia Sinica"
+  }, {
+    "@language" : "zh",
+    "@value" : "西北植物学报"
+  }, {
+    "@language" : "zh",
+    "@value" : "Xibei zhiwu xuebao"
+  } ]
+} ]

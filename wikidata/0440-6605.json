@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758095",
+  "http://example.com/crossref" : [ {
+    "@value" : "57154"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0440-6605"
+  }, {
+    "@value" : "1336-9083"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://pau.saske.sk/helm/"
+  }, {
+    "@id" : "https://content.sciendo.com/view/journals/helm/helm-overview.xml"
+  }, {
+    "@id" : "https://portal.webdepozit.sk/webapp-portal/search-eborn?q=Helminthologia.&m=2451%23%24a"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0440-6605"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S127086887"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0440-6605"
+  }, {
+    "@value" : "1336-9083"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Helminthologia"
+  }, {
+    "@language" : "en",
+    "@value" : "Helminthologia"
+  } ]
+} ]

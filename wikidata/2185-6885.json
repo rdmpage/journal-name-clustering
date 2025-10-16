@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386211",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Elytra (n.s.)"
+  }, {
+    "@language" : "en",
+    "@value" : "Elytra (new series)"
+  }, {
+    "@language" : "en",
+    "@value" : "Elytra. New series"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2011"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://coleoptera.sakura.ne.jp/publication/elytra/elytra-bibliography.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2185-6885"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306509222"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "C2C7A196-9C33-4107-B4A0-C157E38123A8"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2185-6885"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Elytra. New series"
+  } ]
+} ]

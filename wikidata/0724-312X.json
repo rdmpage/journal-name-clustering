@@ -1,0 +1,67 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6160598",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Verhandlungen des Botanischen Vereins für die Provinz Brandenburg"
+  }, {
+    "@language" : "de",
+    "@value" : "Verhandlungen des botanischen Vereins für die Provinz Brandenburg"
+  }, {
+    "@language" : "en",
+    "@value" : "Verhandlungen des botanischen Vereins für die Provinz Brandenburg und die angrenzenden Länder"
+  }, {
+    "@language" : "de",
+    "@value" : "Verh. Bot. Vereins Prov. Brandenburg"
+  }, {
+    "@language" : "de",
+    "@value" : "Verhandlungen des botanischen Vereins der Provinz Brandenburg"
+  }, {
+    "@language" : "en",
+    "@value" : "Verh. Bot. Vereins Prov. Brandenburg"
+  }, {
+    "@language" : "de",
+    "@value" : "Verhandlungen des botanischen Vereins für die Provinz Brandenburg und die angrenzenden Länder"
+  }, {
+    "@language" : "en",
+    "@value" : "Verhandlungen des botanischen Vereins der Provinz Brandenburg"
+  }, {
+    "@language" : "en",
+    "@value" : "Verhandlungen des botanischen Vereins für die Provinz Brandenburg"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "49731"
+  }, {
+    "@value" : "49733"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1859"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.botanischer-verein-brandenburg.de/literatur/publikationen/verhandlungen-1957-1980"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0724-312X"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1980"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0724-312X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Verhandlungen des Botanischen Vereins der Provinz Brandenburg."
+  }, {
+    "@language" : "de",
+    "@value" : "Verhandlungen des botanischen Vereins der Provinz Brandenburg."
+  }, {
+    "@language" : "de",
+    "@value" : "Verhandlungen des botanischen Vereins für die Provinz Brandenburg."
+  }, {
+    "@language" : "de",
+    "@value" : "Verhandlungen des Botanischen Vereins der Provinz Brandenburg"
+  }, {
+    "@language" : "de",
+    "@value" : "Verhandlungen des botanischen Vereins für die Provinz Brandenburg und die angrenzenden Länder."
+  } ]
+} ]

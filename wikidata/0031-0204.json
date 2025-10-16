@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385704",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "日本古生物学會報告・紀事 新編"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/prpsj1935/list/-char/ja"
+  }, {
+    "@id" : "https://www.jstage.jst.go.jp/browse/prpsj1951/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0031-0204"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "prpsj1935"
+  }, {
+    "@value" : "prpsj1951"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306550547"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B1465454-0D04-4B9A-825B-589129300B96"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2186-0963"
+  }, {
+    "@value" : "0031-0204"
+  }, {
+    "@value" : "2186-0955"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "日本古生物学会報告・記事"
+  }, {
+    "@language" : "mul",
+    "@value" : "Nihon Koseibutsu Gakkai hōkoku, kiji"
+  } ]
+} ]

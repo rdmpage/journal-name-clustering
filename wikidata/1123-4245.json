@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726401",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biol Mar Mediterr"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1123-4245"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306504389"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1123-4245"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Biologia marina mediterranea"
+  }, {
+    "@language" : "mul",
+    "@value" : "Biologia marina mediterranea"
+  } ]
+} ]

@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2556543",
+  "http://example.com/crossref" : [ {
+    "@value" : "5394"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ieeexplore.ieee.org/servlet/opac?punumber=94"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1070-9878"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S19003042"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1558-4135"
+  }, {
+    "@value" : "1070-9878"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "IEEE Transactions on Dielectrics and Electrical Insulation"
+  } ]
+} ]

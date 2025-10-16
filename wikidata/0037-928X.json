@@ -1,0 +1,57 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385878",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société Entomologique de France"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin de la Societe Entomologique de France"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Soc. entomol. Fr."
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin de la Societe entomologique de France"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin de la Société Entomologique de France"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8187"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297301"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1896"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://catalog.hathitrust.org/Record/000681741"
+  }, {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/cb34349290s/date"
+  }, {
+    "@id" : "https://lasef.org/publications/le-bulletin-de-la-sef/"
+  }, {
+    "@id" : "https://www.persee.fr/collection/bsef"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0037-928X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210197899"
+  }, {
+    "@value" : "S4306505089"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "77E49EBD-7D40-42E4-B308-A1C2C99B838F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0037-928X"
+  }, {
+    "@value" : "2540-2641"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société entomologique de France"
+  } ]
+} ]

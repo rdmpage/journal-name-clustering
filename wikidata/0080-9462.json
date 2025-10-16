@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q17623366",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0080-9462"
+  }, {
+    "@language" : "en",
+    "@value" : "Nat. Hist. Bull. Siam Soc."
+  }, {
+    "@language" : "en",
+    "@value" : "NAT. HIST. BULL. SIAM SOC."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.siam-society.org/pub_nhb/nhb_index.html"
+  }, {
+    "@id" : "https://thaiscience.info/view3.asp?sCode=NHB&sType=JOURNAL"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0080-9462"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0080-9462"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Natural History Bulletin of the Siam Society"
+  } ]
+} ]

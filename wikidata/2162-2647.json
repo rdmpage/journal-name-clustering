@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7571414",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Southwest. Entomol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Southwestern entomologist"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "81087"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1976"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioone.org/loi/swen"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0147-1724"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S59237442"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0147-1724"
+  }, {
+    "@value" : "2162-2647"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Southwestern entomologist"
+  }, {
+    "@language" : "en",
+    "@value" : "Southwestern Entomologist"
+  } ]
+} ]

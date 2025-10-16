@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749711",
+  "http://example.com/crossref" : [ {
+    "@value" : "167466"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ingentaconnect.com/content/saf/fs"
+  }, {
+    "@id" : "https://search.proquest.com/publication/47511"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0015-749X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S177859656"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1938-3738"
+  }, {
+    "@value" : "0015-749X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Forest Science"
+  } ]
+} ]

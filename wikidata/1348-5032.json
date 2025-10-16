@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764926",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Yamashina chouruigaku zasshi"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "69117"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jyio/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1348-5032"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jyio"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S10930221"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1348-5032"
+  }, {
+    "@value" : "1882-0999"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Yamashina chouruigaku zasshi"
+  }, {
+    "@language" : "ja",
+    "@value" : "山階鳥類学雑誌"
+  } ]
+} ]

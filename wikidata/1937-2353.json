@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6296160",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Kans. Entomol. Soc."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Kansas Entomological Society. Journal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "57547"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1928"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=0022-8567"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00228567.html"
+  }, {
+    "@id" : "http://www.k-state.edu/kes/current_issues.htm"
+  }, {
+    "@id" : "https://bioone.org/journals/journal-of-the-kansas-entomological-society"
+  }, {
+    "@id" : "https://www.jstor.org/journal/jkansentosoci"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0022-8567"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jkansentosoci"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S151529053"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1937-2353"
+  }, {
+    "@value" : "0022-8567"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Kansas Entomological Society"
+  } ]
+} ]

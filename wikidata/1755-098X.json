@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760135",
+  "http://example.com/crossref" : [ {
+    "@value" : "73278"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://onlinelibrary.wiley.com/journal/17550998"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1755-098X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S64961995"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1755-0998"
+  }, {
+    "@value" : "1755-098X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Molecular Ecology Resources"
+  } ]
+} ]

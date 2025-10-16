@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50816649",
+  "http://example.com/crossref" : [ {
+    "@value" : "231166"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2300-0384"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.studia.quaternaria.pan.pl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1641-5558"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2739303206"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1641-5558"
+  }, {
+    "@value" : "2300-0384"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Studia Quaternaria"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386174",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Reports of the British Association for the Advancement of Science"
+  }, {
+    "@language" : "en",
+    "@value" : "Rep. Br. Ass. Advmt Sci."
+  }, {
+    "@language" : "en",
+    "@value" : "Report of the ... meeting of the British Association for the Advancement of Science"
+  }, {
+    "@language" : "en",
+    "@value" : "Report of the ... meetings of the British Association for the Advancement of Science"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "2276"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0262-690X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0262-690X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Report of the ... meeting of the British Association for the Advancement of Science"
+  }, {
+    "@language" : "en",
+    "@value" : "Report of the British Association for the Advancement of Science"
+  } ]
+} ]

@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q114794818",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2414-8814"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2016"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2414-8814"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2414-8814"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Weberbauerella"
+  } ]
+} ]

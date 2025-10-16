@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96738437",
+  "http://example.com/crossref" : [ {
+    "@value" : "265977"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://129.237.145.244:591/FMPro?-db=treatise&-lay=Table&-format=treatise/treatise.html&-view"
+  }, {
+    "@id" : "http://paleo.ku.edu/"
+  }, {
+    "@id" : "http://paleo.ku.edu/treatiseonline"
+  }, {
+    "@id" : "https://journals.ku.edu/index.php/treatiseonline"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2153-4012"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210180669"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2381-1528"
+  }, {
+    "@value" : "2153-4012"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Treatise online"
+  } ]
+} ]

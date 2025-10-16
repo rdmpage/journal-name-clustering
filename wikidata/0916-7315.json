@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113474997",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.lib.kyushu-u.ac.jp/publications_kyushu/wakusei_1991"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0916-7315"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0916-7315"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Kyūshū Daigaku Rigakubu kenkyū hōkoku. Chikyū wakusei kagaku"
+  } ]
+} ]

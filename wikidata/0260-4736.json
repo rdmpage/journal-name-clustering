@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7416240",
+  "http://example.com/bhl" : [ {
+    "@value" : "82296"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.osme.org/sandgrouse"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0260-4736"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S16299936"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0260-4736"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Sandgrouse"
+  } ]
+} ]

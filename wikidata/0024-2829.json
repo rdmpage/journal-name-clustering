@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755501",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Lichenologist"
+  }, {
+    "@language" : "en",
+    "@value" : "Lichenologist, The"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "633"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/1755877.html"
+  }, {
+    "@id" : "http://journals.cambridge.org/LIC"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00242829"
+  }, {
+    "@id" : "https://www.cambridge.org/core/journals/lichenologist"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0024-2829"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S168814323"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1096-1135"
+  }, {
+    "@value" : "0024-2829"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Lichenologist"
+  }, {
+    "@language" : "en",
+    "@value" : "Lichenologist"
+  }, {
+    "@language" : "en",
+    "@value" : "The Lichenologist: an international journal"
+  } ]
+} ]

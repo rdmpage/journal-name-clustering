@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96703551",
+  "http://example.com/crossref" : [ {
+    "@value" : "265245"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "19929"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.revistas.unal.edu.co/index.php/geocol/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0072-0992"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210196176"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2357-3767"
+  }, {
+    "@value" : "0072-0992"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Geología Colombiana"
+  } ]
+} ]

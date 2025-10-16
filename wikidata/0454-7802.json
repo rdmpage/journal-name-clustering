@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q45114203",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Mem. Fac. Sci., Kyoto Univ., Ser. Biol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of the Faculty of Science, Kyoto University. Series of biology"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/255926"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0454-7802"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0454-7802"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Memoirs of the Faculty of Science, Kyoto University. Series of biology"
+  } ]
+} ]

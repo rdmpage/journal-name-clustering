@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5735456",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin Trimestriel de l'Académie Malgache"
+  }, {
+    "@language" : "de",
+    "@value" : "Bulletin Trimestriel de l'Académie Malgache"
+  }, {
+    "@language" : "es",
+    "@value" : "Bulletin Trimestriel de l'Académie Malgache"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "13856"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1902"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-4473"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0366-4473"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin Trimestriel de l'Académie Malgache"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de l'Académie Malgache"
+  } ]
+} ]

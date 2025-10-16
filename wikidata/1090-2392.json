@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2622710",
+  "http://example.com/crossref" : [ {
+    "@value" : "682"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/00112240"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://www.idealibrary.com"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0011-2240;screen=info;ECOIP"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0011-2240"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S87343901"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0011-2240"
+  }, {
+    "@value" : "1090-2392"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cryobiology"
+  } ]
+} ]

@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q75553728",
+  "http://example.com/bhl" : [ {
+    "@value" : "973"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0790-8113"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0790-8113"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Royal Irish Academy"
+  } ]
+} ]

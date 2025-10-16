@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385536",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Dipterological Research"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1021-1020"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1990"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "8B161AD2-7E57-42E5-A363-D139CE2677FC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1021-1020"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Dipterological Research"
+  }, {
+    "@language" : "en",
+    "@value" : "Dipterological Research"
+  } ]
+} ]

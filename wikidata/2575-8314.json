@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q73542392",
+  "http://example.com/crossref" : [ {
+    "@value" : "327222"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2575-8314"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://besjournals.onlinelibrary.wiley.com/journal/25758314"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2575-8314"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210220774"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2575-8314"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "People and nature"
+  } ]
+} ]

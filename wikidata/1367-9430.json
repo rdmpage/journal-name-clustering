@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752972",
+  "http://example.com/crossref" : [ {
+    "@value" : "6065"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1469-1795"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/loi/acv"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1367-9430"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S144146645"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1367-9430"
+  }, {
+    "@value" : "1469-1795"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Animal Conservation"
+  }, {
+    "@language" : "en",
+    "@value" : "Animal conservation"
+  } ]
+} ]

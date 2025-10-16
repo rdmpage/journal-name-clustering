@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2376904",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Nat. Prod. Rep."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3452"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1984"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://pubs.rsc.org/en/journals/journalissues/np#!issueid=np031010&type=current&issnprint=0265-0568"
+  }, {
+    "@id" : "http://www.rsc.org/Publishing/Journals/NP/index.asp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0265-0568"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S18855311"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1460-4752"
+  }, {
+    "@value" : "0265-0568"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Natural Product Reports"
+  } ]
+} ]

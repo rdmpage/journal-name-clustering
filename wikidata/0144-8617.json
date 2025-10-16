@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2937928",
+  "http://example.com/crossref" : [ {
+    "@value" : "1602"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/01448617"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0144-8617"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S64311837"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1879-1344"
+  }, {
+    "@value" : "0144-8617"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Carbohydrate Polymers"
+  } ]
+} ]

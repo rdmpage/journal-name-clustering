@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385239",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Linnean Society of London. 2nd ser. Botany"
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Linnean Society of London. Botany"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1945-9459"
+  }, {
+    "@language" : "de",
+    "@value" : "Trans. Linn. Soc. London, Bot."
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Linnean Society of London. Botany."
+  }, {
+    "@language" : "en",
+    "@value" : "Transactions of the Linnean Society of London. Second series. Botany"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "83870"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1880"
+  }, {
+    "@value" : "1875"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1945-9351/issues?activeYear=1883"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1945-9459"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1922"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1945-9459"
+  }, {
+    "@value" : "1945-9351"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Linnean Society of London. Botany."
+  } ]
+} ]

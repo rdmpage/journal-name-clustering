@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385456",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Records"
+  }, {
+    "@language" : "de",
+    "@value" : "Records of the National Museum of New Zealand"
+  }, {
+    "@language" : "en",
+    "@value" : "Records - National Museum of New Zealand"
+  }, {
+    "@language" : "en",
+    "@value" : "Records of the National Museum of New Zealand"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0110-943X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0110-943X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "National Museum of New Zealand Records"
+  }, {
+    "@language" : "en",
+    "@value" : "Records - National Museum of New Zealand"
+  } ]
+} ]

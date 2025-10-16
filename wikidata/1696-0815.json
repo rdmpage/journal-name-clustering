@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764529",
+  "http://example.com/dialnet" : [ {
+    "@value" : "17913"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journaltaphonomy.com"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1696-0815"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764753713"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1696-2648"
+  }, {
+    "@value" : "1696-0815"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Taphonomy"
+  } ]
+} ]

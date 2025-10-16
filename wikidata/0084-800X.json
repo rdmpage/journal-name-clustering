@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6398080",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0084-800X"
+  }, {
+    "@language" : "es",
+    "@value" : "Bradea (revista)"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://herbariumbradeanum.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0084-800X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0084-800X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bradea"
+  }, {
+    "@language" : "und",
+    "@value" : "Bradea"
+  } ]
+} ]

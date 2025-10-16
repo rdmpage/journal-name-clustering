@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1197416",
+  "http://example.com/from_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tintling.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1430-595X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1430-595X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Der Tintling"
+  }, {
+    "@language" : "de",
+    "@value" : "Der Tintling"
+  } ]
+} ]

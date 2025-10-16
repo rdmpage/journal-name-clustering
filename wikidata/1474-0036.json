@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3159728",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Edinburgh J. Bot."
+  }, {
+    "@language" : "ja",
+    "@value" : "エディンバラ・ジャーナル・オヴ・ボタニー"
+  }, {
+    "@language" : "en",
+    "@value" : "Edinburgh J. Bot."
+  }, {
+    "@language" : "ru",
+    "@value" : "Эдинбургский ботанический журнал"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "6032"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=EJB"
+  }, {
+    "@id" : "http://journals.cambridge.org/EJB"
+  }, {
+    "@id" : "https://journals.rbge.org.uk/ejb/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0960-4286"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S115394524"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "http://et-online.nu/index.php/contents/gateway/plugin/WebFeedGatewayPlugin/rss"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0960-4286"
+  }, {
+    "@value" : "1474-0036"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Edinburgh Journal of Botany"
+  } ]
+} ]

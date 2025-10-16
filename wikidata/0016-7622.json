@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765593",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Geological Society of India. Journal"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "85065"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springer.com/earth+sciences/geology/journal/12594"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0016-7622"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210206196"
+  }, {
+    "@value" : "S60020396"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0016-7622"
+  }, {
+    "@value" : "0974-6889"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Geological Society of India"
+  } ]
+} ]

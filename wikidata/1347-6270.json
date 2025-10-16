@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q46792378",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Lichenology (Japan)"
+  }, {
+    "@language" : "en",
+    "@value" : "Lichenology: A Journal Devoted to All Research Fields of Lichenology"
+  }, {
+    "@language" : "es",
+    "@value" : "Lichenology (Japan)"
+  }, {
+    "@language" : "es",
+    "@value" : "Lichenology: A Journal Devoted to All Research Fields of Lichenology"
+  }, {
+    "@language" : "fr",
+    "@value" : "Lichenology (Japan)"
+  }, {
+    "@language" : "fr",
+    "@value" : "Lichenology: A Journal Devoted to All Research Fields of Lichenology"
+  }, {
+    "@language" : "pt",
+    "@value" : "Lichenology (Japan)"
+  }, {
+    "@language" : "pt",
+    "@value" : "Lichenology: A Journal Devoted to All Research Fields of Lichenology"
+  }, {
+    "@language" : "de",
+    "@value" : "Lichenology (Japan)"
+  }, {
+    "@language" : "de",
+    "@value" : "Lichenology: A Journal Devoted to All Research Fields of Lichenology"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.lichenology-jp.org/ja/lichenology/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1347-6270"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1347-6270"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "日本地衣学会誌"
+  }, {
+    "@language" : "mul",
+    "@value" : "Lichenology"
+  } ]
+} ]

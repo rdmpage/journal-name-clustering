@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385804",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0375-2909"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-2909"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2012"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0375-2909"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Steenstrupia"
+  } ]
+} ]

@@ -1,0 +1,55 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756901",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Ann. Carnegie Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "Ann. Carnegie Mus."
+  }, {
+    "@language" : "fr",
+    "@value" : "Annals of Carnegie Museum"
+  }, {
+    "@language" : "en",
+    "@value" : "Annals of the Carnegie Museum"
+  }, {
+    "@language" : "en",
+    "@value" : "Carnegie Museum of Natural History. Annals"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8985"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60658"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1901"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=0097-4463"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=0097-4463"
+  }, {
+    "@id" : "http://www.carnegiemnh.org/science/default.aspx?id=9998"
+  }, {
+    "@id" : "http://www.carnegiemuseums.org/cmnh/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0097-4463"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S102275404"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "82200323-0C15-430F-9982-BCF2A6449D3E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0097-4463"
+  }, {
+    "@value" : "1943-6300"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annals of the Carnegie Museum of Natural History"
+  } ]
+} ]

@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6107122",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Revista de la Facultad de Agronomía"
+  }, {
+    "@language" : "en",
+    "@value" : "Revista de la Facultad de Agronomía (La Plata)"
+  }, {
+    "@language" : "en",
+    "@value" : "Revista de la Facultad de Agronomía, La Plata"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "359718"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "7740"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1669-9513"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://revistas.unlp.edu.ar/revagro/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0041-8676"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "1CA0D73B-FF99-4E1A-A299-26A7FFCC81F4"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1669-9513"
+  }, {
+    "@value" : "0041-8676"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista de la Facultad de Agronomía"
+  } ]
+} ]

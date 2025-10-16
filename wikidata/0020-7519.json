@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6051284",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Int. J. Parasitol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Int J Parasitol"
+  }, {
+    "@language" : "en",
+    "@value" : "Int J Parasitol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1514"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.elsevier.com/wps/find/journaldescription.cws_home/353/description#description"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/00207519"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0020-7519"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S163169856"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1879-0135"
+  }, {
+    "@value" : "0020-7519"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal for Parasitology"
+  } ]
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q123272214",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Capita Zoologica"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1921"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1875-1059"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "w4213319079"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1939"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1875-1059"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Capita zoologica"
+  }, {
+    "@language" : "nl",
+    "@value" : "Capita Zoologica Verhandelingen op Systematisch-Zoologisch Gebied"
+  } ]
+} ]

@@ -1,0 +1,54 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2034494",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Development, Growth & Differentiation"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "14023"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1440-169X/issues"
+  }, {
+    "@id" : "http://www.interscience.wiley.com/jpages/0012-1592/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0012-1592"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0012-1592"
+  }, {
+    "@value" : "1440-169X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Development, growth & differentiation"
+  }, {
+    "@language" : "en",
+    "@value" : "Development, Growth and Differentiation"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q27710769",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Embryologia (Nagoya)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "266271"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0367-0228"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210213141"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0367-0228"
+  }, {
+    "@value" : "0012-1592"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Embryologia"
+  } ]
+} ]

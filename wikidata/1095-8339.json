@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2975482",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bot. J. Linn. Soc."
+  }, {
+    "@language" : "es",
+    "@value" : "Bot. J. Linn. Soc."
+  }, {
+    "@language" : "en",
+    "@value" : "Bot. J. Linn. Soc"
+  }, {
+    "@language" : "de",
+    "@value" : "Bot. J. Linn. Soc."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "631"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.blackwell-synergy.com/servlet/useragent?func=showIssues&code=boj"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/journal/121583649/tocgroup"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0024-4074"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S159699259"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "F2180285-0493-4651-999E-0FF389AA7DF5"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0024-4074"
+  }, {
+    "@value" : "1095-8339"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Botanical Journal of the Linnean Society"
+  } ]
+} ]

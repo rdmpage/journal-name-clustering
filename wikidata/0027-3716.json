@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27791607",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Murrelet"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "59780"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/journals/00273716.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0027-3716"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "murrelet"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210216995"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2325-713X"
+  }, {
+    "@value" : "0027-3716"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Murrelet"
+  } ]
+} ]

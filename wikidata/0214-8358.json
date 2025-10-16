@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766155",
+  "http://example.com/crossref" : [ {
+    "@value" : "78682"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "5138"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1886-8134"
+  }, {
+    "@value" : "0214-8358"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1955"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://digital.casalini.it/18868134"
+  }, {
+    "@id" : "http://www.icm.csic.es/scimar/"
+  }, {
+    "@id" : "https://dialnet.unirioja.es/servlet/revista?codigo=5138"
+  }, {
+    "@id" : "https://scientiamarina.revistas.csic.es/index.php/scientiamarina/issue/archive"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0214-8358"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S139876745"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "F44BC995-2A96-46BE-BFBF-6510343E109B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0214-8358"
+  }, {
+    "@value" : "1886-8134"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Scientia Marina: international journal on marine sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Scientia marina"
+  } ]
+} ]

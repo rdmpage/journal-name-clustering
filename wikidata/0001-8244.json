@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4034967",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Behav. Genet."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "Behav. Genet."
+  }, {
+    "@language" : "fr",
+    "@value" : "Behav. Genet."
+  }, {
+    "@language" : "de",
+    "@value" : "Behav. Genet."
+  }, {
+    "@language" : "en",
+    "@value" : "Behav. Genet."
+  }, {
+    "@language" : "zh",
+    "@value" : "Behav. Genet."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2741"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0001-8244;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.kluweronline.com/issn/0001-8244/contents"
+  }, {
+    "@id" : "http://www.springer.com/psychology/psychology+general/journal/10519"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-8244"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S46238352"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-8244"
+  }, {
+    "@value" : "1573-3297"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Behavior Genetics"
+  } ]
+} ]

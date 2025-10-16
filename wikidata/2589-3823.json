@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96320390",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2589-3823"
+  }, {
+    "@language" : "en",
+    "@value" : "Fungal Syst Evol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "311717"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.fuse-journal.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2589-3823"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210186556"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "https://api.ingentaconnect.com/content/wfbi/fuse/latest?format=rss"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2589-3823"
+  }, {
+    "@value" : "2589-3831"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fungal systematics and evolution"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386030",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Fossil mammals of Africa"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0427-0533"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "118753"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0427-0533"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0427-0533"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Fossil mammals of Africa"
+  } ]
+} ]

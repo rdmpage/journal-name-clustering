@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749994",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Experimental & Applied Acarology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2544"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1985"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dx.doi.org/10.1007/10493.1572-9702"
+  }, {
+    "@id" : "http://www.springer.com/life+sciences/entomology/journal/10493"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0168-8162"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S150156781"
+  }, {
+    "@value" : "S157861655"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1572-9702"
+  }, {
+    "@value" : "0168-8162"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Experimental & applied acarology"
+  }, {
+    "@language" : "en",
+    "@value" : "Experimental and Applied Acarology"
+  } ]
+} ]

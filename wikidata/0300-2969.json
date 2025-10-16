@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q94626389",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "[Cahiers de la Maboké]"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0300-2969"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0300-2969"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Cahiers de La Maboké"
+  } ]
+} ]

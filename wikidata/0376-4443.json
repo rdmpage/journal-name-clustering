@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q37927441",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Bull. Mus. Natl. Hist. Nat. Ser. 3, Bot."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. Mus. Natl. Hist. Nat. Ser. 3, Bot."
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. Mus. Natl. Hist. Nat. Ser. 3, Bot."
+  }, {
+    "@language" : "es",
+    "@value" : "Bulletin du Muséum National d'Histoire Naturelle Sér. 3, Botanique"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bull. Mus. Natl. Hist. Nat. Ser. 3, Bot."
+  }, {
+    "@language" : "de",
+    "@value" : "Bulletin du Muséum National d'Histoire Naturelle Sér. 3, Botanique"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin du Muséum national d'histoire naturelle sér. 3, botanique"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin du Muséum national d'histoire naturelle Sér. 3, botanique"
+  }, {
+    "@language" : "es",
+    "@value" : "Bull. Mus. Natl. Hist. Nat. Ser. 3, Bot."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "12908"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0376-4443"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0376-4443"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin du Muséum national d'histoire naturelle. Botanique"
+  } ]
+} ]

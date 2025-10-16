@@ -1,0 +1,100 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755646",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zoosystematics and Evolution: Mitteilungen aus dem Museum für Naturkunde zu Berlin"
+  }, {
+    "@language" : "en",
+    "@value" : "ZSE"
+  }, {
+    "@language" : "de",
+    "@value" : "Zoosystematics and Evolution: Mitteilungen aus dem Museum für Naturkunde zu Berlin"
+  }, {
+    "@language" : "de",
+    "@value" : "ZSE"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1998"
+  }, {
+    "@value" : "2008"
+  }, {
+    "@value" : "1898"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://zse.pensoft.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1435-1935"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764429979"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "ED34F394-2E4C-49D6-8300-0DC18F233E6C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1435-1935"
+  }, {
+    "@value" : "1860-0743"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Mitteilungen aus dem Museum für Naturkunde in Berlin. Zoologische Reihe"
+  }, {
+    "@language" : "en",
+    "@value" : "Zoosystematics and Evolution"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q45114493",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zoologische Reihe"
+  }, {
+    "@language" : "es",
+    "@value" : "Zoologische Reihe"
+  }, {
+    "@language" : "en",
+    "@value" : "ZSE"
+  }, {
+    "@language" : "en",
+    "@value" : "Mitt. Mus. Nat.kd. Berl., Zool. Reihe"
+  }, {
+    "@language" : "en",
+    "@value" : "Mitt. Mus. Naturkunde Berl. Zoolog. Reihe"
+  }, {
+    "@language" : "en",
+    "@value" : "Mitteilungen aus dem Museum für Naturkunde in Berlin, Zoologische Reihe"
+  }, {
+    "@language" : "en",
+    "@value" : "Mitteilungen aus dem Museum für Naturkunde, Zoologische Reihe"
+  }, {
+    "@language" : "en",
+    "@value" : "Zoosystematics and Evolution"
+  }, {
+    "@language" : "es",
+    "@value" : "Zoosystematics and Evolution"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1435-1935"
+  }, {
+    "@value" : "1860-0743"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://onlinelibrary.wiley.com/loi/18600743a"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1435-1935"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764429979"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1860-0743"
+  }, {
+    "@value" : "1435-1935"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Mitteilungen aus dem Museum für Naturkunde in Berlin. Zoologische Reihe"
+  } ]
+} ]

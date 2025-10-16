@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15746547",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Aquatic Ecosystem Health & Management"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "4676"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ingentaselect.com/vl=45685947/cl=27/nw=1/rpsv/cw/tandf/14634988/contp1.htm"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/14634988"
+  }, {
+    "@id" : "http://www.tandfonline.com/UAEM"
+  }, {
+    "@id" : "https://msupress.org/journals/aquatic-ecosystem-health-and-management/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1463-4988"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S131171954"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1463-4988"
+  }, {
+    "@value" : "1539-4077"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Aquatic Ecosystem Health and Management"
+  }, {
+    "@language" : "en",
+    "@value" : "Aquatic ecosystem health & management"
+  } ]
+} ]

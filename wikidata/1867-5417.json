@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385857",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. Fish Biol."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1867-5417"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1867-5417"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bulletin of fish biology"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of Fish Biology"
+  } ]
+} ]

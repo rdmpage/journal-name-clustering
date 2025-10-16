@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719171",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Arch Sci Compte Rendu Seances Soc"
+  }, {
+    "@language" : "en",
+    "@value" : "Arch. Sci. Compte Rendu Seances Soc."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.e-periodica.ch/digbib/volumes?UID=ads-003"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0252-9289"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S207492622"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0252-9289"
+  }, {
+    "@value" : "2624-6821"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Archives des sciences et compte rendu des seances de la Societe"
+  }, {
+    "@language" : "fr",
+    "@value" : "Archives des sciences et compte rendu des séances de la Société"
+  } ]
+} ]

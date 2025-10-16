@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385338",
+  "http://example.com/crossref" : [ {
+    "@value" : "55157"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-8959"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210213378"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "85CE4D8F-16F5-433E-A49E-38C198F3F911"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0013-8959"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Entomophaga"
+  }, {
+    "@language" : "mul",
+    "@value" : "Entomophaga"
+  } ]
+} ]

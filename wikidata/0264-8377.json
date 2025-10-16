@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15616636",
+  "http://example.com/crossref" : [ {
+    "@value" : "1390"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "20582"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1984"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/land-use-policy"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0264-8377"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S80485027"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0264-8377"
+  }, {
+    "@value" : "1873-5754"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Land Use Policy"
+  } ]
+} ]

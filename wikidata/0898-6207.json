@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385162",
+  "http://example.com/crossref" : [ {
+    "@value" : "71443"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/25695"
+  }, {
+    "@id" : "http://rzblx1.uni-regensburg.de/ezeit/warpto.phtml?colors=7&jour_id=85836"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=0898-6207"
+  }, {
+    "@id" : "http://www.primate-sg.org/pc.htm"
+  }, {
+    "@id" : "http://www.primate-sg.org/primate_conservation/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0898-6207"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S57229342"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0898-6207"
+  }, {
+    "@value" : "2162-4232"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Primate conservation"
+  } ]
+} ]

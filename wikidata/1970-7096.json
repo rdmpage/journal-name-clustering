@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26853928",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Geospatial Health"
+  }, {
+    "@language" : "en",
+    "@value" : "Geospat Health, GH"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "265487"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1827-1987"
+  }, {
+    "@value" : "1970-7096"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://geospatialhealth.net/"
+  }, {
+    "@id" : "https://www.geospatialhealth.net/index.php/gh"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1827-1987"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S193409603"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1970-7096"
+  }, {
+    "@value" : "1827-1987"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Geospatial health"
+  }, {
+    "@language" : "it",
+    "@value" : "Geospatial Health"
+  } ]
+} ]

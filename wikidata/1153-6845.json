@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16650871",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Revue française de lépidoptérologie, L'Amateur de papillons"
+  }, {
+    "@language" : "fr",
+    "@value" : "Revue française de lépidoptérologie, L'Amateur de papillons"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1922"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1153-6845"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1153-6845"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Revue française de lépidoptérologie, L'Amateur de papillons"
+  } ]
+} ]

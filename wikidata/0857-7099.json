@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15695325",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "The Journal of the Natural history society of Siam"
+  }, {
+    "@language" : "fr",
+    "@value" : "The Journal of the Thailand research society"
+  }, {
+    "@language" : "fr",
+    "@value" : "The Natural history bulletin of the Thailand research society"
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of the Natural history society of Siam"
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of the Thailand research society"
+  }, {
+    "@language" : "en",
+    "@value" : "The Natural history bulletin of the Thailand research society"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal the Siam Society"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1904"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://thesiamsociety.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0857-7099"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S8401816"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0857-7099"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Siam Society"
+  }, {
+    "@language" : "th",
+    "@value" : "Khlun Si Khao"
+  } ]
+} ]

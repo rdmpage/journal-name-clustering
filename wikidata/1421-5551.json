@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q106876909",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://retro.seals.ch/digbib/vollist?UID=ngs-004"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1421-5551"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1421-5551"
+  }, {
+    "@value" : "2297-7945"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Mitteilungen der Naturforschenden Gesellschaft des Kantons Solothurn"
+  } ]
+} ]

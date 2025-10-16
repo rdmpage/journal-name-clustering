@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27720994",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zhongguo Shui Chan Ke Xue"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "223365"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1005-8737"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764905259"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1005-8737"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zhongguo shui chan ke xue = Journal of fishery sciences of China"
+  }, {
+    "@language" : "zh",
+    "@value" : "Zhongguo shuichan kexue"
+  } ]
+} ]

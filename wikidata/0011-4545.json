@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27710590",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Cytologia (Tokyo)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "17517"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/cytologia/list/-char/en"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0011-4545"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "cytologia"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S166412053"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1348-7019"
+  }, {
+    "@value" : "0011-4545"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cytologia"
+  } ]
+} ]

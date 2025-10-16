@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15816454",
+  "http://example.com/cnki" : [ {
+    "@value" : "HJKB"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "59948"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sciencedirect.com"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/journal-of-environmental-sciences/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1001-0742"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S35825460"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1878-7320"
+  }, {
+    "@value" : "1001-0742"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Environmental Sciences"
+  } ]
+} ]

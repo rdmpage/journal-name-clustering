@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386134",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://publications.cm-funchal.pt/publicacoes/bocagiana.jsp"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0523-7904"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A1B9B97A-5557-4529-82F2-2CB674F3E9CE"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0523-7904"
+  }, {
+    "@value" : "2183-3141"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bocagiana"
+  }, {
+    "@language" : "es",
+    "@value" : "Bocagiana"
+  } ]
+} ]

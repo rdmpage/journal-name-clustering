@@ -1,0 +1,53 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1345904",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Environ Health Perspect"
+  }, {
+    "@language" : "de",
+    "@value" : "Environmental health perspectives"
+  }, {
+    "@language" : "en",
+    "@value" : "EHP online"
+  }, {
+    "@language" : "en",
+    "@value" : "Environ Health Perspect"
+  }, {
+    "@language" : "de",
+    "@value" : "Environ. Health Perspect."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "9936"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "4034"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0091-6765"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ehp03.niehs.nih.gov/home.action"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "envihealpers"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S10446503"
+  }, {
+    "@value" : "S4210195765"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1542-4359"
+  }, {
+    "@value" : "1552-9924"
+  }, {
+    "@value" : "0091-6765"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environmental Health Perspectives"
+  } ]
+} ]

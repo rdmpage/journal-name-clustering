@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722602",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Diversity (Basel)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "85626"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1424-2818"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.e-helvetica.nb.admin.ch/directAccess?callnumber=bel-146645"
+  }, {
+    "@id" : "https://nbn-resolving.org/urn/resolver.pl?urn=urn:nbn:ch:bel-146645"
+  }, {
+    "@id" : "https://www.mdpi.com/journal/diversity"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1424-2818"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S130273055"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1424-2818"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Diversity"
+  } ]
+} ]

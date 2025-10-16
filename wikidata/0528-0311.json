@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386182",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.canterburymuseum.com/research-education/publications"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0528-0311"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2816-0479"
+  }, {
+    "@value" : "0528-0311"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Canterbury Museum bulletin"
+  } ]
+} ]

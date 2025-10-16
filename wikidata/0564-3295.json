@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749494",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "トロピカル・エコロジー"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "330853"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://link.springer.com/journal/42965"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0564-3295"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S130157274"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0564-3295"
+  }, {
+    "@value" : "2661-8982"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Tropical Ecology"
+  }, {
+    "@language" : "en",
+    "@value" : "Tropical Ecology"
+  } ]
+} ]

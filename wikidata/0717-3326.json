@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386261",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Revista de Biología Marina"
+  }, {
+    "@language" : "en",
+    "@value" : "Revista de biología marina y oceanografía"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista de biología marina y oceanografía"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "5893"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1948"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.revbiolmar.cl"
+  }, {
+    "@id" : "http://www.scielo.cl/revbiolmar.htm"
+  }, {
+    "@id" : "mailto:revista.oceanografia@uv.cl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0717-3326"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S1034789842"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0717-3326"
+  }, {
+    "@value" : "0718-1957"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista de Biología Marina y Oceanografía"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista de biología marina y oceanografía"
+  } ]
+} ]

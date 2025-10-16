@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750251",
+  "http://example.com/crossref" : [ {
+    "@value" : "73078"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dx.doi.org/10.1007/12303.1598-7477"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1226-4806"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S145408228"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1226-4806"
+  }, {
+    "@value" : "1598-7477"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Geosciences Journal"
+  }, {
+    "@language" : "en",
+    "@value" : "Geosciences Journal"
+  } ]
+} ]

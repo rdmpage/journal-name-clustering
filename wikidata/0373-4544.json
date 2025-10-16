@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4035499",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin de la Société entomologique de Mulhouse"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin de la Societe Entomologique de Mulhouse"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://viltanso.free.fr/site/activite.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-4544"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306505091"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-4544"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société entomologique de Mulhouse"
+  } ]
+} ]

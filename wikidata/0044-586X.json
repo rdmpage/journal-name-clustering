@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q17509582",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Acarologia"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acaralogia"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "99950"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2107-7207"
+  }, {
+    "@value" : "0044-586X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1959"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www1.montpellier.inra.fr/CBGP/acarologia/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0044-586X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S163259234"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "BE6C6182-2255-4DC9-915F-F362D1B4A7CC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2107-7207"
+  }, {
+    "@value" : "0044-586X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Acarologia"
+  } ]
+} ]

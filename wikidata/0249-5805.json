@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2928055",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin de la Societe Sciences Nat"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.insects.demon.co.uk/revuebullsn.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0249-5805"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0249-5805"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société Sciences Nat"
+  } ]
+} ]

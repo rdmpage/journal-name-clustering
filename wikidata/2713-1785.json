@@ -1,0 +1,58 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385790",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ru",
+    "@value" : "КЭБ"
+  }, {
+    "@language" : "en",
+    "@value" : "KÈB"
+  }, {
+    "@language" : "en",
+    "@value" : "CEB"
+  }, {
+    "@language" : "en",
+    "@value" : "Kavkazskij Entomologicheskij Bjulleten"
+  }, {
+    "@language" : "en",
+    "@value" : "Kavkazskii Entomologicheskii Byulleten"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1814-3326"
+  }, {
+    "@language" : "en",
+    "@value" : "Kavkazskij èntomologičeskij bûlletenʹ"
+  }, {
+    "@language" : "ru",
+    "@value" : "Kavkazskij èntomologičeskij bûlletenʹ"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "308998"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1814-3326"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ceb.ssc-ras.ru/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1814-3326"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210207663"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E764ECF0-4F3B-499D-82A5-00099C32E9E1"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1814-3326"
+  }, {
+    "@value" : "2713-1785"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Кавказский энтомологический бюллетень"
+  }, {
+    "@language" : "en",
+    "@value" : "Caucasian Entomological Bulletin"
+  } ]
+} ]

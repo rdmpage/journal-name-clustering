@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762347",
+  "http://example.com/crossref" : [ {
+    "@value" : "1073"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://link.springer.com/journal/49/volumes-and-issues"
+  }, {
+    "@id" : "https://www.springer.com/journal/49"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0937-7409"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S32728137"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0937-7409"
+  }, {
+    "@value" : "1423-0445"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Chemoecology"
+  }, {
+    "@language" : "en",
+    "@value" : "Chemoecology: evolutionary, mechanistic and environmental approaches to chemically-mediated interact"
+  } ]
+} ]

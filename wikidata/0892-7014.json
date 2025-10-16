@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761842",
+  "http://example.com/crossref" : [ {
+    "@value" : "6210"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.gbhap-us.com/journals/354/354-top.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0892-7014"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S56828788"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0892-7014"
+  }, {
+    "@value" : "1029-2454"
+  }, {
+    "@value" : "1026-7867"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biofouling"
+  }, {
+    "@language" : "en",
+    "@value" : "Biofouling: the journal of bioadhesion and biofilm research"
+  } ]
+} ]

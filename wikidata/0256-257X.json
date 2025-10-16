@@ -1,0 +1,47 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15688755",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "J. Taiwan Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Taiwan Museum"
+  }, {
+    "@language" : "es",
+    "@value" : "Journal of Taiwan Museum"
+  }, {
+    "@language" : "de",
+    "@value" : "J. Taiwan Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "J. Taiwan Mus."
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0256-257X"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "91666913-1197-4CE9-890A-75DA420DE38C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0256-257X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Táiwān shěnglì bówùguǎn bànniánkān"
+  }, {
+    "@language" : "zh-tw",
+    "@value" : "臺灣省立博物館半年刊"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Taiwan Museum"
+  }, {
+    "@language" : "zh-tw",
+    "@value" : "國立臺灣博物館半年刊"
+  } ]
+} ]

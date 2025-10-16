@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385298",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Dugesiana.(Guadalajara, México)"
+  }, {
+    "@language" : "es",
+    "@value" : "Dugesiana(Guadalajara, México)"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  }, {
+    "@value" : "1995"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://dugesiana.cucba.udg.mx/index.php/DUG"
+  }, {
+    "@id" : "http://dugesiana.cucba.udg.mx/dugesiana.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2007-9133"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210184642"
+  }, {
+    "@value" : "S4306508469"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1405-4094"
+  }, {
+    "@value" : "2007-9133"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Dugesiana(Guadalajara, México)"
+  }, {
+    "@language" : "la",
+    "@value" : "Dugesiana"
+  } ]
+} ]

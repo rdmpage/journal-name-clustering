@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96733092",
+  "http://example.com/crossref" : [ {
+    "@value" : "154419"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1606-7479"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210178311"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1606-7479"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Vulture news"
+  } ]
+} ]

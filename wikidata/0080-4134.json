@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51497019",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. R. Agric. Soc. Engl."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0080-4134"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "86012"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1840"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0080-4134"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764513749"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2002"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0080-4134"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Royal Agricultural Society of England"
+  } ]
+} ]

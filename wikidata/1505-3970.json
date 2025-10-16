@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96702460",
+  "http://example.com/crossref" : [ {
+    "@value" : "223425"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rcin.org.pl/dlibra/publication/25313?tab=1"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1505-3970"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210224188"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1505-3970"
+  }, {
+    "@value" : "2391-5870"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Fragmenta Faunistica Musei Zoologici Polonici"
+  } ]
+} ]

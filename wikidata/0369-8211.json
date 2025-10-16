@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385287",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the National Academy of Sciences, India, Section B: biological sciences"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "159825"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springer.com/life+sciences/journal/40011"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0369-8211"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210190533"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2250-1746"
+  }, {
+    "@value" : "0369-8211"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the National Academy of Sciences, India, Section A: Physical Sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the National Academy of Sciences, India, Section B: biological sciences"
+  } ]
+} ]

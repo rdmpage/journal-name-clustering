@@ -1,0 +1,75 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q16687524",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Bol. Geol. Min."
+  }, {
+    "@language" : "en",
+    "@value" : "Boletín de la Comisión del mapa Geológico de Es"
+  }, {
+    "@language" : "es",
+    "@value" : "Bol. Inst. Geol. Min. Esp."
+  }, {
+    "@language" : "es",
+    "@value" : "Boletín del Instituto Geológico de España"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletín de la Comisión del mapa Geológico de España"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletín del Instituto Geológico y Minero de España"
+  }, {
+    "@language" : "en",
+    "@value" : "Boletín del Instituto Geológico de España"
+  }, {
+    "@language" : "es",
+    "@value" : "Bol. Inst. Geol. Esp."
+  }, {
+    "@language" : "en",
+    "@value" : "Boletín del Instituto Geológico y Minero de España"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "304112"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "229"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.igme.es/Boletin/default.htm"
+  }, {
+    "@id" : "http://www.igme.es/boletin/"
+  }, {
+    "@id" : "http://revistas.igme.es/index.php/bgm/index"
+  }, {
+    "@id" : "http://doc.igme.es/BusquedaBoletines/BoletinCons.asp"
+  }, {
+    "@id" : "http://dialnet.unirioja.es/servlet/revista?codigo=229"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-0176"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210200936"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2253-6167"
+  }, {
+    "@value" : "0366-0176"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletín de la Comisión del mapa Geológico de España"
+  }, {
+    "@language" : "mul",
+    "@value" : "Boletín geológico y minero"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletín del Instituto Geológico de España"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletín Geológico y Minero"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletín del Instituto Geológico y Minero de España"
+  } ]
+} ]

@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15764718",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal Scientifique Libanais"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "303592"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1561-3410"
+  }, {
+    "@value" : "2413-371X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.cnrs.edu.lb/index.php?option=com_content&view=article&id=108:presentation&catid=14:scientific-journal&Itemid=8"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1561-3410"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737919162"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1561-3410"
+  }, {
+    "@value" : "2413-371X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Lebanese Science Journal"
+  }, {
+    "@language" : "mul",
+    "@value" : "Lebanese science journal"
+  } ]
+} ]

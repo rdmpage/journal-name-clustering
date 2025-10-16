@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719536",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Caribb. Ornithol."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ufdc.ufl.edu/UF00100142"
+  }, {
+    "@id" : "http://www.birdscaribbean.org/jco/index.php/jco/issue/archive"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1544-4953"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764756569"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1544-4953"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The journal of Caribbean ornithology"
+  } ]
+} ]

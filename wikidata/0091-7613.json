@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5535339",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Geol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "地質學"
+  }, {
+    "@language" : "ja",
+    "@value" : "ジオロジー"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5546"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1973"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://geology.geoscienceworld.org/archive/"
+  }, {
+    "@id" : "http://geology.gsapubs.org"
+  }, {
+    "@id" : "http://www.gsajournals.org/gsaonline/?request=get-current-issue"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0091-7613"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S56162041"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1943-2682"
+  }, {
+    "@value" : "0091-7613"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Geology"
+  } ]
+} ]

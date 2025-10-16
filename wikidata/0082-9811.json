@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q83640114",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Technical bulletin - United States Department of Agriculture"
+  }, {
+    "@language" : "en",
+    "@value" : "Technical Bulletin (United States Department of Agriculture)"
+  }, {
+    "@language" : "en",
+    "@value" : "Technical bulletin (United States. Department of Agriculture)"
+  }, {
+    "@language" : "en",
+    "@value" : "Technical bulletin (United States. Dept. of Agriculture)"
+  }, {
+    "@language" : "en",
+    "@value" : "United States Department of Agriculture, Technical Bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "United States. Dept. of Agriculture. Technical bulletin"
+  }, {
+    "@language" : "en",
+    "@value" : "Technical bulletin"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/34888"
+  }, {
+    "@id" : "http://www.nal.usda.gov/ref/USDApubs/tb.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0082-9811"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0082-9811"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Technical bulletin - United States Department of Agriculture"
+  } ]
+} ]

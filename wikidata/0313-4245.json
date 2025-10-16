@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6398690",
+  "http://example.com/crossref" : [ {
+    "@value" : "59208"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0313-4245"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S56593132"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0313-4245"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Brunonia"
+  } ]
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759308",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "British Journal of Social Work"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5101"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bjsw.oxfordjournals.org/"
+  }, {
+    "@id" : "https://academic.oup.com/bjsw"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0045-3102"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "britjsociwork"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S202740514"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1468-263X"
+  }, {
+    "@value" : "0045-3102"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "British journal of social work"
+  } ]
+} ]

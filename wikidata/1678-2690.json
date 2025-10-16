@@ -1,0 +1,71 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2491743",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Annaes da Academia Brasileira de Sciencias"
+  }, {
+    "@language" : "fr",
+    "@value" : "Anais da Academia Brasileira de Ciências"
+  }, {
+    "@language" : "es",
+    "@value" : "Anais da Academia Brasileira de Ciencias"
+  }, {
+    "@language" : "en",
+    "@value" : "Academia Brasileira de Ciencias. Anais"
+  }, {
+    "@language" : "de",
+    "@value" : "Annaes da Academia Brasileira de Sciencias"
+  }, {
+    "@language" : "pt",
+    "@value" : "Annaes da Academia Brasileira de Sciencias"
+  }, {
+    "@language" : "de",
+    "@value" : "Anais Acad. Brasil. Ci."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0001-3765"
+  }, {
+    "@language" : "en",
+    "@value" : "Anais da Academia Brasileira de Ciencias"
+  }, {
+    "@language" : "en",
+    "@value" : "Annals of the Brazilian Academy of Sciences"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "46998"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0001-3765"
+  }, {
+    "@value" : "1678-2690"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1929"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.scielo.br/aabc"
+  }, {
+    "@id" : "http://www.scielo.br/revistas/aabc/iaboutj.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-3765"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S111086706"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "FDC33235-E73F-4861-999F-1732FF16FF71"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1678-2690"
+  }, {
+    "@value" : "0001-3765"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Anais da Academia Brasileira de Ciências"
+  }, {
+    "@language" : "en",
+    "@value" : "Anais da Academia Brasileira de Ciências"
+  } ]
+} ]

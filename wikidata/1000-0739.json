@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761826",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Dongwu Fenlei Xuebao"
+  }, {
+    "@language" : "zh",
+    "@value" : "Dongwu fenlei xuebao"
+  }, {
+    "@language" : "en",
+    "@value" : "Tung wu fen lei hsüeh pao"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1964"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-0739"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500614"
+  }, {
+    "@value" : "S4306508346"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2013"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A0014AF2-3F2D-4469-8D39-0FA96DF75B03"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-0739"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Zootaxonomica Sinica"
+  }, {
+    "@language" : "zh",
+    "@value" : "动物分类学报"
+  } ]
+} ]

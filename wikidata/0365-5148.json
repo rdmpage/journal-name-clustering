@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751109",
+  "http://example.com/crossref" : [ {
+    "@value" : "308205"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1514-2590"
+  }, {
+    "@value" : "0365-5148"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://revistas.unlp.edu.ar/analecta/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0365-5148"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2737897946"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1666-2954"
+  }, {
+    "@value" : "0365-5148"
+  }, {
+    "@value" : "1514-2590"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Analecta veterinaria"
+  }, {
+    "@language" : "und",
+    "@value" : "Analecta Veterinaria"
+  } ]
+} ]

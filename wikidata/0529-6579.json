@@ -1,0 +1,52 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15981168",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Zhongshan da xue xue bao. Zi ran ke xue ban"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Sci. Nat. Univ. Sunyatseni"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Scientiarum Naturalium Universitatis Sunyatsenii"
+  }, {
+    "@language" : "es",
+    "@value" : "Acta Sci. Nat. Univ. Sunyatseni"
+  }, {
+    "@language" : "es",
+    "@value" : "Acta Scientiarum Naturalium Universitatis Sunyatsenii"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhongshan Da Xue Xue Bao Zi Ran Ke Xue Ban"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhongshan da xue xue bao. Zi ran ke xue ban"
+  }, {
+    "@language" : "zh",
+    "@value" : "Zhongshan Daxua Xuebao. Ziran kexueban"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.cqvip.com/qikan/Detail.aspx?gch=94631X&years="
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0529-6579"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500507"
+  }, {
+    "@value" : "S4306500508"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0529-6579"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Zhongshan Daxua Xuebao. Ziran kexueban"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Scientiarum Naturalium Universitatis Sunyatsenii"
+  }, {
+    "@language" : "zh",
+    "@value" : "中山大学学报（自然科学版）"
+  } ]
+} ]

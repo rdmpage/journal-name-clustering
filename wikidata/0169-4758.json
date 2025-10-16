@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q45895401",
+  "http://example.com/crossref" : [ {
+    "@value" : "1258"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/01694758/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0169-4758"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S12311920"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1873-1473"
+  }, {
+    "@value" : "0169-4758"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Parasitology Today"
+  } ]
+} ]

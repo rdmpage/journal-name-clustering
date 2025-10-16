@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385493",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1570-0399"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1570-0399"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cainozoic research"
+  } ]
+} ]

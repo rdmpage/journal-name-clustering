@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7076065",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Ocean Sci."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "OS"
+  }, {
+    "@language" : "en",
+    "@value" : "Ocean Science (OS)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "99686"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1812-0784"
+  }, {
+    "@value" : "1812-0792"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1812-0784"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S152701455"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1812-0784"
+  }, {
+    "@value" : "1812-0792"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ocean Science"
+  } ]
+} ]

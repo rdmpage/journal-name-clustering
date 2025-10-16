@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q220185",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zoological studies"
+  }, {
+    "@language" : "zh",
+    "@value" : "動物研究學刊"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "223387"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://zoolstud.sinica.edu.tw"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1021-5506"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S190575794"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "916FF81B-F8BE-4B9B-A41F-4F4670BCD156"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1021-5506"
+  }, {
+    "@value" : "1810-522X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Zoological studies"
+  }, {
+    "@language" : "en",
+    "@value" : "Zoological Studies"
+  } ]
+} ]

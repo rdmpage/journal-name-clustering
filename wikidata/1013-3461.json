@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27721052",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc. Pak. Congr. Zool."
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of ... Pakistan Congress of Zoology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1013-3461"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1013-3461"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of ... Pakistan Congress of Zoology"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of ... Pakistan Congress of Zoology. Pakistan Congress of Zoology"
+  } ]
+} ]

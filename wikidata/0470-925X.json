@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q113475087",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://obihiro.repo.nii.ac.jp/search?search_type=2&q=116"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0470-925X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764381973"
+  }, {
+    "@value" : "S4306548296"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0470-925X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Obihiro Chikusan Daigaku gakujutsu kenkyū hōkoku. Dai 1-bu"
+  } ]
+} ]

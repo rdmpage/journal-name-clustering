@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385299",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://journals.co.za/journal/phyto"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306522530"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0370-1263"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Phytophylactica"
+  } ]
+} ]

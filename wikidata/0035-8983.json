@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27712764",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc R Ir Acad B"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Irish Academy Section B Biological, geological and chemical science"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Irish Academy. Section B, Biological, geological and chemical science"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0035-8983"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "procriasectb"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0035-8983"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Irish Academy. Section B, Biological, geological and chemical science"
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of the Royal Irish Academy. Section B: Biological, geological, and chemical science"
+  } ]
+} ]

@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722972",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Lin ye ke xue yan jiu"
+  }, {
+    "@language" : "zh",
+    "@value" : "Linye kexue yanjiu"
+  }, {
+    "@language" : "en",
+    "@value" : "Lin Ye Ke Xue Yan Jiu"
+  }, {
+    "@language" : "en",
+    "@value" : "Linye Kexue Yanjiu"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "LYKX"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.lykxyj.com/"
+  }, {
+    "@id" : "http://www.lykxyj.com/indexen.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1001-1498"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764619137"
+  }, {
+    "@value" : "S4306518771"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1001-1498"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Linye kexue yanjiu"
+  }, {
+    "@language" : "zh-hans",
+    "@value" : "林业科学研究"
+  }, {
+    "@language" : "en",
+    "@value" : "Forest research"
+  } ]
+} ]

@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q104688193",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "京都府立大学学術報告. 農学"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0075-7373"
+  }, {
+    "@language" : "en",
+    "@value" : "Kyoto Furitsu Daigaku Gakujutsu Hokoku, Nogaku"
+  }, {
+    "@language" : "en",
+    "@value" : "The Scientific Reports of Kyoto Prefectural University (Agriculture)"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1959"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://kpu.repo.nii.ac.jp/search?search_type=2&q=273"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0075-7373"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0075-7373"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Kyoto Furitsu Daigaku Gakujutsu Hokoku, Nogaku"
+  }, {
+    "@language" : "ja",
+    "@value" : "京都府立大學學術報告．農學"
+  } ]
+} ]

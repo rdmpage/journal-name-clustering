@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27713067",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Rev Cubana Med Trop"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://scielo.sld.cu/scielo.php?script=sci_serial&pid=0375-0760&lng=en&nrm=iso"
+  }, {
+    "@id" : "http://www.revmedtropical.sld.cu/index.php/medtropical/index"
+  }, {
+    "@id" : "http://www.sld.cu/revistas/mtr/indice.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-0760"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S86362436"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1561-3054"
+  }, {
+    "@value" : "0375-0760"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Revista Cubana de Medicina Tropical"
+  } ]
+} ]

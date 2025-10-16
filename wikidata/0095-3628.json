@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766091",
+  "http://example.com/crossref" : [ {
+    "@value" : "1119"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.jstor.org/journals/00953628.html"
+  }, {
+    "@id" : "http://www.springerlink.com/openurl.asp?genre=journal&issn=0095-3628"
+  }, {
+    "@id" : "http://www.springerlink.com/openurl.asp?genre=journal&issn=0095-3628&target=archive"
+  }, {
+    "@id" : "https://link.springer.com/journal/volumesAndIssues/248"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0095-3628"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "micrecol"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S97758720"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0095-3628"
+  }, {
+    "@value" : "1432-184X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Microbial ecology"
+  }, {
+    "@language" : "en",
+    "@value" : "Microbial Ecology: an international journal"
+  } ]
+} ]

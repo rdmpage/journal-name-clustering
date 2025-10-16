@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385835",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zoológica baetica"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1130-4251"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "1863"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.ugr.es/~zool_bae/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1130-4251"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306536268"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1130-4251"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Zoologica Baetica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Zoológica baetica"
+  } ]
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749534",
+  "http://example.com/crossref" : [ {
+    "@value" : "2336"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sciencepress.mnhn.fr/fr/periodiques/bryologie"
+  }, {
+    "@id" : "http://www.cryptogamie.com/pagint_en/editeur/revue_bryo.php"
+  }, {
+    "@id" : "https://bioone.org/journals/cryptogamie-bryologie/issues"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/cryptogamie-bryologie"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1290-0796"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S200472310"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1776-0992"
+  }, {
+    "@value" : "1290-0796"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Cryptogamie Bryologie"
+  }, {
+    "@language" : "mul",
+    "@value" : "Cryptogamie. Bryologie"
+  } ]
+} ]

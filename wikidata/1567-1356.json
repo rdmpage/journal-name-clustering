@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751211",
+  "http://example.com/crossref" : [ {
+    "@value" : "1713"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://academic.oup.com/femsyr"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S58380981"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1567-1356"
+  }, {
+    "@value" : "1567-1364"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "FEMS Yeast Research"
+  } ]
+} ]

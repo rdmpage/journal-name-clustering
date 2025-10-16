@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q123005082",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Annual report of the Regents of the University of the State of New York on the condition of the State Cabinet of Natural History, and the historical and antiquarian collection, annexed thereto"
+  }, {
+    "@language" : "en",
+    "@value" : "Annual report of the Regents of the University on the condition of the State Cabinet of Natural History, and the historical and antiquarian collection, annexed thereto"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6212"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1847"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1066-9469"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1869"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1066-9469"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Annual report of the Regents of the University on the condition of the State Cabinet of Natural History, with catalogues of the same"
+  } ]
+} ]

@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6400102",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Cact. Succ. J. (Los Angeles)"
+  }, {
+    "@language" : "en",
+    "@value" : "Cact. Succ. J. (Los Angeles)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60832"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1932"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rave.ohiolink.edu/ejournals/issn/00079367/"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=0007-9367"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=0007-9367"
+  }, {
+    "@id" : "https://cssa.myshopify.com/collections/journals"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0007-9367"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S12650052"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "7B4C0A93-4342-4678-A13A-B08A15C832FA"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0007-9367"
+  }, {
+    "@value" : "1938-288X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Cactus and Succulent Journal"
+  } ]
+} ]

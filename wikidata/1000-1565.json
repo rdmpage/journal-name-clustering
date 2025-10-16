@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q41791918",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Hebei Daxue Xuebao. Ziran kexue ban"
+  }, {
+    "@language" : "zh",
+    "@value" : "河北大学学报(自然科学版)"
+  }, {
+    "@language" : "en",
+    "@value" : "Hebei Daxue Xuebao. Ziran kexue ban"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1962"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://xbzrb.hbu.edu.cn/EN/1000-1565/home.shtml"
+  }, {
+    "@id" : "https://xbzrb.hbu.edu.cn/CN/1000-1565/home.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-1565"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-1565"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "河北大学学报（自然科学版）"
+  } ]
+} ]

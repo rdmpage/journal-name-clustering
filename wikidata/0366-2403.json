@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385176",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Boll. Zool. Agraria Bach."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-2403"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306504833"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0366-2403"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Bollettino di zoologia agraria e di bachicoltura"
+  }, {
+    "@language" : "mul",
+    "@value" : "Bollettino di Zoologia Agraria e Bachicoltura"
+  } ]
+} ]

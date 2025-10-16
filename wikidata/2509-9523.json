@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385846",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1864-6417"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1864-6417"
+  }, {
+    "@value" : "2509-9523"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://soil-organisms.org/"
+  }, {
+    "@id" : "http://soil-organisms.org/index.php/SO/index"
+  }, {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2653491"
+  }, {
+    "@id" : "https://www.senckenberg.de/de/wissenschaft/publikationen/wissenschaftliche-zeitschriften/soil-organisms/allvol/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1864-6417"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2509-9523"
+  }, {
+    "@value" : "1864-6417"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Soil Organisms"
+  } ]
+} ]

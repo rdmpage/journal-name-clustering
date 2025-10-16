@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q26853823",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Brazilian Journal of Veterinary Parasitology"
+  }, {
+    "@language" : "en",
+    "@value" : "Revista Brasileira de Parasitologia Veterinária"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "104265"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1984-2961"
+  }, {
+    "@value" : "0103-846X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rbpv.org.br/home"
+  }, {
+    "@id" : "http://www.scielo.br/scielo.php?script=sci_serial&lng=pt&pid=1984-2961"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0103-846X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S200709667"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0103-846X"
+  }, {
+    "@value" : "1984-2961"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt-br",
+    "@value" : "Revista brasileira de parasitologia veterinária"
+  }, {
+    "@language" : "en",
+    "@value" : "Brazilian journal of veterinary parasitology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Brazilian Journal of Veterinary Parasitology"
+  } ]
+} ]

@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96335089",
+  "http://example.com/crossref" : [ {
+    "@value" : "296808"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1301-2894"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210214728"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1301-2894"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Yerbilimleri"
+  } ]
+} ]

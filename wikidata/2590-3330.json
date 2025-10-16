@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96721350",
+  "http://example.com/crossref" : [ {
+    "@value" : "372725"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.sciencedirect.com/journal/one-earth"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2590-3322"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210191196"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2590-3330"
+  }, {
+    "@value" : "2590-3322"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "One earth"
+  } ]
+} ]

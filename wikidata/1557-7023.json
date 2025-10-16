@@ -1,0 +1,54 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q3152986",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Integrative and comparative biology"
+  }, {
+    "@language" : "fr",
+    "@value" : "American Zoologist"
+  }, {
+    "@language" : "fr",
+    "@value" : "Integr. Comp. Biol."
+  }, {
+    "@language" : "fr",
+    "@value" : "Am. Zool."
+  }, {
+    "@language" : "en",
+    "@value" : "Integr. Comp. Biol."
+  }, {
+    "@language" : "zh",
+    "@value" : "综合与比较生物学"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "53233"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://icb.oxfordjournals.org/"
+  }, {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2065904"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=0003-1569"
+  }, {
+    "@id" : "https://academic.oup.com/icb"
+  }, {
+    "@id" : "https://www.jstor.org/journal/intecompbiol"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1540-7063"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "intecompbiol"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S103356783"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1540-7063"
+  }, {
+    "@value" : "1557-7023"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Integrative and Comparative Biology"
+  } ]
+} ]

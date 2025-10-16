@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752004",
+  "http://example.com/crossref" : [ {
+    "@value" : "313914"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://seer.ufrgs.br/ActaScientiaeVeterinariae"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1678-0345"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S167064729"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1679-9216"
+  }, {
+    "@value" : "1678-0345"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Acta Scientiae Veterinariae"
+  }, {
+    "@language" : "und",
+    "@value" : "Acta Scientiae Veterinariae"
+  } ]
+} ]

@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763077",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Ethol Ecol Evol"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ethology Ecology & Evolution"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "106325"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ingentaconnect.com/content/1828-7131"
+  }, {
+    "@id" : "https://www.tandfonline.com/action/journalInformation?journalCode=teee20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0394-9370"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S150560568"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1828-7131"
+  }, {
+    "@value" : "0394-9370"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ethology, Ecology & Evolution"
+  }, {
+    "@language" : "en",
+    "@value" : "Ethology Ecology & Evolution"
+  } ]
+} ]

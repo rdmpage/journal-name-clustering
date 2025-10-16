@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q63110386",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "IDESIA (revista)"
+  }, {
+    "@language" : "es",
+    "@value" : "Idesia"
+  }, {
+    "@language" : "es",
+    "@value" : "IDESIA, Revista de Agricultura en Zonas Áridas"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista IDESIA"
+  }, {
+    "@language" : "es",
+    "@value" : "IDESIA (Chile)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "87452"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.idesia.cl/index.php/es/"
+  }, {
+    "@id" : "http://www.scielo.cl/idesia.htm"
+  }, {
+    "@id" : "mailto:idesia@uta.cl"
+  }, {
+    "@id" : "mailto:mjimenez@uta.cl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0073-4675"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210190766"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0073-4675"
+  }, {
+    "@value" : "0718-3429"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "IDESIA"
+  } ]
+} ]

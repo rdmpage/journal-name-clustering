@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50424751",
+  "http://example.com/crossref" : [ {
+    "@value" : "119485"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0016-7789"
+  }, {
+    "@value" : "1854-620X"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0016-7789"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210174840"
+  }, {
+    "@value" : "S4210179591"
+  }, {
+    "@value" : "S70511428"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1854-620X"
+  }, {
+    "@value" : "0016-7789"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Geologija"
+  } ]
+} ]

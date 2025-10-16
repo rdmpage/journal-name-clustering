@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386028",
+  "http://example.com/bhl" : [ {
+    "@value" : "43753"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1898"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1919"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2021-3883"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Archives de parasitologie"
+  } ]
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q78298548",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://catharsius.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2108-8365"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "3075-3104"
+  }, {
+    "@value" : "2108-8365"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Catharsius"
+  }, {
+    "@language" : "la",
+    "@value" : "Catharsius"
+  } ]
+} ]

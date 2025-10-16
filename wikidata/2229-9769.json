@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50807257",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "BJRST"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "330469"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0128-2972"
+  }, {
+    "@value" : "2229-9769"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://publisher.unimas.my/ojs/index.php/BJRST/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2229-9769"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210222842"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2229-9769"
+  }, {
+    "@value" : "0128-2972"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Borneo Journal of Resource Science and Technology"
+  } ]
+} ]

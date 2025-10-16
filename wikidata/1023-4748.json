@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385555",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Anz. Kaiserl. Akad. Wiss. Wien, Math.-Naturwiss. Kl."
+  }, {
+    "@language" : "de",
+    "@value" : "Anz. Kaiserl. Akad. Wiss. Wien, Math.-Naturwiss. Kl."
+  }, {
+    "@language" : "de",
+    "@value" : "Anzeiger der kaiserlichen Akademie der Wissenschaften. Mathematisch-naturwissenschaftliche Classe"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1864"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1023-4748"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1914"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "41543730-9DE1-4A4B-BDBE-405D65C39F13"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1023-4748"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Anzeiger der Kaiserlichen Akademie der Wissenschaften. Mathematisch-Naturwissenschaftliche Klasse"
+  } ]
+} ]

@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q56340125",
+  "http://example.com/from_year" : [ {
+    "@value" : "2007"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.elateridae.com/elateridarium/"
+  }, {
+    "@id" : "https://www.elateridae.com/elateridarium/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1802-4858"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1802-4858"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "cs",
+    "@value" : "Elateridarium"
+  }, {
+    "@language" : "la",
+    "@value" : "Elateridarium"
+  } ]
+} ]

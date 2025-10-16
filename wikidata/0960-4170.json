@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51489475",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Hist. Berwicksh. Nat. Club"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0960-4170"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "970"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0960-4170"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0960-4170"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "History of the Berwickshire Naturalists' Club"
+  } ]
+} ]

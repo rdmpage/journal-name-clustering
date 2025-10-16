@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51421916",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "SHIS"
+  }, {
+    "@language" : "en",
+    "@value" : "Smithsonian herpetological information services"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "15728"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "236087"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2331-7515"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210218392"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2331-7515"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Smithsonian Herpetological Information Service"
+  }, {
+    "@language" : "en",
+    "@value" : "Smithsonian herpetological information services"
+  } ]
+} ]

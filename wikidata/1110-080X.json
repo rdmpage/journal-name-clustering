@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51451192",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin. Societe Entomologique d Egypte"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Societe Entomologique d'Egypte"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin de la Societe Fouad Ier d Entomologie"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "9695"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1955"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1110-080X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306505090"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1995"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "6A35F7E2-653E-484D-B6D2-22DA1328A869"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1110-080X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société entomologique d'Égypte"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Societe Entomologique d'Egypte"
+  } ]
+} ]

@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q23933859",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Environ. Sci.: Processes Impacts"
+  }, {
+    "@language" : "en",
+    "@value" : "Environmental Science: Processes and Impacts"
+  }, {
+    "@language" : "en",
+    "@value" : "Environmental science. Processes & impacts"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "193105"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://pubs.rsc.org/en/journals/journalissues/em"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2050-7887"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S6640965"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2050-7895"
+  }, {
+    "@value" : "2050-7887"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environmental science. Processes & impacts"
+  } ]
+} ]

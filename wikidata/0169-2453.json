@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385828",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://science.naturalis.nl/en/research/publications/nederlandse-faunistische-mededelingen/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0169-2453"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306520677"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0169-2453"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Nederlandse faunistische mededelingen"
+  }, {
+    "@language" : "nl",
+    "@value" : "Nederlandse Faunistische Mededelingen"
+  } ]
+} ]

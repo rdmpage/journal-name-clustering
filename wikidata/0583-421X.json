@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714086",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Singmul Hakhoe Chi"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0583-421X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0583-421X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Singmul Hakhoe chi. The Korean journal of botany"
+  }, {
+    "@language" : "mul",
+    "@value" : "Sigmulhag hoeji"
+  } ]
+} ]

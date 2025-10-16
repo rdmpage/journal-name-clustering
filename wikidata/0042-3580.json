@@ -1,0 +1,46 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385938",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Venus"
+  }, {
+    "@language" : "en",
+    "@value" : "Venus: the Japanese journal of malacology"
+  }, {
+    "@language" : "en",
+    "@value" : "Kairuigaku zasshi"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0042-3580"
+  }, {
+    "@language" : "en",
+    "@value" : "The Venus"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1962"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0042-3580"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "venusjjm"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "9982FE5E-886E-4FF8-BC6C-EA48575A0418"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2432-9967"
+  }, {
+    "@value" : "0042-3580"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "貝類学雑誌"
+  }, {
+    "@language" : "en",
+    "@value" : "Venus: Japanese journal of malacology"
+  } ]
+} ]

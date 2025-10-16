@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724668",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bioscan (Ranchi)"
+  }, {
+    "@language" : "en",
+    "@value" : "The Bioscan"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0973-7049"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4363607393"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0973-7049"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Bioscan"
+  }, {
+    "@language" : "en",
+    "@value" : "The bioscan (Ranchi)"
+  } ]
+} ]

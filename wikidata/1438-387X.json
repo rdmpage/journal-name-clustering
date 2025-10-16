@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755825",
+  "http://example.com/crossref" : [ {
+    "@value" : "844"
+  }, {
+    "@value" : "50018"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1438-387X"
+  }, {
+    "@value" : "1438-3888"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2710364"
+  }, {
+    "@value" : "S4210187106"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0174-3597"
+  }, {
+    "@value" : "1438-387X"
+  }, {
+    "@value" : "1438-3888"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Helgoland Marine Research"
+  } ]
+} ]

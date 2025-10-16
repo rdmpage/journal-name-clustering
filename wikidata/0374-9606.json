@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15772737",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "N. Kr. Arch."
+  }, {
+    "@language" : "en",
+    "@value" : "Ned. Kruidk. Arch."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "3629"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1846"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0374-9606"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1951"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0374-9606"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Nederlandsch kruidkundig archief. Serie 1"
+  }, {
+    "@language" : "nl",
+    "@value" : "Nederlandsch Kruidkundig Archief"
+  }, {
+    "@language" : "nl",
+    "@value" : "Nederlandsch kruidkundig archief. Serie 2"
+  }, {
+    "@language" : "nl",
+    "@value" : "Nederlandsch kruidkundig archief. Serie 3"
+  } ]
+} ]

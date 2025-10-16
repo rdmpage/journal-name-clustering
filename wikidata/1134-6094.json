@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385850",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Boletín de la SEA"
+  }, {
+    "@language" : "en",
+    "@value" : "Bol. S.E.A."
+  }, {
+    "@language" : "en",
+    "@value" : "Boletín de la S.E.A."
+  }, {
+    "@language" : "en",
+    "@value" : "Boletín de la SEA"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://entomologia.rediris.es/sea/bol/"
+  }, {
+    "@id" : "http://sea-entomologia.org/Publicaciones/Boletines/boletinSEA.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1134-6094"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306504708"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "072FEE78-B938-4D76-BD32-112CAFA71F98"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1134-6094"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletín de la SEA"
+  } ]
+} ]

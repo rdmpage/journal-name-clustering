@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q81268511",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0453-1388"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0453-1388"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0453-1388"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Kalmia"
+  } ]
+} ]

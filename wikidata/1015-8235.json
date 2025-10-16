@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385499",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Miscellaneous papers - Centre for Entomological Studies"
+  }, {
+    "@language" : "en",
+    "@value" : "Centre for Entomological Studies, Miscellaneous Papers"
+  }, {
+    "@language" : "en",
+    "@value" : "Miscellaneous Papers, Centre for Entomological Studies, Ankara"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1015-8235"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1989"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.cesa-tr.org/miscpap.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1015-8235"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306520015"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "23F301CA-A4A2-4B45-B9DD-9EED801A570C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1015-8235"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Miscellaneous Papers"
+  } ]
+} ]

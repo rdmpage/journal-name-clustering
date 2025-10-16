@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752642",
+  "http://example.com/crossref" : [ {
+    "@value" : "33898"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org/journal=1551-3777;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=1551-3777"
+  }, {
+    "@id" : "http://www.setac.org.ieam"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1551-3777"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S112294809"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1551-3793"
+  }, {
+    "@value" : "1551-3777"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Integrated Environmental Assessment and Management"
+  } ]
+} ]

@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q64796844",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Philosophical Transactions of the Royal Society of London Series B Containing Papers of a Biological Character"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0264–3960"
+  }, {
+    "@language" : "en",
+    "@value" : "Philosophical transactions of the Royal Society of London. Series B, Containing papers of a biological character"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "378326"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rstb.royalsocietypublishing.org/content/by/year"
+  }, {
+    "@id" : "http://www.jstor.org/action/showPublication?journalCode=philtranroyasoc7"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0264-3960"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "philtranroyasoc7"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210238644"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0264-3960"
+  }, {
+    "@value" : "2053-9266"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Philosophical transactions of the Royal Society of London. Series B, Containing papers of a biological character"
+  } ]
+} ]

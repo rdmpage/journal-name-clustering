@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50814856",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Huitzil. Revista mexicana de ornitología"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "310698"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1870-7459"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.mexorn.org/index.php/huitzil"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1870-7459"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210170259"
+  }, {
+    "@value" : "S4306512446"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1870-7459"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Huitzil"
+  } ]
+} ]

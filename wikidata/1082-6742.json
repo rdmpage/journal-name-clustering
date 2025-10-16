@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753922",
+  "http://example.com/crossref" : [ {
+    "@value" : "114290"
+  }, {
+    "@value" : "57534"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "javianmedsurg"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S140890273"
+  }, {
+    "@value" : "S4210182927"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1044-8314"
+  }, {
+    "@value" : "1082-6742"
+  }, {
+    "@value" : "1938-2871"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Avian Medicine and Surgery"
+  } ]
+} ]

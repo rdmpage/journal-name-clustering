@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386041",
+  "http://example.com/crossref" : [ {
+    "@value" : "297285"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0232-5535"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210224937"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0232-5535"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Entomologische Nachrichten und Berichte"
+  }, {
+    "@language" : "mul",
+    "@value" : "Entomologische Nachrichten und Berichte"
+  } ]
+} ]

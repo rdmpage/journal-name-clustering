@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4033501",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Afr. Invertebr."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "African invertebrates"
+  }, {
+    "@language" : "de",
+    "@value" : "African invertebrates"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "189926"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2305-2562"
+  }, {
+    "@value" : "1681-5556"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  }, {
+    "@value" : "1906"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.africaninvertebrates.org"
+  }, {
+    "@id" : "https://africaninvertebrates.pensoft.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1681-5556"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S48434751"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B44ABE57-762D-42BD-A81A-2AD84D9E8B5C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2305-2562"
+  }, {
+    "@value" : "1681-5556"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "African Invertebrates"
+  } ]
+} ]

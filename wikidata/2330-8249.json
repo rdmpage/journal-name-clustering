@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q63871763",
+  "http://example.com/crossref" : [ {
+    "@value" : "237186"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tandfonline.com/BRFS"
+  }, {
+    "@id" : "http://search.ebscohost.com/direct.asp?db=a9h&jid=%22JF5Q%22&scope=site"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/brfs20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2330-8249"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210174131"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2330-8249"
+  }, {
+    "@value" : "2330-8257"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Reviews in Fisheries Science & Aquaculture"
+  } ]
+} ]

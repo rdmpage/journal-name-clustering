@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5915246",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Indian For."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Indian Forester"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "376631"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1875"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.indianforester.co.in"
+  }, {
+    "@id" : "http://www.indianforester.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0019-4816"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764360124"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2321-094X"
+  }, {
+    "@value" : "0019-4816"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Indian Forester"
+  }, {
+    "@language" : "en",
+    "@value" : "The Indian Forester"
+  } ]
+} ]

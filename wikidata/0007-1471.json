@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385101",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum of Natural History (Geology)"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum, Natural History. Geology"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. br. Mus. nat. Hist. Geol."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "2197"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1949"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0007-1471"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765023667"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0007-1471"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the British Museum, Natural History. Geology"
+  }, {
+    "@language" : "en-gb",
+    "@value" : "Bulletin of the British Museum (Natural History). Geology"
+  } ]
+} ]

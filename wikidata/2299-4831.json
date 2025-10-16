@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50816657",
+  "http://example.com/crossref" : [ {
+    "@value" : "177385"
+  }, {
+    "@value" : "218209"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2299-4831"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://sciendo.com/fr/journal/JAS"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1643-4439"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S13700654"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1643-4439"
+  }, {
+    "@value" : "2299-4831"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Journal of Apicultural Science"
+  } ]
+} ]

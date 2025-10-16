@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27709709",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biotherapy"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3233"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0921-299X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210185807"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1573-8280"
+  }, {
+    "@value" : "0921-299X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biotherapy"
+  }, {
+    "@language" : "en",
+    "@value" : "Biotherapy (Dordrecht, Netherlands)"
+  } ]
+} ]

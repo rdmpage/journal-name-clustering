@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760944",
+  "http://example.com/crossref" : [ {
+    "@value" : "904"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://link.springer.com/journal/27/volumes-and-issues"
+  }, {
+    "@id" : "https://www.springer.com/journal/27"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1015-1621"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S118811769"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1015-1621"
+  }, {
+    "@value" : "1420-9055"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Aquatic sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Aquatic Sciences: research across boundaries"
+  } ]
+} ]

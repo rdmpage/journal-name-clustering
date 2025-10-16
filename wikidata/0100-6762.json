@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15816905",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Revista Árvore"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "45708"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0100-6762"
+  }, {
+    "@value" : "1806-9088"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.revistaarvore.ufv.br/"
+  }, {
+    "@id" : "https://www.scielo.br/rarv"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0100-6762"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S60440357"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1806-9088"
+  }, {
+    "@value" : "0100-6762"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Revista Arvore: Brazilian Journal of Forest Science"
+  }, {
+    "@language" : "pt",
+    "@value" : "Revista Árvore"
+  } ]
+} ]

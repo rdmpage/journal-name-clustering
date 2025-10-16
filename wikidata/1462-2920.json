@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752447",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Environmental Microbiology (journal)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3483"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=1462-2912;screen=info;ECOIP"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1462-2920/issues"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=emi"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/14622920"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1462-2912"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S6919857"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1462-2912"
+  }, {
+    "@value" : "1462-2920"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environmental Microbiology"
+  } ]
+} ]

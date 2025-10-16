@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q110755783",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0926-132X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0926-132X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Sula"
+  } ]
+} ]

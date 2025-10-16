@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q98374701",
+  "http://example.com/bhl" : [ {
+    "@value" : "51992"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1972"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0704-576X"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0704-576X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Syllogeus"
+  }, {
+    "@language" : "mul",
+    "@value" : "Syllogeus - National Museum of Natural Sciences"
+  } ]
+} ]

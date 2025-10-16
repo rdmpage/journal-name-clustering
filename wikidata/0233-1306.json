@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51505495",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mittheilungen aus dem K. Zoologischen Museum zu Dresden"
+  }, {
+    "@language" : "de",
+    "@value" : "Mittheilungen aus dem Königl. Zoologischen Museum zu Dresden"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "45190"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1875"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0233-1306"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1878"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "5D45A40B-2C8A-4F11-A4ED-5B7902B3280C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0233-1306"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Mittheilungen aus dem Königlichen Zoologischen Museum zu Dresden"
+  } ]
+} ]

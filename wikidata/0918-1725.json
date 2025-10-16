@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96330341",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.hitohaku.jp/publication/r-bulletin.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0918-1725"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "hitotoshizen"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2185-4513"
+  }, {
+    "@value" : "0918-1725"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Hito to shizen"
+  } ]
+} ]

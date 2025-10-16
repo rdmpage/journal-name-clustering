@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763428",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Environ. Int."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Environ. Int."
+  }, {
+    "@language" : "de",
+    "@value" : "Environ. Int."
+  }, {
+    "@language" : "fr",
+    "@value" : "Environ. Int."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1690"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0160-4120"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/environment-international/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/01604120/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0160-4120"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S143381477"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0160-4120"
+  }, {
+    "@value" : "1873-6750"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Environment International"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q47148913",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0368-1726"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Coll. Agric. Tohoku Imp. Univ."
+  }, {
+    "@language" : "en",
+    "@value" : "The Journal of the College of Agriculture, Tohoku Imperial University"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0368-1726"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0368-1726"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the College of Agriculture, Tohoku Imperial University"
+  }, {
+    "@language" : "ja",
+    "@value" : "東北帝國大學農科大學紀要"
+  } ]
+} ]

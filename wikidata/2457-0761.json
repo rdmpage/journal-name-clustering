@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124736416",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://aprfjournal.in"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2457-0761"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Biodiversity and Conservation"
+  } ]
+} ]

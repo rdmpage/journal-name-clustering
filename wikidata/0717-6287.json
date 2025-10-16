@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2389484",
+  "http://example.com/crossref" : [ {
+    "@value" : "87476"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0717-6287"
+  }, {
+    "@value" : "0716-9760"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.biolres.com/"
+  }, {
+    "@id" : "http://www.scielo.cl/bres.htm"
+  }, {
+    "@id" : "http://www.scielo.cl/scielo.php?script=sci_serial&pid=0716-9760&lng=en&nrm=iso"
+  }, {
+    "@id" : "https://biolres.biomedcentral.com/"
+  }, {
+    "@id" : "mailto:socbiol@terra.cl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0716-9760"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S186646444"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0717-6287"
+  }, {
+    "@value" : "0716-9760"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biological Research"
+  } ]
+} ]

@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q20013648",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "pt",
+    "@value" : "Bull. Natl. Sci. Mus."
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. Natl. Sci. Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Nat. Sci. Mus. Tokyo"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Natl. Sci. Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Natl. Sci. Mus. Tokyo"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the National Science Museum, Tokyo"
+  }, {
+    "@language" : "es",
+    "@value" : "Bull. Natl. Sci. Mus."
+  }, {
+    "@language" : "fr",
+    "@value" : "Bull. Natl. Sci. Mus."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0028-0119"
+  } ],
+  "http://example.com/ndl" : [ {
+    "@value" : "2384011"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "0851696B-06A2-4ADA-BE13-F038CE75521E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0028-0119"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the National Science Museum"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin of the National Science Museum, Tokyo"
+  }, {
+    "@language" : "ja",
+    "@value" : "国立科学博物館研究報告"
+  } ]
+} ]

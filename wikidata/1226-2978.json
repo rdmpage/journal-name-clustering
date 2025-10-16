@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27724324",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Pada"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "201765"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ocean.kisti.re.kr/IS_mvpopo210L.do?method=list&poid=ksoc&kojic=GHOHBG&sFree="
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1226-2978"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210181881"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2671-8820"
+  }, {
+    "@value" : "1226-2978"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Ba'da"
+  }, {
+    "@language" : "en",
+    "@value" : "Pada (Han'guk Haeyang Hakhoe)"
+  } ]
+} ]

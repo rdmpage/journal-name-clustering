@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q12362407",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Estonian Academy of Sciences. Biology. Ecology ="
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "73102"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://kirj.ee/estonian-journal-of-ecology/?v=3a52f3c22ed6"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1406-0914"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S208012136"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1736-602X"
+  }, {
+    "@value" : "1736-7549"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Estonian Journal of Ecology"
+  } ]
+} ]

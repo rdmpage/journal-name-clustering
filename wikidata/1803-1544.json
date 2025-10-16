@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385740",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1803-1544"
+  }, {
+    "@language" : "es",
+    "@value" : "Studies and Reports of District Museum Prague-East, Taxonomical Series"
+  }, {
+    "@language" : "en",
+    "@value" : "Studies and Reports of District Museum Prague-East, Taxonomical Series"
+  }, {
+    "@language" : "en",
+    "@value" : "Studies and Reports, Taxonomical Series"
+  }, {
+    "@language" : "en",
+    "@value" : "Studies and Reports. Taxonomical Series"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1803-1544"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2012"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1803-1544"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Studies and Reports of District Museum Prague-East. Taxonomical Series"
+  }, {
+    "@language" : "en",
+    "@value" : "Studies and Reports. Taxonomical Series"
+  } ]
+} ]

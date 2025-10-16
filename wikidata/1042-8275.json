@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7076223",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Oceanography"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "127985"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2377-617X"
+  }, {
+    "@value" : "1042-8275"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1988"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/62047"
+  }, {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/18927903.html"
+  }, {
+    "@id" : "http://www.tos.org/oceanography/"
+  }, {
+    "@id" : "http://www.tos.org/oceanography/issues.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1042-8275"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "oceanography"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S92941125"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2377-617X"
+  }, {
+    "@value" : "1042-8275"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Oceanography"
+  } ]
+} ]

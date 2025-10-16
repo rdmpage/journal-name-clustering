@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27725809",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J Plant Prot Res"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "74501"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1899-007X"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.plantprotection.pl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1427-4345"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S106397756"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1427-4345"
+  }, {
+    "@value" : "1899-007X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Plant Protection Research"
+  }, {
+    "@language" : "pl",
+    "@value" : "Journal of Plant Protection Research"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27726895",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Open Life Sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "Open Life Sci"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "256470"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2391-5412"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.degruyter.com/view/j/biol"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2391-5412"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S119941230"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2391-5412"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Open life sciences"
+  } ]
+} ]

@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385307",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Dipterists Digest, Second Series"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.dipterists.org.uk/digest"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0953-7260"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "AB2D148E-A6DA-4836-B0EF-8C49B0DAB8F8"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0953-7260"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Dipterists Digest"
+  } ]
+} ]

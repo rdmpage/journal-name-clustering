@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q63215675",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "ISSN 2278-1587"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 2278-1587"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2012"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://indianarachnology.com/ija/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2278-1587"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2278-1587"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Indian journal of arachnology"
+  } ]
+} ]

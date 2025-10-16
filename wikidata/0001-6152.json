@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714808",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Med Okayama"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-6152"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0001-6152"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Acta Medicinae Okayama"
+  } ]
+} ]

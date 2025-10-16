@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757979",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Studia Universitatis Babes-Bolyai: Geologia"
+  }, {
+    "@language" : "en",
+    "@value" : "Studia UBB Geologia"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "99925"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1937-8602"
+  }, {
+    "@value" : "1221-0803"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://digitalcommons.usf.edu/geologia/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1221-0803"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210194090"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1937-8602"
+  }, {
+    "@value" : "1221-0803"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Studia Universitatis Babeş-Bolyai. Geologia"
+  }, {
+    "@language" : "und",
+    "@value" : "Studia Universitatis Babes-Bolyai, Geologia"
+  } ]
+} ]

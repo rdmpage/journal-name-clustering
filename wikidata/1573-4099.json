@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722415",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Curr Comput Aided Drug Des"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "44398"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1573-4099"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S130157898"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1573-4099"
+  }, {
+    "@value" : "1875-6697"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Current computer-aided drug design"
+  } ]
+} ]

@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q124368024",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0301-8059"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.scielo.br/j/aseb/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0301-8059"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "96CC6B70-3346-48EB-AB22-7DDB8E8192C6"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1981-5328"
+  }, {
+    "@value" : "0301-8059"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt-br",
+    "@value" : "Anais da Sociedade entomológica do Brasil"
+  }, {
+    "@language" : "pt",
+    "@value" : "Anais da Sociedade entomológica do Brasil"
+  } ]
+} ]

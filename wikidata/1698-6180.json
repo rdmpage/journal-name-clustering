@@ -1,0 +1,57 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763128",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "pt",
+    "@value" : "Cuadernos de Geología Ibérica"
+  }, {
+    "@language" : "de",
+    "@value" : "Cuadernos de Geología Ibérica"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Iberian Geology"
+  }, {
+    "@language" : "es",
+    "@value" : "Cuadernos de Geología Ibérica"
+  }, {
+    "@language" : "en",
+    "@value" : "Cuadernos de Geología Ibérica"
+  }, {
+    "@language" : "fr",
+    "@value" : "Cuadernos de Geología Ibérica"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "375208"
+  }, {
+    "@value" : "110465"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "1991"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.springer.com/journal/41513"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1698-6180"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S196682830"
+  }, {
+    "@value" : "S2764675091"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0378-102X"
+  }, {
+    "@value" : "1698-6180"
+  }, {
+    "@value" : "1887-0082"
+  }, {
+    "@value" : "1886-7995"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Iberian Geology: an international publication of earth sciences"
+  } ]
+} ]

@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2933119",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0007-9723"
+  }, {
+    "@language" : "fr",
+    "@value" : "Cahier de biologie marine"
+  }, {
+    "@language" : "fr",
+    "@value" : "Cahiers De Biologie Marine"
+  }, {
+    "@language" : "fr",
+    "@value" : "CBM"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://cbm.sb-roscoff.fr/cbm/archives.htm?execution=e2s1"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0007-9723"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S125437568"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0007-9723"
+  }, {
+    "@value" : "2262-3094"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Cahiers de biologie marine"
+  } ]
+} ]

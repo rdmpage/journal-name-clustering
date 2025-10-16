@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15724398",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "ヘパトロジー"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3850"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1981"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0270-9139;screen=info;ECOIP"
+  }, {
+    "@id" : "http://hepatology.aasldjournals.org/"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1527-3350"
+  }, {
+    "@id" : "https://journals.lww.com/hep/pages/default.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0270-9139"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S156174673"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1527-3350"
+  }, {
+    "@value" : "0270-9139"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Hepatology"
+  } ]
+} ]

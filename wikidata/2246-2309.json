@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28382689",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Dan. ornithol. foren. tidsskr."
+  }, {
+    "@language" : "en",
+    "@value" : "Dansk ornithologisk forenings tidsskrift"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "8262"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1907"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://pub.dof.dk/serier/5"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0011-6394"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0011-6394"
+  }, {
+    "@value" : "2246-2309"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "da",
+    "@value" : "Dansk ornithologisk Forenings Tidsskrift"
+  } ]
+} ]

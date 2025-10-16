@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1470820",
+  "http://example.com/from_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0340-4927"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0340-4927"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Telma"
+  }, {
+    "@language" : "de",
+    "@value" : "Telma"
+  } ]
+} ]

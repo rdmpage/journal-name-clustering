@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q25653931",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Publ. - Field Columbian Mus., Zool. ser."
+  }, {
+    "@language" : "en",
+    "@value" : "Publication - Field Columbian Museum. Zoological series"
+  }, {
+    "@language" : "en",
+    "@value" : "Publication. Field Columbian Museum. Zoological series"
+  }, {
+    "@language" : "en",
+    "@value" : "Publication. Zoological series"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "42254"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1895"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0097-3904"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1909"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0097-3904"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Publication - Field Columbian Museum. Zoological series"
+  }, {
+    "@language" : "en",
+    "@value" : "Publication. Field Columbian Museum. Zoological series"
+  } ]
+} ]

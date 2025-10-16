@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27710413",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "Zhongguo jishengchongxue yu jishengchongbing zazhi"
+  }, {
+    "@language" : "zh",
+    "@value" : "中國寄生蟲學與寄生蟲病雜誌"
+  }, {
+    "@language" : "en",
+    "@value" : "Zhongguo Ji Sheng Chong Xue Yu Ji Sheng Chong Bing Za Zhi"
+  }, {
+    "@language" : "en",
+    "@value" : "Chinese journal of parasitology & parasitic diseases"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jsczz.cn/CN/1000-7423/home.shtml"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1000-7423"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764993234"
+  }, {
+    "@value" : "S4306541727"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1000-7423"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "zh",
+    "@value" : "Zhongguo jishengchongxue yu jishengchongbing zazhi"
+  }, {
+    "@language" : "zh",
+    "@value" : "中国寄生虫学与寄生虫病杂志"
+  }, {
+    "@language" : "en",
+    "@value" : "Chinese journal of parasitology & parasitic diseases"
+  } ]
+} ]

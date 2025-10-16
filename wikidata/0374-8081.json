@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5900917",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0374-8081"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0374-8081"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Hokuriku Journal of Botany"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q5946702",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "J. Geobot."
+  }, {
+    "@language" : "ja",
+    "@value" : "Hokuriku no Shokubutsu"
+  }, {
+    "@language" : "en",
+    "@value" : "Hokuriku Journal of Botany"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0374-8081"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0374-8081"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "北陸の植物"
+  }, {
+    "@language" : "mul",
+    "@value" : "Hokuriku no shokubutsu"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Geobotany"
+  } ]
+} ]

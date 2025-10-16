@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q23071099",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Bombay Natural History Society"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "307174"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bnhsjournal.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2454-1095"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210224554"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2454-1095"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of Bombay Natural History Society"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Bombay Natural History Society"
+  } ]
+} ]

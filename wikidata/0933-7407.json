@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1956531",
+  "http://example.com/crossref" : [ {
+    "@value" : "3694"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1439-0507"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/loi/myc"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0933-7407"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S80731565"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1439-0507"
+  }, {
+    "@value" : "0933-7407"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Mycoses"
+  }, {
+    "@language" : "en",
+    "@value" : "Mycoses"
+  } ]
+} ]

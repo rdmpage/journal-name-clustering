@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51493592",
+  "http://example.com/bhl" : [ {
+    "@value" : "44815"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1898"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2940-3278"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1900"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2940-3278"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Illustrierte Zeitschrift für Entomologie"
+  }, {
+    "@language" : "de",
+    "@value" : "Illustrierte Zeitschrift für Entomologie."
+  } ]
+} ]

@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96698945",
+  "http://example.com/crossref" : [ {
+    "@value" : "53241"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.br/ev"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0328-0381"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210214194"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1980-5349"
+  }, {
+    "@value" : "0328-0381"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Entomología y vectores"
+  } ]
+} ]

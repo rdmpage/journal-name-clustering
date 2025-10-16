@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15761116",
+  "http://example.com/crossref" : [ {
+    "@value" : "5814"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S147846519"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1063-1119"
+  }, {
+    "@value" : "1328-8202"
+  }, {
+    "@value" : "1568-5306"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Society and Animals"
+  } ]
+} ]

@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15767656",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Spisanie na B\"lgarskoto Geologičesko Družestvo"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0007-3938"
+  }, {
+    "@language" : "en",
+    "@value" : "Review of Bulgarian Geological Society"
+  }, {
+    "@language" : "ru",
+    "@value" : "Review of Bulgarian Geological Society"
+  }, {
+    "@language" : "ru",
+    "@value" : "Review of the Bulgarian Geological Society"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1927"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.bgd.bg/REVIEW_BGS/frames_home_BG.html"
+  }, {
+    "@id" : "https://bgd.bg/review-bgs/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0007-3938"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210223150"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1314-8680"
+  }, {
+    "@value" : "0007-3938"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "bg",
+    "@value" : "Spisanie na Bʺlgarskoto geologičesko družestvo"
+  }, {
+    "@language" : "en",
+    "@value" : "Review of the Bulgarian Geological Society"
+  } ]
+} ]

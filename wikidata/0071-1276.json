@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96701431",
+  "http://example.com/crossref" : [ {
+    "@value" : "305154"
+  }, {
+    "@value" : "85147"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.revistas.usp.br/aesalq/index"
+  }, {
+    "@id" : "http://www.scielo.br/scielo.php?script=sci_serial&pid=0071-1276&lng=pt&nrm=iso"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0071-1276"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "s4210197822"
+  }, {
+    "@value" : "S4210197822"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2316-8935"
+  }, {
+    "@value" : "0071-1276"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Anais da Escola Superior de Agricultura Luiz de Queiroz"
+  } ]
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q131740012",
+  "http://example.com/from_year" : [ {
+    "@value" : "1950"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.cushmanfoundation.org/archival-publications/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0011-409X"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "B578441F-56D1-4415-92B3-D2ACCC0126DC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0011-409X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Contributions from the Cushman Foundation for Foraminiferal Research"
+  } ]
+} ]

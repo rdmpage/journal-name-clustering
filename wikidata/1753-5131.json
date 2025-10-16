@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758988",
+  "http://example.com/crossref" : [ {
+    "@value" : "82118"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1753-5131"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1753-5131"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S60775588"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1753-5123"
+  }, {
+    "@value" : "1753-5131"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Reviews in Aquaculture"
+  } ]
+} ]

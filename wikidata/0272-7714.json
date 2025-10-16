@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15750743",
+  "http://example.com/crossref" : [ {
+    "@value" : "578"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1973"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0272-7714;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.idealibrary.com/links/toc/ecss"
+  }, {
+    "@id" : "http://www.journals.elsevier.com/estuarine-coastal-and-shelf-science/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/02727714"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0272-7714"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S43867544"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0272-7714"
+  }, {
+    "@value" : "1096-0015"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Estuarine, Coastal and Shelf Science"
+  } ]
+} ]

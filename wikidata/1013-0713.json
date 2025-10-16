@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q89659504",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Forstliche Bundesversuchsanstalt Berichte"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1013-0713"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1985"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1013-0713"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2002"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1013-0713"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "FBVA Berichte"
+  } ]
+} ]

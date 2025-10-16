@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q25653956",
+  "http://example.com/from_year" : [ {
+    "@value" : "1891"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0374-6771"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0374-6771"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Carinthia II"
+  } ]
+} ]

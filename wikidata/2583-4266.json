@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q116783623",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of Palaeosciences"
+  }, {
+    "@language" : "en",
+    "@value" : "J. Palaeosci."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://jpsonline.co.in/index.php/jop"
+  }, {
+    "@id" : "https://www.jpsonline.co.in/index.php/jop"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2583-4266"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4363604203"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2583-4266"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Palaeosciences"
+  } ]
+} ]

@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752955",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Comp. Cytogenet."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Comparative Cytogenetics: international journal of plant and animal cytogenetics, karyosystematics and molecular systematics"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "98206"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1993-0771"
+  }, {
+    "@value" : "1993-078X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2007"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://compcytogen.pensoft.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1993-0771"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S36351113"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1993-0771"
+  }, {
+    "@value" : "1993-078X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Comparative Cytogenetics: international journal of plant and animal cytogenetics, karyosystematics and molecular systematics"
+  }, {
+    "@language" : "en",
+    "@value" : "Comparative cytogenetics"
+  } ]
+} ]

@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q56886621",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0398-4346"
+  }, {
+    "@language" : "es",
+    "@value" : "ISSN 0398-4346"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1977"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://asfra.fr/Site/Main_public.html"
+  }, {
+    "@id" : "http://asfra.fr/Site/revue-arachno-sommaires.html"
+  }, {
+    "@id" : "http://revuearachnologique.free.fr/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0398-4346"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4363607514"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0398-4346"
+  }, {
+    "@value" : "2649-4868"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Revue Arachnologique"
+  } ]
+} ]

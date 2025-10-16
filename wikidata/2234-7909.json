@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386304",
+  "http://example.com/crossref" : [ {
+    "@value" : "214706"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.nibr.go.kr/cmn/wvtex/nibr/schlshp/schlshpPaprList.do"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2234-7909"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764530970"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A85A0298-AE16-4C9E-BA72-615C1CF82D68"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2713-8615"
+  }, {
+    "@value" : "2234-7909"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of species research"
+  } ]
+} ]

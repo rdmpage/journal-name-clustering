@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27727622",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0368-2307"
+  }, {
+    "@language" : "en",
+    "@value" : "Jahresh Ges Naturkd Wurtt"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0368-2307"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0368-2307"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Jahreshefte der Gesellschaft für Naturkunde in Württemberg"
+  } ]
+} ]

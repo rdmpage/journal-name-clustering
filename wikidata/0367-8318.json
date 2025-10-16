@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27710660",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Indian J Anim Sci"
+  }, {
+    "@language" : "en",
+    "@value" : "Indian Journal of Animal Sciences"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2394-3327"
+  }, {
+    "@value" : "0367-8318"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://epubs.icar.org.in/ejournal/index.php/IJAnS"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0367-8318"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S70380255"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0367-8318"
+  }, {
+    "@value" : "2394-3327"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Indian Journal of Animal Sciences"
+  }, {
+    "@language" : "en",
+    "@value" : "The Indian journal of animal sciences"
+  } ]
+} ]

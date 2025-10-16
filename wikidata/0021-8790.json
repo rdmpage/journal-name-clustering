@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q1709829",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Anim. Ecol."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "動物行為學"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3658"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1932"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://estar.bl.uk/cgi-bin/sciserv.pl?collection=journals&journal=00218790"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0021-8790;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.journalofanimalecology.org"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00218790.html"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-8790"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "janimalecology"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S33456383"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0021-8790"
+  }, {
+    "@value" : "1365-2656"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Animal Ecology"
+  } ]
+} ]

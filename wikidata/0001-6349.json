@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4676737",
+  "http://example.com/crossref" : [ {
+    "@value" : "3341"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1921"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://informahealthcare.com/loi/obs"
+  }, {
+    "@id" : "http://www.tandf.co.uk/journals/titles/00016349.asp"
+  }, {
+    "@id" : "https://obgyn.onlinelibrary.wiley.com/journal/16000412"
+  }, {
+    "@id" : "http://firstsearch.oclc.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0001-6349"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S192518766"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1600-0412"
+  }, {
+    "@value" : "0001-6349"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Obstetricia et Gynecologica Scandinavica"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Obstetricia et Gynecologica Scandinavica"
+  } ]
+} ]

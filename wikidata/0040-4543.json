@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51418645",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. Tex. Ornithol. Soc."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "145269"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1967"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0040-4543"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0040-4543"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the Texas Ornithological Society"
+  } ]
+} ]

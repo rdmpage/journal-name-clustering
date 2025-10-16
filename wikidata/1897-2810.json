@@ -1,0 +1,44 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723518",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biodiversity: Research and Conservation"
+  }, {
+    "@language" : "en",
+    "@value" : "Biodivers Res Conserv"
+  }, {
+    "@language" : "de",
+    "@value" : "Biodivers. Res. Conservation"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "100365"
+  }, {
+    "@value" : "374375"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2080-945X"
+  }, {
+    "@value" : "1897-2810"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.brc.amu.edu.pl/s2.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1897-2810"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S57999394"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1897-2810"
+  }, {
+    "@value" : "2080-945X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biodiversity: Research and Conservation"
+  }, {
+    "@language" : "en",
+    "@value" : "Biodiversity Research and Conservation"
+  } ]
+} ]

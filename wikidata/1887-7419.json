@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385909",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Alavesia: the journal of the International Palaeoentomological Society"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2007"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1887-7419"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2010"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "07AFD720-BC5F-4751-9879-D2546517A21B"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1887-7419"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Alavesia"
+  } ]
+} ]

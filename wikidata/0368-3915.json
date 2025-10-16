@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51497017",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Quekett Microscopical Club"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7003"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297286"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1868"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0368-3915"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210232014"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1966"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0368-3915"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Journal of the Quekett Microscopical Club"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Quekett Microscopical Club"
+  } ]
+} ]

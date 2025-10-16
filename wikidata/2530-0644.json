@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96328236",
+  "http://example.com/crossref" : [ {
+    "@value" : "306627"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2530-0644"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.sciencedirect.com/science/journal/25300644"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2530-0644"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2898175082"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2530-0644"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Perspectives in ecology and conservation"
+  } ]
+} ]

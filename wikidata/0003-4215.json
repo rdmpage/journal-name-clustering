@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q47069948",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Ann. Speleologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Ann. Speleologie"
+  }, {
+    "@language" : "fr",
+    "@value" : "Ann. Speleologie"
+  }, {
+    "@language" : "pt",
+    "@value" : "Ann. Speleologie"
+  }, {
+    "@language" : "de",
+    "@value" : "Ann. Speleologie"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1946"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/cb326941761/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0003-4215"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1976"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "ABBDCCD6-565D-409F-B9ED-54519B09AE10"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0003-4215"
+  }, {
+    "@value" : "2968-3971"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Annales de Spéléologie"
+  } ]
+} ]

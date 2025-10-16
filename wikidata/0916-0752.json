@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15759017",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Minami Taiheiyō kenkyū"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://ir.kagoshima-u.ac.jp/search?search_type=2&q=260"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0916-0752"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306545075"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "6EB2D3D3-63DC-436D-A414-3BEBF4FFFAE2"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0916-0752"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "南太平洋研究"
+  } ]
+} ]

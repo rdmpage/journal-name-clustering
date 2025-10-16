@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749872",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Interaction Studies: Social Behaviour and Communication in Biological and Artificial System"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "68902"
+  }, {
+    "@value" : "68322"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S123899908"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1387-5337"
+  }, {
+    "@value" : "1572-0373"
+  }, {
+    "@value" : "1572-0381"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Interaction Studies: social behaviour and communication in biological and artificial systems"
+  } ]
+} ]

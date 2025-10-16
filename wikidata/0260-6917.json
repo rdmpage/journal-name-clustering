@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766569",
+  "http://example.com/crossref" : [ {
+    "@value" : "3950"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "5056"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.harcourt-international.com/journals"
+  }, {
+    "@id" : "http://www.harcourt-international.com/journals/nedt/"
+  }, {
+    "@id" : "http://www.idealibrary.com/links/toc/nedt/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/02606917"
+  }, {
+    "@id" : "https://www.journals.elsevier.com/nurse-education-today"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0260-6917"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S62565178"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0260-6917"
+  }, {
+    "@value" : "1532-2793"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nurse Education Today"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27720968",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Fungal Sci."
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://mycology.sinica.edu.tw/TaiwanMycoSoc/FungalScience.aspx"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1560-3695"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764987394"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1560-3695"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Fungal science"
+  }, {
+    "@language" : "en",
+    "@value" : "Fungal science"
+  } ]
+} ]

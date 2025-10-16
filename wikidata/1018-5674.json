@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96701948",
+  "http://example.com/crossref" : [ {
+    "@value" : "307008"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1018-5674"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210206588"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2410-1184"
+  }, {
+    "@value" : "1018-5674"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Folia amazónica"
+  } ]
+} ]

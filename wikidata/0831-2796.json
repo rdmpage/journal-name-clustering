@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765118",
+  "http://example.com/crossref" : [ {
+    "@value" : "5605"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1959"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://collection.nlc-bnc.ca/101/201/301/genome/index.html"
+  }, {
+    "@id" : "http://www.nrc.ca/cgi-bin/cisti/journals/rp/rp2%5Fdesc%5Fe?gen"
+  }, {
+    "@id" : "http://www.nrc.ca/cgi-bin/cisti/journals/rp/rp2%5Fdesc%5Ff?gen"
+  }, {
+    "@id" : "http://www.nrcresearchpress.com/journal/gen"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0831-2796"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S170991295"
+  }, {
+    "@value" : "S4210187997"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1480-3321"
+  }, {
+    "@value" : "0831-2796"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Genome"
+  }, {
+    "@language" : "mul",
+    "@value" : "Genome"
+  } ]
+} ]

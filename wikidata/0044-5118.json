@@ -1,0 +1,56 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385964",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "動物學雑誌"
+  }, {
+    "@language" : "en",
+    "@value" : "Zoological Magazine"
+  }, {
+    "@language" : "en",
+    "@value" : "Dbutsugaku zasshi."
+  }, {
+    "@language" : "en",
+    "@value" : "Proceedings of Annual Meeting of the Zoological Society of Japan"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0044-5118"
+  }, {
+    "@language" : "en",
+    "@value" : "Dobutsugaku zasshi"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "9498"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1889"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0044-5118"
+  } ],
+  "http://example.com/ndl" : [ {
+    "@value" : "10387666"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1983"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "92D166DA-CB2B-450D-A93D-A8B51048353E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0044-5118"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of Annual Meeting of the Zoological Society of Japan"
+  }, {
+    "@language" : "en",
+    "@value" : "Zoological magazine"
+  }, {
+    "@language" : "mul",
+    "@value" : "Dōbutsugaku zasshi"
+  }, {
+    "@language" : "ja",
+    "@value" : "動物学雑誌"
+  } ]
+} ]

@@ -1,0 +1,10 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q134346770",
+  "http://schema.org/issn" : [ {
+    "@value" : "1435-3393"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Report / International Dragonfly Fund, IDF: journal of the International Dragonfly Fund"
+  } ]
+} ]

@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q68836040",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Integr Org Biol"
+  }, {
+    "@language" : "en",
+    "@value" : "Integrative organismal biology"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "327264"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2517-4843"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://academic.oup.com/iob"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2517-4843"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210201203"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2517-4843"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Integrative organismal biology"
+  } ]
+} ]

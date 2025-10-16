@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15746544",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Int. J. Gynecol. Obstet."
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Gynecology & Obstetrics"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "304166"
+  }, {
+    "@value" : "1606"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1963"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.ijgo.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0020-7292"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210216427"
+  }, {
+    "@value" : "S4210241029"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0020-6695"
+  }, {
+    "@value" : "0020-7292"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Gynecology and Obstetrics"
+  } ]
+} ]

@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27719942",
+  "http://example.com/crossref" : [ {
+    "@value" : "44538"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1930"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=ltDRAAAAMAAJ"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=0005-3155"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-journals-list&issn=0005-3155"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00053155.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0005-3155"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "bios"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210231110"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1943-6289"
+  }, {
+    "@value" : "0005-3155"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bios"
+  } ]
+} ]

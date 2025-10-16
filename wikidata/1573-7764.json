@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765046",
+  "http://example.com/crossref" : [ {
+    "@value" : "2699"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=1072-5369;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.kluweronline.com/issn/1072-5369/contents"
+  }, {
+    "@id" : "https://www.jstor.org/journal/jarchmeththeo"
+  }, {
+    "@id" : "https://www.springer.com/journal/10816"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1072-5369"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jarchmeththeo"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S42980227"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1072-5369"
+  }, {
+    "@value" : "1573-7764"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Archaeological Method and Theory"
+  } ]
+} ]

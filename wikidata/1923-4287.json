@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96699379",
+  "http://example.com/crossref" : [ {
+    "@value" : "130185"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.nrcresearchpress.com/loi/cjr"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-6581"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764442377"
+  }, {
+    "@value" : "S4210176233"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0366-6581"
+  }, {
+    "@value" : "1923-4287"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Canadian Journal of Research"
+  } ]
+} ]

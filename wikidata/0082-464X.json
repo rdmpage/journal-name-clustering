@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96333513",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Science reports of the Tohoku University. Second series, Geology"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://tohoku.repo.nii.ac.jp/search?search_type=2&q=155"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0082-464X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0082-464X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Science reports of the Tohoku University. Second series, Geology"
+  } ]
+} ]

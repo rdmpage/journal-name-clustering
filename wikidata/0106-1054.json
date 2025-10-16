@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q60175769",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0106-1054"
+  }, {
+    "@language" : "en",
+    "@value" : "Meddelelser om Grønland Bioscience"
+  }, {
+    "@language" : "es",
+    "@value" : "ISSN 0106-1054"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://tidsskrift.dk/meddrgroenland_biosci/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0106-1054"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2794-6819"
+  }, {
+    "@value" : "0106-1054"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Meddelelser om Grønland. Bioscience"
+  } ]
+} ]

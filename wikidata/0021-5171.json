@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714223",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Kisechugaku Zasshi"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1951"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://jsparasitol.org/archive/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-5171"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2765076554"
+  }, {
+    "@value" : "S4306514856"
+  }, {
+    "@value" : "S4306547662"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1996"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0021-5171"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "寄生虫学雑誌"
+  }, {
+    "@language" : "mul",
+    "@value" : "Kiseichūgaku zasshi"
+  }, {
+    "@language" : "en",
+    "@value" : "Japanese journal of parasitology"
+  } ]
+} ]

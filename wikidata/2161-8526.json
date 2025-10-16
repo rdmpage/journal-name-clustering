@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7158750",
+  "http://example.com/from_year" : [ {
+    "@value" : "1977"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://peckhamia.110mb.com/"
+  }, {
+    "@id" : "http://peckhamia.com/peckhamia.html"
+  }, {
+    "@id" : "https://peckhamia.com/peckhamia_numbers.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1944-8120"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S943873383"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1944-8120"
+  }, {
+    "@value" : "2161-8526"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Peckhamia"
+  }, {
+    "@language" : "en",
+    "@value" : "Peckhamia"
+  } ]
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329903",
+  "http://example.com/from_year" : [ {
+    "@value" : "1956"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0008-7378"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "FF8B5281-EBB0-4880-B8CA-F349D2FB686A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0008-7378"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of mineralogy and geology"
+  }, {
+    "@language" : "cs",
+    "@value" : "Časopis pro mineralogii a geologii"
+  } ]
+} ]

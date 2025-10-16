@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96718944",
+  "http://example.com/crossref" : [ {
+    "@value" : "329417"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.physics-mathematics.kz/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1991-346X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210179788"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2518-1726"
+  }, {
+    "@value" : "1991-346X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Izvestiâ Nacionalʹnoj akademii nauk Respubliki Kazahstan. Seriâ Fiziko-matematičeskaâ"
+  } ]
+} ]

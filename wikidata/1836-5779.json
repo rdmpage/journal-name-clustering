@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385821",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1836-5698"
+  }, {
+    "@language" : "de",
+    "@value" : "ISSN 1836-5698"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.smuggled.com/AJHFP1.htm"
+  }, {
+    "@id" : "http://www.smuggled.com/AJHIP1.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1836-5698"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "F73957C7-863E-4358-9D2E-0090371424A4"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1836-5779"
+  }, {
+    "@value" : "1836-5698"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australasian Journal of Herpetology"
+  } ]
+} ]

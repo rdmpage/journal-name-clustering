@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q110152285",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Zhejiang Nonglin Daxue xuebao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "ZJLX"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://zlxb.zafu.edu.cn/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2095-0756"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764426967"
+  }, {
+    "@value" : "S4306535884"
+  }, {
+    "@value" : "S4306553836"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2095-0756"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Zhejiang Nonglin Daxue xuebao"
+  }, {
+    "@language" : "zh-hans",
+    "@value" : "浙江农林大学学报"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of Zhejiang A & F University"
+  } ]
+} ]

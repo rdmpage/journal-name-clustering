@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q104092231",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Entomological Section of the Academy of Natural Sciences"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "7549"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1879"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/31067"
+  }, {
+    "@id" : "http://chla.library.cornell.edu/c/chla/browse/title/5077659.html"
+  }, {
+    "@id" : "http://www.jstor.org/journals/1945516X.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1945-516X"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "tranamerentosoc2"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210199853"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1889"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1945-516X"
+  }, {
+    "@value" : "2328-3823"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the American Entomological Society and Proceedings of the Entomological Section of the Academy of Natural Sciences"
+  } ]
+} ]

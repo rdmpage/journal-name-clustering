@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2003024",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Taxon. The Journal of the International Association for Plant Taxonomy"
+  }, {
+    "@language" : "zh",
+    "@value" : "分類單元"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "55467"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "1399"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.catchword.com/rpsv/catchword/iapt/00400262/contp1-1.htm"
+  }, {
+    "@id" : "http://www.jstor.org/journals/00400262.html"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/19968175"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0040-0262"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "taxon"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S163860444"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0040-0262"
+  }, {
+    "@value" : "1996-8175"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Taxon"
+  } ]
+} ]

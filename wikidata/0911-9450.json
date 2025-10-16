@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385177",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "Nōgyō Kankyō Gijutsu Kenkyūsho hōkoku"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://repository.naro.go.jp/search?search_type=2&q=404"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0911-9450"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0911-9450"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "Nōgyō Kankyō Gijutsu Kenkyūsho hōkoku"
+  }, {
+    "@language" : "ja",
+    "@value" : "農業環境技術研究所報告"
+  } ]
+} ]

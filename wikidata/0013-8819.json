@@ -1,0 +1,57 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15981946",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Entomologische Arbeiten aus dem Museum G. Frey Tutzing bei München."
+  }, {
+    "@language" : "en",
+    "@value" : "Entomologischen Arbeiten aus dem Museum Georg Frey"
+  }, {
+    "@language" : "en",
+    "@value" : "Entomologische Arbeiten aus dem Museum Georg Frey"
+  }, {
+    "@language" : "en",
+    "@value" : "Entomologische Arbeiten Museum G. Frey"
+  }, {
+    "@language" : "de",
+    "@value" : "Entomologische Arbeiten aus dem Museum G. Frey Tutzing bei München"
+  }, {
+    "@language" : "en",
+    "@value" : "Entomol. Arb. Mus. G. Frey Tutzing bei Münch."
+  }, {
+    "@language" : "en",
+    "@value" : "Entomologische Arbeiten Museum G. Frey Tutzing"
+  }, {
+    "@language" : "de",
+    "@value" : "Entomologische Arbeiten aus dem Museum G. Frey, München"
+  }, {
+    "@language" : "en",
+    "@value" : "Entomologischen Arbeiten aus dem Museum G. Frey"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "94758"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1950"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0013-8819"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "653D97AA-EAD6-4E5D-9E78-28298F21ED34"
+  }, {
+    "@value" : "7F5648B0-5AE5-45E4-B2F9-8CB222D2C089"
+  }, {
+    "@value" : "9819E483-4E58-4B44-84AE-7B02B1D21F45"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0013-8819"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Entomologische Arbeiten aus dem Museum G. Frey Tutzing bei München"
+  } ]
+} ]

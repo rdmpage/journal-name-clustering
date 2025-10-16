@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51393615",
+  "http://example.com/bhl" : [ {
+    "@value" : "11755"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297399"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1911"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0316-9049"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210224308"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1965"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0316-9049"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Entomological Society of British Columbia"
+  } ]
+} ]

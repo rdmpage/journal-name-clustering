@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q73908748",
+  "http://example.com/crossref" : [ {
+    "@value" : "296299"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0026-4563"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0026-4563"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764768273"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0026-4563"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bulletin of the Mineral Research and Exploration Institute of Turkey"
+  } ]
+} ]

@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751593",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Acta Zool. Cracov."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "73844"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1954"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.isez.pan.krakow.pl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0065-1710"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S101353132"
+  }, {
+    "@value" : "S4210174629"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1990"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0065-1710"
+  }, {
+    "@value" : "1734-915X"
+  }, {
+    "@value" : "2299-6060"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Zoologica Cracoviensia"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Zoologica Cracoviensia"
+  } ]
+} ]

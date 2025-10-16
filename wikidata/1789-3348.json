@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96330040",
+  "http://example.com/crossref" : [ {
+    "@value" : "69734"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://akjournals.com/view/journals/24/24-overview.xml?rskey=LXPa69&result=1"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1788-2281"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S140699420"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1789-3348"
+  }, {
+    "@value" : "1788-2281"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Central European geology"
+  } ]
+} ]

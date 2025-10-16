@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51437118",
+  "http://example.com/bhl" : [ {
+    "@value" : "49442"
+  }, {
+    "@value" : "156926"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0233-125X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0233-125X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Abhandlungen und Berichte des Königlichen Zoologischen und Anthropologisch-Ethnographischen Museums zu Dresden"
+  }, {
+    "@language" : "de",
+    "@value" : "Abhandlungen und Berichte des Zoologischen und Anthropologisch-Ethnographischen Museums zu Dresden"
+  } ]
+} ]

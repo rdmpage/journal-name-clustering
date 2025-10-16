@@ -1,0 +1,17 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723998",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Wetchasan Sattawaphaet"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S38625625"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0125-6491"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Wetchasan sattawaphaet = The Thai journal of veterinary medicine"
+  } ]
+} ]

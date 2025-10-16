@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329274",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.pgi.gov.pl/oferta-inst/wydawnictwa/serie-wydawnicze/prace-pig.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0866-9465"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0866-9465"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Prace Państwowego Instytutu Geologicznego"
+  } ]
+} ]

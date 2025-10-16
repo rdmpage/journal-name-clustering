@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96325983",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "Hozen seitaigaku kenkyū"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1342-4327"
+  }, {
+    "@value" : "2424-1431"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/hozen/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1342-4327"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "hozen"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306514843"
+  }, {
+    "@value" : "S4306543560"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1342-4327"
+  }, {
+    "@value" : "2424-1431"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "Hozen seitaigaku kenkyū"
+  } ]
+} ]

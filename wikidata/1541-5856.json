@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15762081",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Limnology and oceanography, methods"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "95745"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.aslo.org/lomethods"
+  }, {
+    "@id" : "https://aslopubs.onlinelibrary.wiley.com/journal/15415856"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1541-5856"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S106377154"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1541-5856"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Limnology and oceanography, methods"
+  }, {
+    "@language" : "en",
+    "@value" : "Limnology and Oceanography: Methods"
+  } ]
+} ]

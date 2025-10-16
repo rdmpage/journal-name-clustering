@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751331",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0212-5919"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297742"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "1870"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://thalassas.webs.uvigo.es/thalassas_marco%20principal.htm"
+  }, {
+    "@id" : "http://www.bibliothek.uni-regensburg.de/ezeit/?2383320"
+  }, {
+    "@id" : "https://link.springer.com/journal/41208"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0212-5919"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764589869"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2366-1674"
+  }, {
+    "@value" : "0212-5919"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Thalassas"
+  }, {
+    "@language" : "en",
+    "@value" : "Thalassas: an international journal of marine sciences"
+  } ]
+} ]

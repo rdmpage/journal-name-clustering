@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q45040349",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Egyptian German Society of Zoology. A, Comparative Physiology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1110-5321"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1110-533X"
+  }, {
+    "@value" : "1110-5348"
+  }, {
+    "@value" : "1110-5356"
+  }, {
+    "@value" : "1110-5364"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of the Egyptian German Society of Zoology. A, Comparative Physiology"
+  }, {
+    "@language" : "en",
+    "@value" : "Journal of the Egyptian German Society of Zoology. C, Histology and Histochemistry"
+  } ]
+} ]

@@ -1,0 +1,80 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5643232",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Occasional Papers of Bernice Pauahi Bishop Museum of Polynesian Ethnology and Natural History"
+  }, {
+    "@language" : "en",
+    "@value" : "Occasional papers of the Bernice Pauahi Bishop Museum of Polynesian Ethnology and Natural History"
+  }, {
+    "@language" : "de",
+    "@value" : "Occasional Papers of Bernice P. Bishop Museum of Polynesian Ethnology and Natural History"
+  }, {
+    "@language" : "en",
+    "@value" : "Occasional papers of the Bernice P. Bishop Museum"
+  }, {
+    "@language" : "en",
+    "@value" : "Occasional Papers of Bernice Pauahi Bishop Museum of Polynesian Ethnology and Natural History"
+  }, {
+    "@language" : "de",
+    "@value" : "Occas. Pap. Bernice Pauahi Bishop Mus."
+  }, {
+    "@language" : "en",
+    "@value" : "Occasional Papers of Bernice Pauahi Bishop Museum"
+  }, {
+    "@language" : "en",
+    "@value" : "Occasional papers of Bernice P. Bishop Museum"
+  }, {
+    "@language" : "de",
+    "@value" : "Bishop Mus. Occas. Pap."
+  }, {
+    "@language" : "en",
+    "@value" : "Occas. pap. Bernice P. Bishop Mus."
+  }, {
+    "@language" : "fr",
+    "@value" : "Occasional Papers of the Bernice Pauahi Bishop Museum of Polynesian Ethology and Natural History"
+  }, {
+    "@language" : "fr",
+    "@value" : "Occasional Papers of Bernice Pauahi Bishop Museum of Polynesian Ethnology and Natural History"
+  }, {
+    "@language" : "es",
+    "@value" : "Occasional Papers of the Bernice Pauahi Bishop Museum pf Polynesian Ethology and Natural History"
+  }, {
+    "@language" : "en",
+    "@value" : "Occasional Papers of the Bernice Pauahi Bishop Museum of Polynesian Ethology and Natural History"
+  }, {
+    "@language" : "es",
+    "@value" : "Occasional Papers of Bernice Pauahi Bishop Museum of Polynesian Ethnology and Natural History"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "6999"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297314"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1898"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://hbs.bishopmuseum.org/pubs-online/bpbm-sp.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0067-6160"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210192868"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1984"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "867A6FFC-C289-44F7-A7B4-527F7D2780CC"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0067-6160"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Occasional papers of Bernice P. Bishop Museum"
+  } ]
+} ]

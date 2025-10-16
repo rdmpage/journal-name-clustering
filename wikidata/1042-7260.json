@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15753257",
+  "http://example.com/crossref" : [ {
+    "@value" : "57492"
+  }, {
+    "@value" : "114448"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "jzoowildmedi"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S207406949"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0093-4526"
+  }, {
+    "@value" : "1042-7260"
+  }, {
+    "@value" : "1937-2825"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Zoo and Wildlife Medicine"
+  } ]
+} ]

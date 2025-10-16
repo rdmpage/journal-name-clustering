@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96706173",
+  "http://example.com/crossref" : [ {
+    "@value" : "375123"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1995-0160"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210176255"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1995-0160"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ru",
+    "@value" : "Vestnik Tverskogo gosudarstvennogo universiteta. Seriâ Biologiâ i èkologiâ"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q129059711",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Shuiziyuan baohu"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "SZYB"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://jour.hhu.edu.cn/szybh/home"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1004-6933"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1004-6933"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Shuiziyuan baohu"
+  }, {
+    "@language" : "zh",
+    "@value" : "水资源保护"
+  } ]
+} ]

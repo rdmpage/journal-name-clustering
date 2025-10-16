@@ -1,0 +1,95 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2725967",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Anat. Rec. (Hoboken)"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Anat. rec. (Hoboken, N.J. : 2007)"
+  }, {
+    "@language" : "fr",
+    "@value" : "Anat Rec (Hoboken)"
+  }, {
+    "@language" : "en",
+    "@value" : "Anat Rec (Hoboken)"
+  }, {
+    "@language" : "en",
+    "@value" : "The anatomical record : advances in integrative anatomy and evolutionary biology"
+  }, {
+    "@language" : "es",
+    "@value" : "Anat. rec. (Hoboken, N.J. : 2007)"
+  }, {
+    "@language" : "en",
+    "@value" : "Anatomical record (Hoboken, N.J. : 2007)"
+  }, {
+    "@language" : "de",
+    "@value" : "The anatomical record : advances in integrative anatomy and evolutionary biology"
+  }, {
+    "@language" : "fr",
+    "@value" : "The anatomical record : advances in integrative anatomy and evolutionary biology"
+  }, {
+    "@language" : "de",
+    "@value" : "Anatomical Record"
+  }, {
+    "@language" : "fr",
+    "@value" : "Anat. Rec."
+  }, {
+    "@language" : "en",
+    "@value" : "Anat. rec. (Hoboken, N.J. : 2007)"
+  }, {
+    "@language" : "es",
+    "@value" : "Anatomical Record"
+  }, {
+    "@language" : "de",
+    "@value" : "Anat Rec (Hoboken)"
+  }, {
+    "@language" : "fr",
+    "@value" : "Anatomical record (Hoboken, N.J. : 2007)"
+  }, {
+    "@language" : "es",
+    "@value" : "Anat Rec (Hoboken)"
+  }, {
+    "@language" : "es",
+    "@value" : "The anatomical record : advances in integrative anatomy and evolutionary biology"
+  }, {
+    "@language" : "de",
+    "@value" : "Anatomical record (Hoboken, N.J. : 2007)"
+  }, {
+    "@language" : "fr",
+    "@value" : "Anat. rec. (Hoboken, N.J. : 2007)"
+  }, {
+    "@language" : "en",
+    "@value" : "Anatomical Record"
+  }, {
+    "@language" : "es",
+    "@value" : "Anatomical record (Hoboken, N.J. : 2007)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "61047"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2007"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://onlinelibrary.wiley.com/journal/19328494"
+  }, {
+    "@id" : "https://anatomypubs.onlinelibrary.wiley.com/journal/19328494"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1932-8486"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S23626183"
+  }, {
+    "@value" : "S4210187571"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1932-8486"
+  }, {
+    "@value" : "1932-8494"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The Anatomical Record"
+  } ]
+} ]

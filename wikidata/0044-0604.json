@@ -1,0 +1,54 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760987",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Proc. Yorks. Geol. Soc."
+  }, {
+    "@language" : "en",
+    "@value" : "Yorkshire Geological Society. Proceedings"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "104729"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1906"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://pygs.lyellcollection.org/"
+  }, {
+    "@id" : "https://www.lyellcollection.org/journal/pygs"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0044-0604"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210235697"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2041-4811"
+  }, {
+    "@value" : "0044-0604"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Yorkshire Geological Society"
+  } ]
+}, {
+  "@id" : "http://www.wikidata.org/entity/Q51379651",
+  "http://example.com/bhl" : [ {
+    "@value" : "104728"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1839"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1877"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0044-0604"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Proceedings of the Geological and Polytechnic Society of the West Riding of Yorkshire"
+  } ]
+} ]

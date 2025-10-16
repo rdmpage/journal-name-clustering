@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q115165241",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://cibrc.org/MES/index.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1659-3049"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1659-3049"
+  }, {
+    "@value" : "1659-2182"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Métodos en Ecología & Sistemática"
+  }, {
+    "@language" : "es",
+    "@value" : "Métodos en ecología y sistemática"
+  } ]
+} ]

@@ -1,0 +1,42 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15733644",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "J. Syst. Evol."
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "ZWFX"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "82626"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2008"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/47213"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1759-6831"
+  }, {
+    "@id" : "http://VC4KB8YF3Q.search.serialssolutions.com/?V=1.0&L=VC4KB8YF3Q&S=JCs&C=JOSAE&T=marc"
+  }, {
+    "@id" : "http://www.plantsystematics.com/index_en.asp"
+  }, {
+    "@id" : "http://www.scimagojr.com/journalsearch.php?q=54722&tip=sid&clean=0"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1759-6831"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S56397279"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1674-4918"
+  }, {
+    "@value" : "1759-6831"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Systematics and Evolution"
+  } ]
+} ]

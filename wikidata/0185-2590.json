@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385264",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Anales del Instituto de Biología, Universidad Nacional Autónoma de México. Serie Zoologiá"
+  }, {
+    "@language" : "en",
+    "@value" : "Anales - Instituto de Biologia, Universidad Nacional Autonoma de Mexico, Serie Zoologia"
+  }, {
+    "@language" : "en",
+    "@value" : "Anales del Instituto de Biología, UNAM (Serie Zoología)"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://revistas.unam.mx/index.php/zoo"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0185-2590"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0185-2590"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Anales del Instituto de Biología, UNAM (Serie Zoología)"
+  } ]
+} ]

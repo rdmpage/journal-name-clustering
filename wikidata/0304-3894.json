@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757703",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "J. Hazard. Mat."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1342"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.journals.elsevier.com/journal-of-hazardous-materials"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0304-3894"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S145089992"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0304-3894"
+  }, {
+    "@value" : "1873-3336"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Hazardous Materials"
+  } ]
+} ]

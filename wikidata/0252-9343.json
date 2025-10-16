@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q55926861",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0252-9343"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0252-9343"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Travaux de l'Institut scientifique. Série Zoologie"
+  } ]
+} ]

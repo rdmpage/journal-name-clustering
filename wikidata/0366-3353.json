@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q117230123",
+  "http://example.com/from_year" : [ {
+    "@value" : "1955"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0366-3353"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0366-3353"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin of the University of Osaka Prefecture. Ser. B, Agriculture and biology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Bulletin of the University of Osaka Prefecture. Series B, Agriculture and biology"
+  } ]
+} ]

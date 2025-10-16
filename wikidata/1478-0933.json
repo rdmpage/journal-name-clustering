@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15763175",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Syst. Biodivers."
+  }, {
+    "@language" : "de",
+    "@value" : "Syst. Biodivers."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "15601"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2003"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=SYS"
+  }, {
+    "@id" : "http://journals.cambridge.org/JID_SYS"
+  }, {
+    "@id" : "http://www.tandfonline.com/toc/tsab20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1477-2000"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S37779577"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "E283CA44-410C-4793-AEC3-9850DA0FB68A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1478-0933"
+  }, {
+    "@value" : "1477-2000"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Systematics and Biodiversity"
+  } ]
+} ]

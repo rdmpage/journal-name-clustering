@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96734472",
+  "http://example.com/crossref" : [ {
+    "@value" : "379435"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2707-7268"
+  }, {
+    "@value" : "2707-725X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2020"
+  }, {
+    "@value" : "1967"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ojs.akademperiodyka.org.ua/index.php/Zoodiversity/index"
+  }, {
+    "@id" : "http://www.v-zool.kiev.ua/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2707-725X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210212966"
+  } ],
+  "http://example.com/rss" : [ {
+    "@id" : "http://ojs.akademperiodyka.org.ua/index.php/Zoodiversity/gateway/plugin/WebFeedGatewayPlugin/atom"
+  }, {
+    "@id" : "http://ojs.akademperiodyka.org.ua/index.php/Zoodiversity/gateway/plugin/WebFeedGatewayPlugin/rss"
+  }, {
+    "@id" : "http://ojs.akademperiodyka.org.ua/index.php/Zoodiversity/gateway/plugin/WebFeedGatewayPlugin/rss2"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2707-7268"
+  }, {
+    "@value" : "2707-725X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Zoodiversity"
+  } ]
+} ]

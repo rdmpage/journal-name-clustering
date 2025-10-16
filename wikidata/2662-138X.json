@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96717806",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nature reviews. Earth & environment"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "376796"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.nature.com/natrevearthenviron/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2662-138X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210178125"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2662-138X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Nature reviews. Earth & environment"
+  } ]
+} ]

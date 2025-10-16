@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q19597053",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Ecoscience"
+  } ],
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ecoscience"
+  }, {
+    "@language" : "en",
+    "@value" : "Ecoscience Online"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60839"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://ejournals.ebsco.com/direct.asp?JournalID=711358"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=1195-6860"
+  }, {
+    "@id" : "http://www.ecoscience.ulaval.ca/en"
+  }, {
+    "@id" : "http://www.jstor.org/action/showPublication?journalCode=ecoscience"
+  }, {
+    "@id" : "https://www.tandfonline.com/loi/teco20"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1195-6860"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "ecoscience"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S22041155"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1195-6860"
+  }, {
+    "@value" : "2376-7626"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Écoscience"
+  }, {
+    "@language" : "mul",
+    "@value" : "Écoscience"
+  } ]
+} ]

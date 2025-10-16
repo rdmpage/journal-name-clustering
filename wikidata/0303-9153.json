@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5735512",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bull. Jard. Bot. Natl. Belg."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "62932"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.br.fgov.be/public/general/publicationsbulletinjbnb.php"
+  }, {
+    "@id" : "http://www.ingentaconnect.com/content/botbel/plecevo/"
+  }, {
+    "@id" : "http://www.jstor.org/action.showPublication?journalCode=bulldujardbotana"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0303-9153"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "bulldujardbotana"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210224774"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2034-1946"
+  }, {
+    "@value" : "0303-9153"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Bulletin van de Nationale Plantentuin van België"
+  }, {
+    "@language" : "mul",
+    "@value" : "Bulletin du Jardin Botanique National de Belgique (Imprimé)"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin du Jardin botanique national de Belgique"
+  } ]
+} ]

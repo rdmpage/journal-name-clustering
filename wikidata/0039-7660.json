@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q7661070",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Sylwan"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1820"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sylwan.ibles.waw.pl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0039-7660"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S47857099"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0039-7660"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Sylwan"
+  }, {
+    "@language" : "pl",
+    "@value" : "Sylwan"
+  } ]
+} ]

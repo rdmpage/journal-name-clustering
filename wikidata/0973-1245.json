@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27722386",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Biosci Biotechnol Res Asia"
+  }, {
+    "@language" : "en",
+    "@value" : "Biosciences Biotechnology Research Asia"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "228286"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://biotech-asia.org/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0973-1245"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764791414"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2456-2602"
+  }, {
+    "@value" : "0973-1245"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biosciences Biotechnology Research Asia"
+  }, {
+    "@language" : "en",
+    "@value" : "Biosciences, biotechnology research Asia"
+  } ]
+} ]

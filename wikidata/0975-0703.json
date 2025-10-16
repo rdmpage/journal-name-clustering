@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385355",
+  "http://example.com/crossref" : [ {
+    "@value" : "95665"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.springerlink.com/content/k56qr1g3nlgh/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0971-7196"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S63436312"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0971-7196"
+  }, {
+    "@value" : "0975-0703"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of parasitic diseases"
+  } ]
+} ]

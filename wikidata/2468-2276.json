@@ -1,0 +1,25 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q73542413",
+  "http://example.com/crossref" : [ {
+    "@value" : "327150"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2468-2276"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.journals.elsevier.com/scientific-african"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2468-2276"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210198261"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2468-2276"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Scientific African"
+  } ]
+} ]

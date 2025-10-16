@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q4579783",
+  "http://example.com/crossref" : [ {
+    "@value" : "34458"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "3533"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1888"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://books.google.com/books?id=3JAdjprVmaUC"
+  }, {
+    "@id" : "http://books.google.com/books?id=NS8UZmGIN7wC"
+  }, {
+    "@id" : "http://www.aaanet.org/publications/ameranthro.cfm"
+  }, {
+    "@id" : "https://anthrosource.onlinelibrary.wiley.com/journal/15481433"
+  }, {
+    "@id" : "https://www.jstor.org/journal/ameranth"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0002-7294"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "ameranth"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S102499938"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1548-1433"
+  }, {
+    "@value" : "0002-7294"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "American Anthropologist"
+  } ]
+} ]

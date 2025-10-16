@@ -1,0 +1,21 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q98803324",
+  "http://example.com/dialnet" : [ {
+    "@value" : "18645"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.avesdecostarica.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1659-0732"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2215-2350"
+  }, {
+    "@value" : "1659-0732"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Zeledonia"
+  } ]
+} ]

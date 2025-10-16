@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q13428781",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Agric. Eco-syst. Environm."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1561"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1974"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.journals.elsevier.com/agriculture-ecosystems-and-environment/"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/01678809/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0167-8809"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S185297315"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1873-2305"
+  }, {
+    "@value" : "0167-8809"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Agriculture, Ecosystems & Environment"
+  } ]
+} ]

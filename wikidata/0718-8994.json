@@ -1,0 +1,61 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385761",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Rev. Chilena Entom."
+  }, {
+    "@language" : "de",
+    "@value" : "Rev. Chilena Entom."
+  }, {
+    "@language" : "pt",
+    "@value" : "Rev. Chilena Entom."
+  }, {
+    "@language" : "es",
+    "@value" : "Rev. Chilena Entom."
+  }, {
+    "@language" : "en",
+    "@value" : "Rev. Chilena Entom."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "46370"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "340357"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0718-8994"
+  }, {
+    "@value" : "0034-740X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1951"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "mailto:soc.chi.ent@gmail.com"
+  }, {
+    "@id" : "http://www.insectachile.cl/revista/"
+  }, {
+    "@id" : "http://www.scielo.cl/rche.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0034-740X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210172032"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "41D762DD-9498-4F70-A790-51AAC2ADAAA7"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0034-740X"
+  }, {
+    "@value" : "0718-8994"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Revista chilena de entomología"
+  }, {
+    "@language" : "es",
+    "@value" : "Revista Chilena de Entomología"
+  } ]
+} ]

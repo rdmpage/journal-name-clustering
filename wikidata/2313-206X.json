@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15716559",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Biologia (Lahore)"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://biolspk.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0006-3096"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S169030477"
+  }, {
+    "@value" : "S4210191406"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0006-3096"
+  }, {
+    "@value" : "2313-206X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Biologia"
+  } ]
+} ]

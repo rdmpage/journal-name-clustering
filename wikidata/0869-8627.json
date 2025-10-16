@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714687",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Siberian journal of ecology"
+  }, {
+    "@language" : "en",
+    "@value" : "Sibirskii Ekolog. Z."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0869-8627"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0869-8627"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Siberian journal of ecology"
+  }, {
+    "@language" : "en",
+    "@value" : "Sibirskii Ekologicheskii Zhurnal"
+  } ]
+} ]

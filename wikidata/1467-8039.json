@@ -1,0 +1,49 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751938",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Arthropod Structure and Development"
+  }, {
+    "@language" : "de",
+    "@value" : "Arthropod Structure and Development"
+  }, {
+    "@language" : "fr",
+    "@value" : "Arthropod Structure and Development"
+  }, {
+    "@language" : "es",
+    "@value" : "Arthropod Structure and Development"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1467-8039"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1613"
+  }, {
+    "@value" : "1535"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2000"
+  }, {
+    "@value" : "1970"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.journals.elsevier.com/arthropod-structure-and-development"
+  }, {
+    "@id" : "https://www.sciencedirect.com/journal/arthropod-structure-and-development/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1467-8039"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S38044275"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1467-8039"
+  }, {
+    "@value" : "1873-5495"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Arthropod Structure & Development"
+  } ]
+} ]

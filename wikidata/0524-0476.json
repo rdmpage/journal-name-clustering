@@ -1,0 +1,57 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5732018",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0524-0476"
+  }, {
+    "@language" : "en",
+    "@value" : "Bonplandia. Corrientes"
+  }, {
+    "@language" : "fr",
+    "@value" : "Bonplandia (Corrientes)"
+  }, {
+    "@language" : "de",
+    "@value" : "Bonplandia (Corrientes)"
+  }, {
+    "@language" : "en",
+    "@value" : "Bonplandia (Corrientes)"
+  }, {
+    "@language" : "es",
+    "@value" : "Bonplandia (Corrientes)"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "314924"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1853-8460"
+  }, {
+    "@value" : "0524-0476"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1960"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://revistas.unne.edu.ar/index.php/bon"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0524-0476"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "bonplandia"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210194811"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0524-0476"
+  }, {
+    "@value" : "1853-8460"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Bonplandia"
+  }, {
+    "@language" : "es",
+    "@value" : "Bonplandia"
+  } ]
+} ]

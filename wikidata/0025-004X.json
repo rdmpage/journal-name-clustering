@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15758003",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.agrarlapok.hu/magyar-allatorvosok-lapja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0025-004X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S1607879"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0025-004X"
+  }, {
+    "@value" : "3003-9924"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "hu",
+    "@value" : "Magyar Állatorvosok Lapja"
+  }, {
+    "@language" : "mul",
+    "@value" : "Magyar állatorvosok lapja"
+  } ]
+} ]

@@ -1,0 +1,18 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q130602092",
+  "http://example.com/from_year" : [ {
+    "@value" : "2004"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://erevistas.saber.ula.ve/index.php/herpetotropicos/index"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1690-7930"
+  }, {
+    "@value" : "1856-9285"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Herpetotropicos"
+  } ]
+} ]

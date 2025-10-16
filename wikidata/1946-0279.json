@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q55203404",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 1946-0279"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "296251"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://bibpurl.oclc.org/web/81129"
+  }, {
+    "@id" : "http://kuscholarworks.ku.edu/dspace/handle/1808/4492"
+  }, {
+    "@id" : "http://paleo.ku.edu/contributions.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1946-0279"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210217250"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1946-0279"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Paleontological contributions"
+  } ]
+} ]

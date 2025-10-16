@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15298119",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "zh",
+    "@value" : "無脊椎動物分類學"
+  }, {
+    "@language" : "en",
+    "@value" : "Invertebrate Taxonomy"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "5960"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2002"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.publish.csiro.au/is"
+  }, {
+    "@id" : "http://www.publish.csiro.au/journals/it/electronic.html"
+  }, {
+    "@id" : "https://www.publish.csiro.au/is"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1445-5226"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S190005928"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3762CF3D-294E-43F2-916B-56A28D418D07"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1445-5226"
+  }, {
+    "@value" : "1447-2600"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Invertebrate Systematics"
+  } ]
+} ]

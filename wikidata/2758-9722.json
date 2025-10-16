@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q123950250",
+  "http://example.com/from_year" : [ {
+    "@value" : "1995"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2758-9722"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2758-9722"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Neo Lepidoptera"
+  } ]
+} ]

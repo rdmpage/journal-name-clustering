@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15765719",
+  "http://example.com/crossref" : [ {
+    "@value" : "3570"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1365-2109"
+  }, {
+    "@value" : "1355-557X"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1970"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://estar.bl.uk/cgi-bin/sciserv.pl?collection=journals&journal=1355557x"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2109"
+  }, {
+    "@id" : "http://www.blackwellpublishing.com/journal.asp?ref=1355-557X&site=1"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/are"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1355-557X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S185347631"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1365-2109"
+  }, {
+    "@value" : "1355-557X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Aquaculture Research"
+  } ]
+} ]

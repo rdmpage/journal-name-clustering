@@ -248,7 +248,7 @@ $parameters = array(
 );
 
 // debugging so we try some examples
-if (0)
+if (1)
 {
 	$sortkeys = array('em');
 	//$sortkeys = array('jbnhs');
@@ -258,7 +258,7 @@ if (0)
 	
 	$sortkeys = array('rsz');
 	
-	$sortkeys = array('e');
+	$sortkeys = array('bmcsnv');
 }
 else
 {

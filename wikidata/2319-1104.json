@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q118366361",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "JNBR"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.researchtrend.net"
+  }, {
+    "@id" : "https://www.researchtrend.net/jnbr/jnbr.php"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2319-1104"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2319-1104"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal on New Biological Reports"
+  } ]
+} ]

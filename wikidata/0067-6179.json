@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386244",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Bernice Pauahi Bishop Museum Special Publication"
+  }, {
+    "@language" : "en",
+    "@value" : "Bishop Museum Special Publication"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0067-6179"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "20DDD495-5C74-468E-9CCE-AAE76469384A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0067-6179"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bernice P. Bishop Museum special publication"
+  } ]
+} ]

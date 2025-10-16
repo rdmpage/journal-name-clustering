@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q107074904",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Mitteilungsblatt des Entomologischen Vereins Mecklenburg"
+  }, {
+    "@language" : "en",
+    "@value" : "Virgo (Schwerin)"
+  }, {
+    "@language" : "en",
+    "@value" : "Virgo"
+  }, {
+    "@language" : "de",
+    "@value" : "Virgo"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1438-5090"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1438-5090"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Virgo"
+  }, {
+    "@language" : "de",
+    "@value" : "Virgo - Mitteilungsblatt des Entomologischen Vereins Mecklenburg"
+  } ]
+} ]

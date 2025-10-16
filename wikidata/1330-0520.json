@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385093",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Natura Croatica : Periodicum Musei Historiae Naturalis Croatici"
+  }, {
+    "@language" : "fr",
+    "@value" : "Natura Croatica : Periodicum Musei Historiae Naturalis Croatici"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "297010"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1998"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://hrcak.srce.hr/natura-croatica"
+  }, {
+    "@id" : "http://www.hpm.hr/hr/Znanost"
+  }, {
+    "@id" : "https://haw.nsk.hr/publikacija/6144/natura-croatica"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1330-0520"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210222654"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1330-0520"
+  }, {
+    "@value" : "1848-7386"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "hr",
+    "@value" : "Natura Croatica"
+  }, {
+    "@language" : "la",
+    "@value" : "Natura croatica"
+  } ]
+} ]

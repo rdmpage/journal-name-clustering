@@ -1,0 +1,22 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q125581998",
+  "http://example.com/from_year" : [ {
+    "@value" : "1969"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0072-1115"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "2006"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "A52C132D-FA13-4A08-A178-1D27375162A7"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0072-1115"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Mitteilungen aus dem Geologisch-Paläontologischen Institut der Universität Hamburg"
+  } ]
+} ]

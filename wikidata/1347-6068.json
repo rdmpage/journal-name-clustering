@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760268",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Nihon Oyo Dobutsu Konchu Gakkaishi"
+  }, {
+    "@language" : "en",
+    "@value" : "Nihon Ōyō Dōbutsu Konchū Gakkaishi"
+  }, {
+    "@language" : "ja",
+    "@value" : "Nihon Ōyō Dōbutsu Konchū Gakkaishi"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1957"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jjaez/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-4914"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jjaez"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306550862"
+  }, {
+    "@value" : "S69871865"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1347-6068"
+  }, {
+    "@value" : "0021-4914"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "ja",
+    "@value" : "日本応用動物昆虫学会誌"
+  } ]
+} ]

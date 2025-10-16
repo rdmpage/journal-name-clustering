@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q19221060",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Nachrichtsblatt der Deutschen Malakozoologischen Gesellschaft"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "14716"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1868"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0723-4244"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1919"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "8CFA353E-712A-4B54-AEC9-FCB9ED2A99F5"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0723-4244"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Nachrichtsblatt der Deutschen Malakozoologischen Gesellschaft"
+  }, {
+    "@language" : "de",
+    "@value" : "Nachrichtsblatt der deutschen Malakozoologischen Gesellschaft"
+  } ]
+} ]

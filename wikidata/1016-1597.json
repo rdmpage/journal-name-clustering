@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15756718",
+  "http://example.com/crossref" : [ {
+    "@value" : "314937"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1986"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://pu.edu.pk/home/journal/25"
+  }, {
+    "@id" : "https://researcherslinks.com/journal/punjab-university-journal-of-zoology/26"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1016-1597"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210168528"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1016-1597"
+  }, {
+    "@value" : "2313-8556"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Punjab University Journal of Zoology"
+  } ]
+} ]

@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723995",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Xi Bei Nong Ye Xue Bao"
+  }, {
+    "@language" : "en",
+    "@value" : "Xi bei nong ye xue bao"
+  }, {
+    "@language" : "zh",
+    "@value" : "Xibei nongye xuebao"
+  }, {
+    "@language" : "es",
+    "@value" : "Xi bei nong ye xue bao"
+  } ],
+  "http://example.com/cnki" : [ {
+    "@value" : "XBNX"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1992"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.xbnyxb.cn/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1004-1389"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306500228"
+  }, {
+    "@value" : "S4306557912"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1004-1389"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Agriculturae Boreali-Occidentalis Sinica"
+  }, {
+    "@language" : "zh-hans",
+    "@value" : "西北农业学报"
+  } ]
+} ]

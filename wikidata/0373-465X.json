@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q6160593",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Verhandelingen der Koninklijke Nederlandse Akademie van Wetenschappen, Afdeling Natuurkunde"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.knaw.nl/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0373-465X"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "64256037-CDD9-42F1-844A-24D3E641EC90"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0373-465X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "nl",
+    "@value" : "Verhandelingen der Koninklijke Nederlandse Akademie van Wetenschappen, Afdeling Natuurkunde"
+  }, {
+    "@language" : "nl",
+    "@value" : "Verhandelingen der Koninklijke Nederlandse Akademie van Wetenschappen. Afdeling Natuurkunde. Tweede sectie"
+  } ]
+} ]

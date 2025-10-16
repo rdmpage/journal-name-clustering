@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760982",
+  "http://example.com/crossref" : [ {
+    "@value" : "15716"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2005"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com"
+  }, {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1479-8298/issues"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/servlet/useragent?func=showIssues&code=ens"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/14798298"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1343-8786"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S167620011"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1479-8298"
+  }, {
+    "@value" : "1343-8786"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Entomological Science"
+  } ]
+} ]

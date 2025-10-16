@@ -1,0 +1,45 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386029",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0065-1729"
+  }, {
+    "@language" : "en",
+    "@value" : "Acta Zoologica Lilloana"
+  }, {
+    "@language" : "es",
+    "@value" : "Acta zoológica lilloana"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "314330"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1852-6098"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1943"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.lillo.org.ar/journals/index.php/acta-zoologica-lilloana/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0065-1729"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210171840"
+  }, {
+    "@value" : "S4306500606"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "FE5FAC79-894B-4789-8814-138F157FB32D"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0065-1729"
+  }, {
+    "@value" : "1852-6098"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Acta Zoológica Lilloana"
+  } ]
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385703",
+  "http://example.com/crossref" : [ {
+    "@value" : "82825"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1755-2672"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journals.cambridge.org/action/displayJournal?jid=mbd"
+  }, {
+    "@id" : "http://mbr.biomedcentral.com/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1755-2672"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S31022136"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "BD58DB43-A7EA-4B8C-846C-420CBF8CD44C"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1755-2672"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Marine biodiversity records"
+  } ]
+} ]

@@ -1,0 +1,35 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51400441",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2572-1410"
+  }, {
+    "@language" : "en",
+    "@value" : "Gulf res. rep."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "123731"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "295826"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1961"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0072-9027"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210200353"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1999"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0072-9027"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Gulf research reports"
+  } ]
+} ]

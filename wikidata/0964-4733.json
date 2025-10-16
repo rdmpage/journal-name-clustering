@@ -1,0 +1,28 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15755410",
+  "http://example.com/crossref" : [ {
+    "@value" : "198"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rave.ohiolink.edu/ejournals/issn/09644733/"
+  }, {
+    "@id" : "http://www3.interscience.wiley.com/cgi-bin/jtoc?ID=5329"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/10990836"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0964-4733"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S205793605"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1099-0836"
+  }, {
+    "@value" : "0964-4733"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Business Strategy and the Environment"
+  } ]
+} ]

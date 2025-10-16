@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5550932",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Feddes Repert. Spec. Nov. Regni Veg."
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 0375-121X"
+  }, {
+    "@language" : "de",
+    "@value" : "Feddes Repert. Spec. Nov. Regni Veg."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0375-121X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210203293"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0375-121X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Feddes repertorium specierum novarum regni vegetabilis"
+  }, {
+    "@language" : "la",
+    "@value" : "Feddes Repertorium Specierum Novarum Regni Vegetabilis"
+  } ]
+} ]

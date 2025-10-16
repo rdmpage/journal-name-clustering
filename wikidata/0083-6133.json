@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5696312",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Ann. Naturhist. Mus. Wien"
+  }, {
+    "@language" : "fr",
+    "@value" : "Ann. Naturhist. Mus. Wien"
+  }, {
+    "@language" : "es",
+    "@value" : "Ann. Naturhist. Mus. Wien"
+  }, {
+    "@language" : "de",
+    "@value" : "Ann. Naturhist. Mus. Wien"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1919"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0083-6133"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "annanatumusewien"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1979"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "903C8C8F-B81C-4C0C-9F95-5FAFDAB173FF"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0083-6133"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Annalen des Naturhistorischen Museums in Wien"
+  } ]
+} ]

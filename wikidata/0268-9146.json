@@ -1,0 +1,33 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q2028353",
+  "http://example.com/crossref" : [ {
+    "@value" : "3718"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1987"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://firstsearch.oclc.org"
+  }, {
+    "@id" : "http://firstsearch.oclc.org/journal=0268-9146;screen=info;ECOIP"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=age"
+  }, {
+    "@id" : "http://www.blackwellpublishing.com/age"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0268-9146"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S12146737"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1365-2052"
+  }, {
+    "@value" : "0268-9146"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Animal Genetics"
+  } ]
+} ]

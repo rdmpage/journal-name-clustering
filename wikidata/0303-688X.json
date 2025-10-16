@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386305",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 0303-688X"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0303-688X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306522045"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0303-688X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Parasitologia Hungarica"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751585",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Dòngwù xuékān"
+  }, {
+    "@language" : "en",
+    "@value" : "ISSN 1019-5858"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1019-5858"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1019-5858"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "la",
+    "@value" : "Acta Zoologica Taiwanica"
+  }, {
+    "@language" : "mul",
+    "@value" : "Dòngwù xuékān"
+  }, {
+    "@language" : "zh",
+    "@value" : "动物学刊"
+  } ]
+} ]

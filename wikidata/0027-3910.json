@@ -1,0 +1,50 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q19946882",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Boletin del Museo Nacional de Historia Natural de Chile"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletín del Museo Nacional de Historia Natural"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletin del Museo Nacional de Historia Natural, Santiago de Chile"
+  }, {
+    "@language" : "de",
+    "@value" : "Bol. Mus. Nac. Hist. Nat. Santiago de Chile"
+  }, {
+    "@language" : "en",
+    "@value" : "Boletin del Museo Nacional de Historia Natural, Santiago de Chile"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1937"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://publicaciones.mnhn.cl/"
+  }, {
+    "@id" : "mailto:gabriela.riveros@mnhn.cl"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0027-3910"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210173829"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "327CB9CA-90E4-421D-8E9B-66CB61F3C7B3"
+  }, {
+    "@value" : "3D14B230-04E6-4876-B088-1C7637BB3858"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0027-3910"
+  }, {
+    "@value" : "0719-935X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Boletín del Museo Nacional de Historia Natural"
+  }, {
+    "@language" : "es",
+    "@value" : "Boletin del Museo Nacional de Historia Natural, Santiago de Chile"
+  } ]
+} ]

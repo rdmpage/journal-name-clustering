@@ -1,0 +1,30 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q97436541",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "TILS-TTR"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "156819"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/40608369.html"
+  }, {
+    "@id" : "http://lepsurvey.carolinanature.com/report.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2643-4776"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "0B379082-B75C-4C0B-BA87-B39DB8092D7F"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2643-4776"
+  }, {
+    "@value" : "2643-4806"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "The taxonomic report of the International Lepidoptera Survey"
+  } ]
+} ]

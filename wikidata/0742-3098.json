@@ -1,0 +1,39 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15056565",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "J. Pineal. Res."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "3343"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "4691"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1984"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-079X"
+  }, {
+    "@id" : "http://www.blackwell-synergy.com/member/institutions/issuelist.asp?journal=jpi"
+  }, {
+    "@id" : "http://www.blackwellpublishing.com/journal.asp?ref=0742-3098&site=1"
+  }, {
+    "@id" : "http://www.ingenta.com/journals/browse/mksg/jpi?mode=direct"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0742-3098"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S114728194"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1600-079X"
+  }, {
+    "@value" : "0742-3098"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of Pineal Research"
+  } ]
+} ]

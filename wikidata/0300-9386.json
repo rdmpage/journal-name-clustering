@@ -1,0 +1,55 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q36778289",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "es",
+    "@value" : "Bull. Mus. Natl. Hist. Nat., Zool."
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin du Muséum national d'Histoire naturelle 3ème série - Zoologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin du Muséum national d'histoire naturelle. Série 3. Zoologie"
+  }, {
+    "@language" : "en",
+    "@value" : "Bull. Mus. Natl. Hist. Nat., Zool."
+  }, {
+    "@language" : "fr",
+    "@value" : "Bulletin du Muséum national d'histoire naturelle. Série 3. Zoologie"
+  }, {
+    "@language" : "de",
+    "@value" : "Bull. Mus. Natl. Hist. Nat., Zool."
+  }, {
+    "@language" : "fr",
+    "@value" : "Bull. Mus. Natl. Hist. Nat., Zool."
+  }, {
+    "@language" : "en",
+    "@value" : "Bulletin du Muséum national d'Histoire naturelle 3ème série - Zoologie"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "149559"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1971"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://bibliotheques.mnhn.fr/medias/doc/EXPLOITATION/IFD/I_IFD_REFDOC_03009386"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0300-9386"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "832876D8-04A5-4976-9260-74E7D1F341F9"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "3038-9909"
+  }, {
+    "@value" : "0300-9386"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin du Muséum national d'histoire naturelle. Zoologie"
+  } ]
+} ]

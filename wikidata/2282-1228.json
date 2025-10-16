@@ -1,0 +1,51 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385839",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Mem. Soc. ent. Ital."
+  }, {
+    "@language" : "en",
+    "@value" : "Mem. Soc. ent. Ital."
+  }, {
+    "@language" : "fr",
+    "@value" : "Mem. Soc. ent. Ital."
+  }, {
+    "@language" : "es",
+    "@value" : "Mem. Soc. ent. Ital."
+  }, {
+    "@language" : "pt",
+    "@value" : "Mem. Soc. ent. Ital."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "212322"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "224727"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1922"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://sei.pagepress.org/index.php/memorie"
+  }, {
+    "@id" : "http://sei.pagepress.org/index.php/memorie/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0037-8747"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210182963"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "3CA2EB5F-BD6A-4993-AF4F-0B870EB1CB1E"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0037-8747"
+  }, {
+    "@value" : "2282-1228"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "it",
+    "@value" : "Memorie della Società entomologica italiana"
+  } ]
+} ]

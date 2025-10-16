@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q104640124",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "NZOI records"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0110-618X"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0110-618X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "New Zealand Oceanographic Institute Records"
+  }, {
+    "@language" : "en",
+    "@value" : "NZOI records"
+  } ]
+} ]

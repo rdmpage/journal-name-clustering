@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385084",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0863-0844"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "D61E953A-2350-4562-AB46-AB1E0CA559A1"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0863-0844"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Rudolstdter naturhistorische Schriften"
+  }, {
+    "@language" : "de",
+    "@value" : "Rudolstädter naturhistorische Schriften"
+  } ]
+} ]

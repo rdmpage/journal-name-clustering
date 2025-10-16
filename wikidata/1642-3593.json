@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q63882890",
+  "http://example.com/crossref" : [ {
+    "@value" : "88168"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.elsevier.pl/czasopismo/ecohydrology-hydrobiology"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1642-3593"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S49770870"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1642-3593"
+  }, {
+    "@value" : "2080-3397"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ecohydrology & Hydrobiology"
+  } ]
+} ]

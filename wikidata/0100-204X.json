@@ -1,0 +1,38 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15760545",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Pesquisa Agropecuária Brasileira"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "45683"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0100-204X"
+  }, {
+    "@value" : "1678-3921"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.scielo.br/pab"
+  }, {
+    "@id" : "https://seer.sct.embrapa.br/index.php/pab"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0100-204X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S150752939"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0100-204X"
+  }, {
+    "@value" : "1678-3921"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "pt",
+    "@value" : "Pesquisa Agropecuária Brasileira"
+  }, {
+    "@language" : "pt",
+    "@value" : "Pesquisa Agropecuaria Brasileira"
+  } ]
+} ]

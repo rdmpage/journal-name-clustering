@@ -1,0 +1,43 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757517",
+  "http://example.com/bhl" : [ {
+    "@value" : "74814"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "249036"
+  } ],
+  "http://example.com/dialnet" : [ {
+    "@value" : "23639"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "0120-548X"
+  }, {
+    "@value" : "1900-1649"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1982"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://revistas.unal.edu.co/index.php/actabiol"
+  }, {
+    "@id" : "http://www.revistas.unal.edu.co/index.php/actabiol"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0120-548X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210167548"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0120-548X"
+  }, {
+    "@value" : "1900-1649"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "es",
+    "@value" : "Acta Biológica Colombiana"
+  }, {
+    "@language" : "es",
+    "@value" : "Acta Biologica Colombiana"
+  } ]
+} ]

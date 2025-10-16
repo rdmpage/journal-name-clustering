@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q5090000",
+  "http://example.com/abbreviated_title" : [ {
+    "@value" : "Chelonian Conserv. Biol."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "60659"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1993"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://publishing.allenpress.com/dir_Journals/Chelonian2.asp"
+  }, {
+    "@id" : "http://www.bioone.org/bioone/?request=get-archive&issn=1071-8443"
+  }, {
+    "@id" : "http://www.bioone.org/perlserv/?request=get-archive&issn=1071-8443"
+  }, {
+    "@id" : "http://www.chelonian.org/ccb/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1071-8443"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S125941916"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1071-8443"
+  }, {
+    "@value" : "1943-3956"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Chelonian Conservation and Biology"
+  } ]
+} ]

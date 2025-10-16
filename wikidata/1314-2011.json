@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q14537320",
+  "http://example.com/crossref" : [ {
+    "@value" : "113305"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "1314-2011"
+  }, {
+    "@value" : "1314-2003"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://phytokeys.pensoft.net/"
+  }, {
+    "@id" : "https://phytokeys.pensoft.net/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1314-2003"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S138605562"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1314-2003"
+  }, {
+    "@value" : "1314-2011"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "PhytoKeys"
+  } ]
+} ]

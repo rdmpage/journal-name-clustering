@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385083",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Australas. Lichenol."
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1328-4401"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306503790"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1328-4401"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Australasian Lichenology"
+  } ]
+} ]

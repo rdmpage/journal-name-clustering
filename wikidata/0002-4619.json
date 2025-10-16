@@ -1,0 +1,20 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15752262",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://gallica.bnf.fr/ark:/12148/cb34348137t/date"
+  }, {
+    "@id" : "http://www.mnhn.fr/assoc/seof/revue.htm"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0002-4619"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0002-4619"
+  }, {
+    "@value" : "2540-2579"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Alauda"
+  } ]
+} ]

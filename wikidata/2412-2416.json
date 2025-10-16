@@ -1,0 +1,23 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96711668",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "ISSN 2412-2416"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "314860"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2412-2416"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210234564"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2412-2416"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Journal of biodiversity conservation and bioresource management"
+  } ]
+} ]

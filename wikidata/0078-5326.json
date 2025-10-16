@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385086",
+  "http://example.com/crossref" : [ {
+    "@value" : "171647"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0078-5326"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S21430304"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0078-5326"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Ophelia"
+  } ]
+} ]

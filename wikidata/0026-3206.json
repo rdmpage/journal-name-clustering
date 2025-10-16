@@ -1,0 +1,31 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15766939",
+  "http://example.com/crossref" : [ {
+    "@value" : "27749"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://juno.ingentaselect.com/vl=3399561/cl=19/nw=1/rpsv/cw/fcp/00263206/contp1.htm"
+  }, {
+    "@id" : "http://www.tandfonline.com/action/journalInformation?journalCode=fmes20"
+  }, {
+    "@id" : "http://www.tandfonline.com/loi/fmes20#.VyHdc1L2aic"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0026-3206"
+  } ],
+  "http://example.com/jstor" : [ {
+    "@value" : "middeaststudies"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S164505828"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0026-3206"
+  }, {
+    "@value" : "1743-7881"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Middle Eastern Studies"
+  } ]
+} ]

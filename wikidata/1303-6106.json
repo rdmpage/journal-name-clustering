@@ -1,0 +1,34 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386279",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Turkish J. Bot."
+  }, {
+    "@language" : "en",
+    "@value" : "Turkish J. Bot."
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "216317"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.tubitak.gov.tr/journals/botany/"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1300-008X"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S143662950"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1303-6106"
+  }, {
+    "@value" : "1300-008X"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Turkish Journal of Botany"
+  }, {
+    "@language" : "mul",
+    "@value" : "Turkish journal of botany"
+  } ]
+} ]

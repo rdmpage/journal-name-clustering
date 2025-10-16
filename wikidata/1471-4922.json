@@ -1,0 +1,36 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15265846",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Parasitology Today"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "1955"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "2001"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.journals.elsevier.com/trends-in-parasitology"
+  }, {
+    "@id" : "http://www.sciencedirect.com/science/journal/14714922"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1471-4922"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S182404557"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1471-4922"
+  }, {
+    "@value" : "1471-5007"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Trends in Parasitology"
+  }, {
+    "@language" : "en",
+    "@value" : "Trends in parasitology"
+  } ]
+} ]

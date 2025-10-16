@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15751559",
+  "http://example.com/crossref" : [ {
+    "@value" : "3529"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.blackwellpublishing.com/journal.asp?ref=0031-9317&site=1"
+  }, {
+    "@id" : "https://onlinelibrary.wiley.com/journal/13653024"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0141-9838"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S80886111"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1365-3024"
+  }, {
+    "@value" : "0141-9838"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Parasite Immunology"
+  }, {
+    "@language" : "en",
+    "@value" : "Parasite immunology"
+  } ]
+} ]

@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385834",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "ja",
+    "@value" : "四国昆虫学会会報"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1950"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0037-3680"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306533180"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1994"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0037-3680"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Transactions of the Shikoku Entomological Society"
+  } ]
+} ]

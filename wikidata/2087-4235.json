@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q50810572",
+  "http://example.com/crossref" : [ {
+    "@value" : "311768"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2087-4235"
+  }, {
+    "@value" : "2541-1659"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://journal.ipb.ac.id/index.php/jpsp/index"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "2087-4235"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764779562"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "2087-4235"
+  }, {
+    "@value" : "2541-1659"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "id",
+    "@value" : "Marine Fisheries"
+  } ]
+} ]

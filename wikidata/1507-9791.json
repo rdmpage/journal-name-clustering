@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q96329012",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://www.pgi.gov.pl/oferta-inst/wydawnictwa/serie-wydawnicze/pgi-special-papers.html"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1507-9791"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4306522725"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1507-9791"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Polish Geological Institute Special Papers"
+  } ]
+} ]

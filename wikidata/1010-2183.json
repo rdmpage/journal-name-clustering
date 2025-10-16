@@ -1,0 +1,29 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51417334",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Recl. zool. suisse"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "14372"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1883"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1010-2183"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1892"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1010-2183"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Recueil zoologique suisse"
+  }, {
+    "@language" : "fr",
+    "@value" : "Recueil zoologique suisse"
+  } ]
+} ]

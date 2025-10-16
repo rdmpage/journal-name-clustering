@@ -1,0 +1,13 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q106117339",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0097-3262"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0097-3262"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Bulletin - Geological Survey of Alabama"
+  } ]
+} ]

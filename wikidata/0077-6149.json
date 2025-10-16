@@ -1,0 +1,26 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q51437111",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Abhandlungen der Naturhistorischen Gesellschaft Nürnberg e. V"
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "4218"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1852"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0077-6149"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0077-6149"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Abhandlungen der Naturhistorischen Gesellschaft Nürnberg e. V"
+  }, {
+    "@language" : "de",
+    "@value" : "Abhandlungen der Naturhistorischen Gesellschaft zu Nürnberg."
+  } ]
+} ]

@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749999",
+  "http://example.com/from_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0158-0760"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "676571F7-6EF8-4A69-9E04-AA7E7F9A3148"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0158-0760"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "General and Applied Entomology"
+  } ]
+} ]

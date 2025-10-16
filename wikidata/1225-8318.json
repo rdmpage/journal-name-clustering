@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27714217",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Korean J. Pl. Taxon."
+  }, {
+    "@language" : "de",
+    "@value" : "Korean J. Pl. Taxon."
+  }, {
+    "@language" : "en",
+    "@value" : "Sigmul Bunryu Hag-hoeji"
+  }, {
+    "@language" : "en",
+    "@value" : "Singmulbullyuhakoeji"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "204190"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://e-kjpt.org"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1225-8318"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210202049"
+  }, {
+    "@value" : "S4306495623"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1225-8318"
+  }, {
+    "@value" : "2466-1546"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "und",
+    "@value" : "Sigmul Bunryu Hag-hoeji"
+  }, {
+    "@language" : "ko",
+    "@value" : "식물분류학회지"
+  }, {
+    "@language" : "ko",
+    "@value" : "Sigmul bunryu hag-hoeji"
+  }, {
+    "@language" : "en",
+    "@value" : "Korean Journal of Plant Taxonomy"
+  } ]
+} ]

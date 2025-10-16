@@ -1,0 +1,48 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21385442",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Gyoruigaku Zasshi"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "75789"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1950"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://www.jstage.jst.go.jp/browse/jji/list/-char/ja"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0021-5090"
+  } ],
+  "http://example.com/jstage" : [ {
+    "@value" : "jji"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S145334785"
+  }, {
+    "@value" : "S4306560441"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "82B8206D-A2A9-4E82-A162-242A90D39894"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1884-7374"
+  }, {
+    "@value" : "0021-5090"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Japanese journal of ichthyology"
+  }, {
+    "@language" : "mul",
+    "@value" : "Gyoruigaku Zasshi"
+  }, {
+    "@language" : "ja",
+    "@value" : "魚類学雑誌"
+  }, {
+    "@language" : "ja",
+    "@value" : "Gyoruigaku zasshi"
+  } ]
+} ]

@@ -1,0 +1,27 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q28469655",
+  "http://example.com/crossref" : [ {
+    "@value" : "376103"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://publikace.nm.cz/periodicke-publikace/lnsr"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0024-7774"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S4210239833"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0024-7774"
+  }, {
+    "@value" : "1804-6460"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Lynx"
+  }, {
+    "@language" : "cs",
+    "@value" : "Lynx"
+  } ]
+} ]

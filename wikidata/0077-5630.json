@@ -1,0 +1,41 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15749909",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "en",
+    "@value" : "Atoll res. bull."
+  } ],
+  "http://example.com/bhl" : [ {
+    "@value" : "50708"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "143485"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1951"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://rzblx1.uni-regensburg.de/ezeit/warpto.phtml?colors=7&jour_id=101767"
+  }, {
+    "@id" : "https://purl.fdlp.gov/GPO/LPS87417"
+  }, {
+    "@id" : "https://smithsonian.figshare.com/arb"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0077-5630"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764684019"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "5809E4D5-C1A6-4E12-ACF4-A8F3BFDAFE32"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0077-5630"
+  }, {
+    "@value" : "1943-9660"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Atoll Research Bulletin"
+  } ]
+} ]

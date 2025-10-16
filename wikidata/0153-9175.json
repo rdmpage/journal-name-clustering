@@ -1,0 +1,24 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q111142762",
+  "http://example.com/homepage_url" : [ {
+    "@id" : "https://catalog.hathitrust.org/Record/000639879"
+  }, {
+    "@id" : "https://catalog.hathitrust.org/Record/010304206"
+  }, {
+    "@id" : "https://catalog.hathitrust.org/Record/012517130"
+  }, {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/cb327238873/date"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0153-9175"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0153-9175"
+  }, {
+    "@value" : "2390-3732"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "fr",
+    "@value" : "Bulletin de la Société d'études scientifiques de l'Aude"
+  } ]
+} ]

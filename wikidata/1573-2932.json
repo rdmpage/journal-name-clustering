@@ -1,0 +1,37 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757013",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "de",
+    "@value" : "Water Air Soil Pollut."
+  }, {
+    "@language" : "en",
+    "@value" : "Water, Air, & Soil Pollution"
+  }, {
+    "@language" : "fr",
+    "@value" : "Pollution de l’eau, de l’air et du sol"
+  } ],
+  "http://example.com/crossref" : [ {
+    "@value" : "2995"
+  }, {
+    "@value" : "2883"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S156652029"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0049-6979"
+  }, {
+    "@value" : "1567-7230"
+  }, {
+    "@value" : "1573-2932"
+  }, {
+    "@value" : "1573-2940"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Water, Air and Soil Pollution: an international journal of environmental pollution"
+  }, {
+    "@language" : "en",
+    "@value" : "Water, Air, & Soil Pollution"
+  } ]
+} ]

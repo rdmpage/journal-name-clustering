@@ -1,0 +1,40 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15817670",
+  "http://example.com/crossref" : [ {
+    "@value" : "140366"
+  } ],
+  "http://example.com/doaj" : [ {
+    "@value" : "2159-6719"
+  }, {
+    "@value" : "1388-7890"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1998"
+  } ],
+  "http://example.com/homepage_url" : [ {
+    "@id" : "http://catalog.hathitrust.org/api/volumes/oclc/40513839.html"
+  }, {
+    "@id" : "http://ecoevo.uvigo.es/WDA/wda_003.htm"
+  }, {
+    "@id" : "http://www.tandf.co.uk/journals/TIJO"
+  }, {
+    "@id" : "https://worlddragonfly.org/ijo/"
+  }, {
+    "@id" : "https://www.tandfonline.com/toc/tijo20/current"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "1388-7890"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S200658512"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1388-7890"
+  }, {
+    "@value" : "2159-6719"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "International Journal of Odonatology"
+  } ]
+} ]

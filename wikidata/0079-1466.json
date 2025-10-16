@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15757125",
+  "http://example.com/crossref" : [ {
+    "@value" : "76424"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0079-1466"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S164099184"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0079-1466"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Philippine Scientist"
+  } ]
+} ]

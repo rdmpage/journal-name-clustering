@@ -1,0 +1,32 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q21386243",
+  "http://example.com/alternate_titles" : [ {
+    "@language" : "fr",
+    "@value" : "Studia Ent."
+  }, {
+    "@language" : "en",
+    "@value" : "Studia entomológica"
+  }, {
+    "@language" : "en",
+    "@value" : "Studia Entomologica: Revista internacional de entomologia"
+  } ],
+  "http://example.com/from_year" : [ {
+    "@value" : "1952"
+  } ],
+  "http://example.com/issn_l" : [ {
+    "@value" : "0585-5098"
+  } ],
+  "http://example.com/to_year" : [ {
+    "@value" : "1978"
+  } ],
+  "http://example.com/zoobank" : [ {
+    "@value" : "19BA8EA9-EACE-45E2-82B9-4F6FDF83565A"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0585-5098"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "mul",
+    "@value" : "Studia Entomológica"
+  } ]
+} ]

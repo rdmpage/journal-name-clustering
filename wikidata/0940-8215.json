@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q27723903",
+  "http://example.com/issn_l" : [ {
+    "@value" : "0940-8215"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "0940-8215"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "de",
+    "@value" : "Artenschutzreport"
+  }, {
+    "@language" : "en",
+    "@value" : "Artenschutzreport"
+  } ]
+} ]

@@ -1,0 +1,16 @@
+[ {
+  "@id" : "http://www.wikidata.org/entity/Q15754513",
+  "http://example.com/issn_l" : [ {
+    "@value" : "1343-0874"
+  } ],
+  "http://example.com/openalex" : [ {
+    "@value" : "S2764796284"
+  } ],
+  "http://schema.org/issn" : [ {
+    "@value" : "1343-0874"
+  } ],
+  "http://schema.org/name" : [ {
+    "@language" : "en",
+    "@value" : "Plankton Biology and Ecology"
+  } ]
+} ]
